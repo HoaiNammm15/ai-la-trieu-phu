@@ -26,7 +26,7 @@ export default async function handler(req, res) {
       const answer = answerValue === null || answerValue.trim() === '' ? NaN : Number(answerValue);
       if (!contact || !Number.isInteger(answer) || answer < 0 || answer > 3) return res.status(400).json({ error: 'Liên hệ hoặc phương án tư vấn không hợp lệ.' });
       text = createPhoneAdvice(contact.id, q, answer, url.searchParams.get('confident') === '1').speech;
-      voice = { languageCode: contact.voiceName.split('-').slice(0, 2).join('-'), name: contact.voiceName, ssmlGender: contact.id === 'eimi' ? 'FEMALE' : 'MALE' };
+      voice = { languageCode: contact.voiceName.split('-').slice(0, 2).join('-'), name: contact.voiceName, ssmlGender: contact.gender === 'female' ? 'FEMALE' : 'MALE' };
     }
     if (Buffer.byteLength(text, 'utf8') > 4500) return res.status(422).json({ error: 'Câu hỏi quá dài để đọc.' });
     const hash = createHash('sha256').update(`${voice.name}\n${text}`).digest('hex');

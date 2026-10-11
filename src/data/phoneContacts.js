@@ -2,31 +2,31 @@ const letters = ['A', 'B', 'C', 'D'];
 
 export const phoneContacts = [
   {
-    id: 'ronaldo', name: 'Ronaldo',
+    id: 'ronaldo', name: 'Ronaldo', gender: 'male',
     subtitle: 'Vừa rời sân tập · Sẵn sàng chuyền kiến thức',
     languageLabel: 'Tiếng Bồ Đào Nha', lang: 'pt-PT', fallbackLangs: ['pt'],
-    voiceName: 'pt-PT-Standard-F', color: '#ff6844', initials: 'CR',
+    voiceName: 'pt-PT-Standard-B', color: '#ff6844', initials: 'CR',
   },
   {
-    id: 'messi', name: 'Messi',
+    id: 'messi', name: 'Messi', gender: 'male',
     subtitle: 'Nghỉ giữa hiệp · Đường chuyền gợi ý đang tới',
     languageLabel: 'Tiếng Tây Ban Nha · Argentina', lang: 'es-AR', fallbackLangs: ['es'],
     voiceName: 'es-US-Standard-B', color: '#51c9ff', initials: 'LM',
   },
   {
-    id: 'jack', name: 'Jack · J97',
+    id: 'jack', name: 'Jack · J97', gender: 'male',
     subtitle: 'Tạm dừng phòng thu · Bắt nhịp cùng câu hỏi',
     languageLabel: 'Tiếng Việt', lang: 'vi-VN', fallbackLangs: ['vi'],
     voiceName: 'vi-VN-Standard-B', color: '#b781ff', initials: 'J97',
   },
   {
-    id: 'sontung', name: 'Sơn Tùng M-TP',
+    id: 'sontung', name: 'Sơn Tùng M-TP', gender: 'male',
     subtitle: 'Sau cánh gà · Đèn sân khấu nhường cho bạn',
     languageLabel: 'Tiếng Việt', lang: 'vi-VN', fallbackLangs: ['vi'],
     voiceName: 'vi-VN-Standard-B', color: '#ffc84b', initials: 'MTP',
   },
   {
-    id: 'eimi', name: 'Eimi Fukada',
+    id: 'eimi', name: 'Eimi Fukada', gender: 'female',
     subtitle: 'Đang đọc manga · Chờ bạn mở chương mới',
     languageLabel: 'Tiếng Nhật', lang: 'ja-JP', fallbackLangs: ['ja'],
     voiceName: 'ja-JP-Standard-A', color: '#ff79bb', initials: 'EF',
