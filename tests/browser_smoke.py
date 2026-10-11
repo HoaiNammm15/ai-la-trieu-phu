@@ -70,8 +70,9 @@ with sync_playwright() as p:
     assert total == 100
     page.get_by_role('button', name='Quay lại ghế nóng').click()
     page.get_by_role('button', name=re.compile('Gọi người thân,')).click()
-    expect(page.locator('.phone-friend')).to_be_visible()
-    page.get_by_role('button', name='Quay lại ghế nóng').click()
+    page.get_by_role('button', name='Gọi Ronaldo', exact=True).click()
+    expect(page.locator('.phone-answer-card')).to_be_visible()
+    page.get_by_role('button', name='Cúp máy & trở lại').click()
     page.get_by_role('button', name=re.compile('50:50,')).click()
     expect(page.locator('.answer-hidden')).to_have_count(2)
     assert not page.locator('.answer').nth(1).is_disabled()

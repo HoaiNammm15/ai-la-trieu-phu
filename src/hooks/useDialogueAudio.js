@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { selectMaleVietnameseVoice } from './speechVoice.js';
+import { selectMaleVietnameseVoice, selectPhoneVoice } from './speechVoice.js';
+import { getPhoneContact } from '../data/phoneContacts.js';
 
 export function useDialogueAudio(enabled, remoteEnabled = false) {
   const contextRef = useRef(null);
@@ -32,6 +33,8 @@ export function useDialogueAudio(enabled, remoteEnabled = false) {
   const speak = useCallback(async (text, options = {}) => {
     stopSpeaking();
     if (!enabled) return false;
+    const contact = options.kind === 'phone' ? getPhoneContact(options.contactId) : null;
+    if (options.kind === 'phone' && !contact) return false;
     const sequence = sequenceRef.current;
     const current = () => sequenceRef.current === sequence;
     setVoiceNotice('');
@@ -40,6 +43,12 @@ export function useDialogueAudio(enabled, remoteEnabled = false) {
       requestRef.current = controller;
       try {
         const params = new URLSearchParams({ questionId: String(options.questionId), version: options.version || '', position: String(options.position ?? ''), repeat: options.repeat ? '1' : '0' });
+        if (contact) {
+          params.set('kind', 'phone');
+          params.set('contactId', contact.id);
+          params.set('answer', String(options.answer));
+          params.set('confident', options.confident ? '1' : '0');
+        }
         const response = await fetch(`/api/speech?${params}`, { signal: controller.signal });
         if (!response.ok || !response.headers.get('content-type')?.includes('audio/')) throw new Error('No audio');
         const blob = await response.blob();
@@ -49,7 +58,7 @@ export function useDialogueAudio(enabled, remoteEnabled = false) {
         audioRef.current = { audio, url };
         audio.onplaying = () => { if (current()) setSpeaking(true); };
         audio.onended = () => { if (current()) stopSpeaking(); };
-        audio.onerror = () => { if (current()) { stopSpeaking(); setVoiceNotice('Chưa phát được giọng MC. Bấm đọc lại để thử lần nữa.'); } };
+        audio.onerror = () => { if (current()) { stopSpeaking(); setVoiceNotice(contact ? 'Chưa phát được giọng tư vấn. Bạn vẫn có thể đọc phụ đề.' : 'Chưa phát được giọng MC. Bấm đọc lại để thử lần nữa.'); } };
         await audio.play();
         return true;
       } catch {
@@ -64,23 +73,24 @@ export function useDialogueAudio(enabled, remoteEnabled = false) {
       }
     }
     const synthesis = window.speechSynthesis;
-    let voice = selectMaleVietnameseVoice(synthesis?.getVoices() || []);
+    const selectVoice = voices => contact ? selectPhoneVoice(voices, contact) : selectMaleVietnameseVoice(voices);
+    let voice = selectVoice(synthesis?.getVoices() || []);
     if (!voice && synthesis) {
       await new Promise(resolve => {
         const done = () => { clearTimeout(timeout); synthesis.removeEventListener('voiceschanged', done); resolve(); };
         const timeout = setTimeout(done, 700);
         synthesis.addEventListener('voiceschanged', done);
       });
-      voice = selectMaleVietnameseVoice(synthesis.getVoices());
+      voice = selectVoice(synthesis.getVoices());
     }
     if (!current()) return false;
     if (!voice) {
-      setVoiceNotice('Chưa có giọng nam tiếng Việt khả dụng. Bạn vẫn có thể chơi bằng phụ đề.');
+      setVoiceNotice(contact ? `Chưa có giọng ${contact.languageLabel.toLowerCase()} khả dụng. Tư vấn và đáp án vẫn hiện trong phụ đề.` : 'Chưa có giọng nam tiếng Việt khả dụng. Bạn vẫn có thể chơi bằng phụ đề.');
       return false;
     }
     const speech = new SpeechSynthesisUtterance(text);
     speech.voice = voice;
-    speech.lang = 'vi-VN';
+    speech.lang = voice.lang || contact?.lang || 'vi-VN';
     speech.rate = 0.95;
     speech.onstart = () => { if (current()) setSpeaking(true); };
     speech.onend = () => { if (current()) setSpeaking(false); };
