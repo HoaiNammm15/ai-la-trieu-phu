@@ -1,0 +1,289 @@
+/* The studio occupies the viewport; its controls share the same scene. */
+.app-shell--studio {
+  --studio-header: 64px;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
+.app-shell--studio .site-header {
+  height: var(--studio-header);
+  flex: 0 0 var(--studio-header);
+  padding: 0 28px;
+  position: relative;
+  z-index: 4;
+  border-color: #a6baff1a;
+  background: #070e25b8;
+}
+.app-shell--studio .brand-icon { height: 36px; width: 36px; outline: none; }
+.app-shell--studio .header-actions { gap: 7px; }
+.app-shell--studio .header-tag { margin-left: 10px; }
+.app-shell--studio .question-indicator { padding: 7px 15px; }
+.studio-game { flex: 1; min-height: 0; padding: 14px 24px 16px; }
+.studio-game .game-layout { height: 100%; grid-template-columns: minmax(0, 1fr) 232px; gap: 20px; }
+.studio-game .game-main { min-height: 0; display: grid; grid-template-rows: 44px minmax(0, 1fr) auto; gap: 8px; }
+.studio-toolbar { display: flex; align-items: center; gap: 16px; position: relative; z-index: 3; }
+.studio-player-name { display: flex; align-items: center; gap: 9px; font-weight: 500; min-width: 0; margin-right: auto; }
+.studio-player-name > span:last-child { font-size: 7px; letter-spacing: 1.4px; color: #afc1e5; min-width: 0; }
+.studio-player-name strong { display: block; color: var(--gold); font-size: 13px; letter-spacing: 0; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 240px; }
+.studio-game .lifelines { margin: 0; padding: 0; gap: 0; flex: 0 0 auto; }
+.studio-game .lifelines-label { display: none; }
+.studio-game .lifeline-buttons { display: flex; gap: 7px; }
+.studio-game .lifeline-buttons > button { flex-direction: row; min-height: 40px; padding: 6px 10px; gap: 8px; background: #101e3acc; border-color: #4a649266; border-radius: 30px; }
+.studio-game .lifeline-icon { width: 27px; height: 27px; border-radius: 50%; background: #284372; border-color: #5475a2; }
+.studio-game .lifeline-icon svg { width: 16px; height: 16px; }
+.studio-game .lifeline-buttons > button > span:last-child { font-size: 10px; }
+.studio-game .lifeline-buttons small { display: none; }
+.studio-stage-space { position: relative; min-height: 0; min-width: 0; }
+.studio-game .game-main svg[role='img'] { max-height: none; }
+.studio-game .stage-controls { position: absolute; inset: 0 0 auto; z-index: 2; padding: 0; height: 26px; font-size: 8px; }
+.studio-game .stage-controls > span { color: #c2cfea; }
+.studio-game .stage-controls > div { background: #0a153482; padding: 2px 4px; border: 1px solid #7193ca26; border-radius: 7px; }
+.studio-game .stage-controls button { font-size: 9px; min-height: 24px; }
+.studio-game .stage-controls button.active { background: #3b5880; }
+.studio-question-dock { position: relative; z-index: 3; width: 100%; max-width: 1280px; margin: 0 auto; }
+.studio-game .dialogue-box { margin: 0 0 8px; padding: 10px 14px; gap: 11px; background: #0d1b39db; border-color: #5376b14d; border-radius: 11px; }
+.studio-game .dialogue-avatar { width: 30px; height: 30px; border-radius: 10px; }
+.studio-game .dialogue-avatar svg { width: 18px; }
+.studio-game .dialogue-copy > span { font-size: 7px; margin-bottom: 3px; }
+.studio-game .dialogue-copy p { font-size: 11px; line-height: 1.65; }
+.studio-game .question-panel { padding: 15px 20px; border-color: #769acf78; background: linear-gradient(110deg, #142c50ef, #0e1a36f5); box-shadow: 0 8px 36px #0003; }
+.studio-game .question-meta { font-size: 10px; }
+.studio-game .question-value { font-size: 12px; }
+.studio-game .question-panel h2 { font-size: clamp(16px, 1.35vw, 21px); line-height: 1.5; margin: 9px 0 12px; }
+.studio-game .answers { gap: 8px 12px; }
+.studio-game .answer { min-height: 44px; padding: 8px 14px; font-size: 13px; }
+.studio-game .answer-letter { font-size: 13px; }
+.studio-game .question-actions { margin-top: 12px; }
+.studio-game .question-actions > span { font-size: 9px; }
+.studio-game .question-actions .button { min-height: 38px; padding: 8px 17px; font-size: 11px; }
+.studio-game .answer-explanation { font-size: 11px; line-height: 1.65; margin-top: 10px; }
+.studio-game .desktop-ladder { padding: 0; min-height: 0; position: relative; z-index: 3; }
+.studio-game .money-ladder { height: 100%; display: flex; flex-direction: column; background: #0d1731cc; border-color: #5a75a05c; }
+.studio-game .ladder-heading { padding: 13px 14px; flex-shrink: 0; }
+.studio-game .ladder-grand { padding: 15px 0 12px; flex-shrink: 0; }
+.studio-game .ladder-grand strong { font-size: 38px; margin-top: 4px; }
+.studio-game .ladder-grand p { margin-top: 4px; }
+.studio-game .ladder-list { flex: 1; min-height: 0; padding: 0 10px 8px; gap: 3px; }
+.studio-game .ladder-list li { flex: 1; padding: 3px 10px; min-height: 21px; font-size: 12px; }
+.studio-game .ladder-safe { flex-shrink: 0; padding: 11px 3px; }
+.studio-game .ladder-safe strong { font-size: 14px; margin-top: 3px; }
+.studio-game .ladder-note { flex-shrink: 0; padding: 8px 12px; }
+.studio-game .mobile-ladder-button { padding: 9px 12px; background: #121e36dd; min-height: 40px; }
+
+/* The opening screen uses the same uninterrupted stage. */
+.studio-home { flex: 1; min-height: 0; width: 100%; max-width: none; display: grid; grid-template-rows: auto minmax(0, 1fr) auto auto auto; padding: 12px 32px 0; }
+.studio-home .home-intro { padding: 8px 0 0; position: relative; z-index: 2; }
+.studio-home .home-intro h1 { font-size: clamp(28px, 3.4vw, 46px); line-height: 1.22; margin-top: 10px; }
+.studio-home .home-intro p { font-size: 12px; line-height: 1.7; margin-top: 9px; }
+.studio-home .home-intro .desktop-break { display: none; }
+.studio-home .home-stage-wrap { width: min(100%, 1420px); min-height: 0; position: relative; margin: 6px auto; }
+.studio-home .home-stage-wrap::before { display: none; }
+.studio-home .stage-sticker { right: max(0px, calc((100% - 1100px) / 2)); top: 10px; padding: 10px 12px; border-color: #111c3d; }
+.studio-home .stage-caption { display: none; }
+.studio-home .home-cta { margin: 4px 0 16px; position: relative; z-index: 2; gap: 15px; }
+.studio-home .button-start { min-height: 49px; padding: 12px 21px; }
+.studio-home .resume-link { margin-top: 0; }
+.studio-home .home-features { max-width: 1000px; width: 100%; margin: 0 auto; padding: 15px 0; background: #080f262e; position: relative; z-index: 2; }
+.studio-home .feature-icon { width: 31px; height: 31px; border-radius: 9px; }
+.studio-home .feature-icon svg { width: 16px; }
+.studio-home .site-footer { max-width: 1000px; width: 100%; margin: 0 auto; padding: 12px 0; font-size: 7px; position: relative; z-index: 2; }
+
+.studio-setup { flex: 1; min-height: 0; max-width: none; width: 100%; margin: 0; padding: 24px 40px; grid-template-columns: 360px minmax(0, 1fr); gap: 36px; }
+.studio-setup .setup-copy { width: 100%; max-width: 360px; margin: 0; position: relative; z-index: 2; }
+.studio-setup .setup-copy .eyebrow { margin-top: 24px; }
+.studio-setup .setup-copy h1 { font-size: 36px; line-height: 1.25; margin: 13px 0; }
+.studio-setup .setup-copy form { margin-top: 24px; }
+.studio-setup .setup-stage { height: 100%; min-height: 0; margin: 0; display: flex; flex-direction: column; }
+.studio-setup-art { position: relative; flex: 1; min-height: 0; }
+.studio-setup .setup-welcome { position: relative; z-index: 2; margin: 12px 20px 0; padding: 13px 18px; border: 1px solid #7295c14d; background: #0e1c39c9; border-radius: 12px; }
+.studio-result { flex: 1; min-height: 0; display: flex; flex-direction: column; padding: 22px 28px; }
+.studio-result > h1 { font-size: 30px; margin: 10px 0; position: relative; z-index: 2; }
+.studio-result > .eyebrow, .studio-result > p { position: relative; z-index: 2; }
+.studio-result .result-layout { flex: 1; min-height: 0; width: 100%; max-width: none; margin: 15px 0 0; grid-template-columns: minmax(0, 1fr) 320px; gap: 24px; }
+.studio-result-art { height: 100%; min-height: 0; position: relative; }
+.studio-result .result-card { width: 100%; padding: 24px; margin: 0; position: relative; z-index: 2; background: #101d38e8; }
+.studio-result .result-trophy { height: 52px; width: 52px; margin-bottom: 17px; }
+.studio-result .result-prize { font-size: 29px; margin: 12px 0 17px; }
+.studio-result .result-stats { padding: 14px 0; margin-bottom: 18px; }
+.studio-result .result-card .button { min-height: 42px; padding: 11px 14px; }
+
+@media (max-height: 780px) {
+  .app-shell--studio { --studio-header: 56px; }
+  .studio-game { padding-top: 8px; padding-bottom: 10px; }
+  .studio-game .game-main { gap: 6px; }
+  .studio-game .ladder-grand { padding: 9px 0; }
+  .studio-game .ladder-grand strong { font-size: 32px; }
+  .studio-game .ladder-heading { padding-top: 11px; padding-bottom: 11px; }
+  .studio-game .question-panel { padding: 12px 17px; }
+  .studio-game .question-panel h2 { margin: 7px 0 10px; font-size: 17px; }
+  .studio-game .answer { min-height: 42px; font-size: 12px; }
+  .studio-game .dialogue-box { padding: 8px 12px; margin-bottom: 6px; }
+  .studio-game .question-actions { margin-top: 9px; }
+  .studio-home .home-intro h1 { font-size: 34px; }
+  .studio-home .home-features { padding-top: 10px; padding-bottom: 10px; }
+  .studio-home .site-footer { padding-top: 8px; padding-bottom: 8px; }
+  .studio-setup { padding: 18px 30px; }
+  .studio-setup .setup-copy > p { display: none; }
+  .studio-setup .setup-copy .eyebrow { margin-top: 15px; font-size: 7px; }
+  .studio-setup .setup-copy h1 { font-size: 30px; margin-top: 10px; }
+  .studio-setup .setup-copy form { margin-top: 17px; }
+  .studio-setup .name-input { padding: 13px; }
+  .studio-setup .button-start { min-height: 47px; }
+  .studio-result .result-trophy { height: 43px; width: 43px; margin-bottom: 12px; }
+  .studio-result .result-card { padding: 20px; }
+}
+@media (max-width: 1000px), (max-height: 600px) {
+  .studio-game .game-layout { grid-template-columns: minmax(0, 1fr); }
+  .studio-game .desktop-ladder { display: none; }
+  .studio-game .mobile-ladder-button { display: flex; }
+  .studio-toolbar { gap: 12px; }
+}
+@media (max-width: 600px) {
+  .app-shell--studio { --studio-header: 54px; }
+  .app-shell--studio .site-header { padding: 0 12px; gap: 9px; }
+  .app-shell--studio .brand-icon { display: none; }
+  .app-shell--studio .header-actions { gap: 2px; }
+  .app-shell--studio .brand > span:last-child { font-size: 9px; }
+  .app-shell--studio .question-indicator { padding: 7px 8px; }
+  .studio-game { padding: 7px 12px 10px; }
+  .studio-game .game-main { grid-template-rows: 40px minmax(0, 1fr) auto; gap: 6px; }
+  .studio-toolbar { gap: 6px; }
+  .studio-player-name { gap: 6px; max-width: 115px; }
+  .studio-player-name strong { font-size: 11px; }
+  .studio-player-name > span:last-child { font-size: 6px; letter-spacing: .8px; }
+  .studio-game .lifeline-buttons { gap: 5px; }
+  .studio-game .lifeline-buttons > button { min-height: 36px; width: 36px; height: 36px; padding: 3px; }
+  .studio-game .lifeline-buttons > button > span:last-child { display: none; }
+  .studio-game .lifeline-icon { width: 28px; height: 28px; }
+  .studio-game .mobile-ladder-button { width: 38px; height: 36px; min-height: 36px; padding: 7px; justify-content: center; }
+  .studio-game .mobile-ladder-button > span, .studio-game .mobile-ladder-button > svg:last-child { display: none; }
+  .studio-game .mobile-ladder-button > svg:first-child { width: 17px; height: 17px; }
+  .studio-game .stage-controls > span { font-size: 6px; letter-spacing: .5px; }
+  .studio-game .stage-controls button { font-size: 8px; padding: 4px 8px; }
+  .studio-game .dialogue-box { padding: 8px 10px; gap: 8px; margin-bottom: 6px; }
+  .studio-game .dialogue-avatar { display: none; }
+  .studio-game .dialogue-copy > span { font-size: 6px; }
+  .studio-game .dialogue-copy p { font-size: 10px; line-height: 1.6; }
+  .studio-game .repeat-button { width: 28px; height: 28px; }
+  .studio-game .question-panel { padding: 12px 13px; border-radius: 13px; }
+  .studio-game .question-meta { font-size: 8px; }
+  .studio-game .question-value { font-size: 11px; }
+  .studio-game .question-panel h2 { font-size: 15px; line-height: 1.5; margin: 9px 0 11px; }
+  .studio-game .answers { grid-template-columns: 1fr; gap: 6px; }
+  .studio-game .answer { min-height: 41px; padding: 7px 11px; font-size: 12px; gap: 11px; }
+  .studio-game .answer-letter { font-size: 12px; padding-right: 11px; }
+  .studio-game .question-actions { margin-top: 9px; gap: 7px; flex-direction: row; }
+  .studio-game .question-actions > span { font-size: 8px; justify-content: flex-start; }
+  .studio-game .question-actions .button { min-height: 39px; font-size: 9px; padding: 8px 11px; }
+  .studio-game .answer-explanation { font-size: 10px; line-height: 1.6; margin-top: 9px; padding-left: 9px; }
+  .studio-home { padding: 10px 15px 0; }
+  .studio-home .home-intro { padding: 9px 0 0; }
+  .studio-home .home-intro h1 { font-size: clamp(24px, 6.5vw, 32px); line-height: 1.3; margin-top: 10px; }
+  .studio-home .home-intro p { font-size: 10px; margin-top: 10px; line-height: 1.7; }
+  .studio-home .home-intro .desktop-break { display: block; }
+  .studio-home .title-spark { height: 18px; width: 18px; }
+  .studio-home .home-stage-wrap { margin: 6px auto; }
+  .studio-home .stage-sticker { top: 10px; right: 0; padding: 7px 8px; }
+  .studio-home .home-cta { flex-direction: row; margin: 8px 0 13px; gap: 6px; }
+  .studio-home .button-start { width: auto; min-width: 196px; min-height: 48px; padding: 12px 17px; font-size: 11px; }
+  .studio-home .home-cta .button-quiet { padding: 10px 9px; font-size: 9px; }
+  .studio-home .home-cta .button-quiet svg { display: none; }
+  .studio-home .home-features { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; padding: 13px 0; }
+  .studio-home .home-features > div { flex-direction: column; gap: 6px; text-align: center; }
+  .studio-home .home-features strong { font-size: 8px; font-weight: 500; }
+  .studio-home .home-features small { display: none; }
+  .studio-home .feature-icon { height: 27px; width: 27px; }
+  .studio-home .site-footer { padding: 10px 0; font-size: 5px; }
+  .studio-setup { padding: 13px 16px; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto minmax(0, 1fr); gap: 12px; align-items: stretch; }
+  .studio-setup .setup-copy { max-width: 390px; margin: 0 auto; }
+  .studio-setup .setup-copy > .eyebrow, .studio-setup .setup-copy > p { display: none; }
+  .studio-setup .setup-copy h1 { font-size: 28px; line-height: 1.3; margin: 12px 0; }
+  .studio-setup .setup-copy form { margin-top: 15px; }
+  .studio-setup .input-label { margin-bottom: 8px; }
+  .studio-setup .name-input { padding: 12px 13px; }
+  .studio-setup .input-hint { margin: 6px 0 16px; }
+  .studio-setup .button-start { min-height: 45px; }
+  .studio-setup .setup-disclaimer { margin-top: 10px; font-size: 8px; }
+  .studio-setup .setup-welcome { display: none; }
+  .studio-result { padding: 15px 16px; }
+  .studio-result > h1 { font-size: 23px; line-height: 1.4; margin: 8px 0; }
+  .studio-result > p { font-size: 10px; }
+  .studio-result .result-layout { grid-template-columns: minmax(0, 1fr); grid-template-rows: minmax(0, 1fr) auto; gap: 10px; margin-top: 10px; }
+  .studio-result .result-trophy { display: none; }
+  .studio-result .result-card { padding: 18px; max-width: 390px; margin: 0 auto; }
+  .studio-result .result-prize { font-size: 29px; margin: 10px 0 15px; }
+  .studio-result .result-stats { padding: 12px 0; margin-bottom: 15px; }
+  .studio-result .result-card .button { font-size: 11px; min-height: 39px; padding: 9px 12px; }
+  .studio-result .result-card > small { margin-top: 1px; }
+}
+/* Short phones trade the answer column for a grid to preserve the stage. */
+@media (max-width: 600px) and (max-height: 740px) {
+  .studio-game .answers { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .studio-game .answer { min-height: 44px; padding: 7px 9px; gap: 7px; font-size: 11px; }
+  .studio-game .answer-letter { padding-right: 7px; }
+  .studio-game .answer > svg { width: 14px; flex-shrink: 0; }
+  .studio-game .question-panel h2 { font-size: 14px; }
+  .studio-game .question-actions > span { max-width: 42%; font-size: 7px; }
+  .studio-home .home-intro h1 { font-size: 25px; }
+  .studio-home .home-intro .eyebrow { display: none; }
+  .studio-home .stage-sticker { display: none; }
+  .studio-home .site-footer { display: none; }
+}
+@media (max-height: 450px) and (min-width: 601px) {
+  .app-shell--studio { --studio-header: 48px; }
+  .studio-game { padding: 6px 12px 8px; }
+  .studio-game .game-main { grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); grid-template-rows: 38px minmax(0, 1fr); gap: 6px 14px; }
+  .studio-toolbar { grid-column: 1 / -1; grid-row: 1; }
+  .studio-stage-space { grid-column: 1; grid-row: 2; }
+  .studio-question-dock { grid-column: 2; grid-row: 2; align-self: end; }
+  .studio-game .stage-controls > span { display: none; }
+  .studio-game .stage-controls { justify-content: flex-end; }
+  .studio-game .dialogue-box { padding: 6px 9px; }
+  .studio-game .dialogue-avatar, .studio-game .dialogue-copy > span { display: none; }
+  .studio-game .dialogue-copy p { font-size: 9px; }
+  .studio-game .question-panel { padding: 9px 12px; }
+  .studio-game .question-meta { font-size: 8px; }
+  .studio-game .question-panel h2 { font-size: 13px; margin: 6px 0 8px; }
+  .studio-game .answer { font-size: 10px; min-height: 36px; padding: 5px 9px; gap: 7px; }
+  .studio-game .answer-letter { font-size: 11px; padding-right: 8px; }
+  .studio-game .question-actions { margin-top: 7px; }
+  .studio-game .question-actions > span { font-size: 7px; }
+  .studio-game .question-actions .button { min-height: 32px; padding: 6px 9px; font-size: 9px; }
+  .studio-game .answer-explanation { font-size: 9px; line-height: 1.5; margin-top: 6px; }
+  .studio-home { grid-template-columns: 1fr 1.2fr; grid-template-rows: 1fr auto; padding: 10px 24px; column-gap: 20px; }
+  .studio-home .home-intro { grid-column: 1; grid-row: 1; align-self: center; }
+  .studio-home .home-intro .eyebrow { display: none; }
+  .studio-home .home-intro h1 { font-size: 25px; }
+  .studio-home .home-intro p { font-size: 10px; }
+  .studio-home .home-stage-wrap { grid-column: 2; grid-row: 1 / -1; margin: 0; }
+  .studio-home .stage-sticker, .studio-home .home-features, .studio-home .site-footer { display: none; }
+  .studio-home .home-cta { grid-column: 1; grid-row: 2; margin: 8px 0 0; gap: 8px; }
+  .studio-home .button-start { min-width: 180px; font-size: 10px; min-height: 40px; padding: 10px 14px; }
+  .studio-home .button-quiet { font-size: 9px; padding: 9px; }
+  .studio-setup { grid-template-columns: 320px minmax(0, 1fr); padding: 10px 24px; gap: 20px; }
+  .studio-setup .setup-copy .eyebrow, .studio-setup .setup-copy > p, .studio-setup .input-hint, .studio-setup .setup-welcome { display: none; }
+  .studio-setup .setup-copy h1 { font-size: 23px; margin: 9px 0; }
+  .studio-setup .setup-copy h1 br { display: none; }
+  .studio-setup .setup-copy h1 span { margin-left: 5px; }
+  .studio-setup .setup-copy form { margin-top: 10px; }
+  .studio-setup .input-label { font-size: 10px; margin-bottom: 7px; }
+  .studio-setup .name-input { padding: 9px 12px; font-size: 12px; }
+  .studio-setup .button-start { min-height: 38px; font-size: 11px; padding: 8px 12px; }
+  .studio-setup .setup-disclaimer { font-size: 8px; margin-top: 9px; }
+  .studio-result { padding: 12px 20px; }
+  .studio-result > .eyebrow, .studio-result > p, .studio-result .result-trophy { display: none; }
+  .studio-result > h1 { font-size: 23px; margin: 0 0 8px; }
+  .studio-result .result-layout { margin-top: 0; grid-template-columns: minmax(0, 1fr) 295px; gap: 20px; }
+  .studio-result .result-card { padding: 14px 18px; }
+  .studio-result .result-prize { font-size: 26px; margin: 8px 0 12px; }
+  .studio-result .result-stats { padding: 10px 0; margin-bottom: 12px; }
+  .studio-result .result-stats > span + span { margin-top: 9px; }
+  .studio-result .result-card .button { font-size: 10px; min-height: 34px; padding: 7px 10px; margin-bottom: 8px; }
+  .studio-result .result-card > small { margin-top: 0; font-size: 7px; }
+}

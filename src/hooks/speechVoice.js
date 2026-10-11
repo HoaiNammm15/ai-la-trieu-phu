@@ -1,0 +1,5 @@
+export function selectMaleVietnameseVoice(voices) {
+  // Web Speech does not expose gender. Only accept known male Vietnamese names.
+  return voices.find(voice => /^vi(?:-|_)/i.test(voice.lang)
+    && /(?:\bnam\s*minh\b|\bnamminh\b|\bmicrosoft an\b|vi-VN-(?:Standard|Wavenet)-(?:B|D)\b|vi-VN-Neural2-D\b)/i.test(voice.name)) || null;
+}

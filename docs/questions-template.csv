@@ -1,0 +1,16 @@
+﻿id,level,question,a,b,c,d,correct,category,explanation,active
+1,1,"Trong truyện cổ tích, cô Tấm đánh rơi vật gì khi đi dự hội?",Chiếc nón,Chiếc hài,Chiếc khăn,Chiếc vòng,B,Cổ tích,Cô Tấm đánh rơi chiếc hài khi đi dự hội. Nhà vua nhờ chiếc hài mà tìm được cô.,TRUE
+2,2,Hành tinh nào được gọi là hành tinh Đỏ?,Sao Kim,Sao Mộc,Sao Hỏa,Sao Thủy,C,Vũ trụ,Sao Hỏa có màu đỏ đặc trưng do oxit sắt trên bề mặt.,TRUE
+3,3,Một tam giác có bao nhiêu cạnh?,Hai,Ba,Bốn,Năm,B,Toán học,Tam giác là hình có ba cạnh và ba đỉnh.,TRUE
+4,4,Loài vật nào xuất hiện trên biểu tượng của Quỹ Quốc tế Bảo vệ Thiên nhiên (WWF)?,Gấu trúc,Hổ,Voi,Cá heo,A,Thiên nhiên,Gấu trúc là biểu tượng nổi tiếng của WWF.,TRUE
+5,5,Thủ đô của Việt Nam là thành phố nào?,Huế,Đà Nẵng,TP. Hồ Chí Minh,Hà Nội,D,Địa lý,Hà Nội là thủ đô của nước Việt Nam.,TRUE
+6,6,Ai là tác giả của tác phẩm “Dế Mèn phiêu lưu ký”?,Nam Cao,Tô Hoài,Ngô Tất Tố,Vũ Trọng Phụng,B,Văn học,Dế Mèn phiêu lưu ký là tác phẩm của nhà văn Tô Hoài.,TRUE
+7,7,Ký hiệu hóa học của vàng là gì?,Ag,Fe,Au,Cu,C,Khoa học,"Vàng có ký hiệu Au, bắt nguồn từ tên Latin “aurum”.",TRUE
+8,8,Đại dương nào có diện tích lớn nhất trên Trái Đất?,Ấn Độ Dương,Bắc Băng Dương,Đại Tây Dương,Thái Bình Dương,D,Địa lý,Thái Bình Dương là đại dương lớn nhất trên Trái Đất.,TRUE
+9,9,"Trong âm nhạc, một quãng tám gồm bao nhiêu bán cung?",8,10,12,14,C,Âm nhạc,"Trong hệ thống bình quân luật 12 âm, một quãng tám có 12 bán cung.",TRUE
+10,10,Chiến thắng Điện Biên Phủ diễn ra vào năm nào?,1945,1954,1968,1975,B,Lịch sử,Chiến thắng Điện Biên Phủ diễn ra ngày 7 tháng 5 năm 1954.,TRUE
+11,11,"Số nào tiếp theo trong dãy Fibonacci: 1, 1, 2, 3, 5, 8, ...?",11,12,13,16,C,Toán học,Mỗi số bằng tổng hai số trước đó: 5 + 8 = 13.,TRUE
+12,12,Bức tranh “Đêm đầy sao” là tác phẩm của họa sĩ nào?,Claude Monet,Vincent van Gogh,Pablo Picasso,Salvador Dalí,B,Nghệ thuật,Vincent van Gogh vẽ Đêm đầy sao vào năm 1889.,TRUE
+13,13,"Trong bảng mã ASCII, chữ A viết hoa có giá trị thập phân là bao nhiêu?",64,65,66,97,B,Công nghệ,Chữ A viết hoa có mã ASCII 65; chữ a viết thường có mã 97.,TRUE
+14,14,Đạo hàm của hàm số f(x) = x³ là gì?,3x,x²,3x²,x³/3,C,Toán học,"Theo quy tắc đạo hàm lũy thừa, đạo hàm của x³ là 3x².",TRUE
+15,15,Số nguyên tố nhỏ nhất lớn hơn 100 là số nào?,101,103,107,109,A,Thử thách cuối,101 là số nguyên tố và là số nguyên tố đầu tiên lớn hơn 100.,TRUE

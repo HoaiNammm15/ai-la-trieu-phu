@@ -1,0 +1,161 @@
+@media (min-width: 1500px) {
+  .game-main svg[role='img'] { max-height: 410px; }
+}
+@media (max-width: 1150px) {
+  .app-shell { width: calc(100% - 48px); }
+  .header-tag { display: none; }
+  .game-layout { grid-template-columns: minmax(0, 1fr) 225px; gap: 18px; }
+  .ladder-heading { padding: 16px 12px; }
+  .ladder-heading > span { font-size: 7px; }
+  .ladder-list li { padding: 8px; gap: 10px; }
+  .question-panel { padding: 21px 19px; }
+  .lifelines { gap: 12px; }
+  .lifelines-label { min-width: 70px; }
+  .lifeline-buttons > button { padding: 10px 8px; gap: 7px; }
+  .lifeline-buttons > button > span:last-child { font-size: 8px; }
+  .lifeline-buttons small { display: none; }
+  .lifeline-icon { width: 28px; height: 30px; }
+  .setup-page { grid-template-columns: 330px minmax(0, 1fr); gap: 30px; }
+  .setup-copy h1 { font-size: 37px; }
+  .stage-sticker { right: -9px; }
+}
+@media (max-width: 900px) {
+  .desktop-ladder { display: none; }
+  .game-layout { grid-template-columns: minmax(0, 1fr); }
+  .game-prize-note { display: none; }
+  .mobile-ladder-button { display: flex; align-items: center; gap: 7px; flex-shrink: 0; background: #202a40; border: 1px solid #6d5b3c; color: var(--gold); padding: 12px; border-radius: 9px; font-size: 10px; font-weight: 600; }
+  .home-intro h1 { font-size: 41px; }
+  .home-features { gap: 10px; }
+  .home-features > div { gap: 10px; }
+  .home-features strong { font-size: 10px; }
+  .home-features small { font-size: 8px; }
+  .setup-page { grid-template-columns: 1fr; max-width: 640px; margin: auto; gap: 15px; padding-top: 35px; }
+  .setup-copy { width: min(100%, 400px); margin: auto; }
+  .setup-copy .eyebrow { margin-top: 28px; }
+  .setup-stage { margin-top: 22px; }
+  .result-layout { grid-template-columns: 1fr; max-width: 760px; margin-left: auto; margin-right: auto; }
+  .result-card { width: min(100%, 390px); margin: 0 auto; }
+  .game-main svg[role='img'] { max-height: 380px; }
+}
+@media (max-width: 600px) {
+  .app-shell { width: calc(100% - 32px); }
+  .site-header { height: 77px; gap: 8px; }
+  .brand { gap: 8px; }
+  .brand-icon { height: 32px; width: 32px; outline: none; }
+  .brand-icon svg { width: 18px; }
+  .brand > span:last-child { font-size: 9px; letter-spacing: .4px; }
+  .brand small { font-size: 5px; letter-spacing: 1.2px; margin-top: 3px; }
+  .header-nav { gap: 0; margin: 0 0 0 auto; }
+  .header-nav > .nav-active { display: none; }
+  .header-nav > button { font-size: 0; padding: 12px 4px; }
+  .header-nav > button svg { width: 18px; height: 18px; }
+  .header-actions { gap: 2px; }
+  .header-actions .icon-button { width: 32px; height: 36px; }
+  .header-actions .icon-button svg { width: 18px; }
+  .stop-header { margin-left: 3px; width: 32px; height: 34px; padding: 7px; justify-content: center; }
+  .stop-header > span { display: none; }
+  .question-indicator { padding: 7px 8px; font-size: 8px; gap: 4px; }
+  .question-indicator > i { display: none; }
+  .question-indicator b { font-size: 11px; }
+  .home-intro { padding: 34px 0 32px; }
+  .eyebrow { font-size: 7px; letter-spacing: 1.2px; }
+  .home-intro h1 { font-size: clamp(26px, 6.6vw, 37px); letter-spacing: -1px; line-height: 1.5; margin-top: 15px; }
+  .title-spark { width: 20px; height: 20px; margin: -7px 0 0 7px; }
+  .home-intro > p { font-size: 11px; line-height: 1.9; margin-top: 12px; }
+  .stage-sticker { padding: 8px 9px; gap: 7px; right: -5px; top: -15px; border-width: 2px; }
+  .stage-sticker > svg { width: 14px; }
+  .stage-sticker > span:nth-child(2) { font-size: 5px; }
+  .stage-sticker strong { font-size: 7px; margin-top: 3px; }
+  .sticker-star { display: none; }
+  .stage-caption { font-size: 8px; margin: 11px 6% 0 0; }
+  .home-cta { flex-direction: column; gap: 8px; margin-top: 24px; margin-bottom: 23px; }
+  .home-cta .button-start { width: min(100%, 300px); }
+  .home-cta .button-quiet { padding: 10px 15px; font-size: 10px; min-height: 39px; }
+  .home-features { display: flex; flex-direction: column; gap: 19px; padding: 25px 23px; }
+  .home-features > div { justify-content: flex-start; gap: 14px; }
+  .home-features > div + div { border: none; }
+  .home-features strong { font-size: 11px; }
+  .home-features small { font-size: 9px; }
+  .feature-icon { width: 37px; height: 37px; border-radius: 10px; }
+  .site-footer { justify-content: center; padding: 22px 0; font-size: 6px; }
+  .site-footer > span:last-child { display: none; }
+  .setup-page { min-height: 0; padding: 27px 0 40px; }
+  .setup-copy h1 { font-size: 35px; }
+  .setup-copy form { margin-top: 27px; }
+  .setup-copy .eyebrow { font-size: 7px; letter-spacing: 1.1px; }
+  .setup-welcome { margin: 17px 3px; gap: 10px; }
+  .setup-welcome p { font-size: 10px; }
+  .game-page { padding-top: 22px; }
+  .game-page-title { align-items: center; gap: 10px; margin-bottom: 22px; }
+  .game-page-title .eyebrow { font-size: 6px; letter-spacing: .5px; }
+  .game-page-title h1 { font-size: 18px; letter-spacing: -.7px; line-height: 1.5; margin-top: 7px; }
+  .mobile-ladder-button { padding: 10px 8px; font-size: 8px; gap: 4px; }
+  .mobile-ladder-button > svg { width: 13px; }
+  .stage-controls { font-size: 6px; letter-spacing: .5px; padding-bottom: 10px; }
+  .stage-controls > div > svg { display: none; }
+  .stage-controls button { font-size: 7px; padding: 5px 7px; }
+  .stage-controls > span { gap: 4px; }
+  .dialogue-box { margin: 10px 0 14px; padding: 13px 11px; gap: 9px; border-radius: 10px; }
+  .dialogue-avatar { width: 29px; height: 32px; border-radius: 9px; }
+  .dialogue-avatar > svg { width: 18px; }
+  .dialogue-copy > span { font-size: 6px; letter-spacing: .8px; margin-bottom: 5px; }
+  .dialogue-copy > span > i { display: none; }
+  .dialogue-copy p { font-size: 9px; line-height: 1.9; }
+  .repeat-button { height: 28px; width: 28px; }
+  .repeat-button > svg { width: 15px; }
+  .question-panel { padding: 18px 15px; border-radius: 13px; }
+  .question-meta { font-size: 8px; gap: 6px; }
+  .question-meta > span:first-child { gap: 5px; }
+  .question-meta > span:first-child > svg { width: 11px; }
+  .question-value { font-size: 10px; }
+  .timer { font-size: 9px; min-width: 45px; padding-left: 6px; }
+  .question-panel h2 { font-size: 16px; line-height: 1.7; margin: 15px 0 19px; }
+  .answers { grid-template-columns: 1fr; gap: 9px; }
+  .answer { padding: 11px 14px; font-size: 11px; min-height: 51px; }
+  .answer-letter { font-size: 12px; }
+  .question-actions { flex-direction: column; align-items: stretch; gap: 12px; margin-top: 17px; }
+  .question-actions > span { justify-content: center; font-size: 7px; }
+  .question-actions .button { min-height: 48px; }
+  .answer-explanation { font-size: 9px; }
+  .lifelines { flex-direction: column; align-items: stretch; gap: 11px; margin-top: 14px; padding-top: 8px; }
+  .lifelines-label { display: flex; justify-content: space-between; align-items: center; }
+  .lifelines-label br { display: none; }
+  .lifelines-label > span { font-size: 7px; }
+  .lifelines-label > span > b { margin-left: 4px; }
+  .lifelines-label > small { margin-top: 0; font-size: 7px; }
+  .lifeline-buttons { width: 100%; gap: 7px; }
+  .lifeline-buttons > button { flex-direction: column; gap: 7px; padding: 10px 3px; align-items: center; text-align: center; min-height: 78px; }
+  .lifeline-icon { width: 33px; height: 30px; }
+  .lifeline-buttons > button > span:last-child { font-size: 8px; }
+  .game-footer { justify-content: center; font-size: 6px; padding: 18px 0 23px; text-align: center; }
+  .game-footer > span:last-child { display: none; }
+  .modal-overlay { padding: 16px; }
+  .modal { padding: 21px 18px; max-height: calc(100dvh - 32px); border-radius: 16px; }
+  .modal-heading { padding-bottom: 15px; }
+  .modal-heading h2 { font-size: 15px; }
+  .modal-description { font-size: 11px; }
+  .modal-actions .button { font-size: 10px; padding-left: 8px; padding-right: 8px; }
+  .stop-prize { font-size: 28px; }
+  .rules-list span { font-size: 10px; }
+  .rules-list strong { font-size: 11px; }
+  .setting-row strong { font-size: 11px; }
+  .setting-row small { font-size: 8px; }
+  .setting-row { gap: 14px; }
+  .setting-row > span { gap: 10px; }
+  .audience-chart { padding: 0; gap: 12px; }
+  .chart-column small { font-size: 7px; }
+  .result-page { padding: 36px 0 40px; }
+  .result-page > h1 { font-size: 27px; line-height: 1.5; letter-spacing: -.8px; margin: 15px 0 12px; }
+  .result-page > p { font-size: 11px; }
+  .result-layout { gap: 21px; margin-top: 27px; }
+  .result-card { width: 100%; padding: 26px 23px; }
+}
+@media (max-width: 360px) {
+  .app-shell { width: calc(100% - 24px); }
+  .brand-icon { display: none; }
+  .home-intro h1 { font-size: 24px; }
+  .title-spark { display: none; }
+  .game-page-title .eyebrow { max-width: 160px; line-height: 1.8; }
+  .game-page-title h1 { font-size: 16px; }
+  .question-meta { font-size: 7px; }
+}

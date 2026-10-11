@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vite/
+*.local
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+qa-artifacts/
+.vercel/
+# Private credentials downloaded from Google Cloud.
+*.pem
+*.key
+*service-account*.json
+altp-511308-*.json
