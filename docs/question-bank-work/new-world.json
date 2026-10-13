@@ -1,0 +1,3577 @@
+[
+  {
+    "level": 2,
+    "question": "Phía đông phần đất liền Việt Nam tiếp giáp vùng biển nào?",
+    "answers": [
+      "Biển Caribe",
+      "Biển Baltic",
+      "Biển Đỏ",
+      "Biển Đông"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Phía đông đất liền Việt Nam giáp Biển Đông."
+  },
+  {
+    "level": 3,
+    "question": "Đồng bằng sông Cửu Long nằm ở phần nào của Việt Nam?",
+    "answers": [
+      "Bắc Trung Bộ",
+      "Tây Bắc",
+      "Miền Bắc",
+      "Miền Nam"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Đồng bằng sông Cửu Long là vùng đồng bằng ở cực nam Việt Nam."
+  },
+  {
+    "level": 3,
+    "question": "Sông Hồng còn có tên gọi nào gắn với màu phù sa?",
+    "answers": [
+      "Sông Hàn",
+      "Sông Cái",
+      "Sông Thu Bồn",
+      "Sông Đồng Nai"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Sông Hồng còn được gọi là sông Cái."
+  },
+  {
+    "level": 4,
+    "question": "Đèo Hải Vân chạy qua nhánh núi đâm ra sát vùng nào?",
+    "answers": [
+      "Hồ Tây",
+      "Vịnh Mexico",
+      "Biển Caspi",
+      "Biển Đông"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Dãy núi ở Hải Vân vươn ra sát Biển Đông."
+  },
+  {
+    "level": 3,
+    "question": "Việt Nam có đường biên giới trên đất liền với nước nào sau đây?",
+    "answers": [
+      "Indonesia",
+      "Malaysia",
+      "Singapore",
+      "Lào"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Việt Nam có biên giới đất liền với Lào, Campuchia và Trung Quốc."
+  },
+  {
+    "level": 4,
+    "question": "Quốc gia nào có hình dáng lãnh thổ thường được ví như chiếc ủng?",
+    "answers": [
+      "Ý",
+      "Phần Lan",
+      "Bồ Đào Nha",
+      "Na Uy"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Bán đảo Ý có hình dáng gần giống một chiếc ủng."
+  },
+  {
+    "level": 3,
+    "question": "Sa mạc Sahara nằm ở châu lục nào?",
+    "answers": [
+      "Châu Phi",
+      "Châu Âu",
+      "Châu Nam Cực",
+      "Nam Mỹ"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Sahara trải rộng ở Bắc Phi."
+  },
+  {
+    "level": 4,
+    "question": "Dãy Andes chạy dọc phía nào của Nam Mỹ?",
+    "answers": [
+      "Phía tây",
+      "Phía nam",
+      "Phía đông",
+      "Phía bắc"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Andes kéo dài dọc rìa phía tây Nam Mỹ."
+  },
+  {
+    "level": 3,
+    "question": "Quốc gia nào dưới đây là một quần đảo ở Đông Á?",
+    "answers": [
+      "Mông Cổ",
+      "Nepal",
+      "Nhật Bản",
+      "Bhutan"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Nhật Bản là quốc gia quần đảo nằm ngoài khơi phía đông châu Á."
+  },
+  {
+    "level": 3,
+    "question": "Đường xích đạo chia Trái Đất thành hai nửa nào?",
+    "answers": [
+      "Vùng núi và đồng bằng",
+      "Đông bán cầu và Tây bán cầu",
+      "Bắc bán cầu và Nam bán cầu",
+      "Đất liền và đại dương"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Xích đạo có vĩ độ 0°, chia Bắc bán cầu và Nam bán cầu."
+  },
+  {
+    "level": 4,
+    "question": "Trên bản đồ có hướng bắc ở phía trên, hướng tây nằm phía nào?",
+    "answers": [
+      "Bên phải",
+      "Bên trái",
+      "Phía dưới",
+      "Phía trên"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Khi bắc ở trên thì nam ở dưới, đông bên phải và tây bên trái."
+  },
+  {
+    "level": 4,
+    "question": "Kim tự tháp Giza nằm ở quốc gia nào?",
+    "answers": [
+      "Hy Lạp",
+      "Ai Cập",
+      "Mexico",
+      "Ấn Độ"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Quần thể kim tự tháp Giza nằm tại Ai Cập."
+  },
+  {
+    "level": 4,
+    "question": "Thành phố Paris nằm bên dòng sông nào?",
+    "answers": [
+      "Nile",
+      "Danube",
+      "Seine",
+      "Volga"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Sông Seine chảy qua Paris."
+  },
+  {
+    "level": 5,
+    "question": "Thủ đô của Canada là thành phố nào?",
+    "answers": [
+      "Toronto",
+      "Ottawa",
+      "Vancouver",
+      "Montréal"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Ottawa là thủ đô Canada."
+  },
+  {
+    "level": 5,
+    "question": "Bangkok là thủ đô của quốc gia nào?",
+    "answers": [
+      "Thái Lan",
+      "Lào",
+      "Myanmar",
+      "Campuchia"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Bangkok là thủ đô Thái Lan."
+  },
+  {
+    "level": 3,
+    "question": "Bắc Cực chủ yếu nằm trên dạng bề mặt nào?",
+    "answers": [
+      "Rừng nhiệt đới",
+      "Đại dương phủ băng",
+      "Sa mạc cát",
+      "Một lục địa đá lớn"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Bắc Cực nằm trên Bắc Băng Dương, khác với lục địa Nam Cực."
+  },
+  {
+    "level": 5,
+    "question": "Nước nào sau đây không có đường bờ biển?",
+    "answers": [
+      "Việt Nam",
+      "Hàn Quốc",
+      "Mông Cổ",
+      "Thái Lan"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Mông Cổ nằm giữa Nga và Trung Quốc, không giáp biển."
+  },
+  {
+    "level": 4,
+    "question": "Lục địa Nam Cực nằm quanh cực nào?",
+    "answers": [
+      "Cực Bắc",
+      "Cực Nam",
+      "Cả hai cực",
+      "Không cực nào"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Nam Cực bao quanh Cực Nam địa lý."
+  },
+  {
+    "level": 3,
+    "question": "Biển nào trong các lựa chọn nằm giữa châu Âu và châu Phi?",
+    "answers": [
+      "Biển Đông",
+      "Địa Trung Hải",
+      "Biển Caribe",
+      "Biển Nhật Bản"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Địa Trung Hải nằm phía nam châu Âu và phía bắc châu Phi."
+  },
+  {
+    "level": 5,
+    "question": "Đảo Greenland thuộc vùng nào của Trái Đất?",
+    "answers": [
+      "Hoàn toàn trong châu Nam Cực",
+      "Bắc bán cầu",
+      "Nam bán cầu",
+      "Hoàn toàn trên xích đạo"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Greenland nằm ở Bắc bán cầu, phần lớn trong vùng Bắc Cực."
+  },
+  {
+    "level": 5,
+    "question": "Trong các nước sau, nước nào thuộc Nam Mỹ?",
+    "answers": [
+      "Canada",
+      "Ai Cập",
+      "Peru",
+      "Nepal"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Peru nằm ở phía tây Nam Mỹ."
+  },
+  {
+    "level": 4,
+    "question": "Dạng địa hình có đất thấp, khá bằng phẳng và thường được sông bồi đắp gọi là gì?",
+    "answers": [
+      "Đỉnh núi",
+      "Hẻm vực",
+      "Đồng bằng",
+      "Vách đá"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Đồng bằng châu thổ thường hình thành từ phù sa sông."
+  },
+  {
+    "level": 5,
+    "question": "Đà Lạt gắn với cao nguyên nào?",
+    "answers": [
+      "Lâm Viên",
+      "Đồng Văn",
+      "Sơn La",
+      "Mộc Châu"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Đà Lạt nằm trên cao nguyên Lâm Viên."
+  },
+  {
+    "level": 5,
+    "question": "Lục địa nào có cả lưu vực sông Amazon và dãy Andes?",
+    "answers": [
+      "Châu Âu",
+      "Bắc Mỹ",
+      "Nam Mỹ",
+      "Châu Phi"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Amazon và Andes đều thuộc Nam Mỹ."
+  },
+  {
+    "level": 4,
+    "question": "Quốc gia nào ở châu Á có quốc kỳ hình chữ nhật với nền đỏ và một ngôi sao vàng năm cánh ở giữa?",
+    "answers": [
+      "Hàn Quốc",
+      "Nhật Bản",
+      "Bangladesh",
+      "Việt Nam"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Quốc kỳ Việt Nam có nền đỏ và ngôi sao vàng năm cánh."
+  },
+  {
+    "level": 3,
+    "question": "Hai Bà Trưng là tên gọi chung của Trưng Trắc và ai?",
+    "answers": [
+      "Lê Chân",
+      "Trưng Nhị",
+      "Bà Triệu",
+      "Nguyên Phi Ỷ Lan"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Hai Bà Trưng gồm hai chị em Trưng Trắc và Trưng Nhị."
+  },
+  {
+    "level": 4,
+    "question": "Ai chỉ huy chiến thắng Bạch Đằng năm 938?",
+    "answers": [
+      "Lê Lợi",
+      "Lý Công Uẩn",
+      "Ngô Quyền",
+      "Quang Trung"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng năm 938."
+  },
+  {
+    "level": 4,
+    "question": "Quang Trung là niên hiệu của vị vua nào?",
+    "answers": [
+      "Nguyễn Ánh",
+      "Nguyễn Nhạc",
+      "Nguyễn Lữ",
+      "Nguyễn Huệ"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Nguyễn Huệ lên ngôi hoàng đế với niên hiệu Quang Trung."
+  },
+  {
+    "level": 4,
+    "question": "Hồ Chí Minh đọc Tuyên ngôn Độc lập ngày 2/9/1945 tại quảng trường nào?",
+    "answers": [
+      "Ba Đình",
+      "Lâm Viên",
+      "Đông Kinh Nghĩa Thục",
+      "Ngọ Môn"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Lễ tuyên bố độc lập diễn ra ở Quảng trường Ba Đình, Hà Nội."
+  },
+  {
+    "level": 5,
+    "question": "Vương triều nào xây dựng kinh đô Huế và tồn tại từ năm 1802 đến 1945?",
+    "answers": [
+      "Nhà Hồ",
+      "Nhà Lý",
+      "Nhà Trần",
+      "Nhà Nguyễn"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Nhà Nguyễn đặt kinh đô tại Huế và tồn tại từ 1802 đến 1945."
+  },
+  {
+    "level": 5,
+    "question": "Nước Việt Nam Dân chủ Cộng hòa được thành lập vào năm nào?",
+    "answers": [
+      "1945",
+      "1930",
+      "1954",
+      "1976"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Nước Việt Nam Dân chủ Cộng hòa được tuyên bố thành lập ngày 2/9/1945."
+  },
+  {
+    "level": 5,
+    "question": "Ai là người sáng lập nhà Lý năm 1009?",
+    "answers": [
+      "Lý Thường Kiệt",
+      "Lý Nhân Tông",
+      "Lý Chiêu Hoàng",
+      "Lý Công Uẩn"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Lý Công Uẩn lên ngôi năm 1009, tức Lý Thái Tổ."
+  },
+  {
+    "level": 4,
+    "question": "Thành Cổ Loa gắn với vị vua nào của nước Âu Lạc?",
+    "answers": [
+      "An Dương Vương",
+      "Gia Long",
+      "Trần Nhân Tông",
+      "Lê Thánh Tông"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "An Dương Vương đặt kinh đô Âu Lạc tại Cổ Loa."
+  },
+  {
+    "level": 5,
+    "question": "Cách mạng Pháp nổi tiếng bắt đầu vào năm nào?",
+    "answers": [
+      "1917",
+      "1789",
+      "1815",
+      "1492"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Cách mạng Pháp bắt đầu năm 1789, gắn với sự kiện phá ngục Bastille."
+  },
+  {
+    "level": 5,
+    "question": "Chiến tranh thế giới thứ hai kết thúc vào năm nào?",
+    "answers": [
+      "1939",
+      "1918",
+      "1945",
+      "1954"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Chiến tranh thế giới thứ hai kết thúc năm 1945."
+  },
+  {
+    "level": 5,
+    "question": "Đấu trường Colosseum được xây dựng bởi nền văn minh nào?",
+    "answers": [
+      "La Mã cổ đại",
+      "Lưỡng Hà",
+      "Maya",
+      "Ai Cập cổ đại"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Colosseum là đấu trường lớn của La Mã cổ đại."
+  },
+  {
+    "level": 4,
+    "question": "Các pharaoh là người đứng đầu nền văn minh cổ đại nào?",
+    "answers": [
+      "Maya",
+      "Hy Lạp",
+      "Trung Hoa",
+      "Ai Cập"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Pharaoh là danh xưng gắn với các vị vua Ai Cập cổ đại."
+  },
+  {
+    "level": 5,
+    "question": "Ai lãnh đạo phong trào đấu tranh bất bạo động giành độc lập cho Ấn Độ?",
+    "answers": [
+      "Abraham Lincoln",
+      "Nelson Mandela",
+      "Simón Bolívar",
+      "Mahatma Gandhi"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Mahatma Gandhi là nhân vật tiêu biểu của phong trào độc lập Ấn Độ bằng phương pháp bất bạo động."
+  },
+  {
+    "level": 5,
+    "question": "Bức tường Berlin từng chia cắt thành phố nào?",
+    "answers": [
+      "Berlin",
+      "Prague",
+      "Paris",
+      "Vienna"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Bức tường Berlin ngăn cách hai phần thành phố Berlin từ 1961 đến 1989."
+  },
+  {
+    "level": 5,
+    "question": "Tuyên ngôn Độc lập của Hoa Kỳ được thông qua năm nào?",
+    "answers": [
+      "1789",
+      "1865",
+      "1812",
+      "1776"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Tuyên ngôn Độc lập được thông qua ngày 4/7/1776."
+  },
+  {
+    "level": 2,
+    "question": "Hình vuông có bao nhiêu trục đối xứng?",
+    "answers": [
+      "Ba",
+      "Bốn",
+      "Một",
+      "Hai"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Hai đường chéo và hai đường qua trung điểm các cạnh đối diện là bốn trục đối xứng."
+  },
+  {
+    "level": 3,
+    "question": "Số tự nhiên nào không là số nguyên tố cũng không là hợp số?",
+    "answers": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Số 1 chỉ có một ước dương nên không là số nguyên tố hoặc hợp số."
+  },
+  {
+    "level": 4,
+    "question": "Tổng ba góc trong của một tam giác phẳng bằng bao nhiêu độ?",
+    "answers": [
+      "180°",
+      "360°",
+      "270°",
+      "90°"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Trong hình học Euclid, ba góc trong của tam giác có tổng 180°."
+  },
+  {
+    "level": 3,
+    "question": "Phân số nào bằng một nửa?",
+    "answers": [
+      "4/5",
+      "3/4",
+      "2/3",
+      "3/6"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Rút gọn 3/6 được 1/2."
+  },
+  {
+    "level": 4,
+    "question": "Một góc lớn hơn 90° nhưng nhỏ hơn 180° gọi là góc gì?",
+    "answers": [
+      "Góc bẹt",
+      "Góc nhọn",
+      "Góc vuông",
+      "Góc tù"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Góc tù có số đo nằm giữa 90° và 180°."
+  },
+  {
+    "level": 4,
+    "question": "Trong các số sau, số nào chia hết cho cả 2 và 5?",
+    "answers": [
+      "15",
+      "27",
+      "30",
+      "22"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Một số chia hết cho cả 2 và 5 khi chữ số tận cùng là 0."
+  },
+  {
+    "level": 3,
+    "question": "Số đối của -7 là số nào?",
+    "answers": [
+      "0",
+      "-7",
+      "7",
+      "1/7"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Hai số đối có tổng bằng 0; -7 + 7 = 0."
+  },
+  {
+    "level": 4,
+    "question": "Phân số có tử số bằng mẫu số khác 0 có giá trị bằng bao nhiêu?",
+    "answers": [
+      "1",
+      "-1",
+      "Không xác định",
+      "0"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Một số khác 0 chia cho chính nó bằng 1."
+  },
+  {
+    "level": 4,
+    "question": "Chu vi hình chữ nhật có chiều dài a và chiều rộng b được tính thế nào?",
+    "answers": [
+      "a+b",
+      "2(a+b)",
+      "2ab",
+      "ab"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Chu vi là tổng bốn cạnh: a+b+a+b."
+  },
+  {
+    "level": 5,
+    "question": "Đường nối tâm với một điểm trên đường tròn được gọi là gì?",
+    "answers": [
+      "Bán kính",
+      "Đường kính",
+      "Tiếp tuyến",
+      "Dây cung"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Bán kính nối tâm với một điểm thuộc đường tròn."
+  },
+  {
+    "level": 4,
+    "question": "Khối lập phương có bao nhiêu mặt?",
+    "answers": [
+      "12",
+      "4",
+      "8",
+      "6"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Khối lập phương được bao bởi sáu mặt hình vuông."
+  },
+  {
+    "level": 5,
+    "question": "Để biểu diễn 25% dưới dạng phân số tối giản, ta dùng phân số nào?",
+    "answers": [
+      "3/4",
+      "1/5",
+      "1/2",
+      "1/4"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "25% = 25/100 = 1/4."
+  },
+  {
+    "level": 5,
+    "question": "Hai đường thẳng cùng nằm trong một mặt phẳng và không giao nhau gọi là gì?",
+    "answers": [
+      "Hai đường thẳng song song",
+      "Hai đường thẳng vuông góc",
+      "Hai đường thẳng trùng nhau",
+      "Hai đường thẳng cắt nhau"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Hai đường thẳng phân biệt trong một mặt phẳng không có điểm chung thì song song."
+  },
+  {
+    "level": 5,
+    "question": "Trong một tam giác vuông, cạnh đối diện góc vuông gọi là gì?",
+    "answers": [
+      "Cạnh huyền",
+      "Đường cao",
+      "Phân giác",
+      "Trung tuyến"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Cạnh huyền là cạnh đối diện góc vuông và dài nhất trong tam giác vuông."
+  },
+  {
+    "level": 5,
+    "question": "Nếu mọi hình vuông đều là hình chữ nhật, khẳng định nào chắc chắn đúng?",
+    "answers": [
+      "Mọi hình chữ nhật đều là hình vuông",
+      "Mọi hình chữ nhật đều có bốn cạnh bằng nhau",
+      "Một hình vuông bất kỳ là hình chữ nhật",
+      "Không hình vuông nào là hình chữ nhật"
+    ],
+    "correct": 2,
+    "category": "Logic",
+    "explanation": "Quan hệ bao hàm cho phép suy ra hình vuông là hình chữ nhật, không suy ngược lại."
+  },
+  {
+    "level": 2,
+    "question": "Thiết bị nào dùng chủ yếu để nhập ký tự vào máy tính?",
+    "answers": [
+      "Máy chiếu",
+      "Màn hình",
+      "Bàn phím",
+      "Loa"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Bàn phím là thiết bị nhập văn bản và lệnh."
+  },
+  {
+    "level": 3,
+    "question": "Phần mềm nào dưới đây là một trình duyệt web?",
+    "answers": [
+      "Mozilla Firefox",
+      "Microsoft Excel",
+      "Adobe Photoshop",
+      "VLC Media Player"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Firefox là trình duyệt web."
+  },
+  {
+    "level": 4,
+    "question": "Tệp có phần mở rộng .jpg thường chứa loại dữ liệu nào?",
+    "answers": [
+      "Ảnh",
+      "Âm thanh MIDI",
+      "Bảng tính",
+      "Chương trình thực thi"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "JPEG là định dạng ảnh, thường có phần mở rộng .jpg hoặc .jpeg."
+  },
+  {
+    "level": 4,
+    "question": "Trong thư điện tử, ký tự nào ngăn phần tên hộp thư và tên miền?",
+    "answers": [
+      "#",
+      "%",
+      "&",
+      "@"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Địa chỉ email có cấu trúc phổ biến như ten@tenmien."
+  },
+  {
+    "level": 4,
+    "question": "Phím Enter thường dùng để làm gì khi đang gõ văn bản thuần?",
+    "answers": [
+      "Xóa ký tự trước con trỏ",
+      "Xuống dòng",
+      "Bật chữ hoa",
+      "Di chuyển con trỏ sang trái"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Trong trình soạn thảo văn bản thuần, Enter chèn một dòng mới."
+  },
+  {
+    "level": 5,
+    "question": "Phần mềm bảng tính Microsoft Excel sắp xếp dữ liệu theo cấu trúc nào?",
+    "answers": [
+      "Chỉ các trang ảnh",
+      "Chỉ các tệp âm thanh",
+      "Chỉ các đoạn phim",
+      "Hàng và cột"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Các ô trong Excel nằm tại giao điểm của hàng và cột."
+  },
+  {
+    "level": 5,
+    "question": "Một bản sao dữ liệu dùng để phục hồi khi bản gốc bị mất gọi là gì?",
+    "answers": [
+      "Bản xem trước",
+      "Bộ nhớ đệm",
+      "Lối tắt",
+      "Bản sao lưu"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Bản sao lưu được giữ để khôi phục dữ liệu khi cần."
+  },
+  {
+    "level": 4,
+    "question": "Thiết bị nào sau đây là thiết bị xuất âm thanh?",
+    "answers": [
+      "Loa",
+      "Chuột",
+      "Máy quét",
+      "Bàn phím"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Loa phát âm thanh từ máy tính ra môi trường."
+  },
+  {
+    "level": 5,
+    "question": "Trong máy tính, CPU thường được gọi là bộ phận nào?",
+    "answers": [
+      "Bộ nhớ chỉ đọc",
+      "Ổ lưu trữ quang",
+      "Bộ nguồn điện",
+      "Bộ xử lý trung tâm"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "CPU là viết tắt của Central Processing Unit, bộ xử lý trung tâm."
+  },
+  {
+    "level": 5,
+    "question": "Trong phần cứng máy tính, GPU thường đảm nhiệm loại xử lý nào?",
+    "answers": [
+      "Cấp điện cho máy",
+      "Quét tài liệu giấy",
+      "Xử lý đồ họa",
+      "Ghi dữ liệu lên đĩa quang"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "GPU là bộ xử lý đồ họa, chuyên xử lý nhiều tác vụ hình ảnh và tính toán song song."
+  },
+  {
+    "level": 6,
+    "question": "Đồng bằng sông Hồng chủ yếu được bồi đắp bởi sông Hồng và hệ thống sông nào?",
+    "answers": [
+      "Thái Bình",
+      "Ba",
+      "Đồng Nai",
+      "Thu Bồn"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Phù sa hệ thống sông Hồng và sông Thái Bình tạo nên đồng bằng sông Hồng."
+  },
+  {
+    "level": 6,
+    "question": "Sông Tiền và sông Hậu là hai nhánh lớn của hệ thống sông nào ở Việt Nam?",
+    "answers": [
+      "Sông Mã",
+      "Sông Cả",
+      "Mê Kông",
+      "Sông Hồng"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Khi vào đồng bằng Việt Nam, Mê Kông có hai nhánh lớn là sông Tiền và sông Hậu."
+  },
+  {
+    "level": 7,
+    "question": "Dãy Trường Sơn chạy chủ yếu theo hướng nào?",
+    "answers": [
+      "Tây bắc–đông nam",
+      "Bắc–nam tuyệt đối",
+      "Đông–tây",
+      "Đông bắc–tây nam"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Hướng chủ yếu của Trường Sơn là tây bắc–đông nam."
+  },
+  {
+    "level": 7,
+    "question": "Hang Sơn Đoòng thuộc hệ thống núi đá có loại đá đặc trưng nào?",
+    "answers": [
+      "Đá granit",
+      "Đá bazan",
+      "Đá sa thạch",
+      "Đá vôi"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Sơn Đoòng hình thành trong khối núi đá vôi ở Phong Nha–Kẻ Bàng."
+  },
+  {
+    "level": 8,
+    "question": "Quần đảo Cát Bà nằm ở vịnh nào?",
+    "answers": [
+      "Vịnh Bắc Bộ",
+      "Vịnh Ba Tư",
+      "Vịnh Thái Lan",
+      "Vịnh Bengal"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Cát Bà nằm ở vùng biển phía bắc Việt Nam thuộc Vịnh Bắc Bộ."
+  },
+  {
+    "level": 10,
+    "question": "Sông Đồng Nai đổ ra biển qua vùng cửa sông nào cùng sông Sài Gòn?",
+    "answers": [
+      "Cửa Việt",
+      "Cửa Tùng",
+      "Ba Lạt",
+      "Soài Rạp"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Hệ thống Đồng Nai–Sài Gòn thoát nước ra biển qua các cửa trong đó có Soài Rạp."
+  },
+  {
+    "level": 6,
+    "question": "Phú Quốc nằm trong vịnh nào?",
+    "answers": [
+      "Vịnh Thái Lan",
+      "Vịnh Bắc Bộ",
+      "Vịnh Oman",
+      "Vịnh Mexico"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Đảo Phú Quốc nằm ở phía đông Vịnh Thái Lan."
+  },
+  {
+    "level": 7,
+    "question": "Biển Hồ Tonlé Sap nằm ở quốc gia nào?",
+    "answers": [
+      "Campuchia",
+      "Thái Lan",
+      "Myanmar",
+      "Lào"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Tonlé Sap là hồ lớn ở Campuchia, nối với sông Mê Kông."
+  },
+  {
+    "level": 6,
+    "question": "Kênh đào Panama nối những đại dương nào?",
+    "answers": [
+      "Ấn Độ Dương và Bắc Băng Dương",
+      "Đại Tây Dương và Ấn Độ Dương",
+      "Thái Bình Dương và Nam Đại Dương",
+      "Đại Tây Dương và Thái Bình Dương"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Kênh Panama đi qua eo đất Trung Mỹ, nối Đại Tây Dương với Thái Bình Dương."
+  },
+  {
+    "level": 8,
+    "question": "Eo biển Bering ngăn cách hai khối lục địa nào?",
+    "answers": [
+      "Châu Á và Bắc Mỹ",
+      "Nam Mỹ và Nam Cực",
+      "Châu Âu và châu Phi",
+      "Châu Á và Australia"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Bering nằm giữa cực đông châu Á và Alaska của Bắc Mỹ."
+  },
+  {
+    "level": 4,
+    "question": "Dãy Alps nằm chủ yếu ở châu lục nào?",
+    "answers": [
+      "Nam Mỹ",
+      "Châu Âu",
+      "Châu Á",
+      "Châu Phi"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Alps là hệ thống núi lớn của châu Âu."
+  },
+  {
+    "level": 5,
+    "question": "Cao nguyên Tây Tạng nằm chủ yếu ở khu vực nào?",
+    "answers": [
+      "Australia",
+      "Châu Á",
+      "Châu Phi",
+      "Bắc Mỹ"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Cao nguyên Tây Tạng nằm ở châu Á, phía bắc Himalaya."
+  },
+  {
+    "level": 9,
+    "question": "Sông Danube chảy qua thủ đô nào dưới đây?",
+    "answers": [
+      "Stockholm",
+      "Madrid",
+      "Budapest",
+      "Lisbon"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Budapest nằm bên sông Danube."
+  },
+  {
+    "level": 7,
+    "question": "Biển Caspi được phân loại về địa lý là gì?",
+    "answers": [
+      "Một vịnh của Thái Bình Dương",
+      "Một eo biển",
+      "Một phần mở của Đại Tây Dương",
+      "Hồ nội lục"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Caspi là khối nước nội lục không có đường thoát tự nhiên ra đại dương."
+  },
+  {
+    "level": 7,
+    "question": "Thác Niagara nằm trên biên giới của hai nước nào?",
+    "answers": [
+      "Hoa Kỳ và Mexico",
+      "Hoa Kỳ và Canada",
+      "Brazil và Argentina",
+      "Pháp và Đức"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Thác Niagara nằm ở biên giới Canada–Hoa Kỳ."
+  },
+  {
+    "level": 10,
+    "question": "Thác Victoria nằm trên con sông nào?",
+    "answers": [
+      "Niger",
+      "Nile",
+      "Congo",
+      "Zambezi"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Thác Victoria được tạo bởi sông Zambezi ở miền nam châu Phi."
+  },
+  {
+    "level": 8,
+    "question": "Hồ Baikal nằm ở quốc gia nào?",
+    "answers": [
+      "Kazakhstan",
+      "Mông Cổ",
+      "Canada",
+      "Nga"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Baikal nằm tại Siberia của Nga."
+  },
+  {
+    "level": 9,
+    "question": "Kalahari là vùng hoang mạc nằm ở khu vực nào?",
+    "answers": [
+      "Trung Mỹ",
+      "Miền nam châu Phi",
+      "Miền bắc châu Âu",
+      "Miền đông Australia"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Kalahari trải trên phần miền nam châu Phi, chủ yếu ở Botswana."
+  },
+  {
+    "level": 7,
+    "question": "Rừng mưa Amazon nằm phần lớn trên lãnh thổ nước nào?",
+    "answers": [
+      "Brazil",
+      "Chile",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Phần lớn rừng mưa Amazon nằm tại Brazil."
+  },
+  {
+    "level": 10,
+    "question": "Eo biển Malacca nằm giữa bán đảo Mã Lai và đảo nào?",
+    "answers": [
+      "Honshu",
+      "Sumatra",
+      "Java",
+      "Luzon"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Malacca ngăn bán đảo Mã Lai với đảo Sumatra."
+  },
+  {
+    "level": 11,
+    "question": "Đảo Borneo có lãnh thổ của Indonesia, Malaysia và nước nào?",
+    "answers": [
+      "Philippines",
+      "Brunei",
+      "Singapore",
+      "Timor-Leste"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Borneo được chia giữa Indonesia, Malaysia và Brunei."
+  },
+  {
+    "level": 10,
+    "question": "Sông Rhine đổ ra vùng biển nào?",
+    "answers": [
+      "Biển Baltic",
+      "Biển Đỏ",
+      "Biển Bắc",
+      "Biển Đen"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Rhine chảy qua Tây Âu rồi đổ vào Biển Bắc."
+  },
+  {
+    "level": 8,
+    "question": "Dãy Ural thường được xem là một phần ranh giới giữa hai châu lục nào?",
+    "answers": [
+      "Bắc Mỹ và Nam Mỹ",
+      "Châu Âu và châu Á",
+      "Châu Phi và châu Âu ở Địa Trung Hải",
+      "Châu Á và châu Phi"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Ural là một phần ranh giới quy ước giữa châu Âu và châu Á."
+  },
+  {
+    "level": 7,
+    "question": "Quốc gia nào có hai đảo lớn gọi là Đảo Bắc và Đảo Nam?",
+    "answers": [
+      "New Zealand",
+      "Iceland",
+      "Cuba",
+      "Sri Lanka"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Hai đảo chính của New Zealand được gọi là North Island và South Island."
+  },
+  {
+    "level": 11,
+    "question": "Đảo Iceland nằm trên sống núi giữa đại dương nào?",
+    "answers": [
+      "Thái Bình Dương",
+      "Bắc Băng Dương",
+      "Đại Tây Dương",
+      "Ấn Độ Dương"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Iceland nằm trên phần nổi của Sống núi giữa Đại Tây Dương."
+  },
+  {
+    "level": 6,
+    "question": "Cuộc kháng chiến chống Tống năm 1075–1077 gắn với vị tướng nào?",
+    "answers": [
+      "Nguyễn Tri Phương",
+      "Nguyễn Huệ",
+      "Lê Lợi",
+      "Lý Thường Kiệt"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Lý Thường Kiệt giữ vai trò chỉ huy trong cuộc kháng chiến chống Tống 1075–1077."
+  },
+  {
+    "level": 5,
+    "question": "Chiến thắng Bạch Đằng năm 1288 diễn ra dưới triều đại nào?",
+    "answers": [
+      "Nhà Lý",
+      "Nhà Nguyễn",
+      "Nhà Đinh",
+      "Nhà Trần"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Quân dân nhà Trần chiến thắng quân Nguyên trên sông Bạch Đằng năm 1288."
+  },
+  {
+    "level": 9,
+    "question": "Nhà Hồ lấy quốc hiệu nào khi thành lập năm 1400?",
+    "answers": [
+      "Đại Việt",
+      "Vạn Xuân",
+      "Đại Ngu",
+      "Đại Nam"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Hồ Quý Ly đổi quốc hiệu thành Đại Ngu khi lập nhà Hồ."
+  },
+  {
+    "level": 7,
+    "question": "Bình Ngô đại cáo được công bố sau khi kết thúc cuộc khởi nghĩa nào?",
+    "answers": [
+      "Yên Thế",
+      "Lam Sơn",
+      "Hương Khê",
+      "Bãi Sậy"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Bình Ngô đại cáo được Nguyễn Trãi soạn thay Lê Lợi sau thắng lợi Lam Sơn."
+  },
+  {
+    "level": 8,
+    "question": "Phong trào Đông Du do ai khởi xướng vào đầu thế kỷ XX?",
+    "answers": [
+      "Nguyễn Trường Tộ",
+      "Phan Châu Trinh",
+      "Hoàng Hoa Thám",
+      "Phan Bội Châu"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Phan Bội Châu tổ chức phong trào đưa thanh niên sang Nhật học tập."
+  },
+  {
+    "level": 8,
+    "question": "Cuộc khởi nghĩa Yên Thế gắn với thủ lĩnh nào?",
+    "answers": [
+      "Hoàng Hoa Thám",
+      "Nguyễn Thái Học",
+      "Phan Đình Phùng",
+      "Trương Định"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Hoàng Hoa Thám, còn gọi Đề Thám, là thủ lĩnh nổi bật của khởi nghĩa Yên Thế."
+  },
+  {
+    "level": 7,
+    "question": "Trường Đông Kinh Nghĩa Thục được mở năm 1907 ở đâu?",
+    "answers": [
+      "Sài Gòn",
+      "Hội An",
+      "Hà Nội",
+      "Huế"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Đông Kinh Nghĩa Thục hoạt động tại Hà Nội năm 1907."
+  },
+  {
+    "level": 9,
+    "question": "Hội nghị thành lập Đảng Cộng sản Việt Nam năm 1930 do ai chủ trì?",
+    "answers": [
+      "Trần Phú",
+      "Lê Hồng Phong",
+      "Nguyễn Ái Quốc",
+      "Hà Huy Tập"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Nguyễn Ái Quốc chủ trì hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930."
+  },
+  {
+    "level": 8,
+    "question": "Phong trào Cần Vương bắt đầu sau lời kêu gọi của vị vua nào năm 1885?",
+    "answers": [
+      "Hàm Nghi",
+      "Duy Tân",
+      "Khải Định",
+      "Tự Đức"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Chiếu Cần Vương được ban dưới danh nghĩa vua Hàm Nghi năm 1885."
+  },
+  {
+    "level": 9,
+    "question": "Phan Đình Phùng và Cao Thắng gắn với cuộc khởi nghĩa nào?",
+    "answers": [
+      "Bắc Sơn",
+      "Hương Khê",
+      "Ba Đình",
+      "Yên Bái"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Phan Đình Phùng và Cao Thắng lãnh đạo khởi nghĩa Hương Khê."
+  },
+  {
+    "level": 6,
+    "question": "Liên Hợp Quốc được thành lập vào năm nào?",
+    "answers": [
+      "1939",
+      "1945",
+      "1919",
+      "1955"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Hiến chương Liên Hợp Quốc có hiệu lực ngày 24/10/1945."
+  },
+  {
+    "level": 10,
+    "question": "Đạo luật Magna Carta năm 1215 được ban hành ở vương quốc nào?",
+    "answers": [
+      "Anh",
+      "Pháp",
+      "Bồ Đào Nha",
+      "Tây Ban Nha"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Magna Carta được vua John của Anh chấp thuận năm 1215."
+  },
+  {
+    "level": 8,
+    "question": "Chuyến hải hành năm 1492 của Christopher Columbus được vương quyền nào tài trợ?",
+    "answers": [
+      "Tây Ban Nha",
+      "Anh",
+      "Đan Mạch",
+      "Hà Lan"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Vua Ferdinand và nữ hoàng Isabella tài trợ chuyến đi của Columbus."
+  },
+  {
+    "level": 7,
+    "question": "Nelson Mandela gắn với cuộc đấu tranh chống chế độ nào tại Nam Phi?",
+    "answers": [
+      "Thuộc địa Bồ Đào Nha ở Brazil",
+      "Phong kiến Nhật Bản",
+      "Apartheid",
+      "Quân chủ chuyên chế Nga"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Mandela đấu tranh chống chế độ phân biệt chủng tộc apartheid tại Nam Phi."
+  },
+  {
+    "level": 7,
+    "question": "Cách mạng Tháng Mười Nga diễn ra năm nào?",
+    "answers": [
+      "1917",
+      "1922",
+      "1905",
+      "1941"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Cách mạng Tháng Mười diễn ra năm 1917 theo cách gọi lịch Julius khi đó."
+  },
+  {
+    "level": 7,
+    "question": "Cuộc Duy tân Minh Trị bắt đầu năm 1868 ở quốc gia nào?",
+    "answers": [
+      "Trung Quốc",
+      "Nhật Bản",
+      "Thái Lan",
+      "Triều Tiên"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Duy tân Minh Trị mở ra giai đoạn cải cách và hiện đại hóa Nhật Bản."
+  },
+  {
+    "level": 9,
+    "question": "Vasco da Gama đến Ấn Độ bằng đường biển quanh châu Phi dưới cờ nước nào?",
+    "answers": [
+      "Pháp",
+      "Bồ Đào Nha",
+      "Tây Ban Nha",
+      "Anh"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Vasco da Gama là nhà hàng hải Bồ Đào Nha, đến Calicut năm 1498."
+  },
+  {
+    "level": 8,
+    "question": "Đế quốc Inca phát triển chủ yếu ở dãy núi nào?",
+    "answers": [
+      "Himalaya",
+      "Alps",
+      "Andes",
+      "Ural"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Trung tâm của Inca nằm trong vùng Andes ở Nam Mỹ."
+  },
+  {
+    "level": 10,
+    "question": "Chiến tranh Trăm Năm chủ yếu là xung đột giữa hai vương quốc nào?",
+    "answers": [
+      "Tây Ban Nha và Bồ Đào Nha",
+      "Anh và Pháp",
+      "Thụy Điển và Đan Mạch",
+      "Đức và Nga"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Chiến tranh Trăm Năm là loạt xung đột Anh–Pháp từ 1337 đến 1453."
+  },
+  {
+    "level": 11,
+    "question": "Joan of Arc gắn với việc giải vây thành phố nào năm 1429?",
+    "answers": [
+      "London",
+      "Vienna",
+      "Rome",
+      "Orléans"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Joan of Arc góp phần giải vây Orléans trong Chiến tranh Trăm Năm."
+  },
+  {
+    "level": 7,
+    "question": "Bức tường Berlin mở cửa biên giới vào năm nào?",
+    "answers": [
+      "1989",
+      "1961",
+      "1975",
+      "1999"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Việc mở cửa các điểm qua biên giới ngày 9/11/1989 đánh dấu sự sụp đổ Bức tường Berlin."
+  },
+  {
+    "level": 10,
+    "question": "Sự kiện Trà Boston năm 1773 là hành động phản đối của người thuộc địa đối với nước nào?",
+    "answers": [
+      "Pháp",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Anh"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Người thuộc địa phản đối chính sách thuế và thương mại của Anh bằng việc đổ trà xuống cảng Boston."
+  },
+  {
+    "level": 11,
+    "question": "Napoleon ban hành bộ luật dân sự mang tên mình vào năm nào?",
+    "answers": [
+      "1848",
+      "1804",
+      "1815",
+      "1789"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Code civil, thường gọi Bộ luật Napoleon, được ban hành năm 1804."
+  },
+  {
+    "level": 8,
+    "question": "Cộng hòa Nhân dân Trung Hoa được tuyên bố thành lập năm nào?",
+    "answers": [
+      "1911",
+      "1937",
+      "1949",
+      "1978"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Mao Trạch Đông tuyên bố thành lập Cộng hòa Nhân dân Trung Hoa ngày 1/10/1949."
+  },
+  {
+    "level": 8,
+    "question": "Hiệp ước Versailles năm 1919 được ký sau cuộc chiến nào?",
+    "answers": [
+      "Chiến tranh thế giới thứ nhất",
+      "Chiến tranh Bảy Năm",
+      "Chiến tranh Krym",
+      "Chiến tranh thế giới thứ hai"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Hiệp ước Versailles là hòa ước với Đức sau Chiến tranh thế giới thứ nhất."
+  },
+  {
+    "level": 3,
+    "question": "Tam giác có hai cạnh bằng nhau gọi là tam giác gì?",
+    "answers": [
+      "Tam giác cân",
+      "Tam giác vuông bất kỳ",
+      "Tam giác thường",
+      "Tam giác tù bất kỳ"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Tam giác cân có hai cạnh bằng nhau và hai góc ở đáy bằng nhau."
+  },
+  {
+    "level": 4,
+    "question": "Tích của hai số thực âm luôn là số có tính chất nào?",
+    "answers": [
+      "Vô tỉ",
+      "Dương",
+      "Bằng 0",
+      "Âm"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Hai số âm khác 0 nhân với nhau cho kết quả dương."
+  },
+  {
+    "level": 7,
+    "question": "Nếu a > b thì bất đẳng thức nào đúng khi nhân hai vế với -2?",
+    "answers": [
+      "-2a = -2b",
+      "2a < 2b",
+      "-2a < -2b",
+      "-2a > -2b"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Nhân hai vế với số âm làm đổi chiều bất đẳng thức."
+  },
+  {
+    "level": 6,
+    "question": "Giá trị tuyệt đối của một số thực biểu thị gì trên trục số?",
+    "answers": [
+      "Dấu của số đó",
+      "Khoảng cách từ số đó đến 0",
+      "Khoảng cách từ số đó đến 1",
+      "Số nghịch đảo của nó"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Giá trị tuyệt đối là khoảng cách đến gốc 0 nên luôn không âm."
+  },
+  {
+    "level": 8,
+    "question": "Hàm số y = ax + b với a > 0 có tính chất nào?",
+    "answers": [
+      "Chỉ xác định khi x > 0",
+      "Đồng biến trên R",
+      "Nghịch biến trên R",
+      "Luôn bằng 0"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Hệ số góc dương làm hàm bậc nhất đồng biến trên R."
+  },
+  {
+    "level": 7,
+    "question": "Phương trình x² = 9 có tập nghiệm thực nào?",
+    "answers": [
+      "{9}",
+      "{-9, 9}",
+      "{3}",
+      "{-3, 3}"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Cả -3 và 3 bình phương đều bằng 9."
+  },
+  {
+    "level": 5,
+    "question": "Hai góc phụ nhau có tổng số đo bằng bao nhiêu?",
+    "answers": [
+      "90°",
+      "180°",
+      "360°",
+      "270°"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Hai góc phụ nhau có tổng số đo 90°."
+  },
+  {
+    "level": 5,
+    "question": "Trong tam giác đều, mỗi góc trong có số đo bao nhiêu?",
+    "answers": [
+      "45°",
+      "90°",
+      "60°",
+      "120°"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Ba góc bằng nhau và có tổng 180°, nên mỗi góc là 60°."
+  },
+  {
+    "level": 5,
+    "question": "Nếu đường tròn có bán kính r, diện tích hình tròn là biểu thức nào?",
+    "answers": [
+      "πr",
+      "πr²",
+      "2πr²",
+      "2πr"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Diện tích hình tròn bằng π nhân bình phương bán kính."
+  },
+  {
+    "level": 9,
+    "question": "Một hình lăng trụ tam giác có bao nhiêu cạnh?",
+    "answers": [
+      "12",
+      "8",
+      "9",
+      "6"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Hai đáy có tổng 6 cạnh và có thêm 3 cạnh bên, tổng cộng 9."
+  },
+  {
+    "level": 6,
+    "question": "Dãy số 3, 7, 11, 15 là cấp số cộng với công sai nào?",
+    "answers": [
+      "11",
+      "4",
+      "3",
+      "7"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Hiệu giữa hai số hạng liên tiếp luôn bằng 4."
+  },
+  {
+    "level": 8,
+    "question": "Khi tung một đồng xu cân đối hai lần độc lập, xác suất cả hai lần cùng ra mặt ngửa là bao nhiêu?",
+    "answers": [
+      "1/4",
+      "1/2",
+      "1",
+      "3/4"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Bốn kết quả đồng khả năng chỉ có một kết quả ngửa–ngửa."
+  },
+  {
+    "level": 7,
+    "question": "Ước chung lớn nhất của 18 và 24 là số nào?",
+    "answers": [
+      "3",
+      "12",
+      "9",
+      "6"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Các ước chung dương là 1, 2, 3, 6; lớn nhất là 6."
+  },
+  {
+    "level": 9,
+    "question": "Giá trị log₁₀(1000) bằng bao nhiêu?",
+    "answers": [
+      "2",
+      "100",
+      "3",
+      "10"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Vì 10³ = 1000 nên log₁₀(1000) = 3."
+  },
+  {
+    "level": 7,
+    "question": "Cho A={1,2,3}, B={3,4,5}. Tập giao A∩B là gì?",
+    "answers": [
+      "{4,5}",
+      "{1,2,3,4,5}",
+      "{3}",
+      "{1,2}"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Giao gồm các phần tử có mặt ở cả hai tập, chỉ có 3."
+  },
+  {
+    "level": 6,
+    "question": "Trong mặt phẳng tọa độ, điểm (0, -4) nằm trên trục nào?",
+    "answers": [
+      "Trục tung",
+      "Không trục nào",
+      "Trục hoành",
+      "Cả hai trục"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Hoành độ bằng 0 nên điểm nằm trên trục tung."
+  },
+  {
+    "level": 8,
+    "question": "Đồ thị hàm số y = x² có trục đối xứng là đường nào?",
+    "answers": [
+      "y = 0",
+      "x = 1",
+      "x = 0",
+      "y = 1"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Parabol y = x² đối xứng qua trục tung x = 0."
+  },
+  {
+    "level": 10,
+    "question": "Phủ định đúng của mệnh đề “Mọi học sinh trong lớp đều có bút” là gì?",
+    "answers": [
+      "Có ít nhất một học sinh trong lớp không có bút",
+      "Mọi học sinh trong lớp đều không có bút",
+      "Có ít nhất một học sinh có bút",
+      "Không có học sinh nào trong lớp"
+    ],
+    "correct": 0,
+    "category": "Logic",
+    "explanation": "Phủ định của mệnh đề với mọi là mệnh đề tồn tại một trường hợp không thỏa."
+  },
+  {
+    "level": 10,
+    "question": "Nếu “Có mưa thì đường ướt” đúng và đường không ướt, suy luận nào hợp lệ?",
+    "answers": [
+      "Không có mưa",
+      "Đường ướt",
+      "Không thể suy ra gì về mưa",
+      "Có mưa"
+    ],
+    "correct": 0,
+    "category": "Logic",
+    "explanation": "Đây là suy luận phản chứng modus tollens: P→Q và không Q thì không P."
+  },
+  {
+    "level": 7,
+    "question": "Trung vị của bộ dữ liệu 2, 4, 7, 9, 20 là số nào?",
+    "answers": [
+      "7",
+      "4",
+      "8,4",
+      "9"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Bộ đã sắp tăng có năm phần tử, trung vị là phần tử đứng giữa: 7."
+  },
+  {
+    "level": 6,
+    "question": "Bộ nhớ RAM thông thường có đặc điểm nào khi mất nguồn điện?",
+    "answers": [
+      "Giữ dữ liệu như ổ SSD",
+      "Chỉ mất dữ liệu khi đầy bộ nhớ",
+      "Tự sao lưu toàn bộ vào ROM",
+      "Mất dữ liệu đang giữ"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "RAM thông thường là bộ nhớ khả biến, cần nguồn để giữ dữ liệu."
+  },
+  {
+    "level": 6,
+    "question": "HTML dùng chủ yếu để mô tả phần nào của trang web?",
+    "answers": [
+      "Cấu hình định tuyến của máy chủ mạng",
+      "Thao tác quản lý bảng trong cơ sở dữ liệu",
+      "Cấu trúc nội dung",
+      "Màu sắc và cách trình bày bằng quy tắc kiểu"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "HTML đánh dấu cấu trúc như tiêu đề, đoạn văn và liên kết."
+  },
+  {
+    "level": 6,
+    "question": "CSS trên trang web dùng chủ yếu để quy định điều gì?",
+    "answers": [
+      "Chữ ký số của chứng thư TLS",
+      "Cấu trúc ngữ nghĩa của nội dung",
+      "Cách trình bày và định dạng",
+      "Các truy vấn cơ sở dữ liệu máy chủ"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "CSS quy định màu sắc, bố cục, phông chữ và các kiểu hiển thị."
+  },
+  {
+    "level": 4,
+    "question": "Trong hệ nhị phân, chỉ có hai chữ số nào?",
+    "answers": [
+      "0 và 9",
+      "1 và 2",
+      "0 và 1",
+      "2 và 8"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Hệ cơ số 2 sử dụng các chữ số 0 và 1."
+  },
+  {
+    "level": 6,
+    "question": "Một byte theo quy ước phổ biến bằng bao nhiêu bit?",
+    "answers": [
+      "32",
+      "16",
+      "8",
+      "2"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Trong các chuẩn máy tính thông dụng, một byte gồm 8 bit."
+  },
+  {
+    "level": 8,
+    "question": "DNS chủ yếu giúp chuyển thông tin nào sang địa chỉ IP?",
+    "answers": [
+      "Tên miền",
+      "Địa chỉ MAC",
+      "Số cổng ứng dụng",
+      "Đường dẫn thư mục"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "DNS cung cấp cơ chế phân giải tên miền sang bản ghi địa chỉ IP."
+  },
+  {
+    "level": 8,
+    "question": "Trong cơ sở dữ liệu quan hệ, khóa chính dùng để làm gì?",
+    "answers": [
+      "Mã hóa toàn bộ dữ liệu trong bảng",
+      "Định danh duy nhất mỗi hàng",
+      "Quy định thứ tự hiển thị mặc định của bảng",
+      "Tự tạo bản sao lưu của bảng"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Khóa chính xác định duy nhất mỗi bản ghi và không nhận giá trị NULL."
+  },
+  {
+    "level": 8,
+    "question": "Câu lệnh SQL INSERT dùng cho thao tác nào?",
+    "answers": [
+      "Thêm hàng dữ liệu",
+      "Tạo cấu trúc bảng mới",
+      "Xóa các hàng theo điều kiện",
+      "Sửa giá trị trong các hàng có sẵn"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "INSERT thêm dữ liệu vào một bảng."
+  },
+  {
+    "level": 9,
+    "question": "Cấu trúc dữ liệu hàng đợi thông thường tuân theo nguyên tắc nào?",
+    "answers": [
+      "Ưu tiên phần tử lớn nhất luôn luôn",
+      "LIFO",
+      "Chọn ngẫu nhiên",
+      "FIFO"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "FIFO là vào trước ra trước, đặc trưng của hàng đợi thông thường."
+  },
+  {
+    "level": 9,
+    "question": "Thuật toán tìm kiếm nhị phân yêu cầu dãy dữ liệu có tính chất nào?",
+    "answers": [
+      "Mọi phần tử đều bằng nhau",
+      "Số phần tử luôn chẵn",
+      "Được sắp xếp theo khóa tìm kiếm",
+      "Không chứa số âm"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Tìm kiếm nhị phân loại một nửa phạm vi dựa trên thứ tự đã sắp xếp."
+  },
+  {
+    "level": 10,
+    "question": "Trong mạng máy tính, địa chỉ IPv4 có tổng cộng bao nhiêu bit?",
+    "answers": [
+      "64",
+      "32",
+      "16",
+      "128"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Địa chỉ IPv4 dài 32 bit, thường viết thành bốn nhóm thập phân."
+  },
+  {
+    "level": 9,
+    "question": "Git commit thường ghi nhận điều gì?",
+    "answers": [
+      "Việc xóa mọi nhánh không dùng",
+      "Một ảnh chụp trạng thái dự án trong lịch sử phiên bản",
+      "Việc tạo bản sao kho từ xa trên máy",
+      "Việc tải bản mới nhất từ kho từ xa về"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Commit ghi một mốc thay đổi có thể tra cứu trong lịch sử Git."
+  },
+  {
+    "level": 5,
+    "question": "Tệp ZIP thường dùng cho mục đích nào?",
+    "answers": [
+      "Chạy hệ điều hành trực tiếp",
+      "Chỉ phát video",
+      "Đóng gói và nén tệp",
+      "Chỉ lưu tọa độ bản đồ"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "ZIP là định dạng lưu trữ có thể chứa nhiều tệp và dùng nén dữ liệu."
+  },
+  {
+    "level": 8,
+    "question": "Phần mở rộng .csv thường thể hiện dữ liệu theo dạng nào?",
+    "answers": [
+      "Các trường văn bản phân tách bằng dấu phẩy",
+      "Ảnh nhiều lớp",
+      "Chương trình mã máy",
+      "Âm thanh không nén"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "CSV là Comma-Separated Values, một dạng dữ liệu bảng bằng văn bản."
+  },
+  {
+    "level": 6,
+    "question": "Trong lập trình, lỗi syntax error thuộc loại nào?",
+    "answers": [
+      "Lỗi logic dù mã có cú pháp hợp lệ",
+      "Lỗi tính toán do chia cho 0 khi chạy",
+      "Lỗi do đọc một tệp không tồn tại",
+      "Sai cú pháp ngôn ngữ"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Lỗi cú pháp xuất hiện khi mã không tuân theo ngữ pháp ngôn ngữ."
+  },
+  {
+    "level": 10,
+    "question": "Hàm băm mật mã tốt thường được thiết kế để làm gì với đầu vào?",
+    "answers": [
+      "Mã hóa có thể giải mã bằng một khóa bí mật",
+      "Luôn tạo đầu ra dài đúng bằng đầu vào",
+      "Lưu nguyên bản đầu vào trong đầu ra",
+      "Tạo giá trị tóm tắt khó đảo ngược"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Hàm băm tạo một giá trị tóm tắt và được thiết kế chống việc tìm đầu vào từ giá trị đó."
+  },
+  {
+    "level": 8,
+    "question": "HTTPS bổ sung cơ chế bảo vệ nào cho HTTP?",
+    "answers": [
+      "Mã hóa ổ đĩa của người dùng",
+      "Chuyển mọi kết nối sang UDP",
+      "Thay tên miền bằng địa chỉ MAC",
+      "Mã hóa kết nối bằng TLS"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "HTTPS là HTTP chạy trên kết nối được TLS bảo vệ."
+  },
+  {
+    "level": 10,
+    "question": "Trong lập trình, đệ quy xảy ra khi nào?",
+    "answers": [
+      "Hai hàm độc lập dùng chung kiểu trả về",
+      "Một hàm gọi lại chính nó trực tiếp hoặc gián tiếp",
+      "Một biến được khai báo trong thân hàm",
+      "Một vòng lặp duyệt tuần tự qua một mảng"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Đệ quy là cách giải bài toán bằng việc gọi lại hàm trên bài toán nhỏ hơn."
+  },
+  {
+    "level": 8,
+    "question": "Trong SQL, mệnh đề WHERE thường được dùng để làm gì?",
+    "answers": [
+      "Sắp xếp thứ tự hàng kết quả",
+      "Lọc các hàng theo điều kiện",
+      "Gộp các hàng thành nhóm",
+      "Đặt bí danh cho tên cột"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "WHERE xác định điều kiện chọn các hàng tham gia thao tác."
+  },
+  {
+    "level": 9,
+    "question": "Từ open source trong phần mềm chủ yếu chỉ điều gì?",
+    "answers": [
+      "Mã nguồn chỉ cho phép dùng để học, cấm phân phối lại",
+      "Mã nguồn được cung cấp theo giấy phép cho phép sử dụng, sửa đổi và phân phối",
+      "Mã nguồn chỉ được xem và tuyệt đối không được sửa",
+      "Phần mềm chỉ cung cấp bản chạy được miễn phí nhưng giữ kín mã nguồn"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Phần mềm nguồn mở phải có giấy phép cho phép các quyền theo định nghĩa nguồn mở."
+  },
+  {
+    "level": 11,
+    "question": "Một lưu vực nội lưu có đặc điểm nào về dòng nước mặt?",
+    "answers": [
+      "Chỉ có sông ngầm, không có sông mặt",
+      "Không có đường thoát tự nhiên ra đại dương",
+      "Luôn nằm dưới mực nước biển",
+      "Mọi sông đều chảy về Bắc Cực"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Nước trong lưu vực nội lưu đổ vào hồ hoặc vùng trũng nội địa rồi bốc hơi hay thấm xuống đất."
+  },
+  {
+    "level": 8,
+    "question": "Trên bản đồ địa hình, các đường đồng mức càng sít nhau thường biểu thị điều gì?",
+    "answers": [
+      "Khu vực có địa hình phẳng",
+      "Độ cao luôn bằng mực nước biển",
+      "Sườn địa hình càng dốc",
+      "Sườn địa hình càng thoải"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Cùng khoảng chênh cao nhưng các đường gần nhau nghĩa là độ cao đổi nhanh trên khoảng cách ngang ngắn."
+  },
+  {
+    "level": 13,
+    "question": "Phép chiếu Mercator thường làm sai lệch diện tích theo hướng nào?",
+    "answers": [
+      "Phóng đại riêng vùng xích đạo",
+      "Phóng đại vùng gần các cực",
+      "Làm mọi châu lục có diện tích bằng nhau",
+      "Giữ đúng diện tích mọi nơi"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Mercator bảo toàn góc tại điểm nhưng phóng đại diện tích mạnh ở vĩ độ cao."
+  },
+  {
+    "level": 8,
+    "question": "Trên bản đồ tỷ lệ 1:50.000, đoạn dài 4 cm tương ứng khoảng cách thực nào?",
+    "answers": [
+      "200 m",
+      "2 km",
+      "20 km",
+      "500 m"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "4 × 50.000 cm = 200.000 cm = 2 km."
+  },
+  {
+    "level": 13,
+    "question": "Trên mô hình Trái Đất hình cầu, đường ngắn nhất trên bề mặt giữa hai điểm thông thường là gì?",
+    "answers": [
+      "Luôn là đoạn nằm trên xích đạo",
+      "Một đường xoắn ốc quanh cực",
+      "Luôn là đoạn nằm trên một vĩ tuyến",
+      "Cung ngắn của một đường tròn lớn"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Đường tròn lớn là giao tuyến mặt cầu với mặt phẳng qua tâm; cung ngắn cho đường đi ngắn nhất."
+  },
+  {
+    "level": 8,
+    "question": "Chênh lệch kinh độ 45° tương ứng chênh lệch giờ Mặt Trời địa phương bao nhiêu giờ?",
+    "answers": [
+      "12 giờ",
+      "1 giờ",
+      "3 giờ",
+      "6 giờ"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Trái Đất quay 360° trong 24 giờ, nên 15° ứng với 1 giờ và 45° ứng với 3 giờ."
+  },
+  {
+    "level": 7,
+    "question": "Dạng cửa sông có nhánh phân lưu và bãi bồi phát triển do tích tụ trầm tích gọi là gì?",
+    "answers": [
+      "Hố sụt",
+      "Fjord",
+      "Châu thổ",
+      "Đèo"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Châu thổ phát triển khi trầm tích tích tụ ở cửa sông đủ để tạo các bãi và nhánh phân lưu."
+  },
+  {
+    "level": 9,
+    "question": "Hố sụt và hang hòa tan phát triển phổ biến nhất trong kiểu địa hình nào?",
+    "answers": [
+      "Karst",
+      "Cao nguyên dung nham",
+      "Đồng bằng băng tích",
+      "Cồn cát gió"
+    ],
+    "correct": 0,
+    "category": "Địa lý",
+    "explanation": "Karst phát triển do nước hòa tan các đá dễ hòa tan, điển hình là đá vôi."
+  },
+  {
+    "level": 8,
+    "question": "Đường phân thủy trên địa hình thường có vai trò nào?",
+    "answers": [
+      "Nối tất cả các cửa sông",
+      "Ngăn cách hai lưu vực thoát nước",
+      "Luôn chia đôi một hồ",
+      "Đánh dấu đường bờ biển cổ"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Nước hai phía đường phân thủy chảy về hai lưu vực khác nhau."
+  },
+  {
+    "level": 13,
+    "question": "Trầm tích hoàng thổ (loess) được vận chuyển và tích tụ chủ yếu bởi tác nhân nào?",
+    "answers": [
+      "Dòng băng trực tiếp",
+      "Dung nham",
+      "Sóng thần",
+      "Gió"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Hoàng thổ chủ yếu gồm hạt bụi được gió mang đi và lắng đọng."
+  },
+  {
+    "level": 11,
+    "question": "Fjord là loại vịnh dài hẹp hình thành chủ yếu do quá trình nào?",
+    "answers": [
+      "Gió thổi cát tạo vành đai kín",
+      "Băng hà đào sâu thung lũng rồi biển ngập vào",
+      "Phù sa bồi kín một cửa sông",
+      "Dòng dung nham chặn một con sông"
+    ],
+    "correct": 1,
+    "category": "Địa lý",
+    "explanation": "Fjord thường là thung lũng băng hà sâu được nước biển ngập vào sau khi băng rút."
+  },
+  {
+    "level": 7,
+    "question": "Dải đất hẹp nối hai vùng đất lớn và có biển ở hai bên gọi là gì?",
+    "answers": [
+      "Quần đảo",
+      "Vịnh",
+      "Eo biển",
+      "Eo đất"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Eo đất nối hai vùng đất; eo biển là dải nước hẹp nối các vùng nước."
+  },
+  {
+    "level": 14,
+    "question": "Biển Sargasso có đặc điểm ranh giới nổi bật nào?",
+    "answers": [
+      "Nằm hoàn toàn trong Biển Đỏ",
+      "Được bao quanh hoàn toàn bởi lục địa",
+      "Là hồ nước ngọt lớn nhất",
+      "Được bao quanh bởi các dòng hải lưu thay vì bờ đất liền"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Sargasso là vùng biển ở Bắc Đại Tây Dương được giới hạn bởi các dòng hải lưu."
+  },
+  {
+    "level": 13,
+    "question": "Eo biển Dardanelles nối Biển Marmara với biển nào?",
+    "answers": [
+      "Biển Caspi",
+      "Biển Baltic",
+      "Biển Aegean",
+      "Biển Đen"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Dardanelles nối Marmara với Aegean, thuộc hệ thống thông ra Địa Trung Hải."
+  },
+  {
+    "level": 12,
+    "question": "Eo biển Bosphorus nối hai vùng nước nào?",
+    "answers": [
+      "Biển Đỏ và Vịnh Aden",
+      "Biển Baltic và Biển Bắc",
+      "Biển Aegean và Biển Adriatic",
+      "Biển Đen và Biển Marmara"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Bosphorus ở Istanbul nối Biển Đen với Biển Marmara."
+  },
+  {
+    "level": 13,
+    "question": "Eo biển Drake nằm giữa Nam Cực và đầu mút nào của Nam Mỹ?",
+    "answers": [
+      "Mũi Dezhnev",
+      "Mũi Finisterre",
+      "Mũi Hảo Vọng",
+      "Mũi Horn"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Drake Passage nằm giữa vùng Mũi Horn của Nam Mỹ và quần đảo Nam Shetland gần Nam Cực."
+  },
+  {
+    "level": 12,
+    "question": "Hồ Tanganyika gắn với hệ thống địa chất nào?",
+    "answers": [
+      "Vành đai núi Andes",
+      "Dãy Alps",
+      "Sống núi giữa Đại Tây Dương",
+      "Đới tách giãn Đông Phi"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Tanganyika nằm trong nhánh phía tây của hệ thống tách giãn Đông Phi."
+  },
+  {
+    "level": 14,
+    "question": "Châu thổ lớn ở Bangladesh được hình thành bởi sông Ganges, Brahmaputra và sông nào?",
+    "answers": [
+      "Yangtze",
+      "Tigris",
+      "Meghna",
+      "Indus"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Ganges–Brahmaputra–Meghna tạo nên hệ thống châu thổ của Bangladesh và vùng lân cận."
+  },
+  {
+    "level": 13,
+    "question": "Sông Danube đổ ra biển nào?",
+    "answers": [
+      "Biển Caspi",
+      "Biển Đỏ",
+      "Biển Đen",
+      "Biển Bắc"
+    ],
+    "correct": 2,
+    "category": "Địa lý",
+    "explanation": "Danube chảy về phía đông và đổ vào Biển Đen qua châu thổ."
+  },
+  {
+    "level": 10,
+    "question": "Sông Volga kết thúc dòng chảy ở vùng nước nào?",
+    "answers": [
+      "Bắc Băng Dương",
+      "Biển Đen",
+      "Biển Baltic",
+      "Biển Caspi"
+    ],
+    "correct": 3,
+    "category": "Địa lý",
+    "explanation": "Volga đổ vào Biển Caspi, trong một lưu vực nội lưu."
+  },
+  {
+    "level": 11,
+    "question": "Hiệp ước Tordesillas năm 1494 phân chia phạm vi thám hiểm giữa hai vương quyền nào?",
+    "answers": [
+      "Hà Lan và Đan Mạch",
+      "Nga và Thụy Điển",
+      "Tây Ban Nha và Bồ Đào Nha",
+      "Anh và Pháp"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Hiệp ước phân chia vùng ngoài châu Âu theo một kinh tuyến giữa vương quyền Tây Ban Nha và Bồ Đào Nha."
+  },
+  {
+    "level": 13,
+    "question": "Hòa ước Westphalia năm 1648 gắn với việc kết thúc cuộc chiến nào tại châu Âu?",
+    "answers": [
+      "Chiến tranh Ba Mươi Năm",
+      "Chiến tranh Bảy Năm",
+      "Chiến tranh Trăm Năm",
+      "Chiến tranh Krym"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Các hòa ước Westphalia kết thúc Chiến tranh Ba Mươi Năm ở châu Âu."
+  },
+  {
+    "level": 13,
+    "question": "Đại hội Vienna năm 1814–1815 được triệu tập chủ yếu để làm gì?",
+    "answers": [
+      "Chấm dứt Chiến tranh thế giới thứ hai",
+      "Phân chia châu Mỹ sau chuyến đi Columbus",
+      "Thành lập Liên Hợp Quốc",
+      "Tái lập trật tự châu Âu sau các cuộc chiến Napoleon"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Đại hội Vienna sắp xếp lại biên giới và cân bằng quyền lực châu Âu sau thời Napoleon."
+  },
+  {
+    "level": 14,
+    "question": "Hòa ước Utrecht năm 1713 là một phần giải pháp cho cuộc chiến nào?",
+    "answers": [
+      "Chiến tranh Napoleon",
+      "Chiến tranh Kế vị Áo",
+      "Chiến tranh Kế vị Tây Ban Nha",
+      "Chiến tranh Ba Mươi Năm"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Các hiệp ước Utrecht năm 1713 góp phần kết thúc Chiến tranh Kế vị Tây Ban Nha."
+  },
+  {
+    "level": 14,
+    "question": "Sắc lệnh Milan năm 313 gắn với chính sách nào của Constantine và Licinius?",
+    "answers": [
+      "Cấm mọi hình thức thờ cúng trong đế quốc",
+      "Cho phép tự do thực hành tôn giáo, bao gồm Kitô giáo",
+      "Giải thể Đế quốc La Mã",
+      "Bắt buộc mọi người cải đạo sang Kitô giáo ngay lập tức"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Thỏa thuận Milan công nhận tự do tôn giáo và chấm dứt đàn áp Kitô hữu."
+  },
+  {
+    "level": 12,
+    "question": "Vua Ashoka thuộc triều đại nào của Ấn Độ cổ đại?",
+    "answers": [
+      "Mughal",
+      "Maurya",
+      "Chola",
+      "Gupta"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Ashoka là hoàng đế của vương triều Maurya ở thế kỷ III trước Công nguyên."
+  },
+  {
+    "level": 13,
+    "question": "Đế quốc Đức được tuyên bố thành lập năm 1871 tại địa điểm nào?",
+    "answers": [
+      "Cung điện Schönbrunn",
+      "Cung điện Buckingham",
+      "Cung điện Versailles",
+      "Điện Kremlin"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Wilhelm I được tuyên bố là Hoàng đế Đức tại Versailles ngày 18/1/1871."
+  },
+  {
+    "level": 13,
+    "question": "Trận Sekigahara năm 1600 giúp nhân vật nào củng cố quyền lực ở Nhật Bản?",
+    "answers": [
+      "Minamoto no Yoritomo",
+      "Thiên hoàng Minh Trị",
+      "Oda Nobunaga",
+      "Tokugawa Ieyasu"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Chiến thắng Sekigahara tạo nền tảng cho Tokugawa Ieyasu lập Mạc phủ Tokugawa."
+  },
+  {
+    "level": 10,
+    "question": "Hoàng đế cuối cùng của nhà Thanh ở Trung Quốc là ai?",
+    "answers": [
+      "Càn Long",
+      "Quang Tự",
+      "Khang Hy",
+      "Phổ Nghi"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Phổ Nghi là hoàng đế cuối cùng của triều Thanh, thoái vị năm 1912."
+  },
+  {
+    "level": 12,
+    "question": "Phiến đá Rosetta ghi cùng nội dung bằng ba hệ chữ: tượng hình, Demotic và chữ nào?",
+    "answers": [
+      "Cuneiform",
+      "Hy Lạp",
+      "Sanskrit",
+      "Latin"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Bản Hy Lạp trên đá Rosetta giúp đối chiếu và giải mã chữ viết Ai Cập."
+  },
+  {
+    "level": 8,
+    "question": "Khu di tích Machu Picchu là thành tựu của nền văn minh nào?",
+    "answers": [
+      "Inca",
+      "Olmec",
+      "Maya",
+      "Aztec"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Machu Picchu được xây dựng trong thời Đế quốc Inca ở Andes."
+  },
+  {
+    "level": 13,
+    "question": "Angkor Wat được xây dựng dưới thời vua nào của Đế quốc Khmer?",
+    "answers": [
+      "Ang Duong",
+      "Norodom Sihanouk",
+      "Jayavarman VII",
+      "Suryavarman II"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Angkor Wat được xây dựng ở thế kỷ XII dưới thời Suryavarman II."
+  },
+  {
+    "level": 14,
+    "question": "Samarkand trở thành kinh đô của đế quốc gắn với vị chinh phục nào cuối thế kỷ XIV?",
+    "answers": [
+      "Timur",
+      "Charlemagne",
+      "Alexander Đại đế",
+      "Attila"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Timur chọn Samarkand làm kinh đô và phát triển thành phố trong thời Timurid."
+  },
+  {
+    "level": 12,
+    "question": "Quốc Tử Giám được lập năm 1076 dưới thời vua nào?",
+    "answers": [
+      "Lý Nhân Tông",
+      "Trần Thái Tông",
+      "Lý Thái Tổ",
+      "Lý Thái Tông"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Lý Nhân Tông cho lập Quốc Tử Giám năm 1076."
+  },
+  {
+    "level": 13,
+    "question": "Bộ luật Hồng Đức được hoàn thiện dưới thời vị vua nào?",
+    "answers": [
+      "Minh Mạng",
+      "Lý Nhân Tông",
+      "Lê Thánh Tông",
+      "Lê Lợi"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Quốc triều hình luật, thường gọi Bộ luật Hồng Đức, gắn với triều Lê Thánh Tông."
+  },
+  {
+    "level": 12,
+    "question": "Hội nghị Diên Hồng thời Trần nổi tiếng vì mời nhóm người nào bàn việc chống ngoại xâm?",
+    "answers": [
+      "Các sứ thần nhà Minh",
+      "Các bô lão",
+      "Các giáo sĩ Bồ Đào Nha",
+      "Các thương nhân châu Âu"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Nhà Trần triệu tập các bô lão tại điện Diên Hồng để hỏi ý kiến về việc chống quân Nguyên."
+  },
+  {
+    "level": 12,
+    "question": "Người đề xuất nhiều bản điều trần cải cách dưới thời Tự Đức là ai?",
+    "answers": [
+      "Nguyễn Trường Tộ",
+      "Nguyễn Bỉnh Khiêm",
+      "Nguyễn Du",
+      "Nguyễn Đình Chiểu"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Nguyễn Trường Tộ gửi các bản điều trần về cải cách kinh tế, giáo dục và quốc phòng."
+  },
+  {
+    "level": 13,
+    "question": "Hai vua Nguyễn nào bị Pháp đày đến đảo Réunion?",
+    "answers": [
+      "Tự Đức và Kiến Phúc",
+      "Thành Thái và Duy Tân",
+      "Đồng Khánh và Khải Định",
+      "Hàm Nghi và Bảo Đại"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Thành Thái và Duy Tân bị đưa đến Réunion; Hàm Nghi bị đày sang Algérie."
+  },
+  {
+    "level": 11,
+    "question": "Cuộc Tổng tuyển cử bầu Quốc hội đầu tiên của Việt Nam diễn ra ngày nào?",
+    "answers": [
+      "7/5/1954",
+      "30/4/1975",
+      "6/1/1946",
+      "2/9/1945"
+    ],
+    "correct": 2,
+    "category": "Lịch sử",
+    "explanation": "Cuộc Tổng tuyển cử bầu Quốc hội khóa I được tổ chức ngày 6/1/1946."
+  },
+  {
+    "level": 13,
+    "question": "Chiến dịch Biên giới Thu–Đông 1950 mở đầu bằng trận đánh vào cứ điểm nào?",
+    "answers": [
+      "Điện Biên Phủ",
+      "Khe Sanh",
+      "Vạn Tường",
+      "Đông Khê"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "Trận Đông Khê mở màn Chiến dịch Biên giới Thu–Đông 1950."
+  },
+  {
+    "level": 12,
+    "question": "Chiến thắng Ngọc Hồi–Đống Đa diễn ra vào dịp Tết năm nào?",
+    "answers": [
+      "1789",
+      "1771",
+      "1802",
+      "1858"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Quang Trung đánh bại quân Thanh trong dịp Tết Kỷ Dậu 1789."
+  },
+  {
+    "level": 14,
+    "question": "Hội nghị Bandung năm 1955 quy tụ chủ yếu các nước thuộc hai châu lục nào?",
+    "answers": [
+      "Châu Á và châu Phi",
+      "Châu Âu và Bắc Mỹ",
+      "Australia và Nam Cực",
+      "Nam Mỹ và châu Âu"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Hội nghị Á–Phi Bandung diễn ra ở Indonesia năm 1955."
+  },
+  {
+    "level": 12,
+    "question": "Học thuyết Monroe năm 1823 phản đối điều gì ở châu Mỹ?",
+    "answers": [
+      "Việc xây dựng kênh đào Panama",
+      "Sự can thiệp và thực dân hóa mới của các cường quốc châu Âu",
+      "Mọi hoạt động buôn bán với châu Á",
+      "Việc sử dụng tàu hơi nước"
+    ],
+    "correct": 1,
+    "category": "Lịch sử",
+    "explanation": "Tổng thống James Monroe tuyên bố phản đối sự can thiệp và thực dân hóa mới của châu Âu ở Tây bán cầu."
+  },
+  {
+    "level": 14,
+    "question": "Hiệp định Camp David năm 1978 gắn với lãnh đạo Ai Cập và quốc gia nào?",
+    "answers": [
+      "Israel",
+      "Iran",
+      "Jordan",
+      "Thổ Nhĩ Kỳ"
+    ],
+    "correct": 0,
+    "category": "Lịch sử",
+    "explanation": "Anwar Sadat và Menachem Begin ký các thỏa thuận Camp David với sự trung gian của Jimmy Carter."
+  },
+  {
+    "level": 15,
+    "question": "Cách mạng Vinh quang ở Anh năm 1688 dẫn tới việc vị vua nào mất ngôi?",
+    "answers": [
+      "George III",
+      "Henry VIII",
+      "Charles I",
+      "James II"
+    ],
+    "correct": 3,
+    "category": "Lịch sử",
+    "explanation": "James II bị thay bởi William III và Mary II trong Cách mạng Vinh quang."
+  },
+  {
+    "level": 12,
+    "question": "Định thức của ma trận hai hàng [2,3] và [1,4] bằng bao nhiêu?",
+    "answers": [
+      "11",
+      "2",
+      "5",
+      "8"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Định thức 2×2 bằng 2×4 − 3×1 = 5."
+  },
+  {
+    "level": 13,
+    "question": "Một ma trận vuông có định thức bằng 0 thì có tính chất nào?",
+    "answers": [
+      "Luôn là ma trận đơn vị",
+      "Luôn có ma trận nghịch đảo",
+      "Không có ma trận nghịch đảo",
+      "Luôn có mọi phần tử bằng 0"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Ma trận vuông khả nghịch khi và chỉ khi định thức khác 0."
+  },
+  {
+    "level": 10,
+    "question": "Có bao nhiêu cách chọn hai người từ nhóm sáu người, không phân biệt thứ tự?",
+    "answers": [
+      "36",
+      "15",
+      "12",
+      "30"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Số tổ hợp là C(6,2) = 6×5/2 = 15."
+  },
+  {
+    "level": 12,
+    "question": "Một hộp có ba bi đỏ và ba bi xanh. Lấy đồng thời hai bi ngẫu nhiên, xác suất cả hai đỏ là bao nhiêu?",
+    "answers": [
+      "1/5",
+      "1/2",
+      "1/4",
+      "1/3"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Có C(6,2)=15 cặp, trong đó C(3,2)=3 cặp đỏ, nên xác suất bằng 1/5."
+  },
+  {
+    "level": 10,
+    "question": "Tung hai xúc xắc sáu mặt cân đối và độc lập, xác suất tổng số chấm bằng 7 là bao nhiêu?",
+    "answers": [
+      "1/12",
+      "1/6",
+      "1/9",
+      "1/36"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Có 6 cặp cho tổng 7 trong 36 kết quả đồng khả năng."
+  },
+  {
+    "level": 12,
+    "question": "Cho P(A∩B)=0,12 và P(B)=0,3. Xác suất A xảy ra khi biết B xảy ra là bao nhiêu?",
+    "answers": [
+      "0,4",
+      "0,25",
+      "0,18",
+      "0,036"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Xác suất có điều kiện bằng P(A∩B)/P(B) = 0,12/0,3 = 0,4."
+  },
+  {
+    "level": 13,
+    "question": "Hai biến cố A và B độc lập thì công thức nào đúng?",
+    "answers": [
+      "P(A∩B)=0 luôn luôn",
+      "P(A∩B)=P(A)P(B)",
+      "P(A∩B)=P(A)+P(B)",
+      "P(A)=P(B) luôn luôn"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Độc lập nghĩa là xác suất giao bằng tích hai xác suất."
+  },
+  {
+    "level": 12,
+    "question": "Trong khai triển (x+y)⁴, hệ số của x²y² là bao nhiêu?",
+    "answers": [
+      "4",
+      "12",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Theo nhị thức Newton, hệ số là C(4,2)=6."
+  },
+  {
+    "level": 11,
+    "question": "Với i² = -1, giá trị i²⁰²⁶ bằng bao nhiêu?",
+    "answers": [
+      "i",
+      "1",
+      "-i",
+      "-1"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Lũy thừa của i có chu kỳ 4; 2026 dư 2 khi chia 4 nên kết quả là i² = -1."
+  },
+  {
+    "level": 10,
+    "question": "Bất phương trình x² − 5x + 6 < 0 có tập nghiệm nào?",
+    "answers": [
+      "(2,3)",
+      "(-∞,2)∪(3,+∞)",
+      "[2,3]",
+      "(-∞,3)"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Tam thức bằng (x−2)(x−3), âm giữa hai nghiệm 2 và 3."
+  },
+  {
+    "level": 14,
+    "question": "Trong tập số thực, một dãy Cauchy luôn có tính chất nào?",
+    "answers": [
+      "Tăng nghiêm ngặt",
+      "Có hữu hạn số hạng",
+      "Hội tụ đến một số thực",
+      "Chỉ gồm số hữu tỉ"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Tính đầy đủ của R bảo đảm mọi dãy Cauchy thực hội tụ trong R."
+  },
+  {
+    "level": 7,
+    "question": "Trong các số sau, số nào là số vô tỉ?",
+    "answers": [
+      "0,125",
+      "√2",
+      "7/9",
+      "√9"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "√2 không thể biểu diễn thành tỷ số hai số nguyên; các số còn lại đều hữu tỉ."
+  },
+  {
+    "level": 13,
+    "question": "Với một đa diện lồi có V đỉnh, E cạnh và F mặt, công thức Euler là gì?",
+    "answers": [
+      "V+E+F=2",
+      "V+E−F=2",
+      "V−E−F=0",
+      "V−E+F=2"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Mọi đa diện lồi thỏa công thức Euler V−E+F=2."
+  },
+  {
+    "level": 14,
+    "question": "Một đồ thị vô hướng liên thông có đường đi Euler khi số đỉnh bậc lẻ là bao nhiêu?",
+    "answers": [
+      "0 hoặc 2",
+      "Đúng 1",
+      "Bất kỳ số lẻ nào",
+      "Đúng 3"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Đường đi qua mỗi cạnh đúng một lần tồn tại khi đồ thị có 0 hoặc 2 đỉnh bậc lẻ."
+  },
+  {
+    "level": 15,
+    "question": "Đồ thị phẳng đơn liên thông có n≥3 đỉnh thì số cạnh m thỏa bất đẳng thức nào?",
+    "answers": [
+      "m≥3n−6",
+      "m≤n−1 luôn luôn",
+      "m≤3n−6",
+      "m=n² luôn luôn"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Công thức Euler cùng điều kiện mỗi mặt có ít nhất ba cạnh dẫn đến m≤3n−6."
+  },
+  {
+    "level": 13,
+    "question": "Ma trận vuông cấp n khả nghịch khi hạng của nó bằng bao nhiêu?",
+    "answers": [
+      "0",
+      "2n",
+      "n",
+      "n−1"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Ma trận vuông khả nghịch khi có hạng đầy đủ bằng cấp n."
+  },
+  {
+    "level": 10,
+    "question": "Với x>0, đạo hàm của ln x là gì?",
+    "answers": [
+      "eˣ",
+      "x",
+      "1/x",
+      "ln x"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Đạo hàm của logarit tự nhiên trên miền x>0 bằng 1/x."
+  },
+  {
+    "level": 11,
+    "question": "Tích phân ∫₀¹ x² dx bằng bao nhiêu?",
+    "answers": [
+      "1/3",
+      "3",
+      "1",
+      "1/2"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Nguyên hàm là x³/3; thay cận 0 và 1 được 1/3."
+  },
+  {
+    "level": 14,
+    "question": "Giới hạn của (1+1/n)ⁿ khi n tiến tới vô cùng bằng số nào?",
+    "answers": [
+      "e",
+      "π",
+      "2",
+      "1"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Đây là một định nghĩa kinh điển của số e."
+  },
+  {
+    "level": 13,
+    "question": "Tập S={n/(n+1): n là số nguyên dương} có cận trên đúng bằng bao nhiêu?",
+    "answers": [
+      "2",
+      "0",
+      "1/2",
+      "1"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Mọi phần tử nhỏ hơn 1 và tiến sát 1, nên supremum bằng 1 dù 1 không thuộc S."
+  },
+  {
+    "level": 12,
+    "question": "Trong khoảng [0,2π), phương trình sin x = 0 có bao nhiêu nghiệm?",
+    "answers": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correct": 1,
+    "category": "Toán học",
+    "explanation": "Nghiệm trong khoảng nửa kín này là x=0 và x=π; 2π bị loại."
+  },
+  {
+    "level": 13,
+    "question": "Hàm số thực liên tục trên đoạn [a,b] đóng và hữu hạn luôn có tính chất nào?",
+    "answers": [
+      "Luôn đồng biến",
+      "Luôn chỉ có một nghiệm",
+      "Đạt giá trị lớn nhất và nhỏ nhất",
+      "Luôn khả vi"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Định lý giá trị cực trị bảo đảm hàm liên tục trên đoạn đóng đạt cả cực đại và cực tiểu toàn cục."
+  },
+  {
+    "level": 13,
+    "question": "Nếu f liên tục trên [a,b] và f(a)f(b)<0 thì kết luận nào chắc chắn đúng?",
+    "answers": [
+      "f có đúng một nghiệm",
+      "f khả vi tại mọi điểm",
+      "f luôn đồng biến",
+      "Có c∈(a,b) sao cho f(c)=0"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Định lý giá trị trung gian bảo đảm ít nhất một nghiệm bên trong đoạn."
+  },
+  {
+    "level": 9,
+    "question": "Trong nhóm 13 người, điều gì chắc chắn đúng nếu chỉ xét tháng sinh?",
+    "answers": [
+      "Tất cả sinh cùng tháng",
+      "Có người sinh vào từng tháng",
+      "Ít nhất ba người sinh cùng một tháng",
+      "Ít nhất hai người sinh cùng một tháng"
+    ],
+    "correct": 3,
+    "category": "Logic",
+    "explanation": "Chỉ có 12 tháng; nguyên lý Dirichlet bảo đảm ít nhất hai người cùng tháng sinh."
+  },
+  {
+    "level": 15,
+    "question": "Trong nhóm sáu người, quan hệ quen nhau đối xứng. Kết luận nào luôn đúng?",
+    "answers": [
+      "Có ba người đôi một quen nhau hoặc ba người đôi một không quen nhau",
+      "Có bốn người đôi một quen nhau",
+      "Có đúng một cặp quen nhau",
+      "Mọi người quen ít nhất ba người khác"
+    ],
+    "correct": 0,
+    "category": "Logic",
+    "explanation": "Định lý Ramsey R(3,3)=6 bảo đảm một trong hai nhóm ba người như vậy."
+  },
+  {
+    "level": 14,
+    "question": "Một cây nhị phân đầy đủ, mỗi nút trong có đúng hai con, có 10 nút trong. Cây có bao nhiêu lá?",
+    "answers": [
+      "20",
+      "21",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "category": "Toán học",
+    "explanation": "Trong cây nhị phân đầy đủ, số lá bằng số nút trong cộng 1."
+  },
+  {
+    "level": 11,
+    "question": "Thuật toán Euclid tìm ước chung lớn nhất dựa trên tính chất nào?",
+    "answers": [
+      "gcd(a,b)=ab",
+      "gcd(a,b)=a−b với mọi a,b",
+      "gcd(a,b)=gcd(b,a mod b)",
+      "gcd(a,b)=a+b"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "Thay cặp số bằng số chia và số dư không làm đổi ước chung lớn nhất."
+  },
+  {
+    "level": 13,
+    "question": "Trong số học modulo 7, nghịch đảo nhân của 3 là số nào?",
+    "answers": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "correct": 2,
+    "category": "Toán học",
+    "explanation": "3×5=15≡1 mod 7 nên 5 là nghịch đảo nhân của 3."
+  },
+  {
+    "level": 13,
+    "question": "Đồ thị đầy đủ K₄ có bao nhiêu cách ghép cặp hoàn hảo?",
+    "answers": [
+      "3",
+      "4",
+      "6",
+      "2"
+    ],
+    "correct": 0,
+    "category": "Toán học",
+    "explanation": "Ghép một đỉnh với một trong ba đỉnh còn lại; hai đỉnh còn lại tạo cặp còn lại."
+  },
+  {
+    "level": 14,
+    "question": "Có ba cửa, một cửa có giải và bạn chọn một cửa ngẫu nhiên. Người dẫn biết giải ở đâu, luôn mở một cửa khác không có giải rồi cho bạn đổi sang cửa còn lại. Xác suất thắng khi luôn đổi là bao nhiêu?",
+    "answers": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "2/3"
+    ],
+    "correct": 3,
+    "category": "Logic",
+    "explanation": "Đổi cửa thắng khi lựa chọn ban đầu sai; xác suất lựa chọn ban đầu sai là 2/3."
+  },
+  {
+    "level": 10,
+    "question": "Trong SQL, muốn kiểm tra một cột có giá trị NULL phải dùng điều kiện nào?",
+    "answers": [
+      "LIKE NULL",
+      "== NULL",
+      "= NULL",
+      "IS NULL"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "NULL biểu thị giá trị chưa biết; phép kiểm tra đúng là IS NULL."
+  },
+  {
+    "level": 12,
+    "question": "Trong SQL, mệnh đề nào lọc các nhóm sau khi GROUP BY?",
+    "answers": [
+      "WHERE",
+      "HAVING",
+      "LIMIT",
+      "ORDER BY"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "HAVING áp dụng điều kiện cho nhóm, thường dùng với hàm tổng hợp."
+  },
+  {
+    "level": 12,
+    "question": "LEFT JOIN trong SQL bảo đảm giữ lại những hàng nào?",
+    "answers": [
+      "Tất cả hàng của bảng bên phải",
+      "Tất cả hàng của bảng bên trái",
+      "Chỉ hàng có khóa trùng ở cả hai bảng",
+      "Chỉ hàng không khớp của bảng bên phải"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "LEFT JOIN giữ toàn bộ hàng bên trái và bổ sung dữ liệu khớp bên phải nếu có."
+  },
+  {
+    "level": 13,
+    "question": "Tính atomicity trong ACID bảo đảm điều gì cho một giao dịch?",
+    "answers": [
+      "Mọi bảng chỉ có một khóa",
+      "Dữ liệu luôn được nén",
+      "Mọi truy vấn đều chạy song song",
+      "Các thay đổi cùng thành công hoặc cùng bị hủy"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Tính nguyên tử ngăn giao dịch chỉ thực hiện một phần mà vẫn được coi là hoàn tất."
+  },
+  {
+    "level": 14,
+    "question": "Mục tiêu cốt lõi của chuẩn hóa cơ sở dữ liệu quan hệ là gì?",
+    "answers": [
+      "Gộp mọi dữ liệu thành một cột văn bản",
+      "Bảo đảm mọi truy vấn không cần chỉ mục",
+      "Xóa tất cả các khóa ngoại",
+      "Giảm dư thừa và các bất thường khi cập nhật"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Chuẩn hóa phân tách quan hệ theo phụ thuộc dữ liệu để hạn chế dư thừa và bất thường."
+  },
+  {
+    "level": 13,
+    "question": "Chỉ mục cơ sở dữ liệu thường có đánh đổi nào?",
+    "answers": [
+      "Luôn làm mọi thao tác ghi nhanh hơn",
+      "Loại bỏ hoàn toàn nhu cầu khóa chính",
+      "Tăng tốc nhiều truy vấn đọc nhưng tốn thêm lưu trữ và chi phí ghi",
+      "Bảo đảm dữ liệu không bao giờ mất"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Chỉ mục cần không gian và phải được cập nhật khi dữ liệu thay đổi."
+  },
+  {
+    "level": 14,
+    "question": "Trong cây B+ dùng làm chỉ mục, các mục dữ liệu hoặc con trỏ đến bản ghi thường nằm ở đâu?",
+    "answers": [
+      "Chỉ nút gốc",
+      "Chỉ các nút trong",
+      "Các nút lá",
+      "Một ngăn xếp bên ngoài cây"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Cây B+ giữ mục dữ liệu ở lá, còn nút trong chủ yếu dẫn hướng tìm kiếm."
+  },
+  {
+    "level": 15,
+    "question": "MVCC trong hệ quản trị cơ sở dữ liệu chủ yếu dùng cách nào để hỗ trợ đồng thời?",
+    "answers": [
+      "Xóa khóa chính trước khi ghi",
+      "Buộc mỗi bảng chỉ có một người dùng",
+      "Giữ nhiều phiên bản của dữ liệu",
+      "Sao chép mọi bảng ra tệp CSV sau mỗi truy vấn"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Multi-Version Concurrency Control cung cấp các phiên bản phù hợp cho giao dịch đọc đồng thời."
+  },
+  {
+    "level": 14,
+    "question": "Dirty read là tình huống một giao dịch đọc dữ liệu nào?",
+    "answers": [
+      "Dữ liệu đã commit từ lâu",
+      "Dữ liệu thay đổi bởi giao dịch khác chưa commit",
+      "Chỉ dữ liệu không có chỉ mục",
+      "Chỉ dữ liệu có lỗi chính tả"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Dirty read có thể thấy thay đổi sau đó bị rollback bởi giao dịch khác."
+  },
+  {
+    "level": 13,
+    "question": "Trình tự bắt tay ba bước để thiết lập kết nối TCP thông thường là gì?",
+    "answers": [
+      "FIN → FIN-ACK → RST",
+      "ACK → FIN → SYN",
+      "SYN → SYN-ACK → ACK",
+      "SYN → RST → FIN"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "TCP three-way handshake dùng SYN, SYN-ACK rồi ACK để đồng bộ kết nối."
+  },
+  {
+    "level": 11,
+    "question": "UDP có đặc điểm nào so với TCP?",
+    "answers": [
+      "Luôn bảo đảm đúng thứ tự nhận",
+      "Luôn tự truyền lại mọi gói mất",
+      "Không thiết lập kết nối và không tự bảo đảm giao hàng",
+      "Bắt buộc bắt tay ba bước"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "UDP là giao thức datagram không kết nối, không tự cung cấp bảo đảm giao hàng và thứ tự."
+  },
+  {
+    "level": 13,
+    "question": "Một mạng con IPv4 có tiền tố /26 chứa tổng cộng bao nhiêu địa chỉ?",
+    "answers": [
+      "32",
+      "64",
+      "128",
+      "26"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "IPv4 có 32 bit; /26 để lại 6 bit cho địa chỉ, nên có 2⁶=64 địa chỉ tổng cộng."
+  },
+  {
+    "level": 10,
+    "question": "Địa chỉ IPv6 có độ dài bao nhiêu bit?",
+    "answers": [
+      "32",
+      "64",
+      "256",
+      "128"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "IPv6 dùng địa chỉ 128 bit."
+  },
+  {
+    "level": 11,
+    "question": "Mặt nạ mạng IPv4 tương ứng với tiền tố /24 là gì?",
+    "answers": [
+      "255.255.0.0",
+      "255.0.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "/24 có 24 bit đầu bằng 1 và tám bit cuối bằng 0."
+  },
+  {
+    "level": 12,
+    "question": "Mã HTTP nào cho biết máy chủ chưa nhận được thông tin xác thực hợp lệ cho tài nguyên?",
+    "answers": [
+      "200",
+      "401",
+      "301",
+      "404"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "HTTP 401 Unauthorized yêu cầu thông tin xác thực hợp lệ, khác với 403 từ chối truy cập."
+  },
+  {
+    "level": 12,
+    "question": "Bản ghi DNS loại MX dùng để chỉ định gì?",
+    "answers": [
+      "Bí danh tên miền đơn thuần",
+      "Máy chủ nhận thư điện tử cho tên miền",
+      "Địa chỉ IPv6 trực tiếp",
+      "Máy chủ thời gian NTP"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Mail Exchange record xác định máy chủ xử lý thư gửi đến tên miền."
+  },
+  {
+    "level": 13,
+    "question": "Trong cơ chế chứng thư TLS phổ biến, CA đóng vai trò nào?",
+    "answers": [
+      "Giữ mọi khóa riêng của trình duyệt",
+      "Ký chứng thư liên kết danh tính với khóa công khai",
+      "Mã hóa trực tiếp mọi gói dữ liệu ứng dụng",
+      "Thay thế hoàn toàn DNS"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Certificate Authority ký chứng thư để phía kiểm tra xác minh liên kết danh tính và khóa công khai."
+  },
+  {
+    "level": 12,
+    "question": "Thuật toán nào dưới đây là mã hóa đối xứng?",
+    "answers": [
+      "RSA",
+      "DSA",
+      "AES",
+      "ECDSA"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "AES dùng khóa đối xứng; RSA là bất đối xứng, ECDSA và DSA là chữ ký số."
+  },
+  {
+    "level": 13,
+    "question": "Để gửi thông điệp bí mật cho người nhận bằng mã hóa khóa công khai, người gửi thường dùng khóa nào?",
+    "answers": [
+      "Khóa riêng của CA",
+      "Khóa công khai của người gửi",
+      "Khóa công khai của người nhận",
+      "Khóa riêng của người nhận"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Người nhận giải mã bằng khóa riêng tương ứng với khóa công khai đã được dùng để mã hóa."
+  },
+  {
+    "level": 14,
+    "question": "Chữ ký số hợp lệ chủ yếu cho phép xác minh điều gì?",
+    "answers": [
+      "Thiết bị ký không thể bị đánh cắp",
+      "Thông điệp luôn đến trong một giây",
+      "Nội dung luôn được giữ bí mật",
+      "Tính toàn vẹn và nguồn ký theo khóa công khai"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Chữ ký số cho phép kiểm tra dữ liệu chưa đổi và được ký bằng khóa riêng tương ứng."
+  },
+  {
+    "level": 13,
+    "question": "Va chạm của hàm băm là trường hợp nào?",
+    "answers": [
+      "Tệp dữ liệu được sao chép nguyên vẹn",
+      "Giá trị băm có độ dài cố định",
+      "Hai đầu vào khác nhau cho cùng một giá trị băm",
+      "Một đầu vào được băm hai lần cho cùng kết quả"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Collision xảy ra khi hai đầu vào phân biệt có cùng đầu ra băm."
+  },
+  {
+    "level": 14,
+    "question": "Salt trong lưu mật khẩu băm giúp chống cách tấn công nào?",
+    "answers": [
+      "Dùng bảng băm được tính sẵn cho nhiều tài khoản",
+      "Nghe lén mọi lưu lượng TLS trực tiếp",
+      "Đọc dữ liệu đã giải mã trên màn hình",
+      "Đoán tên miền qua DNS"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Salt riêng cho mỗi mật khẩu khiến bảng tính sẵn khó tái sử dụng giữa các tài khoản."
+  },
+  {
+    "level": 13,
+    "question": "Prepared statement với tham số dữ liệu chủ yếu giúp ngăn lỗi bảo mật nào?",
+    "answers": [
+      "SQL injection",
+      "Đánh cắp thiết bị vật lý",
+      "Tràn bộ đệm của trình điều khiển đồ họa",
+      "Tấn công từ chối dịch vụ mạng bằng lưu lượng lớn"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Tham số được xử lý như dữ liệu thay vì ghép vào cú pháp câu lệnh SQL."
+  },
+  {
+    "level": 14,
+    "question": "CSRF khai thác tình huống nào?",
+    "answers": [
+      "Máy chủ không hỗ trợ IPv6",
+      "Kẻ tấn công chỉ biết một giá trị băm tệp",
+      "Trình duyệt đã đăng nhập bị dụ gửi yêu cầu ngoài ý muốn",
+      "Ổ đĩa không có đủ dung lượng"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "CSRF lợi dụng thông tin xác thực tự động đi kèm yêu cầu của trình duyệt đến dịch vụ."
+  },
+  {
+    "level": 14,
+    "question": "Same-origin policy của trình duyệt xác định một origin chủ yếu bằng bộ ba nào?",
+    "answers": [
+      "Đường dẫn, chuỗi truy vấn và fragment",
+      "Địa chỉ MAC, subnet và gateway",
+      "Giao thức, tên máy chủ và cổng",
+      "Tên người dùng, mật khẩu và cookie"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Hai URL cùng origin khi cùng scheme, host và port hiệu dụng."
+  },
+  {
+    "level": 13,
+    "question": "Chỉ thị HTTP Cache-Control: no-store yêu cầu bộ nhớ đệm làm gì?",
+    "answers": [
+      "Luôn lưu phản hồi vô thời hạn",
+      "Không lưu phản hồi",
+      "Chỉ bỏ qua kiểm tra ETag",
+      "Luôn biến phản hồi thành 304"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "no-store yêu cầu không lưu nội dung yêu cầu/phản hồi vào cache."
+  },
+  {
+    "level": 14,
+    "question": "Race condition có thể xảy ra khi nào?",
+    "answers": [
+      "Kết quả phụ thuộc vào thứ tự xen kẽ thao tác đồng thời trên trạng thái dùng chung",
+      "Một hàm thuần được gọi duy nhất một lần",
+      "Mọi luồng chỉ đọc hằng số bất biến",
+      "Tệp mã nguồn có hai hàm cùng độ dài"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Thiếu đồng bộ có thể làm kết quả thay đổi tùy lịch thực thi các thao tác đồng thời."
+  },
+  {
+    "level": 15,
+    "question": "Điều kiện nào thuộc bốn điều kiện Coffman cần cho deadlock cổ điển?",
+    "answers": [
+      "Mọi tiến trình luôn nhả hết tài nguyên trước khi đợi",
+      "Chờ theo vòng",
+      "Không có loại trừ tương hỗ",
+      "Mọi tài nguyên đều có thể thu hồi ngay"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Circular wait cùng loại trừ tương hỗ, giữ và chờ, không thu hồi tạo điều kiện cho deadlock."
+  },
+  {
+    "level": 14,
+    "question": "Semaphore đếm khác mutex chủ yếu ở khả năng nào?",
+    "answers": [
+      "Không bao giờ làm luồng chờ",
+      "Luôn mã hóa dữ liệu dùng chung",
+      "Chỉ dùng được trong một luồng",
+      "Cho phép kiểm soát một số lượng hữu hạn lượt truy cập đồng thời"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Semaphore dùng bộ đếm để quản lý nhiều giấy phép truy cập, còn mutex thường bảo vệ loại trừ một chủ sở hữu."
+  },
+  {
+    "level": 14,
+    "question": "Page fault trong bộ nhớ ảo thường xảy ra khi nào?",
+    "answers": [
+      "Chỉ khi RAM bị hỏng vật lý",
+      "Mỗi lần tệp văn bản đổi tên",
+      "Mọi lần CPU cộng hai số nguyên",
+      "Tiến trình truy cập trang chưa hiện diện hoặc không được phép truy cập"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Page fault là bẫy khi ánh xạ trang không hiện diện hoặc vi phạm quyền, không đồng nghĩa RAM hỏng."
+  },
+  {
+    "level": 13,
+    "question": "Lập lịch CPU có quyền ưu tiên thu hồi (preemptive) cho phép điều gì?",
+    "answers": [
+      "Tiến trình giữ CPU đến khi tự nhường trong mọi trường hợp",
+      "Hệ điều hành ngắt tiến trình đang chạy để cấp CPU cho tiến trình khác",
+      "Mọi tiến trình chạy đồng thời trên một lõi",
+      "Bỏ qua hoàn toàn các ngắt phần cứng"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Preemption cho phép bộ lập lịch lấy lại CPU từ tiến trình đang chạy."
+  },
+  {
+    "level": 12,
+    "question": "Nếu đệ quy quá sâu mà không tối ưu lời gọi đuôi, tài nguyên nào thường bị cạn trước?",
+    "answers": [
+      "Ngăn xếp lời gọi",
+      "Bảng DNS",
+      "Không gian tên miền",
+      "Bộ đệm máy in"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Mỗi lời gọi thường tạo một khung trên call stack; đệ quy quá sâu có thể gây stack overflow."
+  },
+  {
+    "level": 14,
+    "question": "Binary min-heap bảo đảm quan hệ nào giữa mỗi nút và các con của nó?",
+    "answers": [
+      "Mọi lá đều có cùng khóa",
+      "Khóa của nút không lớn hơn khóa của các con",
+      "Toàn bộ mảng lưu heap được sắp tăng",
+      "Mọi nút bên trái nhỏ hơn mọi nút bên phải"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Min-heap bảo đảm tính chất thứ tự cha≤con, không bảo đảm toàn bộ mảng được sắp tăng."
+  },
+  {
+    "level": 13,
+    "question": "Khi mọi cạnh của đồ thị không trọng số được xem có cùng chi phí, thuật toán nào tìm số cạnh ít nhất từ một nguồn?",
+    "answers": [
+      "BFS",
+      "Prim",
+      "Kruskal",
+      "DFS"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "BFS duyệt theo từng lớp khoảng cách nên tìm đường đi có số cạnh tối thiểu."
+  },
+  {
+    "level": 14,
+    "question": "Thuật toán Bellman–Ford có thể xử lý loại trọng số nào mà Dijkstra chuẩn không bảo đảm đúng?",
+    "answers": [
+      "Chỉ trọng số nguyên dương",
+      "Trọng số âm",
+      "Chỉ trọng số bằng 1",
+      "Chỉ đồ thị không có cạnh"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Bellman–Ford xử lý cạnh âm và phát hiện chu trình âm có thể tới từ nguồn."
+  },
+  {
+    "level": 14,
+    "question": "Mục tiêu của thuật toán Kruskal trên đồ thị vô hướng có trọng số là gì?",
+    "answers": [
+      "Tìm cây khung nhỏ nhất",
+      "Tìm thành phần liên thông mạnh trong đồ thị có hướng",
+      "Tô màu đồ thị tối ưu",
+      "Tìm đường đi Hamilton ngắn nhất"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Kruskal chọn cạnh theo trọng số tăng dần để xây cây khung nhỏ nhất mà không tạo chu trình."
+  },
+  {
+    "level": 15,
+    "question": "Một đồ thị có hướng có thứ tự topo khi và chỉ khi thỏa điều kiện nào?",
+    "answers": [
+      "Không có chu trình có hướng",
+      "Mọi đỉnh có cùng bậc",
+      "Có đúng một thành phần liên thông mạnh",
+      "Mỗi cạnh có trọng số dương"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Sắp xếp topo tồn tại chính xác với đồ thị có hướng không chu trình, tức DAG."
+  },
+  {
+    "level": 13,
+    "question": "Bộ nhớ phụ của merge sort chuẩn trên mảng thường có độ lớn nào?",
+    "answers": [
+      "O(log n) duy nhất",
+      "O(n)",
+      "O(1)",
+      "O(n²)"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Merge sort trên mảng thường cần mảng phụ tuyến tính để trộn các phần đã sắp."
+  },
+  {
+    "level": 14,
+    "question": "Độ phức tạp xấu nhất của quicksort chuẩn khi chia mảng rất lệch liên tiếp là gì?",
+    "answers": [
+      "O(n²)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n) luôn luôn"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Nếu mỗi lần chỉ tách được một phần tử, tổng công việc là n+(n−1)+… nên bậc hai."
+  },
+  {
+    "level": 15,
+    "question": "Trong Union–Find, path compression thay đổi cấu trúc thế nào?",
+    "answers": [
+      "Xóa tất cả cây ngoài cây lớn nhất",
+      "Sắp xếp toàn bộ phần tử theo giá trị",
+      "Đảo hướng mọi cạnh để tạo chu trình",
+      "Cho các nút trên đường tìm gốc trỏ trực tiếp về gốc"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Nén đường đi rút ngắn các lần find sau bằng cách cập nhật cha về đại diện tập."
+  },
+  {
+    "level": 14,
+    "question": "Trong thuật toán A*, heuristic chấp nhận được (admissible) phải thỏa điều kiện nào?",
+    "answers": [
+      "Không vượt quá chi phí tối ưu thực đến đích",
+      "Luôn bằng khoảng cách Euclid",
+      "Luôn lớn hơn mọi chi phí thực",
+      "Luôn là số nguyên dương"
+    ],
+    "correct": 0,
+    "category": "Công nghệ",
+    "explanation": "Admissible heuristic là ước lượng không đánh giá quá cao chi phí còn lại tối ưu."
+  },
+  {
+    "level": 13,
+    "question": "Tràn số nguyên có dấu trong C theo chuẩn ngôn ngữ có tính chất nào?",
+    "answers": [
+      "Luôn trả về giá trị 0",
+      "Luôn cuộn vòng theo modulo như unsigned",
+      "Luôn ném ngoại lệ tự động",
+      "Hành vi không xác định"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "Chuẩn C quy định signed integer overflow là undefined behavior."
+  },
+  {
+    "level": 14,
+    "question": "Trong Python 3, biểu thức [] is [] cho kết quả nào?",
+    "answers": [
+      "None",
+      "Lỗi cú pháp",
+      "False",
+      "True"
+    ],
+    "correct": 2,
+    "category": "Công nghệ",
+    "explanation": "Hai biểu thức tạo hai đối tượng danh sách khác nhau; is kiểm tra danh tính đối tượng."
+  },
+  {
+    "level": 13,
+    "question": "Trong JavaScript, khác biệt cơ bản giữa === và == là gì?",
+    "answers": [
+      "=== luôn so sánh chuỗi theo thứ tự từ điển",
+      "=== không thực hiện ép kiểu trước khi so sánh",
+      "=== chỉ so sánh địa chỉ bộ nhớ",
+      "== chỉ dùng được với số nguyên"
+    ],
+    "correct": 1,
+    "category": "Công nghệ",
+    "explanation": "Strict equality không chuyển kiểu như loose equality, dù quy tắc số và NaN vẫn có các trường hợp riêng."
+  },
+  {
+    "level": 14,
+    "question": "Trong HTTP, phương thức nào được định nghĩa là idempotent nhưng không được xem là safe?",
+    "answers": [
+      "OPTIONS",
+      "HEAD",
+      "GET",
+      "PUT"
+    ],
+    "correct": 3,
+    "category": "Công nghệ",
+    "explanation": "PUT có thể thay đổi tài nguyên, nên không safe; lặp lại cùng yêu cầu có cùng hiệu lực dự định nên idempotent."
+  }
+]

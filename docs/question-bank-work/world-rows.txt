@@ -1,0 +1,275 @@
+2|Địa lý|Phía đông phần đất liền Việt Nam tiếp giáp vùng biển nào?|Biển Đông|Biển Đỏ|Biển Baltic|Biển Caribe|Phía đông đất liền Việt Nam giáp Biển Đông.
+3|Địa lý|Đồng bằng sông Cửu Long nằm ở phần nào của Việt Nam?|Miền Nam|Miền Bắc|Bắc Trung Bộ|Tây Bắc|Đồng bằng sông Cửu Long là vùng đồng bằng ở cực nam Việt Nam.
+3|Địa lý|Sông Hồng còn có tên gọi nào gắn với màu phù sa?|Sông Cái|Sông Hàn|Sông Thu Bồn|Sông Đồng Nai|Sông Hồng còn được gọi là sông Cái.
+4|Địa lý|Đèo Hải Vân chạy qua nhánh núi đâm ra sát vùng nào?|Biển Đông|Hồ Tây|Biển Caspi|Vịnh Mexico|Dãy núi ở Hải Vân vươn ra sát Biển Đông.
+3|Địa lý|Việt Nam có đường biên giới trên đất liền với nước nào sau đây?|Lào|Malaysia|Singapore|Indonesia|Việt Nam có biên giới đất liền với Lào, Campuchia và Trung Quốc.
+4|Địa lý|Quốc gia nào có hình dáng lãnh thổ thường được ví như chiếc ủng?|Ý|Na Uy|Bồ Đào Nha|Phần Lan|Bán đảo Ý có hình dáng gần giống một chiếc ủng.
+3|Địa lý|Sa mạc Sahara nằm ở châu lục nào?|Châu Phi|Châu Âu|Nam Mỹ|Châu Nam Cực|Sahara trải rộng ở Bắc Phi.
+4|Địa lý|Dãy Andes chạy dọc phía nào của Nam Mỹ?|Phía tây|Phía đông|Phía bắc|Phía nam|Andes kéo dài dọc rìa phía tây Nam Mỹ.
+3|Địa lý|Quốc gia nào dưới đây là một quần đảo ở Đông Á?|Nhật Bản|Mông Cổ|Nepal|Bhutan|Nhật Bản là quốc gia quần đảo nằm ngoài khơi phía đông châu Á.
+3|Địa lý|Đường xích đạo chia Trái Đất thành hai nửa nào?|Bắc bán cầu và Nam bán cầu|Đông bán cầu và Tây bán cầu|Đất liền và đại dương|Vùng núi và đồng bằng|Xích đạo có vĩ độ 0°, chia Bắc bán cầu và Nam bán cầu.
+4|Địa lý|Trên bản đồ có hướng bắc ở phía trên, hướng tây nằm phía nào?|Bên trái|Bên phải|Phía trên|Phía dưới|Khi bắc ở trên thì nam ở dưới, đông bên phải và tây bên trái.
+4|Địa lý|Kim tự tháp Giza nằm ở quốc gia nào?|Ai Cập|Mexico|Hy Lạp|Ấn Độ|Quần thể kim tự tháp Giza nằm tại Ai Cập.
+4|Địa lý|Thành phố Paris nằm bên dòng sông nào?|Seine|Danube|Volga|Nile|Sông Seine chảy qua Paris.
+5|Địa lý|Thủ đô của Canada là thành phố nào?|Ottawa|Toronto|Vancouver|Montréal|Ottawa là thủ đô Canada.
+5|Địa lý|Bangkok là thủ đô của quốc gia nào?|Thái Lan|Lào|Campuchia|Myanmar|Bangkok là thủ đô Thái Lan.
+3|Địa lý|Bắc Cực chủ yếu nằm trên dạng bề mặt nào?|Đại dương phủ băng|Một lục địa đá lớn|Sa mạc cát|Rừng nhiệt đới|Bắc Cực nằm trên Bắc Băng Dương, khác với lục địa Nam Cực.
+5|Địa lý|Nước nào sau đây không có đường bờ biển?|Mông Cổ|Việt Nam|Hàn Quốc|Thái Lan|Mông Cổ nằm giữa Nga và Trung Quốc, không giáp biển.
+4|Địa lý|Lục địa Nam Cực nằm quanh cực nào?|Cực Nam|Cực Bắc|Cả hai cực|Không cực nào|Nam Cực bao quanh Cực Nam địa lý.
+3|Địa lý|Biển nào trong các lựa chọn nằm giữa châu Âu và châu Phi?|Địa Trung Hải|Biển Nhật Bản|Biển Đông|Biển Caribe|Địa Trung Hải nằm phía nam châu Âu và phía bắc châu Phi.
+5|Địa lý|Đảo Greenland thuộc vùng nào của Trái Đất?|Bắc bán cầu|Nam bán cầu|Hoàn toàn trên xích đạo|Hoàn toàn trong châu Nam Cực|Greenland nằm ở Bắc bán cầu, phần lớn trong vùng Bắc Cực.
+5|Địa lý|Trong các nước sau, nước nào thuộc Nam Mỹ?|Peru|Canada|Ai Cập|Nepal|Peru nằm ở phía tây Nam Mỹ.
+4|Địa lý|Dạng địa hình có đất thấp, khá bằng phẳng và thường được sông bồi đắp gọi là gì?|Đồng bằng|Đỉnh núi|Hẻm vực|Vách đá|Đồng bằng châu thổ thường hình thành từ phù sa sông.
+5|Địa lý|Đà Lạt gắn với cao nguyên nào?|Lâm Viên|Mộc Châu|Đồng Văn|Sơn La|Đà Lạt nằm trên cao nguyên Lâm Viên.
+5|Địa lý|Lục địa nào có cả lưu vực sông Amazon và dãy Andes?|Nam Mỹ|Bắc Mỹ|Châu Phi|Châu Âu|Amazon và Andes đều thuộc Nam Mỹ.
+4|Địa lý|Quốc gia nào ở châu Á có quốc kỳ hình chữ nhật với nền đỏ và một ngôi sao vàng năm cánh ở giữa?|Việt Nam|Nhật Bản|Hàn Quốc|Bangladesh|Quốc kỳ Việt Nam có nền đỏ và ngôi sao vàng năm cánh.
+3|Lịch sử|Hai Bà Trưng là tên gọi chung của Trưng Trắc và ai?|Trưng Nhị|Bà Triệu|Nguyên Phi Ỷ Lan|Lê Chân|Hai Bà Trưng gồm hai chị em Trưng Trắc và Trưng Nhị.
+4|Lịch sử|Ai chỉ huy chiến thắng Bạch Đằng năm 938?|Ngô Quyền|Lê Lợi|Quang Trung|Lý Công Uẩn|Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng năm 938.
+4|Lịch sử|Quang Trung là niên hiệu của vị vua nào?|Nguyễn Huệ|Nguyễn Ánh|Nguyễn Nhạc|Nguyễn Lữ|Nguyễn Huệ lên ngôi hoàng đế với niên hiệu Quang Trung.
+4|Lịch sử|Hồ Chí Minh đọc Tuyên ngôn Độc lập ngày 2/9/1945 tại quảng trường nào?|Ba Đình|Đông Kinh Nghĩa Thục|Lâm Viên|Ngọ Môn|Lễ tuyên bố độc lập diễn ra ở Quảng trường Ba Đình, Hà Nội.
+5|Lịch sử|Vương triều nào xây dựng kinh đô Huế và tồn tại từ năm 1802 đến 1945?|Nhà Nguyễn|Nhà Lý|Nhà Trần|Nhà Hồ|Nhà Nguyễn đặt kinh đô tại Huế và tồn tại từ 1802 đến 1945.
+5|Lịch sử|Nước Việt Nam Dân chủ Cộng hòa được thành lập vào năm nào?|1945|1930|1954|1976|Nước Việt Nam Dân chủ Cộng hòa được tuyên bố thành lập ngày 2/9/1945.
+5|Lịch sử|Ai là người sáng lập nhà Lý năm 1009?|Lý Công Uẩn|Lý Thường Kiệt|Lý Nhân Tông|Lý Chiêu Hoàng|Lý Công Uẩn lên ngôi năm 1009, tức Lý Thái Tổ.
+4|Lịch sử|Thành Cổ Loa gắn với vị vua nào của nước Âu Lạc?|An Dương Vương|Lê Thánh Tông|Trần Nhân Tông|Gia Long|An Dương Vương đặt kinh đô Âu Lạc tại Cổ Loa.
+5|Lịch sử|Cách mạng Pháp nổi tiếng bắt đầu vào năm nào?|1789|1492|1815|1917|Cách mạng Pháp bắt đầu năm 1789, gắn với sự kiện phá ngục Bastille.
+5|Lịch sử|Chiến tranh thế giới thứ hai kết thúc vào năm nào?|1945|1918|1939|1954|Chiến tranh thế giới thứ hai kết thúc năm 1945.
+5|Lịch sử|Đấu trường Colosseum được xây dựng bởi nền văn minh nào?|La Mã cổ đại|Ai Cập cổ đại|Maya|Lưỡng Hà|Colosseum là đấu trường lớn của La Mã cổ đại.
+4|Lịch sử|Các pharaoh là người đứng đầu nền văn minh cổ đại nào?|Ai Cập|Hy Lạp|Maya|Trung Hoa|Pharaoh là danh xưng gắn với các vị vua Ai Cập cổ đại.
+5|Lịch sử|Ai lãnh đạo phong trào đấu tranh bất bạo động giành độc lập cho Ấn Độ?|Mahatma Gandhi|Nelson Mandela|Simón Bolívar|Abraham Lincoln|Mahatma Gandhi là nhân vật tiêu biểu của phong trào độc lập Ấn Độ bằng phương pháp bất bạo động.
+5|Lịch sử|Bức tường Berlin từng chia cắt thành phố nào?|Berlin|Paris|Vienna|Prague|Bức tường Berlin ngăn cách hai phần thành phố Berlin từ 1961 đến 1989.
+5|Lịch sử|Tuyên ngôn Độc lập của Hoa Kỳ được thông qua năm nào?|1776|1789|1812|1865|Tuyên ngôn Độc lập được thông qua ngày 4/7/1776.
+2|Toán học|Hình vuông có bao nhiêu trục đối xứng?|Bốn|Một|Hai|Ba|Hai đường chéo và hai đường qua trung điểm các cạnh đối diện là bốn trục đối xứng.
+3|Toán học|Số tự nhiên nào không là số nguyên tố cũng không là hợp số?|1|2|3|4|Số 1 chỉ có một ước dương nên không là số nguyên tố hoặc hợp số.
+4|Toán học|Tổng ba góc trong của một tam giác phẳng bằng bao nhiêu độ?|180°|90°|270°|360°|Trong hình học Euclid, ba góc trong của tam giác có tổng 180°.
+3|Toán học|Phân số nào bằng một nửa?|3/6|2/3|3/4|4/5|Rút gọn 3/6 được 1/2.
+4|Toán học|Một góc lớn hơn 90° nhưng nhỏ hơn 180° gọi là góc gì?|Góc tù|Góc nhọn|Góc vuông|Góc bẹt|Góc tù có số đo nằm giữa 90° và 180°.
+4|Toán học|Trong các số sau, số nào chia hết cho cả 2 và 5?|30|15|22|27|Một số chia hết cho cả 2 và 5 khi chữ số tận cùng là 0.
+3|Toán học|Số đối của -7 là số nào?|7|-7|0|1/7|Hai số đối có tổng bằng 0; -7 + 7 = 0.
+4|Toán học|Phân số có tử số bằng mẫu số khác 0 có giá trị bằng bao nhiêu?|1|0|-1|Không xác định|Một số khác 0 chia cho chính nó bằng 1.
+4|Toán học|Chu vi hình chữ nhật có chiều dài a và chiều rộng b được tính thế nào?|2(a+b)|ab|a+b|2ab|Chu vi là tổng bốn cạnh: a+b+a+b.
+5|Toán học|Đường nối tâm với một điểm trên đường tròn được gọi là gì?|Bán kính|Đường kính|Tiếp tuyến|Dây cung|Bán kính nối tâm với một điểm thuộc đường tròn.
+4|Toán học|Khối lập phương có bao nhiêu mặt?|6|4|8|12|Khối lập phương được bao bởi sáu mặt hình vuông.
+5|Toán học|Để biểu diễn 25% dưới dạng phân số tối giản, ta dùng phân số nào?|1/4|1/2|3/4|1/5|25% = 25/100 = 1/4.
+5|Toán học|Hai đường thẳng cùng nằm trong một mặt phẳng và không giao nhau gọi là gì?|Hai đường thẳng song song|Hai đường thẳng vuông góc|Hai đường thẳng cắt nhau|Hai đường thẳng trùng nhau|Hai đường thẳng phân biệt trong một mặt phẳng không có điểm chung thì song song.
+5|Toán học|Trong một tam giác vuông, cạnh đối diện góc vuông gọi là gì?|Cạnh huyền|Đường cao|Trung tuyến|Phân giác|Cạnh huyền là cạnh đối diện góc vuông và dài nhất trong tam giác vuông.
+5|Logic|Nếu mọi hình vuông đều là hình chữ nhật, khẳng định nào chắc chắn đúng?|Một hình vuông bất kỳ là hình chữ nhật|Mọi hình chữ nhật đều là hình vuông|Không hình vuông nào là hình chữ nhật|Mọi hình chữ nhật đều có bốn cạnh bằng nhau|Quan hệ bao hàm cho phép suy ra hình vuông là hình chữ nhật, không suy ngược lại.
+2|Công nghệ|Thiết bị nào dùng chủ yếu để nhập ký tự vào máy tính?|Bàn phím|Màn hình|Loa|Máy chiếu|Bàn phím là thiết bị nhập văn bản và lệnh.
+3|Công nghệ|Phần mềm nào dưới đây là một trình duyệt web?|Mozilla Firefox|Microsoft Excel|Adobe Photoshop|VLC Media Player|Firefox là trình duyệt web.
+4|Công nghệ|Tệp có phần mở rộng .jpg thường chứa loại dữ liệu nào?|Ảnh|Bảng tính|Chương trình thực thi|Âm thanh MIDI|JPEG là định dạng ảnh, thường có phần mở rộng .jpg hoặc .jpeg.
+4|Công nghệ|Trong thư điện tử, ký tự nào ngăn phần tên hộp thư và tên miền?|@|#|%|&|Địa chỉ email có cấu trúc phổ biến như ten@tenmien.
+4|Công nghệ|Phím Enter thường dùng để làm gì khi đang gõ văn bản thuần?|Xuống dòng|Xóa ký tự trước con trỏ|Bật chữ hoa|Di chuyển con trỏ sang trái|Trong trình soạn thảo văn bản thuần, Enter chèn một dòng mới.
+5|Công nghệ|Phần mềm bảng tính Microsoft Excel sắp xếp dữ liệu theo cấu trúc nào?|Hàng và cột|Chỉ các trang ảnh|Chỉ các đoạn phim|Chỉ các tệp âm thanh|Các ô trong Excel nằm tại giao điểm của hàng và cột.
+5|Công nghệ|Một bản sao dữ liệu dùng để phục hồi khi bản gốc bị mất gọi là gì?|Bản sao lưu|Bản xem trước|Bộ nhớ đệm|Lối tắt|Bản sao lưu được giữ để khôi phục dữ liệu khi cần.
+4|Công nghệ|Thiết bị nào sau đây là thiết bị xuất âm thanh?|Loa|Chuột|Máy quét|Bàn phím|Loa phát âm thanh từ máy tính ra môi trường.
+5|Công nghệ|Trong máy tính, CPU thường được gọi là bộ phận nào?|Bộ xử lý trung tâm|Bộ nhớ chỉ đọc|Ổ lưu trữ quang|Bộ nguồn điện|CPU là viết tắt của Central Processing Unit, bộ xử lý trung tâm.
+5|Công nghệ|Trong phần cứng máy tính, GPU thường đảm nhiệm loại xử lý nào?|Xử lý đồ họa|Cấp điện cho máy|Ghi dữ liệu lên đĩa quang|Quét tài liệu giấy|GPU là bộ xử lý đồ họa, chuyên xử lý nhiều tác vụ hình ảnh và tính toán song song.
+6|Địa lý|Đồng bằng sông Hồng chủ yếu được bồi đắp bởi sông Hồng và hệ thống sông nào?|Thái Bình|Đồng Nai|Ba|Thu Bồn|Phù sa hệ thống sông Hồng và sông Thái Bình tạo nên đồng bằng sông Hồng.
+6|Địa lý|Sông Tiền và sông Hậu là hai nhánh lớn của hệ thống sông nào ở Việt Nam?|Mê Kông|Sông Hồng|Sông Mã|Sông Cả|Khi vào đồng bằng Việt Nam, Mê Kông có hai nhánh lớn là sông Tiền và sông Hậu.
+7|Địa lý|Dãy Trường Sơn chạy chủ yếu theo hướng nào?|Tây bắc–đông nam|Đông bắc–tây nam|Đông–tây|Bắc–nam tuyệt đối|Hướng chủ yếu của Trường Sơn là tây bắc–đông nam.
+7|Địa lý|Hang Sơn Đoòng thuộc hệ thống núi đá có loại đá đặc trưng nào?|Đá vôi|Đá bazan|Đá sa thạch|Đá granit|Sơn Đoòng hình thành trong khối núi đá vôi ở Phong Nha–Kẻ Bàng.
+8|Địa lý|Quần đảo Cát Bà nằm ở vịnh nào?|Vịnh Bắc Bộ|Vịnh Thái Lan|Vịnh Bengal|Vịnh Ba Tư|Cát Bà nằm ở vùng biển phía bắc Việt Nam thuộc Vịnh Bắc Bộ.
+10|Địa lý|Sông Đồng Nai đổ ra biển qua vùng cửa sông nào cùng sông Sài Gòn?|Soài Rạp|Ba Lạt|Cửa Việt|Cửa Tùng|Hệ thống Đồng Nai–Sài Gòn thoát nước ra biển qua các cửa trong đó có Soài Rạp.
+6|Địa lý|Phú Quốc nằm trong vịnh nào?|Vịnh Thái Lan|Vịnh Bắc Bộ|Vịnh Oman|Vịnh Mexico|Đảo Phú Quốc nằm ở phía đông Vịnh Thái Lan.
+7|Địa lý|Biển Hồ Tonlé Sap nằm ở quốc gia nào?|Campuchia|Lào|Thái Lan|Myanmar|Tonlé Sap là hồ lớn ở Campuchia, nối với sông Mê Kông.
+6|Địa lý|Kênh đào Panama nối những đại dương nào?|Đại Tây Dương và Thái Bình Dương|Ấn Độ Dương và Bắc Băng Dương|Đại Tây Dương và Ấn Độ Dương|Thái Bình Dương và Nam Đại Dương|Kênh Panama đi qua eo đất Trung Mỹ, nối Đại Tây Dương với Thái Bình Dương.
+8|Địa lý|Eo biển Bering ngăn cách hai khối lục địa nào?|Châu Á và Bắc Mỹ|Châu Âu và châu Phi|Nam Mỹ và Nam Cực|Châu Á và Australia|Bering nằm giữa cực đông châu Á và Alaska của Bắc Mỹ.
+4|Địa lý|Dãy Alps nằm chủ yếu ở châu lục nào?|Châu Âu|Châu Á|Châu Phi|Nam Mỹ|Alps là hệ thống núi lớn của châu Âu.
+5|Địa lý|Cao nguyên Tây Tạng nằm chủ yếu ở khu vực nào?|Châu Á|Châu Phi|Bắc Mỹ|Australia|Cao nguyên Tây Tạng nằm ở châu Á, phía bắc Himalaya.
+9|Địa lý|Sông Danube chảy qua thủ đô nào dưới đây?|Budapest|Madrid|Lisbon|Stockholm|Budapest nằm bên sông Danube.
+7|Địa lý|Biển Caspi được phân loại về địa lý là gì?|Hồ nội lục|Một phần mở của Đại Tây Dương|Một eo biển|Một vịnh của Thái Bình Dương|Caspi là khối nước nội lục không có đường thoát tự nhiên ra đại dương.
+7|Địa lý|Thác Niagara nằm trên biên giới của hai nước nào?|Hoa Kỳ và Canada|Hoa Kỳ và Mexico|Brazil và Argentina|Pháp và Đức|Thác Niagara nằm ở biên giới Canada–Hoa Kỳ.
+10|Địa lý|Thác Victoria nằm trên con sông nào?|Zambezi|Nile|Congo|Niger|Thác Victoria được tạo bởi sông Zambezi ở miền nam châu Phi.
+8|Địa lý|Hồ Baikal nằm ở quốc gia nào?|Nga|Canada|Mông Cổ|Kazakhstan|Baikal nằm tại Siberia của Nga.
+9|Địa lý|Kalahari là vùng hoang mạc nằm ở khu vực nào?|Miền nam châu Phi|Miền bắc châu Âu|Trung Mỹ|Miền đông Australia|Kalahari trải trên phần miền nam châu Phi, chủ yếu ở Botswana.
+7|Địa lý|Rừng mưa Amazon nằm phần lớn trên lãnh thổ nước nào?|Brazil|Chile|Uruguay|Paraguay|Phần lớn rừng mưa Amazon nằm tại Brazil.
+10|Địa lý|Eo biển Malacca nằm giữa bán đảo Mã Lai và đảo nào?|Sumatra|Java|Luzon|Honshu|Malacca ngăn bán đảo Mã Lai với đảo Sumatra.
+11|Địa lý|Đảo Borneo có lãnh thổ của Indonesia, Malaysia và nước nào?|Brunei|Singapore|Timor-Leste|Philippines|Borneo được chia giữa Indonesia, Malaysia và Brunei.
+10|Địa lý|Sông Rhine đổ ra vùng biển nào?|Biển Bắc|Biển Đen|Biển Đỏ|Biển Baltic|Rhine chảy qua Tây Âu rồi đổ vào Biển Bắc.
+8|Địa lý|Dãy Ural thường được xem là một phần ranh giới giữa hai châu lục nào?|Châu Âu và châu Á|Châu Á và châu Phi|Bắc Mỹ và Nam Mỹ|Châu Phi và châu Âu ở Địa Trung Hải|Ural là một phần ranh giới quy ước giữa châu Âu và châu Á.
+7|Địa lý|Quốc gia nào có hai đảo lớn gọi là Đảo Bắc và Đảo Nam?|New Zealand|Iceland|Sri Lanka|Cuba|Hai đảo chính của New Zealand được gọi là North Island và South Island.
+11|Địa lý|Đảo Iceland nằm trên sống núi giữa đại dương nào?|Đại Tây Dương|Thái Bình Dương|Ấn Độ Dương|Bắc Băng Dương|Iceland nằm trên phần nổi của Sống núi giữa Đại Tây Dương.
+6|Lịch sử|Cuộc kháng chiến chống Tống năm 1075–1077 gắn với vị tướng nào?|Lý Thường Kiệt|Nguyễn Huệ|Lê Lợi|Nguyễn Tri Phương|Lý Thường Kiệt giữ vai trò chỉ huy trong cuộc kháng chiến chống Tống 1075–1077.
+5|Lịch sử|Chiến thắng Bạch Đằng năm 1288 diễn ra dưới triều đại nào?|Nhà Trần|Nhà Đinh|Nhà Lý|Nhà Nguyễn|Quân dân nhà Trần chiến thắng quân Nguyên trên sông Bạch Đằng năm 1288.
+9|Lịch sử|Nhà Hồ lấy quốc hiệu nào khi thành lập năm 1400?|Đại Ngu|Đại Việt|Vạn Xuân|Đại Nam|Hồ Quý Ly đổi quốc hiệu thành Đại Ngu khi lập nhà Hồ.
+7|Lịch sử|Bình Ngô đại cáo được công bố sau khi kết thúc cuộc khởi nghĩa nào?|Lam Sơn|Yên Thế|Bãi Sậy|Hương Khê|Bình Ngô đại cáo được Nguyễn Trãi soạn thay Lê Lợi sau thắng lợi Lam Sơn.
+8|Lịch sử|Phong trào Đông Du do ai khởi xướng vào đầu thế kỷ XX?|Phan Bội Châu|Phan Châu Trinh|Hoàng Hoa Thám|Nguyễn Trường Tộ|Phan Bội Châu tổ chức phong trào đưa thanh niên sang Nhật học tập.
+8|Lịch sử|Cuộc khởi nghĩa Yên Thế gắn với thủ lĩnh nào?|Hoàng Hoa Thám|Nguyễn Thái Học|Phan Đình Phùng|Trương Định|Hoàng Hoa Thám, còn gọi Đề Thám, là thủ lĩnh nổi bật của khởi nghĩa Yên Thế.
+7|Lịch sử|Trường Đông Kinh Nghĩa Thục được mở năm 1907 ở đâu?|Hà Nội|Huế|Sài Gòn|Hội An|Đông Kinh Nghĩa Thục hoạt động tại Hà Nội năm 1907.
+9|Lịch sử|Hội nghị thành lập Đảng Cộng sản Việt Nam năm 1930 do ai chủ trì?|Nguyễn Ái Quốc|Trần Phú|Lê Hồng Phong|Hà Huy Tập|Nguyễn Ái Quốc chủ trì hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930.
+8|Lịch sử|Phong trào Cần Vương bắt đầu sau lời kêu gọi của vị vua nào năm 1885?|Hàm Nghi|Tự Đức|Duy Tân|Khải Định|Chiếu Cần Vương được ban dưới danh nghĩa vua Hàm Nghi năm 1885.
+9|Lịch sử|Phan Đình Phùng và Cao Thắng gắn với cuộc khởi nghĩa nào?|Hương Khê|Yên Bái|Ba Đình|Bắc Sơn|Phan Đình Phùng và Cao Thắng lãnh đạo khởi nghĩa Hương Khê.
+6|Lịch sử|Liên Hợp Quốc được thành lập vào năm nào?|1945|1919|1939|1955|Hiến chương Liên Hợp Quốc có hiệu lực ngày 24/10/1945.
+10|Lịch sử|Đạo luật Magna Carta năm 1215 được ban hành ở vương quốc nào?|Anh|Pháp|Tây Ban Nha|Bồ Đào Nha|Magna Carta được vua John của Anh chấp thuận năm 1215.
+8|Lịch sử|Chuyến hải hành năm 1492 của Christopher Columbus được vương quyền nào tài trợ?|Tây Ban Nha|Anh|Hà Lan|Đan Mạch|Vua Ferdinand và nữ hoàng Isabella tài trợ chuyến đi của Columbus.
+7|Lịch sử|Nelson Mandela gắn với cuộc đấu tranh chống chế độ nào tại Nam Phi?|Apartheid|Phong kiến Nhật Bản|Thuộc địa Bồ Đào Nha ở Brazil|Quân chủ chuyên chế Nga|Mandela đấu tranh chống chế độ phân biệt chủng tộc apartheid tại Nam Phi.
+7|Lịch sử|Cách mạng Tháng Mười Nga diễn ra năm nào?|1917|1905|1922|1941|Cách mạng Tháng Mười diễn ra năm 1917 theo cách gọi lịch Julius khi đó.
+7|Lịch sử|Cuộc Duy tân Minh Trị bắt đầu năm 1868 ở quốc gia nào?|Nhật Bản|Trung Quốc|Triều Tiên|Thái Lan|Duy tân Minh Trị mở ra giai đoạn cải cách và hiện đại hóa Nhật Bản.
+9|Lịch sử|Vasco da Gama đến Ấn Độ bằng đường biển quanh châu Phi dưới cờ nước nào?|Bồ Đào Nha|Tây Ban Nha|Pháp|Anh|Vasco da Gama là nhà hàng hải Bồ Đào Nha, đến Calicut năm 1498.
+8|Lịch sử|Đế quốc Inca phát triển chủ yếu ở dãy núi nào?|Andes|Alps|Himalaya|Ural|Trung tâm của Inca nằm trong vùng Andes ở Nam Mỹ.
+10|Lịch sử|Chiến tranh Trăm Năm chủ yếu là xung đột giữa hai vương quốc nào?|Anh và Pháp|Đức và Nga|Tây Ban Nha và Bồ Đào Nha|Thụy Điển và Đan Mạch|Chiến tranh Trăm Năm là loạt xung đột Anh–Pháp từ 1337 đến 1453.
+11|Lịch sử|Joan of Arc gắn với việc giải vây thành phố nào năm 1429?|Orléans|Vienna|Rome|London|Joan of Arc góp phần giải vây Orléans trong Chiến tranh Trăm Năm.
+7|Lịch sử|Bức tường Berlin mở cửa biên giới vào năm nào?|1989|1961|1975|1999|Việc mở cửa các điểm qua biên giới ngày 9/11/1989 đánh dấu sự sụp đổ Bức tường Berlin.
+10|Lịch sử|Sự kiện Trà Boston năm 1773 là hành động phản đối của người thuộc địa đối với nước nào?|Anh|Pháp|Tây Ban Nha|Hà Lan|Người thuộc địa phản đối chính sách thuế và thương mại của Anh bằng việc đổ trà xuống cảng Boston.
+11|Lịch sử|Napoleon ban hành bộ luật dân sự mang tên mình vào năm nào?|1804|1789|1815|1848|Code civil, thường gọi Bộ luật Napoleon, được ban hành năm 1804.
+8|Lịch sử|Cộng hòa Nhân dân Trung Hoa được tuyên bố thành lập năm nào?|1949|1911|1937|1978|Mao Trạch Đông tuyên bố thành lập Cộng hòa Nhân dân Trung Hoa ngày 1/10/1949.
+8|Lịch sử|Hiệp ước Versailles năm 1919 được ký sau cuộc chiến nào?|Chiến tranh thế giới thứ nhất|Chiến tranh thế giới thứ hai|Chiến tranh Bảy Năm|Chiến tranh Krym|Hiệp ước Versailles là hòa ước với Đức sau Chiến tranh thế giới thứ nhất.
+3|Toán học|Tam giác có hai cạnh bằng nhau gọi là tam giác gì?|Tam giác cân|Tam giác vuông bất kỳ|Tam giác tù bất kỳ|Tam giác thường|Tam giác cân có hai cạnh bằng nhau và hai góc ở đáy bằng nhau.
+4|Toán học|Tích của hai số thực âm luôn là số có tính chất nào?|Dương|Âm|Bằng 0|Vô tỉ|Hai số âm khác 0 nhân với nhau cho kết quả dương.
+7|Toán học|Nếu a > b thì bất đẳng thức nào đúng khi nhân hai vế với -2?|-2a < -2b|-2a > -2b|-2a = -2b|2a < 2b|Nhân hai vế với số âm làm đổi chiều bất đẳng thức.
+6|Toán học|Giá trị tuyệt đối của một số thực biểu thị gì trên trục số?|Khoảng cách từ số đó đến 0|Khoảng cách từ số đó đến 1|Số nghịch đảo của nó|Dấu của số đó|Giá trị tuyệt đối là khoảng cách đến gốc 0 nên luôn không âm.
+8|Toán học|Hàm số y = ax + b với a > 0 có tính chất nào?|Đồng biến trên R|Nghịch biến trên R|Luôn bằng 0|Chỉ xác định khi x > 0|Hệ số góc dương làm hàm bậc nhất đồng biến trên R.
+7|Toán học|Phương trình x² = 9 có tập nghiệm thực nào?|{-3, 3}|{3}|{-9, 9}|{9}|Cả -3 và 3 bình phương đều bằng 9.
+5|Toán học|Hai góc phụ nhau có tổng số đo bằng bao nhiêu?|90°|180°|270°|360°|Hai góc phụ nhau có tổng số đo 90°.
+5|Toán học|Trong tam giác đều, mỗi góc trong có số đo bao nhiêu?|60°|45°|90°|120°|Ba góc bằng nhau và có tổng 180°, nên mỗi góc là 60°.
+5|Toán học|Nếu đường tròn có bán kính r, diện tích hình tròn là biểu thức nào?|πr²|2πr|πr|2πr²|Diện tích hình tròn bằng π nhân bình phương bán kính.
+9|Toán học|Một hình lăng trụ tam giác có bao nhiêu cạnh?|9|6|8|12|Hai đáy có tổng 6 cạnh và có thêm 3 cạnh bên, tổng cộng 9.
+6|Toán học|Dãy số 3, 7, 11, 15 là cấp số cộng với công sai nào?|4|3|7|11|Hiệu giữa hai số hạng liên tiếp luôn bằng 4.
+8|Toán học|Khi tung một đồng xu cân đối hai lần độc lập, xác suất cả hai lần cùng ra mặt ngửa là bao nhiêu?|1/4|1/2|3/4|1|Bốn kết quả đồng khả năng chỉ có một kết quả ngửa–ngửa.
+7|Toán học|Ước chung lớn nhất của 18 và 24 là số nào?|6|3|9|12|Các ước chung dương là 1, 2, 3, 6; lớn nhất là 6.
+9|Toán học|Giá trị log₁₀(1000) bằng bao nhiêu?|3|2|10|100|Vì 10³ = 1000 nên log₁₀(1000) = 3.
+7|Toán học|Cho A={1,2,3}, B={3,4,5}. Tập giao A∩B là gì?|{3}|{1,2,3,4,5}|{1,2}|{4,5}|Giao gồm các phần tử có mặt ở cả hai tập, chỉ có 3.
+6|Toán học|Trong mặt phẳng tọa độ, điểm (0, -4) nằm trên trục nào?|Trục tung|Trục hoành|Cả hai trục|Không trục nào|Hoành độ bằng 0 nên điểm nằm trên trục tung.
+8|Toán học|Đồ thị hàm số y = x² có trục đối xứng là đường nào?|x = 0|y = 0|x = 1|y = 1|Parabol y = x² đối xứng qua trục tung x = 0.
+10|Logic|Phủ định đúng của mệnh đề “Mọi học sinh trong lớp đều có bút” là gì?|Có ít nhất một học sinh trong lớp không có bút|Mọi học sinh trong lớp đều không có bút|Có ít nhất một học sinh có bút|Không có học sinh nào trong lớp|Phủ định của mệnh đề với mọi là mệnh đề tồn tại một trường hợp không thỏa.
+10|Logic|Nếu “Có mưa thì đường ướt” đúng và đường không ướt, suy luận nào hợp lệ?|Không có mưa|Có mưa|Đường ướt|Không thể suy ra gì về mưa|Đây là suy luận phản chứng modus tollens: P→Q và không Q thì không P.
+7|Toán học|Trung vị của bộ dữ liệu 2, 4, 7, 9, 20 là số nào?|7|4|9|8,4|Bộ đã sắp tăng có năm phần tử, trung vị là phần tử đứng giữa: 7.
+6|Công nghệ|Bộ nhớ RAM thông thường có đặc điểm nào khi mất nguồn điện?|Mất dữ liệu đang giữ|Giữ dữ liệu như ổ SSD|Tự sao lưu toàn bộ vào ROM|Chỉ mất dữ liệu khi đầy bộ nhớ|RAM thông thường là bộ nhớ khả biến, cần nguồn để giữ dữ liệu.
+6|Công nghệ|HTML dùng chủ yếu để mô tả phần nào của trang web?|Cấu trúc nội dung|Màu sắc và cách trình bày bằng quy tắc kiểu|Thao tác quản lý bảng trong cơ sở dữ liệu|Cấu hình định tuyến của máy chủ mạng|HTML đánh dấu cấu trúc như tiêu đề, đoạn văn và liên kết.
+6|Công nghệ|CSS trên trang web dùng chủ yếu để quy định điều gì?|Cách trình bày và định dạng|Cấu trúc ngữ nghĩa của nội dung|Các truy vấn cơ sở dữ liệu máy chủ|Chữ ký số của chứng thư TLS|CSS quy định màu sắc, bố cục, phông chữ và các kiểu hiển thị.
+4|Công nghệ|Trong hệ nhị phân, chỉ có hai chữ số nào?|0 và 1|1 và 2|0 và 9|2 và 8|Hệ cơ số 2 sử dụng các chữ số 0 và 1.
+6|Công nghệ|Một byte theo quy ước phổ biến bằng bao nhiêu bit?|8|2|16|32|Trong các chuẩn máy tính thông dụng, một byte gồm 8 bit.
+8|Công nghệ|DNS chủ yếu giúp chuyển thông tin nào sang địa chỉ IP?|Tên miền|Địa chỉ MAC|Số cổng ứng dụng|Đường dẫn thư mục|DNS cung cấp cơ chế phân giải tên miền sang bản ghi địa chỉ IP.
+8|Công nghệ|Trong cơ sở dữ liệu quan hệ, khóa chính dùng để làm gì?|Định danh duy nhất mỗi hàng|Quy định thứ tự hiển thị mặc định của bảng|Mã hóa toàn bộ dữ liệu trong bảng|Tự tạo bản sao lưu của bảng|Khóa chính xác định duy nhất mỗi bản ghi và không nhận giá trị NULL.
+8|Công nghệ|Câu lệnh SQL INSERT dùng cho thao tác nào?|Thêm hàng dữ liệu|Sửa giá trị trong các hàng có sẵn|Xóa các hàng theo điều kiện|Tạo cấu trúc bảng mới|INSERT thêm dữ liệu vào một bảng.
+9|Công nghệ|Cấu trúc dữ liệu hàng đợi thông thường tuân theo nguyên tắc nào?|FIFO|LIFO|Chọn ngẫu nhiên|Ưu tiên phần tử lớn nhất luôn luôn|FIFO là vào trước ra trước, đặc trưng của hàng đợi thông thường.
+9|Công nghệ|Thuật toán tìm kiếm nhị phân yêu cầu dãy dữ liệu có tính chất nào?|Được sắp xếp theo khóa tìm kiếm|Mọi phần tử đều bằng nhau|Số phần tử luôn chẵn|Không chứa số âm|Tìm kiếm nhị phân loại một nửa phạm vi dựa trên thứ tự đã sắp xếp.
+10|Công nghệ|Trong mạng máy tính, địa chỉ IPv4 có tổng cộng bao nhiêu bit?|32|16|64|128|Địa chỉ IPv4 dài 32 bit, thường viết thành bốn nhóm thập phân.
+9|Công nghệ|Git commit thường ghi nhận điều gì?|Một ảnh chụp trạng thái dự án trong lịch sử phiên bản|Việc tải bản mới nhất từ kho từ xa về|Việc tạo bản sao kho từ xa trên máy|Việc xóa mọi nhánh không dùng|Commit ghi một mốc thay đổi có thể tra cứu trong lịch sử Git.
+5|Công nghệ|Tệp ZIP thường dùng cho mục đích nào?|Đóng gói và nén tệp|Chạy hệ điều hành trực tiếp|Chỉ phát video|Chỉ lưu tọa độ bản đồ|ZIP là định dạng lưu trữ có thể chứa nhiều tệp và dùng nén dữ liệu.
+8|Công nghệ|Phần mở rộng .csv thường thể hiện dữ liệu theo dạng nào?|Các trường văn bản phân tách bằng dấu phẩy|Ảnh nhiều lớp|Âm thanh không nén|Chương trình mã máy|CSV là Comma-Separated Values, một dạng dữ liệu bảng bằng văn bản.
+6|Công nghệ|Trong lập trình, lỗi syntax error thuộc loại nào?|Sai cú pháp ngôn ngữ|Lỗi logic dù mã có cú pháp hợp lệ|Lỗi do đọc một tệp không tồn tại|Lỗi tính toán do chia cho 0 khi chạy|Lỗi cú pháp xuất hiện khi mã không tuân theo ngữ pháp ngôn ngữ.
+10|Công nghệ|Hàm băm mật mã tốt thường được thiết kế để làm gì với đầu vào?|Tạo giá trị tóm tắt khó đảo ngược|Mã hóa có thể giải mã bằng một khóa bí mật|Luôn tạo đầu ra dài đúng bằng đầu vào|Lưu nguyên bản đầu vào trong đầu ra|Hàm băm tạo một giá trị tóm tắt và được thiết kế chống việc tìm đầu vào từ giá trị đó.
+8|Công nghệ|HTTPS bổ sung cơ chế bảo vệ nào cho HTTP?|Mã hóa kết nối bằng TLS|Chuyển mọi kết nối sang UDP|Thay tên miền bằng địa chỉ MAC|Mã hóa ổ đĩa của người dùng|HTTPS là HTTP chạy trên kết nối được TLS bảo vệ.
+10|Công nghệ|Trong lập trình, đệ quy xảy ra khi nào?|Một hàm gọi lại chính nó trực tiếp hoặc gián tiếp|Một vòng lặp duyệt tuần tự qua một mảng|Một biến được khai báo trong thân hàm|Hai hàm độc lập dùng chung kiểu trả về|Đệ quy là cách giải bài toán bằng việc gọi lại hàm trên bài toán nhỏ hơn.
+8|Công nghệ|Trong SQL, mệnh đề WHERE thường được dùng để làm gì?|Lọc các hàng theo điều kiện|Sắp xếp thứ tự hàng kết quả|Đặt bí danh cho tên cột|Gộp các hàng thành nhóm|WHERE xác định điều kiện chọn các hàng tham gia thao tác.
+9|Công nghệ|Từ open source trong phần mềm chủ yếu chỉ điều gì?|Mã nguồn được cung cấp theo giấy phép cho phép sử dụng, sửa đổi và phân phối|Phần mềm chỉ cung cấp bản chạy được miễn phí nhưng giữ kín mã nguồn|Mã nguồn chỉ được xem và tuyệt đối không được sửa|Mã nguồn chỉ cho phép dùng để học, cấm phân phối lại|Phần mềm nguồn mở phải có giấy phép cho phép các quyền theo định nghĩa nguồn mở.
+11|Địa lý|Một lưu vực nội lưu có đặc điểm nào về dòng nước mặt?|Không có đường thoát tự nhiên ra đại dương|Mọi sông đều chảy về Bắc Cực|Chỉ có sông ngầm, không có sông mặt|Luôn nằm dưới mực nước biển|Nước trong lưu vực nội lưu đổ vào hồ hoặc vùng trũng nội địa rồi bốc hơi hay thấm xuống đất.
+8|Địa lý|Trên bản đồ địa hình, các đường đồng mức càng sít nhau thường biểu thị điều gì?|Sườn địa hình càng dốc|Sườn địa hình càng thoải|Độ cao luôn bằng mực nước biển|Khu vực có địa hình phẳng|Cùng khoảng chênh cao nhưng các đường gần nhau nghĩa là độ cao đổi nhanh trên khoảng cách ngang ngắn.
+13|Địa lý|Phép chiếu Mercator thường làm sai lệch diện tích theo hướng nào?|Phóng đại vùng gần các cực|Phóng đại riêng vùng xích đạo|Giữ đúng diện tích mọi nơi|Làm mọi châu lục có diện tích bằng nhau|Mercator bảo toàn góc tại điểm nhưng phóng đại diện tích mạnh ở vĩ độ cao.
+8|Địa lý|Trên bản đồ tỷ lệ 1:50.000, đoạn dài 4 cm tương ứng khoảng cách thực nào?|2 km|200 m|20 km|500 m|4 × 50.000 cm = 200.000 cm = 2 km.
+13|Địa lý|Trên mô hình Trái Đất hình cầu, đường ngắn nhất trên bề mặt giữa hai điểm thông thường là gì?|Cung ngắn của một đường tròn lớn|Luôn là đoạn nằm trên một vĩ tuyến|Luôn là đoạn nằm trên xích đạo|Một đường xoắn ốc quanh cực|Đường tròn lớn là giao tuyến mặt cầu với mặt phẳng qua tâm; cung ngắn cho đường đi ngắn nhất.
+8|Địa lý|Chênh lệch kinh độ 45° tương ứng chênh lệch giờ Mặt Trời địa phương bao nhiêu giờ?|3 giờ|1 giờ|6 giờ|12 giờ|Trái Đất quay 360° trong 24 giờ, nên 15° ứng với 1 giờ và 45° ứng với 3 giờ.
+7|Địa lý|Dạng cửa sông có nhánh phân lưu và bãi bồi phát triển do tích tụ trầm tích gọi là gì?|Châu thổ|Fjord|Hố sụt|Đèo|Châu thổ phát triển khi trầm tích tích tụ ở cửa sông đủ để tạo các bãi và nhánh phân lưu.
+9|Địa lý|Hố sụt và hang hòa tan phát triển phổ biến nhất trong kiểu địa hình nào?|Karst|Cồn cát gió|Cao nguyên dung nham|Đồng bằng băng tích|Karst phát triển do nước hòa tan các đá dễ hòa tan, điển hình là đá vôi.
+8|Địa lý|Đường phân thủy trên địa hình thường có vai trò nào?|Ngăn cách hai lưu vực thoát nước|Nối tất cả các cửa sông|Đánh dấu đường bờ biển cổ|Luôn chia đôi một hồ|Nước hai phía đường phân thủy chảy về hai lưu vực khác nhau.
+13|Địa lý|Trầm tích hoàng thổ (loess) được vận chuyển và tích tụ chủ yếu bởi tác nhân nào?|Gió|Dung nham|Sóng thần|Dòng băng trực tiếp|Hoàng thổ chủ yếu gồm hạt bụi được gió mang đi và lắng đọng.
+11|Địa lý|Fjord là loại vịnh dài hẹp hình thành chủ yếu do quá trình nào?|Băng hà đào sâu thung lũng rồi biển ngập vào|Dòng dung nham chặn một con sông|Gió thổi cát tạo vành đai kín|Phù sa bồi kín một cửa sông|Fjord thường là thung lũng băng hà sâu được nước biển ngập vào sau khi băng rút.
+7|Địa lý|Dải đất hẹp nối hai vùng đất lớn và có biển ở hai bên gọi là gì?|Eo đất|Eo biển|Vịnh|Quần đảo|Eo đất nối hai vùng đất; eo biển là dải nước hẹp nối các vùng nước.
+14|Địa lý|Biển Sargasso có đặc điểm ranh giới nổi bật nào?|Được bao quanh bởi các dòng hải lưu thay vì bờ đất liền|Được bao quanh hoàn toàn bởi lục địa|Là hồ nước ngọt lớn nhất|Nằm hoàn toàn trong Biển Đỏ|Sargasso là vùng biển ở Bắc Đại Tây Dương được giới hạn bởi các dòng hải lưu.
+13|Địa lý|Eo biển Dardanelles nối Biển Marmara với biển nào?|Biển Aegean|Biển Đen|Biển Baltic|Biển Caspi|Dardanelles nối Marmara với Aegean, thuộc hệ thống thông ra Địa Trung Hải.
+12|Địa lý|Eo biển Bosphorus nối hai vùng nước nào?|Biển Đen và Biển Marmara|Biển Đỏ và Vịnh Aden|Biển Aegean và Biển Adriatic|Biển Baltic và Biển Bắc|Bosphorus ở Istanbul nối Biển Đen với Biển Marmara.
+13|Địa lý|Eo biển Drake nằm giữa Nam Cực và đầu mút nào của Nam Mỹ?|Mũi Horn|Mũi Hảo Vọng|Mũi Dezhnev|Mũi Finisterre|Drake Passage nằm giữa vùng Mũi Horn của Nam Mỹ và quần đảo Nam Shetland gần Nam Cực.
+12|Địa lý|Hồ Tanganyika gắn với hệ thống địa chất nào?|Đới tách giãn Đông Phi|Sống núi giữa Đại Tây Dương|Dãy Alps|Vành đai núi Andes|Tanganyika nằm trong nhánh phía tây của hệ thống tách giãn Đông Phi.
+14|Địa lý|Châu thổ lớn ở Bangladesh được hình thành bởi sông Ganges, Brahmaputra và sông nào?|Meghna|Indus|Tigris|Yangtze|Ganges–Brahmaputra–Meghna tạo nên hệ thống châu thổ của Bangladesh và vùng lân cận.
+13|Địa lý|Sông Danube đổ ra biển nào?|Biển Đen|Biển Caspi|Biển Bắc|Biển Đỏ|Danube chảy về phía đông và đổ vào Biển Đen qua châu thổ.
+10|Địa lý|Sông Volga kết thúc dòng chảy ở vùng nước nào?|Biển Caspi|Biển Đen|Biển Baltic|Bắc Băng Dương|Volga đổ vào Biển Caspi, trong một lưu vực nội lưu.
+11|Lịch sử|Hiệp ước Tordesillas năm 1494 phân chia phạm vi thám hiểm giữa hai vương quyền nào?|Tây Ban Nha và Bồ Đào Nha|Anh và Pháp|Hà Lan và Đan Mạch|Nga và Thụy Điển|Hiệp ước phân chia vùng ngoài châu Âu theo một kinh tuyến giữa vương quyền Tây Ban Nha và Bồ Đào Nha.
+13|Lịch sử|Hòa ước Westphalia năm 1648 gắn với việc kết thúc cuộc chiến nào tại châu Âu?|Chiến tranh Ba Mươi Năm|Chiến tranh Bảy Năm|Chiến tranh Trăm Năm|Chiến tranh Krym|Các hòa ước Westphalia kết thúc Chiến tranh Ba Mươi Năm ở châu Âu.
+13|Lịch sử|Đại hội Vienna năm 1814–1815 được triệu tập chủ yếu để làm gì?|Tái lập trật tự châu Âu sau các cuộc chiến Napoleon|Thành lập Liên Hợp Quốc|Phân chia châu Mỹ sau chuyến đi Columbus|Chấm dứt Chiến tranh thế giới thứ hai|Đại hội Vienna sắp xếp lại biên giới và cân bằng quyền lực châu Âu sau thời Napoleon.
+14|Lịch sử|Hòa ước Utrecht năm 1713 là một phần giải pháp cho cuộc chiến nào?|Chiến tranh Kế vị Tây Ban Nha|Chiến tranh Kế vị Áo|Chiến tranh Ba Mươi Năm|Chiến tranh Napoleon|Các hiệp ước Utrecht năm 1713 góp phần kết thúc Chiến tranh Kế vị Tây Ban Nha.
+14|Lịch sử|Sắc lệnh Milan năm 313 gắn với chính sách nào của Constantine và Licinius?|Cho phép tự do thực hành tôn giáo, bao gồm Kitô giáo|Bắt buộc mọi người cải đạo sang Kitô giáo ngay lập tức|Giải thể Đế quốc La Mã|Cấm mọi hình thức thờ cúng trong đế quốc|Thỏa thuận Milan công nhận tự do tôn giáo và chấm dứt đàn áp Kitô hữu.
+12|Lịch sử|Vua Ashoka thuộc triều đại nào của Ấn Độ cổ đại?|Maurya|Gupta|Mughal|Chola|Ashoka là hoàng đế của vương triều Maurya ở thế kỷ III trước Công nguyên.
+13|Lịch sử|Đế quốc Đức được tuyên bố thành lập năm 1871 tại địa điểm nào?|Cung điện Versailles|Cung điện Buckingham|Điện Kremlin|Cung điện Schönbrunn|Wilhelm I được tuyên bố là Hoàng đế Đức tại Versailles ngày 18/1/1871.
+13|Lịch sử|Trận Sekigahara năm 1600 giúp nhân vật nào củng cố quyền lực ở Nhật Bản?|Tokugawa Ieyasu|Oda Nobunaga|Minamoto no Yoritomo|Thiên hoàng Minh Trị|Chiến thắng Sekigahara tạo nền tảng cho Tokugawa Ieyasu lập Mạc phủ Tokugawa.
+10|Lịch sử|Hoàng đế cuối cùng của nhà Thanh ở Trung Quốc là ai?|Phổ Nghi|Khang Hy|Càn Long|Quang Tự|Phổ Nghi là hoàng đế cuối cùng của triều Thanh, thoái vị năm 1912.
+12|Lịch sử|Phiến đá Rosetta ghi cùng nội dung bằng ba hệ chữ: tượng hình, Demotic và chữ nào?|Hy Lạp|Latin|Sanskrit|Cuneiform|Bản Hy Lạp trên đá Rosetta giúp đối chiếu và giải mã chữ viết Ai Cập.
+8|Lịch sử|Khu di tích Machu Picchu là thành tựu của nền văn minh nào?|Inca|Maya|Aztec|Olmec|Machu Picchu được xây dựng trong thời Đế quốc Inca ở Andes.
+13|Lịch sử|Angkor Wat được xây dựng dưới thời vua nào của Đế quốc Khmer?|Suryavarman II|Jayavarman VII|Norodom Sihanouk|Ang Duong|Angkor Wat được xây dựng ở thế kỷ XII dưới thời Suryavarman II.
+14|Lịch sử|Samarkand trở thành kinh đô của đế quốc gắn với vị chinh phục nào cuối thế kỷ XIV?|Timur|Charlemagne|Alexander Đại đế|Attila|Timur chọn Samarkand làm kinh đô và phát triển thành phố trong thời Timurid.
+12|Lịch sử|Quốc Tử Giám được lập năm 1076 dưới thời vua nào?|Lý Nhân Tông|Lý Thái Tổ|Lý Thái Tông|Trần Thái Tông|Lý Nhân Tông cho lập Quốc Tử Giám năm 1076.
+13|Lịch sử|Bộ luật Hồng Đức được hoàn thiện dưới thời vị vua nào?|Lê Thánh Tông|Lê Lợi|Lý Nhân Tông|Minh Mạng|Quốc triều hình luật, thường gọi Bộ luật Hồng Đức, gắn với triều Lê Thánh Tông.
+12|Lịch sử|Hội nghị Diên Hồng thời Trần nổi tiếng vì mời nhóm người nào bàn việc chống ngoại xâm?|Các bô lão|Các thương nhân châu Âu|Các sứ thần nhà Minh|Các giáo sĩ Bồ Đào Nha|Nhà Trần triệu tập các bô lão tại điện Diên Hồng để hỏi ý kiến về việc chống quân Nguyên.
+12|Lịch sử|Người đề xuất nhiều bản điều trần cải cách dưới thời Tự Đức là ai?|Nguyễn Trường Tộ|Nguyễn Bỉnh Khiêm|Nguyễn Du|Nguyễn Đình Chiểu|Nguyễn Trường Tộ gửi các bản điều trần về cải cách kinh tế, giáo dục và quốc phòng.
+13|Lịch sử|Hai vua Nguyễn nào bị Pháp đày đến đảo Réunion?|Thành Thái và Duy Tân|Hàm Nghi và Bảo Đại|Tự Đức và Kiến Phúc|Đồng Khánh và Khải Định|Thành Thái và Duy Tân bị đưa đến Réunion; Hàm Nghi bị đày sang Algérie.
+11|Lịch sử|Cuộc Tổng tuyển cử bầu Quốc hội đầu tiên của Việt Nam diễn ra ngày nào?|6/1/1946|2/9/1945|7/5/1954|30/4/1975|Cuộc Tổng tuyển cử bầu Quốc hội khóa I được tổ chức ngày 6/1/1946.
+13|Lịch sử|Chiến dịch Biên giới Thu–Đông 1950 mở đầu bằng trận đánh vào cứ điểm nào?|Đông Khê|Điện Biên Phủ|Vạn Tường|Khe Sanh|Trận Đông Khê mở màn Chiến dịch Biên giới Thu–Đông 1950.
+12|Lịch sử|Chiến thắng Ngọc Hồi–Đống Đa diễn ra vào dịp Tết năm nào?|1789|1771|1802|1858|Quang Trung đánh bại quân Thanh trong dịp Tết Kỷ Dậu 1789.
+14|Lịch sử|Hội nghị Bandung năm 1955 quy tụ chủ yếu các nước thuộc hai châu lục nào?|Châu Á và châu Phi|Châu Âu và Bắc Mỹ|Nam Mỹ và châu Âu|Australia và Nam Cực|Hội nghị Á–Phi Bandung diễn ra ở Indonesia năm 1955.
+12|Lịch sử|Học thuyết Monroe năm 1823 phản đối điều gì ở châu Mỹ?|Sự can thiệp và thực dân hóa mới của các cường quốc châu Âu|Mọi hoạt động buôn bán với châu Á|Việc xây dựng kênh đào Panama|Việc sử dụng tàu hơi nước|Tổng thống James Monroe tuyên bố phản đối sự can thiệp và thực dân hóa mới của châu Âu ở Tây bán cầu.
+14|Lịch sử|Hiệp định Camp David năm 1978 gắn với lãnh đạo Ai Cập và quốc gia nào?|Israel|Jordan|Iran|Thổ Nhĩ Kỳ|Anwar Sadat và Menachem Begin ký các thỏa thuận Camp David với sự trung gian của Jimmy Carter.
+15|Lịch sử|Cách mạng Vinh quang ở Anh năm 1688 dẫn tới việc vị vua nào mất ngôi?|James II|Henry VIII|Charles I|George III|James II bị thay bởi William III và Mary II trong Cách mạng Vinh quang.
+12|Toán học|Định thức của ma trận hai hàng [2,3] và [1,4] bằng bao nhiêu?|5|11|8|2|Định thức 2×2 bằng 2×4 − 3×1 = 5.
+13|Toán học|Một ma trận vuông có định thức bằng 0 thì có tính chất nào?|Không có ma trận nghịch đảo|Luôn là ma trận đơn vị|Luôn có mọi phần tử bằng 0|Luôn có ma trận nghịch đảo|Ma trận vuông khả nghịch khi và chỉ khi định thức khác 0.
+10|Toán học|Có bao nhiêu cách chọn hai người từ nhóm sáu người, không phân biệt thứ tự?|15|12|30|36|Số tổ hợp là C(6,2) = 6×5/2 = 15.
+12|Toán học|Một hộp có ba bi đỏ và ba bi xanh. Lấy đồng thời hai bi ngẫu nhiên, xác suất cả hai đỏ là bao nhiêu?|1/5|1/4|1/3|1/2|Có C(6,2)=15 cặp, trong đó C(3,2)=3 cặp đỏ, nên xác suất bằng 1/5.
+10|Toán học|Tung hai xúc xắc sáu mặt cân đối và độc lập, xác suất tổng số chấm bằng 7 là bao nhiêu?|1/6|1/12|1/9|1/36|Có 6 cặp cho tổng 7 trong 36 kết quả đồng khả năng.
+12|Toán học|Cho P(A∩B)=0,12 và P(B)=0,3. Xác suất A xảy ra khi biết B xảy ra là bao nhiêu?|0,4|0,036|0,18|0,25|Xác suất có điều kiện bằng P(A∩B)/P(B) = 0,12/0,3 = 0,4.
+13|Toán học|Hai biến cố A và B độc lập thì công thức nào đúng?|P(A∩B)=P(A)P(B)|P(A∩B)=P(A)+P(B)|P(A∩B)=0 luôn luôn|P(A)=P(B) luôn luôn|Độc lập nghĩa là xác suất giao bằng tích hai xác suất.
+12|Toán học|Trong khai triển (x+y)⁴, hệ số của x²y² là bao nhiêu?|6|4|8|12|Theo nhị thức Newton, hệ số là C(4,2)=6.
+11|Toán học|Với i² = -1, giá trị i²⁰²⁶ bằng bao nhiêu?|-1|1|i|-i|Lũy thừa của i có chu kỳ 4; 2026 dư 2 khi chia 4 nên kết quả là i² = -1.
+10|Toán học|Bất phương trình x² − 5x + 6 < 0 có tập nghiệm nào?|(2,3)|(-∞,2)∪(3,+∞)|[2,3]|(-∞,3)|Tam thức bằng (x−2)(x−3), âm giữa hai nghiệm 2 và 3.
+14|Toán học|Trong tập số thực, một dãy Cauchy luôn có tính chất nào?|Hội tụ đến một số thực|Tăng nghiêm ngặt|Chỉ gồm số hữu tỉ|Có hữu hạn số hạng|Tính đầy đủ của R bảo đảm mọi dãy Cauchy thực hội tụ trong R.
+7|Toán học|Trong các số sau, số nào là số vô tỉ?|√2|0,125|7/9|√9|√2 không thể biểu diễn thành tỷ số hai số nguyên; các số còn lại đều hữu tỉ.
+13|Toán học|Với một đa diện lồi có V đỉnh, E cạnh và F mặt, công thức Euler là gì?|V−E+F=2|V+E−F=2|V−E−F=0|V+E+F=2|Mọi đa diện lồi thỏa công thức Euler V−E+F=2.
+14|Toán học|Một đồ thị vô hướng liên thông có đường đi Euler khi số đỉnh bậc lẻ là bao nhiêu?|0 hoặc 2|Đúng 1|Đúng 3|Bất kỳ số lẻ nào|Đường đi qua mỗi cạnh đúng một lần tồn tại khi đồ thị có 0 hoặc 2 đỉnh bậc lẻ.
+15|Toán học|Đồ thị phẳng đơn liên thông có n≥3 đỉnh thì số cạnh m thỏa bất đẳng thức nào?|m≤3n−6|m≤n−1 luôn luôn|m≥3n−6|m=n² luôn luôn|Công thức Euler cùng điều kiện mỗi mặt có ít nhất ba cạnh dẫn đến m≤3n−6.
+13|Toán học|Ma trận vuông cấp n khả nghịch khi hạng của nó bằng bao nhiêu?|n|0|n−1|2n|Ma trận vuông khả nghịch khi có hạng đầy đủ bằng cấp n.
+10|Toán học|Với x>0, đạo hàm của ln x là gì?|1/x|ln x|x|eˣ|Đạo hàm của logarit tự nhiên trên miền x>0 bằng 1/x.
+11|Toán học|Tích phân ∫₀¹ x² dx bằng bao nhiêu?|1/3|1/2|1|3|Nguyên hàm là x³/3; thay cận 0 và 1 được 1/3.
+14|Toán học|Giới hạn của (1+1/n)ⁿ khi n tiến tới vô cùng bằng số nào?|e|1|2|π|Đây là một định nghĩa kinh điển của số e.
+13|Toán học|Tập S={n/(n+1): n là số nguyên dương} có cận trên đúng bằng bao nhiêu?|1|1/2|2|0|Mọi phần tử nhỏ hơn 1 và tiến sát 1, nên supremum bằng 1 dù 1 không thuộc S.
+12|Toán học|Trong khoảng [0,2π), phương trình sin x = 0 có bao nhiêu nghiệm?|2|1|3|4|Nghiệm trong khoảng nửa kín này là x=0 và x=π; 2π bị loại.
+13|Toán học|Hàm số thực liên tục trên đoạn [a,b] đóng và hữu hạn luôn có tính chất nào?|Đạt giá trị lớn nhất và nhỏ nhất|Luôn đồng biến|Luôn khả vi|Luôn chỉ có một nghiệm|Định lý giá trị cực trị bảo đảm hàm liên tục trên đoạn đóng đạt cả cực đại và cực tiểu toàn cục.
+13|Toán học|Nếu f liên tục trên [a,b] và f(a)f(b)<0 thì kết luận nào chắc chắn đúng?|Có c∈(a,b) sao cho f(c)=0|f có đúng một nghiệm|f luôn đồng biến|f khả vi tại mọi điểm|Định lý giá trị trung gian bảo đảm ít nhất một nghiệm bên trong đoạn.
+9|Logic|Trong nhóm 13 người, điều gì chắc chắn đúng nếu chỉ xét tháng sinh?|Ít nhất hai người sinh cùng một tháng|Ít nhất ba người sinh cùng một tháng|Có người sinh vào từng tháng|Tất cả sinh cùng tháng|Chỉ có 12 tháng; nguyên lý Dirichlet bảo đảm ít nhất hai người cùng tháng sinh.
+15|Logic|Trong nhóm sáu người, quan hệ quen nhau đối xứng. Kết luận nào luôn đúng?|Có ba người đôi một quen nhau hoặc ba người đôi một không quen nhau|Có bốn người đôi một quen nhau|Mọi người quen ít nhất ba người khác|Có đúng một cặp quen nhau|Định lý Ramsey R(3,3)=6 bảo đảm một trong hai nhóm ba người như vậy.
+14|Toán học|Một cây nhị phân đầy đủ, mỗi nút trong có đúng hai con, có 10 nút trong. Cây có bao nhiêu lá?|11|10|20|21|Trong cây nhị phân đầy đủ, số lá bằng số nút trong cộng 1.
+11|Toán học|Thuật toán Euclid tìm ước chung lớn nhất dựa trên tính chất nào?|gcd(a,b)=gcd(b,a mod b)|gcd(a,b)=a+b|gcd(a,b)=ab|gcd(a,b)=a−b với mọi a,b|Thay cặp số bằng số chia và số dư không làm đổi ước chung lớn nhất.
+13|Toán học|Trong số học modulo 7, nghịch đảo nhân của 3 là số nào?|5|2|3|4|3×5=15≡1 mod 7 nên 5 là nghịch đảo nhân của 3.
+13|Toán học|Đồ thị đầy đủ K₄ có bao nhiêu cách ghép cặp hoàn hảo?|3|2|4|6|Ghép một đỉnh với một trong ba đỉnh còn lại; hai đỉnh còn lại tạo cặp còn lại.
+14|Logic|Có ba cửa, một cửa có giải và bạn chọn một cửa ngẫu nhiên. Người dẫn biết giải ở đâu, luôn mở một cửa khác không có giải rồi cho bạn đổi sang cửa còn lại. Xác suất thắng khi luôn đổi là bao nhiêu?|2/3|1/3|1/2|1/4|Đổi cửa thắng khi lựa chọn ban đầu sai; xác suất lựa chọn ban đầu sai là 2/3.
+10|Công nghệ|Trong SQL, muốn kiểm tra một cột có giá trị NULL phải dùng điều kiện nào?|IS NULL|= NULL|== NULL|LIKE NULL|NULL biểu thị giá trị chưa biết; phép kiểm tra đúng là IS NULL.
+12|Công nghệ|Trong SQL, mệnh đề nào lọc các nhóm sau khi GROUP BY?|HAVING|WHERE|ORDER BY|LIMIT|HAVING áp dụng điều kiện cho nhóm, thường dùng với hàm tổng hợp.
+12|Công nghệ|LEFT JOIN trong SQL bảo đảm giữ lại những hàng nào?|Tất cả hàng của bảng bên trái|Chỉ hàng có khóa trùng ở cả hai bảng|Tất cả hàng của bảng bên phải|Chỉ hàng không khớp của bảng bên phải|LEFT JOIN giữ toàn bộ hàng bên trái và bổ sung dữ liệu khớp bên phải nếu có.
+13|Công nghệ|Tính atomicity trong ACID bảo đảm điều gì cho một giao dịch?|Các thay đổi cùng thành công hoặc cùng bị hủy|Mọi truy vấn đều chạy song song|Dữ liệu luôn được nén|Mọi bảng chỉ có một khóa|Tính nguyên tử ngăn giao dịch chỉ thực hiện một phần mà vẫn được coi là hoàn tất.
+14|Công nghệ|Mục tiêu cốt lõi của chuẩn hóa cơ sở dữ liệu quan hệ là gì?|Giảm dư thừa và các bất thường khi cập nhật|Bảo đảm mọi truy vấn không cần chỉ mục|Xóa tất cả các khóa ngoại|Gộp mọi dữ liệu thành một cột văn bản|Chuẩn hóa phân tách quan hệ theo phụ thuộc dữ liệu để hạn chế dư thừa và bất thường.
+13|Công nghệ|Chỉ mục cơ sở dữ liệu thường có đánh đổi nào?|Tăng tốc nhiều truy vấn đọc nhưng tốn thêm lưu trữ và chi phí ghi|Luôn làm mọi thao tác ghi nhanh hơn|Loại bỏ hoàn toàn nhu cầu khóa chính|Bảo đảm dữ liệu không bao giờ mất|Chỉ mục cần không gian và phải được cập nhật khi dữ liệu thay đổi.
+14|Công nghệ|Trong cây B+ dùng làm chỉ mục, các mục dữ liệu hoặc con trỏ đến bản ghi thường nằm ở đâu?|Các nút lá|Chỉ nút gốc|Chỉ các nút trong|Một ngăn xếp bên ngoài cây|Cây B+ giữ mục dữ liệu ở lá, còn nút trong chủ yếu dẫn hướng tìm kiếm.
+15|Công nghệ|MVCC trong hệ quản trị cơ sở dữ liệu chủ yếu dùng cách nào để hỗ trợ đồng thời?|Giữ nhiều phiên bản của dữ liệu|Sao chép mọi bảng ra tệp CSV sau mỗi truy vấn|Xóa khóa chính trước khi ghi|Buộc mỗi bảng chỉ có một người dùng|Multi-Version Concurrency Control cung cấp các phiên bản phù hợp cho giao dịch đọc đồng thời.
+14|Công nghệ|Dirty read là tình huống một giao dịch đọc dữ liệu nào?|Dữ liệu thay đổi bởi giao dịch khác chưa commit|Dữ liệu đã commit từ lâu|Chỉ dữ liệu có lỗi chính tả|Chỉ dữ liệu không có chỉ mục|Dirty read có thể thấy thay đổi sau đó bị rollback bởi giao dịch khác.
+13|Công nghệ|Trình tự bắt tay ba bước để thiết lập kết nối TCP thông thường là gì?|SYN → SYN-ACK → ACK|ACK → FIN → SYN|FIN → FIN-ACK → RST|SYN → RST → FIN|TCP three-way handshake dùng SYN, SYN-ACK rồi ACK để đồng bộ kết nối.
+11|Công nghệ|UDP có đặc điểm nào so với TCP?|Không thiết lập kết nối và không tự bảo đảm giao hàng|Luôn tự truyền lại mọi gói mất|Luôn bảo đảm đúng thứ tự nhận|Bắt buộc bắt tay ba bước|UDP là giao thức datagram không kết nối, không tự cung cấp bảo đảm giao hàng và thứ tự.
+13|Công nghệ|Một mạng con IPv4 có tiền tố /26 chứa tổng cộng bao nhiêu địa chỉ?|64|26|32|128|IPv4 có 32 bit; /26 để lại 6 bit cho địa chỉ, nên có 2⁶=64 địa chỉ tổng cộng.
+10|Công nghệ|Địa chỉ IPv6 có độ dài bao nhiêu bit?|128|32|64|256|IPv6 dùng địa chỉ 128 bit.
+11|Công nghệ|Mặt nạ mạng IPv4 tương ứng với tiền tố /24 là gì?|255.255.255.0|255.255.0.0|255.0.0.0|255.255.255.255|/24 có 24 bit đầu bằng 1 và tám bit cuối bằng 0.
+12|Công nghệ|Mã HTTP nào cho biết máy chủ chưa nhận được thông tin xác thực hợp lệ cho tài nguyên?|401|200|301|404|HTTP 401 Unauthorized yêu cầu thông tin xác thực hợp lệ, khác với 403 từ chối truy cập.
+12|Công nghệ|Bản ghi DNS loại MX dùng để chỉ định gì?|Máy chủ nhận thư điện tử cho tên miền|Địa chỉ IPv6 trực tiếp|Bí danh tên miền đơn thuần|Máy chủ thời gian NTP|Mail Exchange record xác định máy chủ xử lý thư gửi đến tên miền.
+13|Công nghệ|Trong cơ chế chứng thư TLS phổ biến, CA đóng vai trò nào?|Ký chứng thư liên kết danh tính với khóa công khai|Giữ mọi khóa riêng của trình duyệt|Thay thế hoàn toàn DNS|Mã hóa trực tiếp mọi gói dữ liệu ứng dụng|Certificate Authority ký chứng thư để phía kiểm tra xác minh liên kết danh tính và khóa công khai.
+12|Công nghệ|Thuật toán nào dưới đây là mã hóa đối xứng?|AES|RSA|ECDSA|DSA|AES dùng khóa đối xứng; RSA là bất đối xứng, ECDSA và DSA là chữ ký số.
+13|Công nghệ|Để gửi thông điệp bí mật cho người nhận bằng mã hóa khóa công khai, người gửi thường dùng khóa nào?|Khóa công khai của người nhận|Khóa riêng của người nhận|Khóa công khai của người gửi|Khóa riêng của CA|Người nhận giải mã bằng khóa riêng tương ứng với khóa công khai đã được dùng để mã hóa.
+14|Công nghệ|Chữ ký số hợp lệ chủ yếu cho phép xác minh điều gì?|Tính toàn vẹn và nguồn ký theo khóa công khai|Nội dung luôn được giữ bí mật|Thông điệp luôn đến trong một giây|Thiết bị ký không thể bị đánh cắp|Chữ ký số cho phép kiểm tra dữ liệu chưa đổi và được ký bằng khóa riêng tương ứng.
+13|Công nghệ|Va chạm của hàm băm là trường hợp nào?|Hai đầu vào khác nhau cho cùng một giá trị băm|Một đầu vào được băm hai lần cho cùng kết quả|Giá trị băm có độ dài cố định|Tệp dữ liệu được sao chép nguyên vẹn|Collision xảy ra khi hai đầu vào phân biệt có cùng đầu ra băm.
+14|Công nghệ|Salt trong lưu mật khẩu băm giúp chống cách tấn công nào?|Dùng bảng băm được tính sẵn cho nhiều tài khoản|Nghe lén mọi lưu lượng TLS trực tiếp|Đoán tên miền qua DNS|Đọc dữ liệu đã giải mã trên màn hình|Salt riêng cho mỗi mật khẩu khiến bảng tính sẵn khó tái sử dụng giữa các tài khoản.
+13|Công nghệ|Prepared statement với tham số dữ liệu chủ yếu giúp ngăn lỗi bảo mật nào?|SQL injection|Tràn bộ đệm của trình điều khiển đồ họa|Tấn công từ chối dịch vụ mạng bằng lưu lượng lớn|Đánh cắp thiết bị vật lý|Tham số được xử lý như dữ liệu thay vì ghép vào cú pháp câu lệnh SQL.
+14|Công nghệ|CSRF khai thác tình huống nào?|Trình duyệt đã đăng nhập bị dụ gửi yêu cầu ngoài ý muốn|Kẻ tấn công chỉ biết một giá trị băm tệp|Ổ đĩa không có đủ dung lượng|Máy chủ không hỗ trợ IPv6|CSRF lợi dụng thông tin xác thực tự động đi kèm yêu cầu của trình duyệt đến dịch vụ.
+14|Công nghệ|Same-origin policy của trình duyệt xác định một origin chủ yếu bằng bộ ba nào?|Giao thức, tên máy chủ và cổng|Đường dẫn, chuỗi truy vấn và fragment|Tên người dùng, mật khẩu và cookie|Địa chỉ MAC, subnet và gateway|Hai URL cùng origin khi cùng scheme, host và port hiệu dụng.
+13|Công nghệ|Chỉ thị HTTP Cache-Control: no-store yêu cầu bộ nhớ đệm làm gì?|Không lưu phản hồi|Luôn lưu phản hồi vô thời hạn|Chỉ bỏ qua kiểm tra ETag|Luôn biến phản hồi thành 304|no-store yêu cầu không lưu nội dung yêu cầu/phản hồi vào cache.
+14|Công nghệ|Race condition có thể xảy ra khi nào?|Kết quả phụ thuộc vào thứ tự xen kẽ thao tác đồng thời trên trạng thái dùng chung|Mọi luồng chỉ đọc hằng số bất biến|Một hàm thuần được gọi duy nhất một lần|Tệp mã nguồn có hai hàm cùng độ dài|Thiếu đồng bộ có thể làm kết quả thay đổi tùy lịch thực thi các thao tác đồng thời.
+15|Công nghệ|Điều kiện nào thuộc bốn điều kiện Coffman cần cho deadlock cổ điển?|Chờ theo vòng|Mọi tài nguyên đều có thể thu hồi ngay|Không có loại trừ tương hỗ|Mọi tiến trình luôn nhả hết tài nguyên trước khi đợi|Circular wait cùng loại trừ tương hỗ, giữ và chờ, không thu hồi tạo điều kiện cho deadlock.
+14|Công nghệ|Semaphore đếm khác mutex chủ yếu ở khả năng nào?|Cho phép kiểm soát một số lượng hữu hạn lượt truy cập đồng thời|Luôn mã hóa dữ liệu dùng chung|Chỉ dùng được trong một luồng|Không bao giờ làm luồng chờ|Semaphore dùng bộ đếm để quản lý nhiều giấy phép truy cập, còn mutex thường bảo vệ loại trừ một chủ sở hữu.
+14|Công nghệ|Page fault trong bộ nhớ ảo thường xảy ra khi nào?|Tiến trình truy cập trang chưa hiện diện hoặc không được phép truy cập|Mọi lần CPU cộng hai số nguyên|Mỗi lần tệp văn bản đổi tên|Chỉ khi RAM bị hỏng vật lý|Page fault là bẫy khi ánh xạ trang không hiện diện hoặc vi phạm quyền, không đồng nghĩa RAM hỏng.
+13|Công nghệ|Lập lịch CPU có quyền ưu tiên thu hồi (preemptive) cho phép điều gì?|Hệ điều hành ngắt tiến trình đang chạy để cấp CPU cho tiến trình khác|Tiến trình giữ CPU đến khi tự nhường trong mọi trường hợp|Mọi tiến trình chạy đồng thời trên một lõi|Bỏ qua hoàn toàn các ngắt phần cứng|Preemption cho phép bộ lập lịch lấy lại CPU từ tiến trình đang chạy.
+12|Công nghệ|Nếu đệ quy quá sâu mà không tối ưu lời gọi đuôi, tài nguyên nào thường bị cạn trước?|Ngăn xếp lời gọi|Bảng DNS|Bộ đệm máy in|Không gian tên miền|Mỗi lời gọi thường tạo một khung trên call stack; đệ quy quá sâu có thể gây stack overflow.
+14|Công nghệ|Binary min-heap bảo đảm quan hệ nào giữa mỗi nút và các con của nó?|Khóa của nút không lớn hơn khóa của các con|Mọi nút bên trái nhỏ hơn mọi nút bên phải|Toàn bộ mảng lưu heap được sắp tăng|Mọi lá đều có cùng khóa|Min-heap bảo đảm tính chất thứ tự cha≤con, không bảo đảm toàn bộ mảng được sắp tăng.
+13|Công nghệ|Khi mọi cạnh của đồ thị không trọng số được xem có cùng chi phí, thuật toán nào tìm số cạnh ít nhất từ một nguồn?|BFS|DFS|Kruskal|Prim|BFS duyệt theo từng lớp khoảng cách nên tìm đường đi có số cạnh tối thiểu.
+14|Công nghệ|Thuật toán Bellman–Ford có thể xử lý loại trọng số nào mà Dijkstra chuẩn không bảo đảm đúng?|Trọng số âm|Chỉ trọng số bằng 1|Chỉ trọng số nguyên dương|Chỉ đồ thị không có cạnh|Bellman–Ford xử lý cạnh âm và phát hiện chu trình âm có thể tới từ nguồn.
+14|Công nghệ|Mục tiêu của thuật toán Kruskal trên đồ thị vô hướng có trọng số là gì?|Tìm cây khung nhỏ nhất|Tìm đường đi Hamilton ngắn nhất|Tô màu đồ thị tối ưu|Tìm thành phần liên thông mạnh trong đồ thị có hướng|Kruskal chọn cạnh theo trọng số tăng dần để xây cây khung nhỏ nhất mà không tạo chu trình.
+15|Công nghệ|Một đồ thị có hướng có thứ tự topo khi và chỉ khi thỏa điều kiện nào?|Không có chu trình có hướng|Mọi đỉnh có cùng bậc|Có đúng một thành phần liên thông mạnh|Mỗi cạnh có trọng số dương|Sắp xếp topo tồn tại chính xác với đồ thị có hướng không chu trình, tức DAG.
+13|Công nghệ|Bộ nhớ phụ của merge sort chuẩn trên mảng thường có độ lớn nào?|O(n)|O(1)|O(log n) duy nhất|O(n²)|Merge sort trên mảng thường cần mảng phụ tuyến tính để trộn các phần đã sắp.
+14|Công nghệ|Độ phức tạp xấu nhất của quicksort chuẩn khi chia mảng rất lệch liên tiếp là gì?|O(n²)|O(n)|O(log n)|O(n log n) luôn luôn|Nếu mỗi lần chỉ tách được một phần tử, tổng công việc là n+(n−1)+… nên bậc hai.
+15|Công nghệ|Trong Union–Find, path compression thay đổi cấu trúc thế nào?|Cho các nút trên đường tìm gốc trỏ trực tiếp về gốc|Sắp xếp toàn bộ phần tử theo giá trị|Xóa tất cả cây ngoài cây lớn nhất|Đảo hướng mọi cạnh để tạo chu trình|Nén đường đi rút ngắn các lần find sau bằng cách cập nhật cha về đại diện tập.
+14|Công nghệ|Trong thuật toán A*, heuristic chấp nhận được (admissible) phải thỏa điều kiện nào?|Không vượt quá chi phí tối ưu thực đến đích|Luôn lớn hơn mọi chi phí thực|Luôn bằng khoảng cách Euclid|Luôn là số nguyên dương|Admissible heuristic là ước lượng không đánh giá quá cao chi phí còn lại tối ưu.
+13|Công nghệ|Tràn số nguyên có dấu trong C theo chuẩn ngôn ngữ có tính chất nào?|Hành vi không xác định|Luôn cuộn vòng theo modulo như unsigned|Luôn ném ngoại lệ tự động|Luôn trả về giá trị 0|Chuẩn C quy định signed integer overflow là undefined behavior.
+14|Công nghệ|Trong Python 3, biểu thức [] is [] cho kết quả nào?|False|True|None|Lỗi cú pháp|Hai biểu thức tạo hai đối tượng danh sách khác nhau; is kiểm tra danh tính đối tượng.
+13|Công nghệ|Trong JavaScript, khác biệt cơ bản giữa === và == là gì?|=== không thực hiện ép kiểu trước khi so sánh|=== luôn so sánh chuỗi theo thứ tự từ điển|== chỉ dùng được với số nguyên|=== chỉ so sánh địa chỉ bộ nhớ|Strict equality không chuyển kiểu như loose equality, dù quy tắc số và NaN vẫn có các trường hợp riêng.
+14|Công nghệ|Trong HTTP, phương thức nào được định nghĩa là idempotent nhưng không được xem là safe?|PUT|GET|HEAD|OPTIONS|PUT có thể thay đổi tài nguyên, nên không safe; lặp lại cùng yêu cầu có cùng hiệu lực dự định nên idempotent.

@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useReducer, useState } from 'react';
 import { gameReducer, initialGame, normalizePlayer } from './gameEngine.js';
 import questions from '../data/questions.json';
-import { createRound, validateQuestions } from '../data/questionBank.js';
+import { createRound, validateQuestions, validateQuestionBank } from '../data/questionBank.js';
 
 const storageKey = 'millionaire-game-v1';
 function restore() {
@@ -26,7 +26,7 @@ export function useGameController() {
       const response = await fetch('/api/questions', { signal });
       const data = await response.json();
       if (!response.ok) throw new Error(data.error || 'Chưa tải được kho câu hỏi.');
-      validateQuestions(data.questions);
+      validateQuestionBank(data.questions);
       setBank({ ...data, loading: false, error: '' });
     } catch (error) {
       if (!signal?.aborted) setBank(value => ({ ...value, loading: false, error: error.message === 'Failed to fetch' ? 'Mất kết nối với kho câu hỏi. Hãy thử lại.' : error.message }));

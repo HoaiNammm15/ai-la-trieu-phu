@@ -4,12 +4,14 @@
 
 ## 1. Chuẩn bị kho câu hỏi
 
-Sheet đã chọn có hàng tiêu đề phù hợp với ứng dụng. Thêm câu hỏi từ dòng 2 trở đi, mỗi câu một dòng; có thể lưu 1000 câu trong cùng tab **Trang tính1**. Nếu tạo Sheet mới, có thể chọn **File → Import → Upload** và nhập `docs/questions-template.csv` để lấy cấu trúc cùng 15 câu mẫu.
+Kho đã được rà lại từ file Excel 170 câu và bổ sung 830 câu, đủ **1.000 câu**. Bản hoàn chỉnh là [Excel 1.000 câu](1000-cau-hoi-ai-la-trieu-phu.xlsx) hoặc [CSV để import](questions-1000.csv). Excel có tab **Trang tính1** đúng cấu trúc API, cùng hướng dẫn, thống kê, lịch sử rà soát 170 câu gốc và nguồn tham khảo. Dữ liệu game tương ứng nằm trong `src/data/questions-bank.json`.
+
+Để cập nhật Sheet đã chọn, dùng **File → Import → Upload**, chọn CSV hoặc tab **Trang tính1** trong Excel và thay dữ liệu của tab câu hỏi. Giữ hàng tiêu đề, tên tab và range đã cấu hình. Các file trong dự án đã cập nhật; thao tác này chưa tự ghi vào Google Sheet trực tuyến. Nếu cần tạo tab mẫu ngắn để kiểm tra kết nối, `docs/questions-template.csv` vẫn gồm 15 câu.
 
 | Cột | Giá trị |
 | --- | --- |
 | id | ID duy nhất, ví dụ 1–1000; giữ nguyên khi sửa câu hỏi |
-| level | Tùy chọn: để trống hoặc nhập số nguyên 1–15 để ghi độ khó |
+| level | Bắt buộc với câu đang bật: số nguyên 1–15 theo độ khó |
 | question | Nội dung câu hỏi |
 | a, b, c, d | Bốn phương án trả lời, không để trống |
 | correct | Chữ A, B, C hoặc D |
@@ -17,11 +19,19 @@ Sheet đã chọn có hàng tiêu đề phù hợp với ứng dụng. Thêm câ
 | explanation | Giải thích sau công bố |
 | active | TRUE để sử dụng, FALSE để bỏ qua |
 
-Cần ít nhất 15 câu hợp lệ có `active=TRUE`. Mỗi lượt mới lấy ngẫu nhiên 15 câu từ toàn bộ kho đang bật, không trùng ID trong lượt và không chia theo `level`. Thứ tự 15 câu cũng ngẫu nhiên, không sắp xếp theo độ khó. Giữa các lượt vẫn có thể gặp lại câu cũ.
+Cần ít nhất 5 câu hợp lệ có `active=TRUE` trong **mỗi nhóm độ khó**. Mỗi lượt mới lấy 15 câu, không trùng ID, theo ba mốc:
 
-`id` là mã của câu hỏi; `level` chỉ ghi độ khó, không phải số câu trong lượt. Không điền `level` từ 1 đến 1000. Có thể để toàn bộ cột này trống nếu chưa phân loại độ khó. Giữ nguyên tiêu đề cột; thứ tự cột có thể thay đổi nếu vẫn nằm trong range đã cấu hình. Range hiện đọc tới dòng 5000, gồm hàng tiêu đề, nên đủ chỗ cho 1000 câu.
+| Vị trí trong lượt | Level trong kho | Độ khó | Mốc thưởng mô phỏng |
+| --- | --- | --- | --- |
+| Câu 1–5 | 1–5 | Dễ: kiến thức quen thuộc, nhận biết hoặc suy luận ngắn | 2 triệu ở câu 5 |
+| Câu 6–10 | 6–10 | Trung bình: kiến thức phổ thông sâu hơn hoặc cần kết nối dữ kiện | 22 triệu ở câu 10 |
+| Câu 11–15 | 11–15 | Khó: kiến thức chuyên sâu, chi tiết lịch sử/văn hóa hoặc suy luận nhiều bước | 150 triệu ở câu 15 |
 
-Dữ liệu sai, ID trùng hoặc kho có dưới 15 câu đang bật sẽ báo lỗi ở màn chuẩn bị và có nút thử lại. Không tự đổi sang câu mẫu khi Sheet đã được cấu hình nhưng bị lỗi. Bộ câu mẫu chỉ dùng khi không đặt `GOOGLE_SHEET_ID`.
+Game bốc ngẫu nhiên 5 câu trong mỗi nhóm rồi xếp các câu đã bốc theo `level` tăng dần trong nhóm. Không bắt buộc mỗi level xuất hiện đúng một lần. Giữa các lượt vẫn có thể gặp lại câu cũ. Level là đánh giá biên tập, chưa hiệu chỉnh theo tỉ lệ trả lời đúng của người chơi.
+
+`id` là mã của câu hỏi; `level` ghi độ khó và quyết định nhóm được bốc, không phải số câu trong lượt. Không điền `level` từ 1 đến 1000 và không để trống ở câu đang bật. Giữ nguyên tiêu đề cột; thứ tự cột có thể thay đổi nếu vẫn nằm trong range đã cấu hình. Range hiện đọc tới dòng 5000, gồm hàng tiêu đề, nên đủ chỗ cho 1000 câu. Câu 33 và 80 ghi rõ địa giới hành chính năm 2024 để giữ đáp án lịch sử, tránh dùng số liệu cũ như thông tin hiện tại.
+
+Dữ liệu sai, ID trùng, phương án trùng nhau, level thiếu hoặc nhóm có dưới 5 câu đang bật sẽ báo lỗi ở màn chuẩn bị và có nút thử lại. Không tự đổi sang kho trên máy khi Sheet đã được cấu hình nhưng bị lỗi. Kho tích hợp 1.000 câu được dùng khi không đặt `GOOGLE_SHEET_ID`; API giữ nguyên level đã biên tập.
 
 Kho câu hỏi được cache 60 giây ở API và tối đa 60 giây ở CDN. Game nạp kho khi mở/tải lại ứng dụng; sau khi sửa Sheet, chờ khoảng hai phút rồi tải lại trang để bắt đầu với dữ liệu mới. Bắt đầu lượt mới hoặc chơi lại sẽ bốc một bộ 15 câu mới. Bộ câu hỏi của lượt đã bắt đầu được lưu trong sessionStorage; tải lại trang để tiếp tục vẫn giữ nguyên bộ này và tiến độ. Nếu nội dung câu hỏi đã đổi trong Sheet, API giọng đọc từ chối đọc phiên bản mới cho lượt cũ; trình duyệt dùng giọng nam cục bộ nếu có hoặc giữ phụ đề.
 
@@ -63,7 +73,7 @@ Bấm **CHỐT ĐÁP ÁN** ngắt lời MC ngay khi mở xác nhận. Bấm **Đ
 | GOOGLE_SERVICE_ACCOUNT_JSON | Toàn bộ nội dung JSON key, có thể rút gọn thành một dòng |
 | GOOGLE_TTS_API_KEY | Tùy chọn, chỉ cần nếu dùng API key cho giọng MC |
 
-Không thêm tiền tố `VITE_` cho các biến này: chúng chỉ được đọc phía server. Nếu dùng service account cho cả Sheets và TTS, không cần `GOOGLE_TTS_API_KEY`. Để deploy bản câu mẫu trước, có thể bỏ toàn bộ biến Google.
+Không thêm tiền tố `VITE_` cho các biến này: chúng chỉ được đọc phía server. Nếu dùng service account cho cả Sheets và TTS, không cần `GOOGLE_TTS_API_KEY`. Để deploy với kho tích hợp 1.000 câu trước, có thể bỏ toàn bộ biến Google.
 
 4. Chọn **Deploy**. Nếu thêm biến sau khi deploy, cần redeploy để áp dụng.
 5. Kiểm tra `/api/questions` trả JSON, tải lại trực tiếp `/setup`, `/game`, `/result`, thử bắt đầu lượt mới và bật âm thanh. Nếu TTS lỗi, kiểm tra API đã bật, billing, quyền và Vercel function logs. Không chia sẻ key JSON trong chat hoặc commit vào repository.
@@ -78,6 +88,8 @@ npm run build
 npm run dev
 python tests/feedback_smoke.py
 python tests/browser_smoke.py
+python tests/bundled_bank_smoke.py
+python tests/random_bank_smoke.py
 python tests/studio_layout.py
 ```
 

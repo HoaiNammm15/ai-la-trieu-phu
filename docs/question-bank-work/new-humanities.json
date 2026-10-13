@@ -1,0 +1,3577 @@
+[
+  {
+    "level": 1,
+    "question": "Bánh trung thu gắn với ngày lễ nào ở Việt Nam?",
+    "answers": [
+      "Tết Trung thu",
+      "Tết Đoan Ngọ",
+      "Tết Thanh minh",
+      "Lễ Vu Lan"
+    ],
+    "correct": 0,
+    "category": "Văn hóa",
+    "explanation": "Bánh trung thu thường được làm và biếu tặng vào dịp Tết Trung thu."
+  },
+  {
+    "level": 2,
+    "question": "Theo phong tục Việt Nam, lễ cúng ông Công ông Táo thường vào ngày nào âm lịch?",
+    "answers": [
+      "10 tháng Ba",
+      "23 tháng Chạp",
+      "15 tháng Giêng",
+      "5 tháng Năm"
+    ],
+    "correct": 1,
+    "category": "Văn hóa",
+    "explanation": "Lễ cúng ông Công ông Táo thường diễn ra ngày 23 tháng Chạp."
+  },
+  {
+    "level": 1,
+    "question": "Tiền mừng tuổi dịp Tết thường được đặt trong vật nào?",
+    "answers": [
+      "Bình hoa",
+      "Túi trà",
+      "Phong bao lì xì",
+      "Hộp bút"
+    ],
+    "correct": 2,
+    "category": "Văn hóa",
+    "explanation": "Phong bao lì xì dùng để đựng tiền mừng tuổi."
+  },
+  {
+    "level": 2,
+    "question": "Nhân vật Sọ Dừa trong truyện cổ tích Việt Nam được gọi như vậy vì ban đầu có hình dáng giống vật gì?",
+    "answers": [
+      "Chiếc chum",
+      "Quả bí",
+      "Bó rơm",
+      "Sọ quả dừa"
+    ],
+    "correct": 3,
+    "category": "Cổ tích",
+    "explanation": "Nhân vật lúc mới sinh có hình dáng tròn giống sọ quả dừa."
+  },
+  {
+    "level": 2,
+    "question": "Trong truyền thuyết Sơn Tinh, Thủy Tinh, ai có khả năng dâng nước?",
+    "answers": [
+      "Thủy Tinh",
+      "Sơn Tinh",
+      "Lang Liêu",
+      "Thánh Gióng"
+    ],
+    "correct": 0,
+    "category": "Cổ tích",
+    "explanation": "Thủy Tinh là nhân vật có phép dâng nước, còn Sơn Tinh nâng núi."
+  },
+  {
+    "level": 2,
+    "question": "Tục ngữ Ăn quả nhớ kẻ trồng cây khuyên điều gì?",
+    "answers": [
+      "Luôn hái quả vào sáng sớm",
+      "Biết ơn người tạo ra thành quả",
+      "Chỉ ăn trái cây tự trồng",
+      "Tránh trồng cây vào mùa mưa"
+    ],
+    "correct": 1,
+    "category": "Ngôn ngữ",
+    "explanation": "Câu tục ngữ khuyên biết ơn người đã giúp mình có thành quả."
+  },
+  {
+    "level": 1,
+    "question": "Từ nào trái nghĩa với nóng trong cụm nước nóng?",
+    "answers": [
+      "Nồng",
+      "Nóng bỏng",
+      "Lạnh",
+      "Ấm"
+    ],
+    "correct": 2,
+    "category": "Ngôn ngữ",
+    "explanation": "Lạnh là từ trái nghĩa với nóng trong ngữ cảnh nhiệt độ."
+  },
+  {
+    "level": 2,
+    "question": "Dấu nào thường đặt cuối câu hỏi trong tiếng Việt?",
+    "answers": [
+      "Dấu phẩy",
+      "Dấu hai chấm",
+      "Dấu chấm phẩy",
+      "Dấu hỏi chấm"
+    ],
+    "correct": 3,
+    "category": "Ngôn ngữ",
+    "explanation": "Dấu hỏi chấm dùng để kết thúc câu nghi vấn trực tiếp."
+  },
+  {
+    "level": 1,
+    "question": "Từ dog trong tiếng Anh chỉ con vật nào?",
+    "answers": [
+      "Con chó",
+      "Con mèo",
+      "Con ngựa",
+      "Con vịt"
+    ],
+    "correct": 0,
+    "category": "Tiếng Anh",
+    "explanation": "Dog có nghĩa là con chó."
+  },
+  {
+    "level": 4,
+    "question": "Dạng số nhiều của child trong tiếng Anh là gì?",
+    "answers": [
+      "Childrens",
+      "Children",
+      "Childs",
+      "Childes"
+    ],
+    "correct": 1,
+    "category": "Tiếng Anh",
+    "explanation": "Children là dạng số nhiều bất quy tắc của child."
+  },
+  {
+    "level": 4,
+    "question": "Leonardo da Vinci là tác giả của bức họa nào sau đây?",
+    "answers": [
+      "Tiếng thét",
+      "Hoa hướng dương",
+      "Mona Lisa",
+      "Guernica"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Mona Lisa là tác phẩm của Leonardo da Vinci."
+  },
+  {
+    "level": 3,
+    "question": "Đàn guitar thông thường có bao nhiêu dây?",
+    "answers": [
+      "4",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Đàn guitar tiêu chuẩn thông thường có sáu dây."
+  },
+  {
+    "level": 1,
+    "question": "Trong chuỗi tên nốt Đô, Rê, Mi, Fa, Sol, La, Si, nốt nào ngay sau Đô?",
+    "answers": [
+      "Rê",
+      "Mi",
+      "Fa",
+      "Sol"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Tên nốt ngay sau Đô trong chuỗi này là Rê."
+  },
+  {
+    "level": 2,
+    "question": "Người chơi violin thường dùng vật nào để kéo trên dây đàn?",
+    "answers": [
+      "Ống thổi",
+      "Vĩ đàn",
+      "Dùi trống",
+      "Phím gõ"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Vĩ đàn có lông căng để cọ lên dây violin."
+  },
+  {
+    "level": 3,
+    "question": "Kèn trumpet thuộc nhóm nhạc cụ nào trong dàn nhạc phương Tây?",
+    "answers": [
+      "Bộ gõ",
+      "Bộ phím",
+      "Bộ đồng",
+      "Bộ dây"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Trumpet là nhạc cụ hơi thuộc bộ đồng."
+  },
+  {
+    "level": 2,
+    "question": "Loại hình múa nào gắn với giày mũi cứng và động tác đứng trên đầu ngón chân?",
+    "answers": [
+      "Múa rối",
+      "Múa lân",
+      "Tap dance",
+      "Ballet"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Giày mũi cứng hỗ trợ kỹ thuật đứng trên mũi chân trong ballet."
+  },
+  {
+    "level": 1,
+    "question": "Hát ru thường nhằm giúp ai dễ ngủ?",
+    "answers": [
+      "Trẻ nhỏ",
+      "Trọng tài",
+      "Người dẫn chương trình",
+      "Khán giả sân vận động"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Hát ru thường dùng lời ca nhẹ nhàng để ru trẻ ngủ."
+  },
+  {
+    "level": 4,
+    "question": "Loại hình sân khấu truyền thống nào gắn với các nhân vật Thị Mầu, Thị Kính?",
+    "answers": [
+      "Opera",
+      "Chèo",
+      "Kịch câm",
+      "Ballet"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Quan Âm Thị Kính là vở chèo nổi tiếng có Thị Kính và Thị Mầu."
+  },
+  {
+    "level": 3,
+    "question": "Trong múa rối nước Việt Nam, sân khấu biểu diễn chủ yếu là gì?",
+    "answers": [
+      "Mái nhà",
+      "Đỉnh cây",
+      "Mặt nước",
+      "Sân băng"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Con rối được điều khiển để biểu diễn trên mặt nước."
+  },
+  {
+    "level": 2,
+    "question": "Môn thể thao nào dùng một quả cầu có lông và vợt để đánh qua lưới?",
+    "answers": [
+      "Bóng bàn",
+      "Bóng ném",
+      "Bóng rổ",
+      "Cầu lông"
+    ],
+    "correct": 3,
+    "category": "Thể thao",
+    "explanation": "Cầu lông dùng vợt và quả cầu có lông hoặc vật liệu tổng hợp."
+  },
+  {
+    "level": 1,
+    "question": "Trong bóng rổ, người chơi ghi điểm bằng cách đưa bóng vào đâu?",
+    "answers": [
+      "Rổ",
+      "Cầu môn",
+      "Hố cát",
+      "Ô giao cầu"
+    ],
+    "correct": 0,
+    "category": "Thể thao",
+    "explanation": "Bóng rổ tính điểm khi bóng đi vào rổ theo luật."
+  },
+  {
+    "level": 2,
+    "question": "Môn nào dưới đây sử dụng vợt và bóng nỉ trên sân có lưới?",
+    "answers": [
+      "Bóng đá",
+      "Quần vợt",
+      "Bóng chuyền",
+      "Bóng chày"
+    ],
+    "correct": 1,
+    "category": "Thể thao",
+    "explanation": "Quần vợt dùng vợt và bóng nỉ để đánh qua lưới."
+  },
+  {
+    "level": 3,
+    "question": "Kiểu bơi nào có động tác tay và chân thường được mô tả giống ếch?",
+    "answers": [
+      "Bơi ngửa",
+      "Bơi sải",
+      "Bơi ếch",
+      "Bơi bướm"
+    ],
+    "correct": 2,
+    "category": "Thể thao",
+    "explanation": "Bơi ếch có động tác tay chân gợi hình ảnh ếch bơi."
+  },
+  {
+    "level": 2,
+    "question": "Mỗi bên bắt đầu một ván cờ vua thông thường với bao nhiêu quân vua?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct": 3,
+    "category": "Thể thao",
+    "explanation": "Mỗi bên có một quân vua trong vị trí xuất phát."
+  },
+  {
+    "level": 4,
+    "question": "Quân nào trong cờ tướng mang tên một loại vũ khí bắn đạn?",
+    "answers": [
+      "Pháo",
+      "Tượng",
+      "Mã",
+      "Sĩ"
+    ],
+    "correct": 0,
+    "category": "Thể thao",
+    "explanation": "Quân pháo mang tên loại vũ khí bắn đạn."
+  },
+  {
+    "level": 4,
+    "question": "Bộ bài Tây 52 lá thông thường có bao nhiêu chất?",
+    "answers": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 1,
+    "category": "Đời sống",
+    "explanation": "Bốn chất là cơ, rô, chuồn và bích."
+  },
+  {
+    "level": 3,
+    "question": "Biểu tượng Olympic gồm bao nhiêu vòng tròn đan vào nhau?",
+    "answers": [
+      "6",
+      "7",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "category": "Thể thao",
+    "explanation": "Biểu tượng Olympic có năm vòng tròn."
+  },
+  {
+    "level": 3,
+    "question": "Bàn cờ vua tiêu chuẩn có bao nhiêu ô vuông?",
+    "answers": [
+      "49",
+      "81",
+      "100",
+      "64"
+    ],
+    "correct": 3,
+    "category": "Thể thao",
+    "explanation": "Bàn cờ vua có tám hàng và tám cột, tổng cộng 64 ô."
+  },
+  {
+    "level": 2,
+    "question": "Woody trong loạt phim Toy Story là đồ chơi mang hình tượng gì?",
+    "answers": [
+      "Cao bồi",
+      "Phi hành gia",
+      "Khủng long",
+      "Robot"
+    ],
+    "correct": 0,
+    "category": "Điện ảnh",
+    "explanation": "Woody là búp bê cao bồi, còn Buzz Lightyear là đồ chơi phi hành gia."
+  },
+  {
+    "level": 3,
+    "question": "Vết sẹo trên trán Harry Potter có hình gì?",
+    "answers": [
+      "Mặt trăng",
+      "Tia chớp",
+      "Ngôi sao",
+      "Trái tim"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Harry Potter có vết sẹo hình tia chớp."
+  },
+  {
+    "level": 1,
+    "question": "Doraemon là nhân vật có hình dáng giống loài vật nào?",
+    "answers": [
+      "Thỏ",
+      "Gấu",
+      "Mèo",
+      "Chó"
+    ],
+    "correct": 2,
+    "category": "Truyện tranh",
+    "explanation": "Doraemon là một chú mèo máy đến từ tương lai."
+  },
+  {
+    "level": 1,
+    "question": "Jerry trong hoạt hình Tom and Jerry là con vật nào?",
+    "answers": [
+      "Mèo",
+      "Vịt",
+      "Chó",
+      "Chuột"
+    ],
+    "correct": 3,
+    "category": "Điện ảnh",
+    "explanation": "Jerry là chú chuột thường đối đầu với mèo Tom."
+  },
+  {
+    "level": 2,
+    "question": "Trong truyện Cô bé quàng khăn đỏ, con vật nào giả làm bà ngoại?",
+    "answers": [
+      "Sói",
+      "Gấu",
+      "Hươu",
+      "Cáo"
+    ],
+    "correct": 0,
+    "category": "Cổ tích",
+    "explanation": "Sói giả làm bà ngoại để lừa cô bé."
+  },
+  {
+    "level": 1,
+    "question": "Trong truyện Nàng Bạch Tuyết, cô sống cùng bao nhiêu chú lùn?",
+    "answers": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "category": "Cổ tích",
+    "explanation": "Bạch Tuyết sống trong ngôi nhà của bảy chú lùn."
+  },
+  {
+    "level": 2,
+    "question": "Mũi của nhân vật Pinocchio thường dài ra khi cậu làm gì?",
+    "answers": [
+      "Ăn bánh",
+      "Hát",
+      "Nói dối",
+      "Ngủ"
+    ],
+    "correct": 2,
+    "category": "Cổ tích",
+    "explanation": "Chiếc mũi dài ra là dấu hiệu nổi tiếng gắn với việc Pinocchio nói dối."
+  },
+  {
+    "level": 3,
+    "question": "Trong truyện Sự tích cây vú sữa, cái cây gắn với tình cảm của ai dành cho con?",
+    "answers": [
+      "Người thầy",
+      "Người hàng xóm",
+      "Người em",
+      "Người mẹ"
+    ],
+    "correct": 3,
+    "category": "Cổ tích",
+    "explanation": "Cây vú sữa tượng trưng cho tình mẹ trong câu chuyện."
+  },
+  {
+    "level": 3,
+    "question": "Trong truyện Cây khế, chim dặn người em may túi mấy gang để đựng vàng?",
+    "answers": [
+      "3 gang",
+      "1 gang",
+      "5 gang",
+      "7 gang"
+    ],
+    "correct": 0,
+    "category": "Cổ tích",
+    "explanation": "Chim dặn may túi ba gang để mang đi lấy vàng."
+  },
+  {
+    "level": 2,
+    "question": "Hoa đào thường gắn với dịp lễ nào trong văn hóa miền Bắc Việt Nam?",
+    "answers": [
+      "Lễ Halloween",
+      "Tết Nguyên đán",
+      "Tết Trung thu",
+      "Lễ Giáng sinh"
+    ],
+    "correct": 1,
+    "category": "Văn hóa",
+    "explanation": "Hoa đào là loài hoa trang trí quen thuộc vào Tết Nguyên đán ở miền Bắc."
+  },
+  {
+    "level": 1,
+    "question": "Ông già Noel thường xuất hiện trong lễ nào?",
+    "answers": [
+      "Lễ Phật đản",
+      "Tết Thanh minh",
+      "Giáng sinh",
+      "Tết Đoan Ngọ"
+    ],
+    "correct": 2,
+    "category": "Văn hóa",
+    "explanation": "Ông già Noel là hình tượng quen thuộc của lễ Giáng sinh."
+  },
+  {
+    "level": 2,
+    "question": "Hanbok là trang phục truyền thống gắn với nền văn hóa nào?",
+    "answers": [
+      "Ấn Độ",
+      "Scotland",
+      "Mexico",
+      "Hàn Quốc"
+    ],
+    "correct": 3,
+    "category": "Văn hóa",
+    "explanation": "Hanbok là trang phục truyền thống của người Hàn Quốc."
+  },
+  {
+    "level": 3,
+    "question": "Món kimchi thường được chế biến bằng cách nào?",
+    "answers": [
+      "Muối và lên men rau",
+      "Nướng nguyên củ trên than",
+      "Chiên bột thành bánh",
+      "Phơi khô thịt bò"
+    ],
+    "correct": 0,
+    "category": "Văn hóa",
+    "explanation": "Kimchi được làm từ rau ướp gia vị rồi lên men."
+  },
+  {
+    "level": 2,
+    "question": "Thành phần làm nên phần vỏ bánh cuốn truyền thống là gì?",
+    "answers": [
+      "Bột cà phê",
+      "Bột gạo",
+      "Bột ca cao",
+      "Bột hạnh nhân"
+    ],
+    "correct": 1,
+    "category": "Ẩm thực",
+    "explanation": "Bánh cuốn có lớp vỏ mỏng làm chủ yếu từ bột gạo."
+  },
+  {
+    "level": 1,
+    "question": "Vật dụng nào thường dùng để mở nút bần của chai rượu vang?",
+    "answers": [
+      "Muôi canh",
+      "Kẹp giấy",
+      "Đồ khui nút bần",
+      "Dao gọt"
+    ],
+    "correct": 2,
+    "category": "Đời sống",
+    "explanation": "Đồ khui nút bần có phần xoắn để kéo nút ra khỏi chai."
+  },
+  {
+    "level": 1,
+    "question": "Khi khâu bằng tay, sợi chỉ thường được luồn qua bộ phận nào của kim?",
+    "answers": [
+      "Mũi kim",
+      "Nắp kim",
+      "Cán kéo",
+      "Lỗ kim"
+    ],
+    "correct": 3,
+    "category": "Đời sống",
+    "explanation": "Lỗ kim giữ sợi chỉ để kéo chỉ xuyên qua vải."
+  },
+  {
+    "level": 2,
+    "question": "Khi xem sách, phần mục lục giúp người đọc tìm điều gì?",
+    "answers": [
+      "Vị trí các phần và chương",
+      "Giá bìa của sách",
+      "Độ dày giấy",
+      "Mã màu mực"
+    ],
+    "correct": 0,
+    "category": "Đời sống",
+    "explanation": "Mục lục liệt kê các phần hoặc chương và vị trí của chúng."
+  },
+  {
+    "level": 2,
+    "question": "Dụng cụ nào dùng để đo chiều dài cơ thể khi may quần áo?",
+    "answers": [
+      "Nhiệt kế",
+      "Thước dây",
+      "Thìa đong",
+      "Rây bột"
+    ],
+    "correct": 1,
+    "category": "Đời sống",
+    "explanation": "Thước dây mềm thuận tiện để đo các vòng và chiều dài trên cơ thể."
+  },
+  {
+    "level": 2,
+    "question": "Cụm từ nào là lời chào buổi sáng trong tiếng Anh?",
+    "answers": [
+      "Thank you",
+      "Excuse me",
+      "Good morning",
+      "Good night"
+    ],
+    "correct": 2,
+    "category": "Ngôn ngữ",
+    "explanation": "Good morning dùng để chào vào buổi sáng."
+  },
+  {
+    "level": 1,
+    "question": "Từ red trong tiếng Anh chỉ màu nào?",
+    "answers": [
+      "Xanh lá",
+      "Trắng",
+      "Đen",
+      "Đỏ"
+    ],
+    "correct": 3,
+    "category": "Tiếng Anh",
+    "explanation": "Red có nghĩa là màu đỏ."
+  },
+  {
+    "level": 2,
+    "question": "Từ library trong tiếng Anh có nghĩa là gì?",
+    "answers": [
+      "Thư viện",
+      "Hiệu thuốc",
+      "Nhà bếp",
+      "Sân bay"
+    ],
+    "correct": 0,
+    "category": "Tiếng Anh",
+    "explanation": "Library là nơi lưu giữ và cho đọc hoặc mượn sách."
+  },
+  {
+    "level": 3,
+    "question": "Từ nào là đại từ ngôi thứ nhất số ít trong tiếng Anh?",
+    "answers": [
+      "You",
+      "I",
+      "He",
+      "They"
+    ],
+    "correct": 1,
+    "category": "Tiếng Anh",
+    "explanation": "I là đại từ chủ ngữ ngôi thứ nhất số ít."
+  },
+  {
+    "level": 3,
+    "question": "Trong câu Bé đang đọc sách, từ đọc biểu thị điều gì?",
+    "answers": [
+      "Số lượng",
+      "Tên người",
+      "Hoạt động",
+      "Màu sắc"
+    ],
+    "correct": 2,
+    "category": "Ngôn ngữ",
+    "explanation": "Đọc là động từ chỉ hoạt động trong câu."
+  },
+  {
+    "level": 3,
+    "question": "Từ nào gần nghĩa nhất với chăm chỉ?",
+    "answers": [
+      "Lười biếng",
+      "Hấp tấp",
+      "Kiêu ngạo",
+      "Siêng năng"
+    ],
+    "correct": 3,
+    "category": "Ngôn ngữ",
+    "explanation": "Chăm chỉ và siêng năng đều chỉ sự cần mẫn trong công việc."
+  },
+  {
+    "level": 2,
+    "question": "Từ nào trái nghĩa với rộng trong cụm căn phòng rộng?",
+    "answers": [
+      "Hẹp",
+      "Dài",
+      "Cao",
+      "Sáng"
+    ],
+    "correct": 0,
+    "category": "Ngôn ngữ",
+    "explanation": "Hẹp trái nghĩa với rộng khi nói về không gian."
+  },
+  {
+    "level": 3,
+    "question": "Dấu ngoặc kép thường dùng để đánh dấu nội dung nào?",
+    "answers": [
+      "Số thứ tự trang",
+      "Lời trích dẫn trực tiếp",
+      "Kết quả phép chia",
+      "Âm cuối của từ"
+    ],
+    "correct": 1,
+    "category": "Ngôn ngữ",
+    "explanation": "Ngoặc kép thường bao quanh lời được trích dẫn trực tiếp."
+  },
+  {
+    "level": 4,
+    "question": "Bài thơ Hạt gạo làng ta do ai sáng tác?",
+    "answers": [
+      "Huy Cận",
+      "Tố Hữu",
+      "Trần Đăng Khoa",
+      "Xuân Diệu"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Hạt gạo làng ta là bài thơ của Trần Đăng Khoa."
+  },
+  {
+    "level": 4,
+    "question": "Tác giả bài thơ Bánh trôi nước là ai?",
+    "answers": [
+      "Bà Huyện Thanh Quan",
+      "Đoàn Thị Điểm",
+      "Xuân Quỳnh",
+      "Hồ Xuân Hương"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Bánh trôi nước là bài thơ nổi tiếng của Hồ Xuân Hương."
+  },
+  {
+    "level": 5,
+    "question": "Nhà văn nào sáng tác truyện ngắn Vợ nhặt?",
+    "answers": [
+      "Kim Lân",
+      "Nam Cao",
+      "Nguyễn Tuân",
+      "Thạch Lam"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Vợ nhặt là truyện ngắn của Kim Lân."
+  },
+  {
+    "level": 4,
+    "question": "Nhân vật chị Dậu thuộc tác phẩm nào?",
+    "answers": [
+      "Vợ chồng A Phủ",
+      "Tắt đèn",
+      "Lão Hạc",
+      "Số đỏ"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Chị Dậu là nhân vật trung tâm của tiểu thuyết Tắt đèn."
+  },
+  {
+    "level": 3,
+    "question": "Trong truyện Lão Hạc, lão gọi con chó của mình bằng tên nào?",
+    "answers": [
+      "Cậu Đốm",
+      "Cậu Mực",
+      "Cậu Vàng",
+      "Cậu Đen"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Lão Hạc gọi con chó là cậu Vàng."
+  },
+  {
+    "level": 4,
+    "question": "Truyện Kiều chủ yếu được viết theo thể thơ nào?",
+    "answers": [
+      "Thất ngôn bát cú",
+      "Ngũ ngôn",
+      "Haiku",
+      "Lục bát"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Truyện Kiều dùng thể lục bát, kết hợp dòng sáu tiếng và tám tiếng."
+  },
+  {
+    "level": 4,
+    "question": "Ai sáng tác bài thơ Sóng được học phổ biến trong chương trình Ngữ văn?",
+    "answers": [
+      "Xuân Quỳnh",
+      "Hồ Xuân Hương",
+      "Anh Thơ",
+      "Hàn Mặc Tử"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Sóng là bài thơ tình của Xuân Quỳnh."
+  },
+  {
+    "level": 4,
+    "question": "Nhân vật Thị Nở xuất hiện trong truyện nào của Nam Cao?",
+    "answers": [
+      "Trăng sáng",
+      "Chí Phèo",
+      "Đời thừa",
+      "Lão Hạc"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Thị Nở là nhân vật trong truyện Chí Phèo."
+  },
+  {
+    "level": 5,
+    "question": "Bài thơ Qua Đèo Ngang thường được ghi là tác phẩm của ai?",
+    "answers": [
+      "Tú Xương",
+      "Nguyễn Bính",
+      "Bà Huyện Thanh Quan",
+      "Nguyễn Khuyến"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Qua Đèo Ngang là bài thơ nổi tiếng của Bà Huyện Thanh Quan."
+  },
+  {
+    "level": 5,
+    "question": "Hoàng tử bé là tác phẩm của nhà văn nào?",
+    "answers": [
+      "Jules Verne",
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Antoine de Saint-Exupéry"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Antoine de Saint-Exupéry viết Hoàng tử bé."
+  },
+  {
+    "level": 5,
+    "question": "Thám tử Sherlock Holmes sống cùng bác sĩ nào trong truyện của Arthur Conan Doyle?",
+    "answers": [
+      "John Watson",
+      "Victor Frankenstein",
+      "Ebenezer Scrooge",
+      "Hercule Poirot"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Bác sĩ John Watson là bạn và người kể nhiều câu chuyện về Holmes."
+  },
+  {
+    "level": 3,
+    "question": "Hai chị em Elsa và Anna là nhân vật trong phim hoạt hình nào?",
+    "answers": [
+      "Ratatouille",
+      "Frozen",
+      "Shrek",
+      "Cars"
+    ],
+    "correct": 1,
+    "category": "Điện ảnh",
+    "explanation": "Elsa và Anna là hai chị em trong Frozen của Disney."
+  },
+  {
+    "level": 4,
+    "question": "Chú cá Nemo thuộc loài cá nào trong phim Finding Nemo?",
+    "answers": [
+      "Cá kiếm",
+      "Cá mập",
+      "Cá hề",
+      "Cá ngừ"
+    ],
+    "correct": 2,
+    "category": "Điện ảnh",
+    "explanation": "Nemo được xây dựng theo hình dáng cá hề."
+  },
+  {
+    "level": 3,
+    "question": "Trong phim Kung Fu Panda, nhân vật Po là con vật gì?",
+    "answers": [
+      "Hổ",
+      "Khỉ",
+      "Sếu",
+      "Gấu trúc"
+    ],
+    "correct": 3,
+    "category": "Điện ảnh",
+    "explanation": "Po là chú gấu trúc học kung fu."
+  },
+  {
+    "level": 4,
+    "question": "Chú chuột Remy mơ trở thành đầu bếp xuất hiện trong phim Pixar nào?",
+    "answers": [
+      "Ratatouille",
+      "WALL-E",
+      "Brave",
+      "Up"
+    ],
+    "correct": 0,
+    "category": "Điện ảnh",
+    "explanation": "Remy là nhân vật chính trong Ratatouille."
+  },
+  {
+    "level": 4,
+    "question": "Nhân vật Monkey D. Luffy là nhân vật chính của bộ truyện nào?",
+    "answers": [
+      "Doraemon",
+      "One Piece",
+      "Naruto",
+      "Bleach"
+    ],
+    "correct": 1,
+    "category": "Truyện tranh",
+    "explanation": "Luffy là nhân vật chính trong One Piece của Eiichiro Oda."
+  },
+  {
+    "level": 4,
+    "question": "Một bài hát không có phần nhạc cụ đệm, chỉ dùng giọng người, thường gọi là gì?",
+    "answers": [
+      "Overture",
+      "Concerto",
+      "A cappella",
+      "Remix"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "A cappella là cách hát không có nhạc cụ đệm."
+  },
+  {
+    "level": 4,
+    "question": "Nhạc cụ nào có các phím đen và trắng để người chơi bấm bằng tay?",
+    "answers": [
+      "Sáo trúc",
+      "Trống cơm",
+      "Kèn harmonica",
+      "Piano"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Piano có bàn phím gồm các phím trắng và đen."
+  },
+  {
+    "level": 3,
+    "question": "Sáo trúc tạo âm thanh chủ yếu khi người chơi làm gì?",
+    "answers": [
+      "Thổi hơi",
+      "Kéo vĩ",
+      "Gõ dùi",
+      "Gảy dây"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Người chơi thổi hơi qua lỗ thổi để tạo âm thanh trên sáo trúc."
+  },
+  {
+    "level": 3,
+    "question": "Nghệ thuật gấp giấy của Nhật Bản thường gọi là gì?",
+    "answers": [
+      "Haiku",
+      "Origami",
+      "Ikebana",
+      "Kabuki"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Origami là nghệ thuật gấp giấy."
+  },
+  {
+    "level": 3,
+    "question": "Loại hình biểu diễn nào kể chuyện chủ yếu bằng cử chỉ, không dùng lời nói?",
+    "answers": [
+      "Chèo",
+      "Opera",
+      "Kịch câm",
+      "Ca trù"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Kịch câm sử dụng nét mặt, động tác và cử chỉ để thể hiện nội dung."
+  },
+  {
+    "level": 4,
+    "question": "Trong mỹ thuật, chân dung thường tập trung khắc họa đối tượng nào?",
+    "answers": [
+      "Bản đồ",
+      "Công thức",
+      "Sơ đồ điện",
+      "Con người"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Tranh chân dung khắc họa diện mạo và thường cả thần thái của con người."
+  },
+  {
+    "level": 5,
+    "question": "Trò chơi dân gian ô ăn quan thường dùng vật gì làm quân chơi?",
+    "answers": [
+      "Sỏi hoặc hạt",
+      "Bóng cao su",
+      "Thanh kiếm gỗ",
+      "Vợt lông"
+    ],
+    "correct": 0,
+    "category": "Văn hóa",
+    "explanation": "Sỏi hay hạt thường được dùng làm quân trong trò ô ăn quan."
+  },
+  {
+    "level": 3,
+    "question": "Mâm ngũ quả dịp Tết có tên gọi gợi đến bao nhiêu loại quả?",
+    "answers": [
+      "9",
+      "5",
+      "3",
+      "7"
+    ],
+    "correct": 1,
+    "category": "Văn hóa",
+    "explanation": "Ngũ có nghĩa là năm; cách chọn và bày quả có thể khác nhau giữa các vùng."
+  },
+  {
+    "level": 4,
+    "question": "Trong 12 con giáp Việt Nam, năm Mão gắn với con vật nào?",
+    "answers": [
+      "Hươu",
+      "Chó",
+      "Mèo",
+      "Thỏ"
+    ],
+    "correct": 2,
+    "category": "Văn hóa",
+    "explanation": "Trong hệ 12 con giáp Việt Nam, Mão là mèo."
+  },
+  {
+    "level": 5,
+    "question": "Người Scotland thường gọi chiếc váy truyền thống xếp nếp của nam giới là gì?",
+    "answers": [
+      "Sari",
+      "Kimono",
+      "Hanbok",
+      "Kilt"
+    ],
+    "correct": 3,
+    "category": "Văn hóa",
+    "explanation": "Kilt là trang phục xếp nếp truyền thống nổi tiếng của Scotland."
+  },
+  {
+    "level": 4,
+    "question": "Gạo nếp thường được dùng để nấu món nào sau đây?",
+    "answers": [
+      "Xôi",
+      "Bún tươi",
+      "Bánh mì baguette",
+      "Mì spaghetti"
+    ],
+    "correct": 0,
+    "category": "Ẩm thực",
+    "explanation": "Xôi được nấu bằng gạo nếp."
+  },
+  {
+    "level": 3,
+    "question": "Loại bánh nào có tên gợi hình chiếc sừng, thường gặp trong ẩm thực Pháp?",
+    "answers": [
+      "Pretzel",
+      "Croissant",
+      "Mochi",
+      "Tortilla"
+    ],
+    "correct": 1,
+    "category": "Ẩm thực",
+    "explanation": "Croissant có hình lưỡi liềm hay sừng cong."
+  },
+  {
+    "level": 5,
+    "question": "Môn thể thao nào gắn với các dụng cụ như xà đơn, xà kép và ngựa vòng?",
+    "answers": [
+      "Bóng ném",
+      "Đua thuyền",
+      "Thể dục dụng cụ",
+      "Bóng bầu dục"
+    ],
+    "correct": 2,
+    "category": "Thể thao",
+    "explanation": "Xà đơn, xà kép và ngựa vòng là các nội dung của thể dục dụng cụ."
+  },
+  {
+    "level": 4,
+    "question": "Trong bóng bàn, hai người chơi thường ngăn cách nhau bằng vật gì trên bàn?",
+    "answers": [
+      "Tường kính",
+      "Vạch cát",
+      "Dây thừng trên cao",
+      "Lưới"
+    ],
+    "correct": 3,
+    "category": "Thể thao",
+    "explanation": "Lưới chia mặt bàn bóng bàn thành hai phần."
+  },
+  {
+    "level": 4,
+    "question": "Tên gọi bìa mềm của sách chỉ đặc điểm nào?",
+    "answers": [
+      "Bìa có thể uốn cong",
+      "Nội dung ngắn",
+      "Không có mục lục",
+      "Chỉ in một màu"
+    ],
+    "correct": 0,
+    "category": "Đời sống",
+    "explanation": "Bìa mềm thường làm từ giấy hoặc bìa mỏng có thể uốn cong."
+  },
+  {
+    "level": 7,
+    "question": "Tùy bút Người lái đò Sông Đà do ai sáng tác?",
+    "answers": [
+      "Nguyễn Khải",
+      "Nguyễn Tuân",
+      "Nguyễn Công Hoan",
+      "Nguyễn Huy Thiệp"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Người lái đò Sông Đà là tùy bút của Nguyễn Tuân."
+  },
+  {
+    "level": 6,
+    "question": "Truyện Vợ chồng A Phủ nằm trong sáng tác của nhà văn nào?",
+    "answers": [
+      "Ngô Tất Tố",
+      "Vũ Trọng Phụng",
+      "Tô Hoài",
+      "Kim Lân"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Tô Hoài viết Vợ chồng A Phủ trong tập Truyện Tây Bắc."
+  },
+  {
+    "level": 7,
+    "question": "Ai là tác giả truyện ngắn Hai đứa trẻ?",
+    "answers": [
+      "Nguyên Hồng",
+      "Nam Cao",
+      "Nguyễn Minh Châu",
+      "Thạch Lam"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Hai đứa trẻ là truyện ngắn của Thạch Lam."
+  },
+  {
+    "level": 6,
+    "question": "Bài thơ Tràng giang thuộc sáng tác của ai?",
+    "answers": [
+      "Huy Cận",
+      "Xuân Diệu",
+      "Hàn Mặc Tử",
+      "Chế Lan Viên"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Huy Cận sáng tác Tràng giang, in trong tập Lửa thiêng."
+  },
+  {
+    "level": 6,
+    "question": "Ai là tác giả bài thơ Tây Tiến?",
+    "answers": [
+      "Nguyễn Duy",
+      "Quang Dũng",
+      "Chính Hữu",
+      "Phạm Tiến Duật"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Quang Dũng là tác giả Tây Tiến."
+  },
+  {
+    "level": 6,
+    "question": "Truyện ngắn Chiếc lược ngà do nhà văn nào sáng tác?",
+    "answers": [
+      "Nguyễn Minh Châu",
+      "Nguyễn Thi",
+      "Nguyễn Quang Sáng",
+      "Nguyễn Thành Long"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Chiếc lược ngà là truyện ngắn của Nguyễn Quang Sáng."
+  },
+  {
+    "level": 7,
+    "question": "Truyện ngắn Tôi đi học do ai sáng tác?",
+    "answers": [
+      "Tô Hoài",
+      "Nguyễn Tuân",
+      "Nguyễn Công Hoan",
+      "Thanh Tịnh"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Thanh Tịnh là tác giả Tôi đi học."
+  },
+  {
+    "level": 7,
+    "question": "Tập thơ Nhật ký trong tù được viết chủ yếu bằng ngôn ngữ nào?",
+    "answers": [
+      "Tiếng Hán",
+      "Tiếng Pháp",
+      "Tiếng Anh",
+      "Tiếng Nga"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Hồ Chí Minh viết Nhật ký trong tù chủ yếu bằng chữ Hán."
+  },
+  {
+    "level": 6,
+    "question": "Tiểu thuyết Những người khốn khổ là tác phẩm của ai?",
+    "answers": [
+      "Gustave Flaubert",
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Émile Zola"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Victor Hugo là tác giả Les Misérables, thường dịch là Những người khốn khổ."
+  },
+  {
+    "level": 8,
+    "question": "Ai viết tiểu thuyết Tội ác và hình phạt?",
+    "answers": [
+      "Anton Chekhov",
+      "Ivan Turgenev",
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Tội ác và hình phạt là tiểu thuyết của Fyodor Dostoevsky."
+  },
+  {
+    "level": 7,
+    "question": "Nhà văn nào sáng tác tiểu thuyết Chiến tranh và hòa bình?",
+    "answers": [
+      "Maxim Gorky",
+      "Nikolai Gogol",
+      "Mikhail Bulgakov",
+      "Leo Tolstoy"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Chiến tranh và hòa bình là tiểu thuyết của Leo Tolstoy."
+  },
+  {
+    "level": 7,
+    "question": "Ông già và biển cả là tác phẩm của nhà văn nào?",
+    "answers": [
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck",
+      "F. Scott Fitzgerald"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Ernest Hemingway viết The Old Man and the Sea."
+  },
+  {
+    "level": 7,
+    "question": "Don Quixote là tiểu thuyết của tác giả nào?",
+    "answers": [
+      "Jorge Luis Borges",
+      "Miguel de Cervantes",
+      "Federico García Lorca",
+      "Gabriel García Márquez"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Miguel de Cervantes là tác giả Don Quixote."
+  },
+  {
+    "level": 8,
+    "question": "Tiểu thuyết Kiêu hãnh và định kiến do ai viết?",
+    "answers": [
+      "Emily Brontë",
+      "George Eliot",
+      "Jane Austen",
+      "Charlotte Brontë"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Pride and Prejudice là tiểu thuyết của Jane Austen."
+  },
+  {
+    "level": 7,
+    "question": "Alice ở xứ sở thần tiên là tác phẩm của ai?",
+    "answers": [
+      "J. M. Barrie",
+      "A. A. Milne",
+      "Beatrix Potter",
+      "Lewis Carroll"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Lewis Carroll sáng tác Alice's Adventures in Wonderland."
+  },
+  {
+    "level": 9,
+    "question": "Nhân vật Peter Pan được sáng tạo bởi nhà văn nào?",
+    "answers": [
+      "J. M. Barrie",
+      "Charles Dickens",
+      "Oscar Wilde",
+      "Roald Dahl"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "J. M. Barrie tạo ra Peter Pan, cậu bé không muốn lớn lên."
+  },
+  {
+    "level": 8,
+    "question": "Tiểu thuyết Robinson Crusoe do ai viết?",
+    "answers": [
+      "Walter Scott",
+      "Daniel Defoe",
+      "Jonathan Swift",
+      "Thomas Hardy"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Daniel Defoe là tác giả Robinson Crusoe."
+  },
+  {
+    "level": 9,
+    "question": "Gulliver du ký là tác phẩm của ai?",
+    "answers": [
+      "Robert Louis Stevenson",
+      "Charles Dickens",
+      "Jonathan Swift",
+      "Daniel Defoe"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Jonathan Swift viết Gulliver's Travels."
+  },
+  {
+    "level": 8,
+    "question": "Nhân vật hobbit chính trong tiểu thuyết The Hobbit tên là gì?",
+    "answers": [
+      "Frodo Baggins",
+      "Samwise Gamgee",
+      "Peregrin Took",
+      "Bilbo Baggins"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Bilbo Baggins là nhân vật trung tâm của The Hobbit."
+  },
+  {
+    "level": 8,
+    "question": "Ai là tác giả tiểu thuyết Trại súc vật?",
+    "answers": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H. G. Wells"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "George Orwell viết Animal Farm, thường dịch là Trại súc vật."
+  },
+  {
+    "level": 8,
+    "question": "Sử thi Odyssey theo truyền thống được gán cho tác giả nào?",
+    "answers": [
+      "Ovid",
+      "Homer",
+      "Virgil",
+      "Sophocles"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Odyssey và Iliad theo truyền thống được gán cho Homer."
+  },
+  {
+    "level": 9,
+    "question": "Vở kịch Tartuffe là tác phẩm của nhà viết kịch nào?",
+    "answers": [
+      "Jean Racine",
+      "Henrik Ibsen",
+      "Molière",
+      "Pierre Corneille"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Molière là tác giả vở hài kịch Tartuffe."
+  },
+  {
+    "level": 8,
+    "question": "Truyện Hóa thân, kể về Gregor Samsa, do ai sáng tác?",
+    "answers": [
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Albert Camus",
+      "Franz Kafka"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Franz Kafka viết Die Verwandlung, thường dịch là Hóa thân."
+  },
+  {
+    "level": 6,
+    "question": "Thể thơ haiku gắn với truyền thống văn học của quốc gia nào?",
+    "answers": [
+      "Nhật Bản",
+      "Hy Lạp",
+      "Ba Tư",
+      "Thụy Điển"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Haiku là thể thơ ngắn trong truyền thống Nhật Bản."
+  },
+  {
+    "level": 9,
+    "question": "Một bài limerick theo dạng thơ tiếng Anh thông thường có bao nhiêu dòng?",
+    "answers": [
+      "8",
+      "5",
+      "4",
+      "6"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Limerick là bài thơ năm dòng, thường dùng sơ đồ vần AABBA."
+  },
+  {
+    "level": 6,
+    "question": "Trong câu Tán cây như một chiếc ô xanh, biện pháp tu từ chính là gì?",
+    "answers": [
+      "Đảo ngữ",
+      "Điệp âm",
+      "So sánh",
+      "Nói giảm"
+    ],
+    "correct": 2,
+    "category": "Ngôn ngữ",
+    "explanation": "Từ như tạo phép so sánh giữa tán cây và chiếc ô."
+  },
+  {
+    "level": 6,
+    "question": "Trong câu Hàng cây thì thầm với gió, biện pháp tu từ chính là gì?",
+    "answers": [
+      "Nói giảm",
+      "Liệt kê",
+      "Đối lập",
+      "Nhân hóa"
+    ],
+    "correct": 3,
+    "category": "Ngôn ngữ",
+    "explanation": "Thì thầm là hành động của người được gán cho hàng cây."
+  },
+  {
+    "level": 6,
+    "question": "Thành ngữ Nước đến chân mới nhảy thường chỉ thói quen nào?",
+    "answers": [
+      "Đợi sát hạn mới hành động",
+      "Chuẩn bị từ rất sớm",
+      "Luôn tuân thủ kế hoạch",
+      "Giúp người gặp nạn"
+    ],
+    "correct": 0,
+    "category": "Ngôn ngữ",
+    "explanation": "Thành ngữ chỉ việc trì hoãn đến khi tình thế cấp bách mới làm."
+  },
+  {
+    "level": 7,
+    "question": "Hai từ đường trong đường đi và đường ăn thuộc quan hệ nào?",
+    "answers": [
+      "Từ láy",
+      "Đồng âm",
+      "Trái nghĩa",
+      "Đồng nghĩa"
+    ],
+    "correct": 1,
+    "category": "Ngôn ngữ",
+    "explanation": "Hai từ có âm giống nhau nhưng chỉ hai khái niệm khác nhau."
+  },
+  {
+    "level": 6,
+    "question": "Quá khứ đơn của động từ go là gì?",
+    "answers": [
+      "Gone",
+      "Going",
+      "Went",
+      "Goed"
+    ],
+    "correct": 2,
+    "category": "Tiếng Anh",
+    "explanation": "Went là dạng quá khứ đơn của go; gone là quá khứ phân từ."
+  },
+  {
+    "level": 6,
+    "question": "Dạng so sánh hơn của tính từ good là gì?",
+    "answers": [
+      "Gooder",
+      "Best",
+      "More best",
+      "Better"
+    ],
+    "correct": 3,
+    "category": "Tiếng Anh",
+    "explanation": "Good có dạng so sánh hơn bất quy tắc là better."
+  },
+  {
+    "level": 7,
+    "question": "Từ nào thông thường là danh từ không đếm được trong tiếng Anh?",
+    "answers": [
+      "Information",
+      "Chair",
+      "Apple",
+      "Student"
+    ],
+    "correct": 0,
+    "category": "Tiếng Anh",
+    "explanation": "Information thường không dùng trực tiếp với a hoặc số nhiều -s."
+  },
+  {
+    "level": 8,
+    "question": "Điền từ phù hợp: She has lived here ___ 2020.",
+    "answers": [
+      "Until",
+      "Since",
+      "For",
+      "During"
+    ],
+    "correct": 1,
+    "category": "Tiếng Anh",
+    "explanation": "Since dùng với mốc bắt đầu như năm 2020 trong câu hiện tại hoàn thành này."
+  },
+  {
+    "level": 7,
+    "question": "Trong câu The book was written by Mary, câu được viết ở thể nào?",
+    "answers": [
+      "Điều kiện",
+      "Câu hỏi",
+      "Bị động",
+      "Mệnh lệnh"
+    ],
+    "correct": 2,
+    "category": "Tiếng Anh",
+    "explanation": "Was written là cấu trúc bị động ở quá khứ đơn."
+  },
+  {
+    "level": 9,
+    "question": "Thành ngữ break the ice thường mang nghĩa gì trong giao tiếp?",
+    "answers": [
+      "Kết thúc mọi cuộc trò chuyện",
+      "Giữ bí mật tuyệt đối",
+      "Đổi chủ đề vì tức giận",
+      "Phá tan sự ngượng ngùng ban đầu"
+    ],
+    "correct": 3,
+    "category": "Tiếng Anh",
+    "explanation": "Break the ice chỉ việc giúp mọi người bắt đầu trò chuyện thoải mái hơn."
+  },
+  {
+    "level": 7,
+    "question": "Bộ hòa tấu Bốn mùa là sáng tác của ai?",
+    "answers": [
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Joseph Haydn",
+      "Franz Schubert"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Vivaldi sáng tác bốn concerto violin trong bộ Bốn mùa."
+  },
+  {
+    "level": 7,
+    "question": "Giao hưởng số 9 của Beethoven nổi tiếng với phần hợp xướng ở chương nào?",
+    "answers": [
+      "Chương ba",
+      "Chương cuối",
+      "Chương đầu",
+      "Chương hai"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Phần hợp xướng dựa trên Ode to Joy xuất hiện ở chương cuối."
+  },
+  {
+    "level": 8,
+    "question": "Ballet Kẹp hạt dẻ được soạn nhạc bởi ai?",
+    "answers": [
+      "Sergei Prokofiev",
+      "Nikolai Rimsky-Korsakov",
+      "Pyotr Ilyich Tchaikovsky",
+      "Igor Stravinsky"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Tchaikovsky soạn nhạc cho ballet The Nutcracker."
+  },
+  {
+    "level": 9,
+    "question": "Bản nhạc piano Clair de lune trong Suite bergamasque do ai sáng tác?",
+    "answers": [
+      "Maurice Ravel",
+      "Erik Satie",
+      "Camille Saint-Saëns",
+      "Claude Debussy"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Clair de lune là phần nổi tiếng trong Suite bergamasque của Debussy."
+  },
+  {
+    "level": 8,
+    "question": "Khóa Sol thông thường xác định nốt Sol trên dòng kẻ thứ mấy của khuông nhạc, tính từ dưới lên?",
+    "answers": [
+      "Thứ hai",
+      "Thứ nhất",
+      "Thứ ba",
+      "Thứ năm"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Tâm vòng cuộn của khóa Sol đặt trên dòng thứ hai."
+  },
+  {
+    "level": 8,
+    "question": "Khóa Fa thông thường đặt nốt Fa trên dòng kẻ thứ mấy, tính từ dưới lên?",
+    "answers": [
+      "Thứ năm",
+      "Thứ tư",
+      "Thứ nhất",
+      "Thứ hai"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Hai chấm của khóa Fa nằm hai bên dòng thứ tư, dòng mang nốt Fa."
+  },
+  {
+    "level": 7,
+    "question": "Chỉ dẫn forte trong bản nhạc yêu cầu chơi với sắc thái nào?",
+    "answers": [
+      "Chậm dần",
+      "Ngừng hoàn toàn",
+      "Mạnh",
+      "Nhẹ"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Forte thường được viết tắt là f và chỉ sắc thái mạnh."
+  },
+  {
+    "level": 7,
+    "question": "Chỉ dẫn allegro chủ yếu liên quan đến yếu tố nào?",
+    "answers": [
+      "Cao độ thấp",
+      "Dùng bàn đạp",
+      "Đổi nhạc cụ",
+      "Tốc độ nhanh"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Allegro chỉ nhịp độ nhanh, thường có tính chất sống động."
+  },
+  {
+    "level": 8,
+    "question": "Chỉ dẫn diminuendo yêu cầu thay đổi âm lượng ra sao?",
+    "answers": [
+      "Nhỏ dần",
+      "Lớn dần",
+      "Giữ nguyên",
+      "Ngắt đột ngột"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Diminuendo chỉ việc giảm dần cường độ âm thanh."
+  },
+  {
+    "level": 9,
+    "question": "Coda trong cấu trúc một tác phẩm âm nhạc thường là phần nào?",
+    "answers": [
+      "Phần ghi nhạc cụ",
+      "Phần kết",
+      "Phần lên dây",
+      "Phần đặt tên"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Coda là đoạn kết bổ sung hoặc hoàn tất tác phẩm."
+  },
+  {
+    "level": 8,
+    "question": "Aria trong opera thường là gì?",
+    "answers": [
+      "Đoạn chỉ dành cho khán giả",
+      "Lời hướng dẫn lên dây đàn",
+      "Khúc hát dành cho giọng độc xướng",
+      "Phần mở đầu chỉ có bộ gõ"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Aria là khúc hát độc xướng thể hiện cảm xúc hoặc nội dung của nhân vật."
+  },
+  {
+    "level": 8,
+    "question": "Tứ tấu đàn dây tiêu chuẩn gồm tổ hợp nào?",
+    "answers": [
+      "Bốn contrabass",
+      "Hai guitar, hai harp",
+      "Một violin, ba piano",
+      "Hai violin, một viola, một cello"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Tứ tấu dây tiêu chuẩn gồm hai violin, viola và cello."
+  },
+  {
+    "level": 7,
+    "question": "Trong phân loại giọng hát nữ cổ điển, giọng nào thường cao nhất?",
+    "answers": [
+      "Soprano",
+      "Mezzo-soprano",
+      "Contralto",
+      "Bass"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Soprano là nhóm giọng nữ cao, trên mezzo-soprano và contralto."
+  },
+  {
+    "level": 8,
+    "question": "Concerto thường làm nổi bật mối quan hệ giữa thành phần nào?",
+    "answers": [
+      "Vũ công và người làm xiếc",
+      "Nhạc cụ độc tấu và dàn nhạc",
+      "Hai đội hợp xướng không nhạc cụ",
+      "Người kể chuyện và khán giả"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Concerto thường dành cho một hay nhiều nhạc cụ độc tấu đối thoại với dàn nhạc."
+  },
+  {
+    "level": 9,
+    "question": "Timpani là nhạc cụ thuộc nhóm nào?",
+    "answers": [
+      "Bộ phím điện tử",
+      "Bộ hơi gỗ",
+      "Bộ gõ",
+      "Bộ dây kéo"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Timpani là trống định âm thuộc bộ gõ của dàn nhạc."
+  },
+  {
+    "level": 7,
+    "question": "Bức họa Guernica là tác phẩm của ai?",
+    "answers": [
+      "Henri Matisse",
+      "Paul Cézanne",
+      "Paul Gauguin",
+      "Pablo Picasso"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Guernica là bức tranh nổi tiếng của Pablo Picasso."
+  },
+  {
+    "level": 8,
+    "question": "Bức tranh Sự dai dẳng của ký ức với những chiếc đồng hồ mềm do ai vẽ?",
+    "answers": [
+      "Salvador Dalí",
+      "René Magritte",
+      "Joan Miró",
+      "Jackson Pollock"
+    ],
+    "correct": 0,
+    "category": "Nghệ thuật",
+    "explanation": "Salvador Dalí vẽ The Persistence of Memory."
+  },
+  {
+    "level": 8,
+    "question": "Trào lưu Impressionism thường được dịch sang tiếng Việt là gì?",
+    "answers": [
+      "Vị lai",
+      "Ấn tượng",
+      "Siêu thực",
+      "Lập thể"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Impressionism là tên tiếng Anh của trường phái Ấn tượng."
+  },
+  {
+    "level": 9,
+    "question": "Kỹ thuật collage trong mỹ thuật chủ yếu sử dụng thao tác nào?",
+    "answers": [
+      "Đổ kim loại vào khuôn",
+      "Khắc toàn bộ hình bằng laser",
+      "Cắt và dán các vật liệu",
+      "Tạc trực tiếp trên đá"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Collage là kỹ thuật kết hợp các mảnh giấy hay vật liệu bằng cách dán."
+  },
+  {
+    "level": 8,
+    "question": "Tranh tĩnh vật chủ yếu khắc họa đối tượng nào?",
+    "answers": [
+      "Chỉ cảnh chiến đấu",
+      "Chỉ người đang chạy",
+      "Chỉ bản đồ quốc gia",
+      "Đồ vật như hoa, quả và bình"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Tĩnh vật thường miêu tả các đồ vật được sắp đặt như hoa, quả và bình."
+  },
+  {
+    "level": 6,
+    "question": "Trong hát quan họ, liền anh thường đối đáp với ai?",
+    "answers": [
+      "Liền chị",
+      "Nhạc trưởng giao hưởng",
+      "Người dẫn ballet",
+      "Trọng tài"
+    ],
+    "correct": 0,
+    "category": "Văn hóa",
+    "explanation": "Liền anh và liền chị là cách gọi người hát nam và nữ trong quan họ."
+  },
+  {
+    "level": 6,
+    "question": "Lễ Vu Lan trong văn hóa Phật giáo thường gắn với ý nghĩa nào?",
+    "answers": [
+      "Kỷ niệm khai giảng",
+      "Báo hiếu cha mẹ",
+      "Chúc mừng vụ săn",
+      "Đón mùa bóng đá"
+    ],
+    "correct": 1,
+    "category": "Văn hóa",
+    "explanation": "Vu Lan gắn với tinh thần báo hiếu và tưởng nhớ công ơn cha mẹ."
+  },
+  {
+    "level": 8,
+    "question": "Nghệ thuật bài chòi kết hợp hát diễn với loại hoạt động nào?",
+    "answers": [
+      "Đấu vật",
+      "Đua ngựa",
+      "Chơi bài trong các chòi",
+      "Thi nấu ăn"
+    ],
+    "correct": 2,
+    "category": "Văn hóa",
+    "explanation": "Bài chòi kết hợp âm nhạc, diễn xướng và trò chơi bài tại các chòi."
+  },
+  {
+    "level": 7,
+    "question": "Áo bà ba thường gắn với sinh hoạt truyền thống của vùng văn hóa nào ở Việt Nam?",
+    "answers": [
+      "Tây Bắc",
+      "Đông Bắc",
+      "Đồng bằng Bắc Bộ",
+      "Nam Bộ"
+    ],
+    "correct": 3,
+    "category": "Văn hóa",
+    "explanation": "Áo bà ba là trang phục quen thuộc trong sinh hoạt văn hóa Nam Bộ."
+  },
+  {
+    "level": 8,
+    "question": "Nón bài thơ là sản phẩm thủ công nổi tiếng gắn với truyền thống văn hóa nào?",
+    "answers": [
+      "Huế",
+      "Sa Pa",
+      "Mộc Châu",
+      "Buôn Ma Thuột"
+    ],
+    "correct": 0,
+    "category": "Văn hóa",
+    "explanation": "Nón bài thơ là một biểu tượng thủ công của văn hóa Huế."
+  },
+  {
+    "level": 7,
+    "question": "Đờn ca tài tử là loại hình âm nhạc truyền thống gắn với vùng nào?",
+    "answers": [
+      "Tây Nguyên",
+      "Nam Bộ",
+      "Tây Bắc",
+      "Đông Bắc"
+    ],
+    "correct": 1,
+    "category": "Văn hóa",
+    "explanation": "Đờn ca tài tử phát triển và được thực hành rộng rãi trong văn hóa Nam Bộ."
+  },
+  {
+    "level": 6,
+    "question": "Đậu phụ thông thường được làm chủ yếu từ nguyên liệu nào?",
+    "answers": [
+      "Hạt vừng",
+      "Gạo nếp",
+      "Đậu nành",
+      "Đậu phộng"
+    ],
+    "correct": 2,
+    "category": "Ẩm thực",
+    "explanation": "Đậu phụ được làm bằng cách kết tụ sữa đậu nành."
+  },
+  {
+    "level": 8,
+    "question": "Paella là món cơm nổi tiếng của nền ẩm thực nào?",
+    "answers": [
+      "Na Uy",
+      "Hàn Quốc",
+      "Ethiopia",
+      "Tây Ban Nha"
+    ],
+    "correct": 3,
+    "category": "Ẩm thực",
+    "explanation": "Paella là món cơm của Tây Ban Nha, đặc biệt gắn với Valencia."
+  },
+  {
+    "level": 9,
+    "question": "Thành phần chính thường được nghiền trong món hummus là gì?",
+    "answers": [
+      "Đậu gà",
+      "Khoai tây",
+      "Bí đỏ",
+      "Hạt dẻ"
+    ],
+    "correct": 0,
+    "category": "Ẩm thực",
+    "explanation": "Hummus truyền thống dùng đậu gà nghiền cùng tahini và các gia vị."
+  },
+  {
+    "level": 8,
+    "question": "Sashimi trong ẩm thực Nhật Bản thường chỉ món gì?",
+    "answers": [
+      "Bánh hấp nhân ngọt",
+      "Nguyên liệu tươi sống thái lát",
+      "Cơm cuộn luôn có rong biển",
+      "Mì xào giòn"
+    ],
+    "correct": 1,
+    "category": "Ẩm thực",
+    "explanation": "Sashimi thường là cá hoặc hải sản tươi sống thái lát, không bắt buộc có cơm."
+  },
+  {
+    "level": 8,
+    "question": "Sake truyền thống của Nhật Bản được lên men từ nguyên liệu chính nào?",
+    "answers": [
+      "Mía",
+      "Lúa mạch đen",
+      "Gạo",
+      "Nho"
+    ],
+    "correct": 2,
+    "category": "Ẩm thực",
+    "explanation": "Sake là đồ uống lên men từ gạo với sự hỗ trợ của koji."
+  },
+  {
+    "level": 9,
+    "question": "Lễ hội Holi của Ấn Độ nổi tiếng với hoạt động nào?",
+    "answers": [
+      "Đua tuần lộc",
+      "Thả thuyền băng",
+      "Thi đấu kiếm",
+      "Tung bột màu"
+    ],
+    "correct": 3,
+    "category": "Văn hóa",
+    "explanation": "Holi thường được biết đến với việc mọi người tung bột màu lên nhau."
+  },
+  {
+    "level": 9,
+    "question": "Día de los Muertos là truyền thống tưởng nhớ người đã khuất nổi tiếng của nước nào?",
+    "answers": [
+      "Mexico",
+      "Thụy Điển",
+      "Thái Lan",
+      "New Zealand"
+    ],
+    "correct": 0,
+    "category": "Văn hóa",
+    "explanation": "Día de los Muertos, Ngày của người chết, là truyền thống nổi tiếng của Mexico."
+  },
+  {
+    "level": 8,
+    "question": "Flamenco gắn đặc biệt với truyền thống nghệ thuật của quốc gia nào?",
+    "answers": [
+      "Indonesia",
+      "Tây Ban Nha",
+      "Phần Lan",
+      "Canada"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Flamenco kết hợp hát, múa và nhạc, đặc biệt gắn với vùng Andalusia của Tây Ban Nha."
+  },
+  {
+    "level": 10,
+    "question": "Theo hồ sơ UNESCO, tango là truyền thống được Argentina cùng quốc gia nào đề cử?",
+    "answers": [
+      "Peru",
+      "Bolivia",
+      "Uruguay",
+      "Chile"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "UNESCO ghi danh tango theo hồ sơ chung của Argentina và Uruguay."
+  },
+  {
+    "level": 6,
+    "question": "Ai đạo diễn phim Titanic ra mắt năm 1997?",
+    "answers": [
+      "Steven Spielberg",
+      "Christopher Nolan",
+      "Ridley Scott",
+      "James Cameron"
+    ],
+    "correct": 3,
+    "category": "Điện ảnh",
+    "explanation": "James Cameron là đạo diễn Titanic năm 1997."
+  },
+  {
+    "level": 7,
+    "question": "Trong The Lion King, cha của Simba tên là gì?",
+    "answers": [
+      "Mufasa",
+      "Scar",
+      "Timon",
+      "Rafiki"
+    ],
+    "correct": 0,
+    "category": "Điện ảnh",
+    "explanation": "Mufasa là cha của Simba; Scar là em trai Mufasa."
+  },
+  {
+    "level": 8,
+    "question": "Phim Spirited Away được đạo diễn bởi ai?",
+    "answers": [
+      "Mamoru Hosoda",
+      "Hayao Miyazaki",
+      "Isao Takahata",
+      "Makoto Shinkai"
+    ],
+    "correct": 1,
+    "category": "Điện ảnh",
+    "explanation": "Hayao Miyazaki đạo diễn Spirited Away của Studio Ghibli."
+  },
+  {
+    "level": 8,
+    "question": "Nghệ sĩ Charlie Chaplin nổi tiếng với nhân vật nào?",
+    "answers": [
+      "Indiana Jones",
+      "Zorro",
+      "The Tramp",
+      "James Bond"
+    ],
+    "correct": 2,
+    "category": "Điện ảnh",
+    "explanation": "The Tramp, thường gọi là gã lang thang, là nhân vật biểu tượng của Chaplin."
+  },
+  {
+    "level": 8,
+    "question": "Phần lớn diễn biến phim 12 Angry Men năm 1957 xoay quanh hoạt động nào?",
+    "answers": [
+      "Đội bóng tập luyện",
+      "Ban nhạc lưu diễn",
+      "Phi hành đoàn hạ cánh",
+      "Bồi thẩm đoàn thảo luận"
+    ],
+    "correct": 3,
+    "category": "Điện ảnh",
+    "explanation": "12 Angry Men theo chân một bồi thẩm đoàn trong quá trình nghị án."
+  },
+  {
+    "level": 7,
+    "question": "Trong loạt phim Star Wars, vũ khí ánh sáng đặc trưng của Jedi được gọi là gì?",
+    "answers": [
+      "Lightsaber",
+      "Boomerang",
+      "Trident",
+      "Crossbow"
+    ],
+    "correct": 0,
+    "category": "Điện ảnh",
+    "explanation": "Lightsaber là kiếm ánh sáng đặc trưng của Jedi và Sith."
+  },
+  {
+    "level": 8,
+    "question": "Nhân vật Jack Sparrow trong loạt phim Pirates of the Caribbean do diễn viên nào thủ vai?",
+    "answers": [
+      "Hugh Jackman",
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Geoffrey Rush"
+    ],
+    "correct": 1,
+    "category": "Điện ảnh",
+    "explanation": "Johnny Depp thủ vai thuyền trưởng Jack Sparrow."
+  },
+  {
+    "level": 9,
+    "question": "Bộ phim nào của Bong Joon-ho đoạt Oscar Phim hay nhất tại lễ trao giải năm 2020?",
+    "answers": [
+      "Burning",
+      "Train to Busan",
+      "Parasite",
+      "Oldboy"
+    ],
+    "correct": 2,
+    "category": "Điện ảnh",
+    "explanation": "Parasite thắng hạng mục Phim hay nhất tại Oscar 2020."
+  },
+  {
+    "level": 6,
+    "question": "Đội tuyển nào vô địch World Cup bóng đá nam năm 2022?",
+    "answers": [
+      "Pháp",
+      "Brazil",
+      "Croatia",
+      "Argentina"
+    ],
+    "correct": 3,
+    "category": "Thể thao",
+    "explanation": "Argentina thắng Pháp trong trận chung kết World Cup 2022."
+  },
+  {
+    "level": 6,
+    "question": "Đội tuyển nào vô địch World Cup bóng đá nam năm 2018?",
+    "answers": [
+      "Pháp",
+      "Croatia",
+      "Bỉ",
+      "Anh"
+    ],
+    "correct": 0,
+    "category": "Thể thao",
+    "explanation": "Pháp đánh bại Croatia trong trận chung kết năm 2018."
+  },
+  {
+    "level": 7,
+    "question": "World Cup bóng đá nam đầu tiên năm 1930 do quốc gia nào đăng cai?",
+    "answers": [
+      "Argentina",
+      "Uruguay",
+      "Brazil",
+      "Ý"
+    ],
+    "correct": 1,
+    "category": "Thể thao",
+    "explanation": "Uruguay tổ chức World Cup bóng đá nam đầu tiên vào năm 1930."
+  },
+  {
+    "level": 7,
+    "question": "Vận động viên Michael Phelps nổi tiếng trong môn thể thao nào?",
+    "answers": [
+      "Xe đạp",
+      "Thể dục dụng cụ",
+      "Bơi lội",
+      "Điền kinh"
+    ],
+    "correct": 2,
+    "category": "Thể thao",
+    "explanation": "Michael Phelps là vận động viên bơi lội người Mỹ."
+  },
+  {
+    "level": 7,
+    "question": "Giải Roland-Garros thi đấu trên loại mặt sân nào?",
+    "answers": [
+      "Sân cỏ",
+      "Sân gỗ",
+      "Sân băng",
+      "Sân đất nện"
+    ],
+    "correct": 3,
+    "category": "Thể thao",
+    "explanation": "Roland-Garros là giải Grand Slam quần vợt trên sân đất nện."
+  },
+  {
+    "level": 8,
+    "question": "Áo vàng tại Tour de France dành cho người dẫn đầu bảng xếp hạng nào?",
+    "answers": [
+      "Tổng thời gian",
+      "Điểm leo núi",
+      "Điểm nước rút",
+      "Vận động viên trẻ nhất đăng ký"
+    ],
+    "correct": 0,
+    "category": "Thể thao",
+    "explanation": "Áo vàng dành cho người đứng đầu phân loại cá nhân theo tổng thời gian."
+  },
+  {
+    "level": 8,
+    "question": "Dohyo là tên khu vực thi đấu của môn nào?",
+    "answers": [
+      "Taekwondo",
+      "Sumo",
+      "Judo",
+      "Karate"
+    ],
+    "correct": 1,
+    "category": "Thể thao",
+    "explanation": "Dohyo là võ đài có vòng thi đấu của sumo."
+  },
+  {
+    "level": 8,
+    "question": "Một eagle trong golf nghĩa là hoàn thành hố với số gậy thế nào so với par?",
+    "answers": [
+      "Nhiều hơn 1 gậy",
+      "Nhiều hơn 2 gậy",
+      "Ít hơn 2 gậy",
+      "Ít hơn 1 gậy"
+    ],
+    "correct": 2,
+    "category": "Thể thao",
+    "explanation": "Eagle là kết quả hai gậy dưới par của hố."
+  },
+  {
+    "level": 7,
+    "question": "Cự ly marathon tiêu chuẩn là bao nhiêu?",
+    "answers": [
+      "40 km",
+      "21,0975 km",
+      "50 km",
+      "42,195 km"
+    ],
+    "correct": 3,
+    "category": "Thể thao",
+    "explanation": "Marathon tiêu chuẩn có cự ly 42,195 km."
+  },
+  {
+    "level": 9,
+    "question": "Trong cờ vua, bên tới lượt không bị chiếu nhưng không có nước đi hợp lệ rơi vào tình huống nào?",
+    "answers": [
+      "Hết nước đi, ván hòa",
+      "Chiếu hết, bị thua",
+      "Tự động thắng",
+      "Phải mất một quân"
+    ],
+    "correct": 0,
+    "category": "Thể thao",
+    "explanation": "Đây là stalemate, thường gọi là hết nước đi, và ván cờ hòa."
+  },
+  {
+    "level": 7,
+    "question": "Trong bowling 10 chai, strike là kết quả nào?",
+    "answers": [
+      "Bóng rơi xuống rãnh",
+      "Đổ cả 10 chai ở lần ném đầu của lượt",
+      "Đổ cả 10 chai bằng hai lần ném",
+      "Không đổ chai nào"
+    ],
+    "correct": 1,
+    "category": "Thể thao",
+    "explanation": "Strike là làm đổ cả mười chai ngay lần ném đầu của lượt."
+  },
+  {
+    "level": 6,
+    "question": "Trong bóng đá, hat-trick thường chỉ một cầu thủ làm được gì trong một trận?",
+    "answers": [
+      "Thay người 3 lần",
+      "Đá bóng ra biên 3 lần",
+      "Ghi 3 bàn",
+      "Nhận 3 thẻ đỏ"
+    ],
+    "correct": 2,
+    "category": "Thể thao",
+    "explanation": "Hat-trick trong bóng đá thường là ba bàn thắng của một cầu thủ trong cùng trận."
+  },
+  {
+    "level": 9,
+    "question": "Tập Vang bóng một thời của Nguyễn Tuân thuộc thể loại nào?",
+    "answers": [
+      "Trường ca",
+      "Tiểu thuyết chương hồi",
+      "Tập kịch",
+      "Tập truyện ngắn"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Vang bóng một thời là tập truyện ngắn của Nguyễn Tuân."
+  },
+  {
+    "level": 10,
+    "question": "Nhân vật chính bị bệnh nặng trong truyện Bến quê của Nguyễn Minh Châu tên là gì?",
+    "answers": [
+      "Nhĩ",
+      "Phùng",
+      "Đẩu",
+      "Tràng"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Nhĩ là nhân vật trung tâm trong Bến quê."
+  },
+  {
+    "level": 11,
+    "question": "Tràng trong truyện Vợ nhặt kiếm sống trước hết bằng công việc nào?",
+    "answers": [
+      "Viết báo",
+      "Kéo xe bò thuê",
+      "Dạy học",
+      "Đánh cá biển"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Tràng là người lao động nghèo làm nghề kéo xe bò thuê."
+  },
+  {
+    "level": 10,
+    "question": "Trong Những đứa con trong gia đình của Nguyễn Thi, chị của Việt tên là gì?",
+    "answers": [
+      "Dít",
+      "Liên",
+      "Chiến",
+      "Mị"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Việt và Chiến là hai chị em trong truyện."
+  },
+  {
+    "level": 9,
+    "question": "Trong Rừng xà nu, ai kể lại cuộc đời Tnú cho dân làng?",
+    "answers": [
+      "A Phủ",
+      "Ông Hai",
+      "Lão Hạc",
+      "Cụ Mết"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Cụ Mết kể lại câu chuyện đời Tnú trước dân làng Xô Man."
+  },
+  {
+    "level": 12,
+    "question": "Đoạn Đất Nước của Nguyễn Khoa Điềm được trích từ trường ca nào?",
+    "answers": [
+      "Mặt đường khát vọng",
+      "Những người đi tới biển",
+      "Đường tới thành phố",
+      "Bài ca chim Chơ Rao"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Đất Nước là phần của trường ca Mặt đường khát vọng."
+  },
+  {
+    "level": 8,
+    "question": "Tác phẩm thơ Nôm Lục Vân Tiên do ai sáng tác?",
+    "answers": [
+      "Nguyễn Công Trứ",
+      "Nguyễn Đình Chiểu",
+      "Nguyễn Du",
+      "Nguyễn Bỉnh Khiêm"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Nguyễn Đình Chiểu là tác giả truyện thơ Lục Vân Tiên."
+  },
+  {
+    "level": 12,
+    "question": "Ai là tác giả bản Chinh phụ ngâm nguyên tác bằng chữ Hán?",
+    "answers": [
+      "Nguyễn Gia Thiều",
+      "Phạm Thái",
+      "Đặng Trần Côn",
+      "Đoàn Thị Điểm"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Đặng Trần Côn viết nguyên tác chữ Hán; bản diễn Nôm là công việc khác."
+  },
+  {
+    "level": 12,
+    "question": "Cung oán ngâm khúc là tác phẩm của ai?",
+    "answers": [
+      "Nguyễn Hữu Hào",
+      "Nguyễn Đình Chiểu",
+      "Nguyễn Bỉnh Khiêm",
+      "Nguyễn Gia Thiều"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Nguyễn Gia Thiều sáng tác Cung oán ngâm khúc."
+  },
+  {
+    "level": 12,
+    "question": "Hoàng Lê nhất thống chí được viết bởi nhóm tác giả nào?",
+    "answers": [
+      "Ngô gia văn phái",
+      "Tự lực văn đoàn",
+      "Nam Cao và Kim Lân",
+      "Tao đàn Chiêu Anh Các"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Hoàng Lê nhất thống chí là tác phẩm của Ngô gia văn phái."
+  },
+  {
+    "level": 13,
+    "question": "Vũ trung tùy bút do tác giả nào viết?",
+    "answers": [
+      "Lê Quý Đôn",
+      "Phạm Đình Hổ",
+      "Lê Hữu Trác",
+      "Phan Huy Chú"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Phạm Đình Hổ là tác giả Vũ trung tùy bút."
+  },
+  {
+    "level": 12,
+    "question": "Thượng kinh ký sự là tác phẩm của ai?",
+    "answers": [
+      "Nguyễn Trãi",
+      "Phạm Đình Hổ",
+      "Lê Hữu Trác",
+      "Ngô Thì Nhậm"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Thượng kinh ký sự do Lê Hữu Trác viết về chuyến đi lên kinh."
+  },
+  {
+    "level": 14,
+    "question": "Ai biên soạn bộ Lịch triều hiến chương loại chí?",
+    "answers": [
+      "Phan Huy Ích",
+      "Lê Quý Đôn",
+      "Ngô Sĩ Liên",
+      "Phan Huy Chú"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Phan Huy Chú biên soạn bộ sách Lịch triều hiến chương loại chí."
+  },
+  {
+    "level": 9,
+    "question": "Truyền kỳ mạn lục là tác phẩm của tác giả nào?",
+    "answers": [
+      "Nguyễn Dữ",
+      "Nguyễn Du",
+      "Nguyễn Trãi",
+      "Nguyễn Bỉnh Khiêm"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Nguyễn Dữ là tác giả Truyền kỳ mạn lục."
+  },
+  {
+    "level": 12,
+    "question": "Trong bi kịch Othello của Shakespeare, ai chủ yếu gieo nghi ngờ khiến Othello ghen tuông?",
+    "answers": [
+      "Lodovico",
+      "Iago",
+      "Cassio",
+      "Roderigo"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Iago thao túng Othello bằng những lời vu cáo và gợi ý về Desdemona."
+  },
+  {
+    "level": 11,
+    "question": "Hamlet trong vở kịch cùng tên là hoàng tử của vương quốc nào?",
+    "answers": [
+      "Na Uy",
+      "Anh",
+      "Đan Mạch",
+      "Scotland"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Shakespeare đặt Hamlet trong hoàng gia Đan Mạch."
+  },
+  {
+    "level": 12,
+    "question": "Trong Macbeth, nhóm tiên tri mà Macbeth gặp lúc đầu gồm bao nhiêu phù thủy?",
+    "answers": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Ba phù thủy đưa ra những lời tiên tri thúc đẩy hành động của Macbeth."
+  },
+  {
+    "level": 12,
+    "question": "Trong King Lear của Shakespeare, người con gái út của Lear tên là gì?",
+    "answers": [
+      "Cordelia",
+      "Goneril",
+      "Regan",
+      "Ophelia"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Cordelia là con gái út, bên cạnh hai chị Goneril và Regan."
+  },
+  {
+    "level": 14,
+    "question": "Trước khi bị lưu đày trong The Tempest, Prospero giữ địa vị nào?",
+    "answers": [
+      "Thị trưởng Venice",
+      "Công tước Milan",
+      "Vua Scotland",
+      "Hoàng tử Đan Mạch"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Prospero là công tước Milan bị em trai chiếm quyền."
+  },
+  {
+    "level": 12,
+    "question": "Trong tiểu thuyết Jane Eyre, Jane làm gia sư tại dinh thự nào?",
+    "answers": [
+      "Pemberley",
+      "Mansfield Park",
+      "Thornfield Hall",
+      "Wuthering Heights"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Jane đến Thornfield Hall để làm gia sư cho Adèle."
+  },
+  {
+    "level": 13,
+    "question": "Trong Đồi gió hú, người hầu thường được gọi là Nelly Dean có tên đầy đủ là gì?",
+    "answers": [
+      "Catherine Dean",
+      "Isabella Dean",
+      "Frances Dean",
+      "Ellen Dean"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Nelly là cách gọi thân mật của Ellen Dean, một người kể chuyện trong tiểu thuyết."
+  },
+  {
+    "level": 12,
+    "question": "Ai là người kể chuyện chính trong Gatsby vĩ đại?",
+    "answers": [
+      "Nick Carraway",
+      "Jay Gatsby",
+      "Tom Buchanan",
+      "George Wilson"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Nick Carraway kể câu chuyện về Gatsby từ trải nghiệm của mình."
+  },
+  {
+    "level": 13,
+    "question": "Con tàu do thuyền trưởng Ahab chỉ huy trong Moby-Dick có tên gì?",
+    "answers": [
+      "Beagle",
+      "Pequod",
+      "Nautilus",
+      "Hispaniola"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Pequod là tàu săn cá voi của Ahab trong Moby-Dick."
+  },
+  {
+    "level": 10,
+    "question": "Trong tiểu thuyết Frankenstein, ai tạo ra sinh vật thường bị gọi nhầm là Frankenstein?",
+    "answers": [
+      "Robert Walton",
+      "Alphonse Frankenstein",
+      "Victor Frankenstein",
+      "Henry Clerval"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Victor Frankenstein là người tạo ra sinh vật; sinh vật không được đặt tên riêng trong truyện."
+  },
+  {
+    "level": 12,
+    "question": "Trong Bà Bovary của Gustave Flaubert, bà Bovary có tên riêng là gì?",
+    "answers": [
+      "Anna",
+      "Édith",
+      "Élise",
+      "Emma"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Nhân vật chính là Emma Bovary, vợ của Charles Bovary."
+  },
+  {
+    "level": 12,
+    "question": "Nhân vật trung tâm trong Tội ác và hình phạt có họ nào?",
+    "answers": [
+      "Raskolnikov",
+      "Karamazov",
+      "Oblomov",
+      "Bazarov"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Rodion Raskolnikov là nhân vật trung tâm trong tiểu thuyết."
+  },
+  {
+    "level": 11,
+    "question": "Ông lão đánh cá trong Ông già và biển cả tên là gì?",
+    "answers": [
+      "Pablo",
+      "Santiago",
+      "Manolin",
+      "Pedro"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Santiago là ông lão đánh cá; Manolin là cậu bé gắn bó với ông."
+  },
+  {
+    "level": 12,
+    "question": "Trong Odyssey, người vợ chờ Odysseus trở về tên là gì?",
+    "answers": [
+      "Circe",
+      "Calypso",
+      "Penelope",
+      "Helen"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Penelope là vợ của Odysseus và mẹ của Telemachus."
+  },
+  {
+    "level": 13,
+    "question": "Trong phần Địa ngục của Thần khúc, ai dẫn đường cho nhân vật Dante?",
+    "answers": [
+      "Homer",
+      "Ovid",
+      "Horace",
+      "Virgil"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Nhà thơ Virgil dẫn Dante qua Địa ngục và phần lớn Luyện ngục."
+  },
+  {
+    "level": 14,
+    "question": "Nhóm người kể chuyện trong Decameron của Boccaccio gồm bao nhiêu người?",
+    "answers": [
+      "10",
+      "7",
+      "9",
+      "12"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Decameron có mười người kể chuyện, bảy phụ nữ và ba nam giới."
+  },
+  {
+    "level": 12,
+    "question": "Thị trấn hư cấu trung tâm của Trăm năm cô đơn tên là gì?",
+    "answers": [
+      "Middlemarch",
+      "Macondo",
+      "Comala",
+      "Yoknapatawpha"
+    ],
+    "correct": 1,
+    "category": "Văn học",
+    "explanation": "Macondo là thị trấn hư cấu trong Trăm năm cô đơn của García Márquez."
+  },
+  {
+    "level": 13,
+    "question": "Tập truyện Ficciones là tác phẩm của nhà văn nào?",
+    "answers": [
+      "Mario Vargas Llosa",
+      "Juan Rulfo",
+      "Jorge Luis Borges",
+      "Julio Cortázar"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Jorge Luis Borges viết tập truyện Ficciones."
+  },
+  {
+    "level": 12,
+    "question": "Tiểu thuyết Tên của đóa hồng do ai viết?",
+    "answers": [
+      "Italo Calvino",
+      "Alberto Moravia",
+      "Dino Buzzati",
+      "Umberto Eco"
+    ],
+    "correct": 3,
+    "category": "Văn học",
+    "explanation": "Umberto Eco là tác giả The Name of the Rose."
+  },
+  {
+    "level": 12,
+    "question": "Vở kịch Chờ Godot do ai sáng tác?",
+    "answers": [
+      "Samuel Beckett",
+      "Eugène Ionesco",
+      "Harold Pinter",
+      "Bertolt Brecht"
+    ],
+    "correct": 0,
+    "category": "Văn học",
+    "explanation": "Samuel Beckett viết Waiting for Godot, ban đầu bằng tiếng Pháp."
+  },
+  {
+    "level": 9,
+    "question": "Dạng số nhiều chuẩn của mother-in-law trong tiếng Anh là gì?",
+    "answers": [
+      "Mother-ins-law",
+      "Mothers-in-law",
+      "Mother-in-laws",
+      "Mothers-in-laws"
+    ],
+    "correct": 1,
+    "category": "Tiếng Anh",
+    "explanation": "Danh từ chính mother nhận dấu số nhiều, tạo thành mothers-in-law."
+  },
+  {
+    "level": 11,
+    "question": "Bức họa Sự ra đời của thần Vệ Nữ là tác phẩm của ai?",
+    "answers": [
+      "Titian",
+      "Caravaggio",
+      "Sandro Botticelli",
+      "Raphael"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Botticelli vẽ The Birth of Venus, hiện thuộc bộ sưu tập Uffizi."
+  },
+  {
+    "level": 12,
+    "question": "Bức bích họa Trường học Athens là tác phẩm của ai?",
+    "answers": [
+      "Giotto",
+      "Andrea Mantegna",
+      "Fra Angelico",
+      "Raphael"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Raphael vẽ The School of Athens tại Vatican."
+  },
+  {
+    "level": 12,
+    "question": "Las Meninas là kiệt tác của họa sĩ nào?",
+    "answers": [
+      "Diego Velázquez",
+      "Francisco Goya",
+      "El Greco",
+      "Bartolomé Esteban Murillo"
+    ],
+    "correct": 0,
+    "category": "Nghệ thuật",
+    "explanation": "Diego Velázquez vẽ Las Meninas."
+  },
+  {
+    "level": 13,
+    "question": "Bức họa The Third of May 1808 được vẽ bởi ai?",
+    "answers": [
+      "Théodore Géricault",
+      "Francisco Goya",
+      "Diego Velázquez",
+      "J. M. W. Turner"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Francisco Goya vẽ The Third of May 1808 vào năm 1814."
+  },
+  {
+    "level": 11,
+    "question": "Bức tranh thường gọi là Tuần đêm, The Night Watch, do ai vẽ?",
+    "answers": [
+      "Frans Hals",
+      "Jan Steen",
+      "Rembrandt",
+      "Johannes Vermeer"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "The Night Watch là tác phẩm nổi tiếng của Rembrandt."
+  },
+  {
+    "level": 14,
+    "question": "Rain, Steam and Speed là tác phẩm của họa sĩ nào?",
+    "answers": [
+      "John Constable",
+      "William Blake",
+      "Thomas Gainsborough",
+      "J. M. W. Turner"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Turner vẽ Rain, Steam and Speed với hình ảnh đoàn tàu đi qua cầu."
+  },
+  {
+    "level": 13,
+    "question": "Kỹ thuật đặc trưng của Seurat trong A Sunday on La Grande Jatte thường gọi là gì?",
+    "answers": [
+      "Điểm họa",
+      "Tranh khắc gỗ",
+      "Tranh kính ghép",
+      "Vẽ tranh cát"
+    ],
+    "correct": 0,
+    "category": "Nghệ thuật",
+    "explanation": "Seurat sử dụng các chấm màu nhỏ, kỹ thuật thường gọi là pointillism hay điểm họa."
+  },
+  {
+    "level": 12,
+    "question": "Sóng lừng ngoài khơi Kanagawa của Hokusai được tạo bằng kỹ thuật nào?",
+    "answers": [
+      "Khảm đá",
+      "In khắc gỗ",
+      "Sơn dầu trên toan",
+      "Bích họa trên tường"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "The Great Wave là bản in khắc gỗ nhiều màu của Hokusai."
+  },
+  {
+    "level": 15,
+    "question": "Bộ tranh Năm mươi ba trạm trên đường Tōkaidō nổi tiếng gắn với họa sĩ nào?",
+    "answers": [
+      "Kitagawa Utamaro",
+      "Tōshūsai Sharaku",
+      "Utagawa Hiroshige",
+      "Katsushika Hokusai"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Utagawa Hiroshige tạo ra bộ bản in nổi tiếng về 53 trạm trên đường Tōkaidō."
+  },
+  {
+    "level": 11,
+    "question": "Tượng Người suy tưởng, The Thinker, gắn với nhà điêu khắc nào?",
+    "answers": [
+      "Constantin Brâncuși",
+      "Alberto Giacometti",
+      "Henry Moore",
+      "Auguste Rodin"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Auguste Rodin là tác giả The Thinker."
+  },
+  {
+    "level": 14,
+    "question": "Nhà điêu khắc nào sáng tạo loạt tác phẩm Bird in Space?",
+    "answers": [
+      "Constantin Brâncuși",
+      "Auguste Rodin",
+      "Alexander Calder",
+      "Jean Arp"
+    ],
+    "correct": 0,
+    "category": "Nghệ thuật",
+    "explanation": "Brâncuși thể hiện ý niệm về chim bay trong loạt Bird in Space."
+  },
+  {
+    "level": 13,
+    "question": "Trong mỹ thuật hiện đại, readymade thường chỉ loại tác phẩm nào?",
+    "answers": [
+      "Ảnh luôn chụp dưới nước",
+      "Đồ vật có sẵn được chọn làm tác phẩm",
+      "Tranh phải vẽ ngoài trời",
+      "Tượng chỉ tạc bằng đá quý"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Readymade sử dụng đồ vật chế tạo sẵn do nghệ sĩ lựa chọn và trình bày như tác phẩm."
+  },
+  {
+    "level": 13,
+    "question": "Họa sĩ nào nổi tiếng với các mảng màu hình chữ nhật lớn trong hội họa Color Field?",
+    "answers": [
+      "Roy Lichtenstein",
+      "Andy Warhol",
+      "Mark Rothko",
+      "Jackson Pollock"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Các bức tranh của Rothko thường có những mảng màu hình chữ nhật lớn."
+  },
+  {
+    "level": 12,
+    "question": "Piet Mondrian gắn đặc biệt với phong trào nghệ thuật nào?",
+    "answers": [
+      "Dã thú",
+      "Barbizon",
+      "Chủ nghĩa hiện thực xã hội",
+      "De Stijl"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Mondrian là nhân vật quan trọng của De Stijl."
+  },
+  {
+    "level": 14,
+    "question": "Bức tranh The Treachery of Images của René Magritte khắc họa đồ vật nào?",
+    "answers": [
+      "Tẩu thuốc",
+      "Chiếc ô",
+      "Đôi giày",
+      "Bàn là"
+    ],
+    "correct": 0,
+    "category": "Nghệ thuật",
+    "explanation": "Magritte vẽ một chiếc tẩu để đặt vấn đề về hình ảnh và đồ vật thực."
+  },
+  {
+    "level": 14,
+    "question": "Nghệ sĩ nào vẽ loạt chân dung Giáo hoàng lấy cảm hứng từ Velázquez?",
+    "answers": [
+      "Edward Hopper",
+      "Francis Bacon",
+      "Lucian Freud",
+      "David Hockney"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Francis Bacon tạo nhiều biến thể chân dung Giáo hoàng dựa trên tranh Velázquez."
+  },
+  {
+    "level": 12,
+    "question": "Henri Matisse nổi tiếng với kỹ thuật cut-outs ở cuối sự nghiệp, sử dụng chủ yếu vật liệu nào?",
+    "answers": [
+      "Đá cẩm thạch",
+      "Kính thổi",
+      "Giấy tô màu được cắt",
+      "Tấm đồng chạm nổi"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Matisse cắt giấy đã tô màu rồi sắp đặt thành tác phẩm."
+  },
+  {
+    "level": 14,
+    "question": "Tác phẩm điêu khắc L'Homme qui marche I thuộc sáng tác của ai?",
+    "answers": [
+      "Auguste Rodin",
+      "Henry Moore",
+      "Barbara Hepworth",
+      "Alberto Giacometti"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Giacometti tạo hình người bước đi thon dài trong L'Homme qui marche I."
+  },
+  {
+    "level": 12,
+    "question": "Bức họa The Kiss, Nụ hôn, thuộc giai đoạn dùng nhiều vàng lá của họa sĩ nào?",
+    "answers": [
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Oskar Kokoschka",
+      "Alphonse Mucha"
+    ],
+    "correct": 0,
+    "category": "Nghệ thuật",
+    "explanation": "The Kiss là tác phẩm tiêu biểu trong giai đoạn vàng của Gustav Klimt."
+  },
+  {
+    "level": 13,
+    "question": "Bức họa Olympia trưng bày tại Salon năm 1865 là tác phẩm của ai?",
+    "answers": [
+      "Pierre-Auguste Renoir",
+      "Édouard Manet",
+      "Claude Monet",
+      "Edgar Degas"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Édouard Manet vẽ Olympia, một tác phẩm gây nhiều tranh luận tại Salon."
+  },
+  {
+    "level": 13,
+    "question": "Nhân vật Nữ hoàng Đêm xuất hiện trong opera nào của Mozart?",
+    "answers": [
+      "Don Giovanni",
+      "Così fan tutte",
+      "Cây sáo thần",
+      "Đám cưới Figaro"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Nữ hoàng Đêm là nhân vật trong Die Zauberflöte, Cây sáo thần."
+  },
+  {
+    "level": 12,
+    "question": "Libretto của opera Don Giovanni được viết bằng ngôn ngữ nào?",
+    "answers": [
+      "Tiếng Đức",
+      "Tiếng Pháp",
+      "Tiếng Anh",
+      "Tiếng Ý"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Lorenzo Da Ponte viết libretto tiếng Ý cho Don Giovanni của Mozart."
+  },
+  {
+    "level": 14,
+    "question": "Nhân vật nữ chính Violetta Valéry thuộc opera nào của Verdi?",
+    "answers": [
+      "La traviata",
+      "Aida",
+      "Rigoletto",
+      "Nabucco"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Violetta Valéry là nhân vật nữ chính của La traviata."
+  },
+  {
+    "level": 12,
+    "question": "Opera Carmen của Georges Bizet có libretto nguyên bản bằng ngôn ngữ nào?",
+    "answers": [
+      "Tiếng Đức",
+      "Tiếng Pháp",
+      "Tiếng Tây Ban Nha",
+      "Tiếng Ý"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Dù bối cảnh đặt tại Tây Ban Nha, Carmen có libretto tiếng Pháp."
+  },
+  {
+    "level": 13,
+    "question": "Opera Il barbiere di Siviglia, Người thợ cạo thành Seville, nổi tiếng năm 1816 do ai soạn?",
+    "answers": [
+      "Vincenzo Bellini",
+      "Giacomo Puccini",
+      "Gioachino Rossini",
+      "Gaetano Donizetti"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Rossini soạn phiên bản Người thợ cạo thành Seville ra mắt năm 1816."
+  },
+  {
+    "level": 14,
+    "question": "Chu kỳ opera Der Ring des Nibelungen của Wagner gồm bao nhiêu opera?",
+    "answers": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Chu kỳ gồm Das Rheingold, Die Walküre, Siegfried và Götterdämmerung."
+  },
+  {
+    "level": 14,
+    "question": "Goldberg Variations của Bach được xuất bản ban đầu cho nhạc cụ bàn phím nào?",
+    "answers": [
+      "Harpsichord hai tầng phím",
+      "Piano điện",
+      "Organ nhà thờ",
+      "Accordion"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Goldberg Variations được xuất bản cho harpsichord hai tầng bàn phím."
+  },
+  {
+    "level": 13,
+    "question": "Bộ Hungarian Rhapsodies cho piano gắn với nhà soạn nhạc nào?",
+    "answers": [
+      "Felix Mendelssohn",
+      "Franz Liszt",
+      "Frédéric Chopin",
+      "Robert Schumann"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Franz Liszt sáng tác bộ Hungarian Rhapsodies."
+  },
+  {
+    "level": 14,
+    "question": "Pictures at an Exhibition của Mussorgsky được sáng tác ban đầu cho hình thức nào?",
+    "answers": [
+      "Tứ tấu dây",
+      "Hợp xướng không đệm",
+      "Piano độc tấu",
+      "Dàn nhạc giao hưởng"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Mussorgsky viết bản gốc cho piano; các bản phối dàn nhạc xuất hiện sau đó."
+  },
+  {
+    "level": 13,
+    "question": "Boléro với mô hình nhịp lặp và âm lượng tăng dần là sáng tác của ai?",
+    "answers": [
+      "Claude Debussy",
+      "Gabriel Fauré",
+      "Francis Poulenc",
+      "Maurice Ravel"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Maurice Ravel sáng tác Boléro, nổi tiếng với mô hình lặp và sự tăng dần cường độ."
+  },
+  {
+    "level": 14,
+    "question": "Ballet The Rite of Spring được soạn nhạc bởi ai?",
+    "answers": [
+      "Igor Stravinsky",
+      "Sergei Rachmaninoff",
+      "Dmitri Shostakovich",
+      "Alexander Scriabin"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Igor Stravinsky soạn nhạc cho The Rite of Spring."
+  },
+  {
+    "level": 15,
+    "question": "Trong Peter and the Wolf của Prokofiev, nhạc cụ nào đại diện cho ông của Peter?",
+    "answers": [
+      "Flute",
+      "Bassoon",
+      "Oboe",
+      "Clarinet"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Bassoon có âm trầm được dùng để thể hiện nhân vật người ông."
+  },
+  {
+    "level": 15,
+    "question": "Quintet Cá hồi của Schubert khác ngũ tấu piano thông thường ở việc dùng nhạc cụ nào thay violin thứ hai?",
+    "answers": [
+      "Oboe",
+      "Trumpet",
+      "Contrabass",
+      "Harp"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Ngũ tấu Cá hồi gồm piano, violin, viola, cello và contrabass."
+  },
+  {
+    "level": 15,
+    "question": "Bản Heiligenstadt Testament năm 1802 của Beethoven được viết để gửi chủ yếu cho ai?",
+    "answers": [
+      "Hoàng đế Napoleon",
+      "Nhà soạn nhạc Mozart",
+      "Người xuất bản Diabelli",
+      "Các em trai của ông"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Beethoven viết bản văn cho hai em trai, bộc lộ nỗi đau vì suy giảm thính lực."
+  },
+  {
+    "level": 14,
+    "question": "Bộ 24 Preludes Op. 28 của Chopin bao phủ những giọng nào?",
+    "answers": [
+      "12 giọng trưởng và 12 giọng thứ",
+      "Chỉ các giọng trưởng",
+      "Chỉ các giọng thứ",
+      "24 giọng đều có dấu thăng"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Bộ Op. 28 gồm một prelude ở mỗi giọng trưởng và mỗi giọng thứ."
+  },
+  {
+    "level": 13,
+    "question": "Ca trù được UNESCO ghi danh năm 2009 vào danh sách nào?",
+    "answers": [
+      "Công viên địa chất toàn cầu",
+      "Di sản cần được bảo vệ khẩn cấp",
+      "Di sản thiên nhiên thế giới",
+      "Ký ức thế giới"
+    ],
+    "correct": 1,
+    "category": "Văn hóa",
+    "explanation": "Năm 2009, UNESCO đưa ca trù vào Danh sách Di sản văn hóa phi vật thể cần được bảo vệ khẩn cấp."
+  },
+  {
+    "level": 14,
+    "question": "Năm nào UNESCO chuyển hát xoan Phú Thọ từ danh sách cần bảo vệ khẩn cấp sang danh sách đại diện?",
+    "answers": [
+      "2011",
+      "2021",
+      "2017",
+      "2009"
+    ],
+    "correct": 2,
+    "category": "Văn hóa",
+    "explanation": "Hát xoan được chuyển sang Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại năm 2017."
+  },
+  {
+    "level": 13,
+    "question": "Nghệ thuật xòe Thái được UNESCO ghi danh vào danh sách đại diện của nhân loại năm nào?",
+    "answers": [
+      "2013",
+      "2017",
+      "2019",
+      "2021"
+    ],
+    "correct": 3,
+    "category": "Văn hóa",
+    "explanation": "UNESCO ghi danh nghệ thuật xòe Thái vào danh sách đại diện năm 2021."
+  },
+  {
+    "level": 11,
+    "question": "Lớp bột vỏ sò tạo vẻ óng trên giấy in tranh Đông Hồ truyền thống được gọi là gì?",
+    "answers": [
+      "Điệp",
+      "Phèn",
+      "Than",
+      "Sáp"
+    ],
+    "correct": 0,
+    "category": "Nghệ thuật",
+    "explanation": "Giấy điệp được phủ lớp làm từ bột vỏ sò điệp cùng hồ."
+  },
+  {
+    "level": 12,
+    "question": "Sau khi in nét đen bằng ván khắc, tranh Hàng Trống truyền thống thường được hoàn thiện màu bằng cách nào?",
+    "answers": [
+      "Chỉ giữ đen trắng",
+      "Tô màu bằng tay",
+      "In mỗi màu từ một ván riêng",
+      "Dán toàn bộ màu từ vải"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Tranh Hàng Trống kết hợp in nét với tô màu thủ công."
+  },
+  {
+    "level": 7,
+    "question": "Đàn đá truyền thống tạo âm từ các thanh làm bằng vật liệu gì?",
+    "answers": [
+      "Đồng",
+      "Da",
+      "Đá",
+      "Tre"
+    ],
+    "correct": 2,
+    "category": "Âm nhạc",
+    "explanation": "Người chơi gõ vào các thanh đá để tạo âm thanh."
+  },
+  {
+    "level": 11,
+    "question": "Đàn đáy dùng trong ca trù truyền thống có bao nhiêu dây?",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "3"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Đàn đáy là đàn ba dây, có cần dài, dùng trong ca trù."
+  },
+  {
+    "level": 10,
+    "question": "Đàn nguyệt truyền thống của Việt Nam thường có bao nhiêu dây?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct": 0,
+    "category": "Âm nhạc",
+    "explanation": "Đàn nguyệt hay đàn kìm là nhạc cụ thường có hai dây."
+  },
+  {
+    "level": 12,
+    "question": "Trích đoạn chèo Súy Vân giả dại thuộc vở nào?",
+    "answers": [
+      "Trương Viên",
+      "Kim Nham",
+      "Quan Âm Thị Kính",
+      "Lưu Bình Dương Lễ"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Súy Vân giả dại là trích đoạn nổi tiếng của chèo Kim Nham."
+  },
+  {
+    "level": 14,
+    "question": "Trong sân khấu kabuki, onnagata là cách gọi diễn viên chuyên đảm nhiệm loại vai nào?",
+    "answers": [
+      "Vai hề",
+      "Vai kể chuyện",
+      "Vai nữ",
+      "Vai trẻ em"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Onnagata là diễn viên nam chuyên thể hiện các vai nữ trong kabuki."
+  },
+  {
+    "level": 12,
+    "question": "Loại mặt nạ nōmen gắn với loại hình sân khấu truyền thống nào của Nhật Bản?",
+    "answers": [
+      "Kabuki",
+      "Bunraku",
+      "Rakugo",
+      "Noh"
+    ],
+    "correct": 3,
+    "category": "Nghệ thuật",
+    "explanation": "Nōmen là mặt nạ dùng trong sân khấu Noh."
+  },
+  {
+    "level": 11,
+    "question": "Chanoyu trong văn hóa Nhật Bản là nghi thức gắn với đồ uống nào?",
+    "answers": [
+      "Trà",
+      "Rượu sake",
+      "Cà phê",
+      "Nước dừa"
+    ],
+    "correct": 0,
+    "category": "Văn hóa",
+    "explanation": "Chanoyu là tên gọi nghi thức trà truyền thống của Nhật Bản."
+  },
+  {
+    "level": 13,
+    "question": "Trong kỹ thuật batik truyền thống, vật liệu nào được dùng để ngăn thuốc nhuộm thấm vào một số phần của vải?",
+    "answers": [
+      "Mùn cưa",
+      "Sáp",
+      "Muối",
+      "Bột mì"
+    ],
+    "correct": 1,
+    "category": "Nghệ thuật",
+    "explanation": "Sáp được vẽ lên vải để tạo vùng cản màu trong batik."
+  },
+  {
+    "level": 12,
+    "question": "Bunraku của Nhật Bản là loại hình sân khấu sử dụng chủ yếu yếu tố nào?",
+    "answers": [
+      "Xiếc trên dây",
+      "Trượt băng",
+      "Rối",
+      "Bóng chiếu"
+    ],
+    "correct": 2,
+    "category": "Nghệ thuật",
+    "explanation": "Bunraku kết hợp rối, lời kể và nhạc shamisen."
+  },
+  {
+    "level": 14,
+    "question": "Bữa ăn nghi lễ Seder gắn với lễ nào trong Do Thái giáo?",
+    "answers": [
+      "Hanukkah",
+      "Yom Kippur",
+      "Rosh Hashanah",
+      "Passover"
+    ],
+    "correct": 3,
+    "category": "Văn hóa",
+    "explanation": "Seder là bữa ăn nghi lễ của Passover, lễ Vượt qua."
+  },
+  {
+    "level": 12,
+    "question": "Phim Rashomon năm 1950 được đạo diễn bởi ai?",
+    "answers": [
+      "Akira Kurosawa",
+      "Yasujirō Ozu",
+      "Kenji Mizoguchi",
+      "Masaki Kobayashi"
+    ],
+    "correct": 0,
+    "category": "Điện ảnh",
+    "explanation": "Akira Kurosawa đạo diễn Rashomon."
+  },
+  {
+    "level": 13,
+    "question": "Phim Bicycle Thieves, Kẻ cắp xe đạp, năm 1948 do ai đạo diễn?",
+    "answers": [
+      "Luchino Visconti",
+      "Vittorio De Sica",
+      "Federico Fellini",
+      "Roberto Rossellini"
+    ],
+    "correct": 1,
+    "category": "Điện ảnh",
+    "explanation": "Vittorio De Sica đạo diễn Bicycle Thieves, tác phẩm tiêu biểu của tân hiện thực Ý."
+  },
+  {
+    "level": 12,
+    "question": "Trong Seven Samurai của Kurosawa, các samurai được thuê chủ yếu để bảo vệ ai?",
+    "answers": [
+      "Thương nhân khỏi bão",
+      "Ngư dân khỏi cá mập",
+      "Dân làng khỏi bọn cướp",
+      "Hoàng đế khỏi sát thủ"
+    ],
+    "correct": 2,
+    "category": "Điện ảnh",
+    "explanation": "Những samurai giúp dân làng chống lại bọn cướp."
+  },
+  {
+    "level": 14,
+    "question": "Trong Citizen Kane, Rosebud cuối cùng được tiết lộ là tên trên vật nào?",
+    "answers": [
+      "Chiếc tàu biển",
+      "Máy đánh chữ",
+      "Chiếc đồng hồ",
+      "Chiếc xe trượt tuyết"
+    ],
+    "correct": 3,
+    "category": "Điện ảnh",
+    "explanation": "Rosebud là tên trên chiếc xe trượt tuyết thời thơ ấu của Kane."
+  },
+  {
+    "level": 11,
+    "question": "Máy tính điều khiển con tàu trong 2001: A Space Odyssey có tên gì?",
+    "answers": [
+      "HAL 9000",
+      "R2-D2",
+      "C-3PO",
+      "T-800"
+    ],
+    "correct": 0,
+    "category": "Điện ảnh",
+    "explanation": "HAL 9000 là máy tính trên tàu Discovery One."
+  },
+  {
+    "level": 12,
+    "question": "Trong The Matrix năm 1999, Morpheus do diễn viên nào thủ vai?",
+    "answers": [
+      "Joe Pantoliano",
+      "Laurence Fishburne",
+      "Keanu Reeves",
+      "Hugo Weaving"
+    ],
+    "correct": 1,
+    "category": "Điện ảnh",
+    "explanation": "Laurence Fishburne đóng Morpheus trong The Matrix."
+  },
+  {
+    "level": 12,
+    "question": "Tiểu thuyết The Godfather, được chuyển thể thành loạt phim Bố già, do ai viết?",
+    "answers": [
+      "James Ellroy",
+      "Raymond Chandler",
+      "Mario Puzo",
+      "John Grisham"
+    ],
+    "correct": 2,
+    "category": "Văn học",
+    "explanation": "Mario Puzo là tác giả tiểu thuyết The Godfather."
+  },
+  {
+    "level": 11,
+    "question": "Ai đạo diễn Pulp Fiction năm 1994?",
+    "answers": [
+      "Martin Scorsese",
+      "David Fincher",
+      "Guy Ritchie",
+      "Quentin Tarantino"
+    ],
+    "correct": 3,
+    "category": "Điện ảnh",
+    "explanation": "Quentin Tarantino đạo diễn Pulp Fiction."
+  },
+  {
+    "level": 13,
+    "question": "Diễn viên nào thủ vai Rick Blaine trong Casablanca năm 1942?",
+    "answers": [
+      "Humphrey Bogart",
+      "Cary Grant",
+      "James Stewart",
+      "Clark Gable"
+    ],
+    "correct": 0,
+    "category": "Điện ảnh",
+    "explanation": "Humphrey Bogart thủ vai Rick Blaine, chủ quán Rick's Café."
+  },
+  {
+    "level": 15,
+    "question": "Nhạc phim Cinema Paradiso được Ennio Morricone sáng tác với sự đóng góp của người con nào?",
+    "answers": [
+      "Nicola Piovani",
+      "Andrea Morricone",
+      "Ludovico Einaudi",
+      "Nino Rota"
+    ],
+    "correct": 1,
+    "category": "Âm nhạc",
+    "explanation": "Andrea Morricone đóng góp nhạc cho Cinema Paradiso cùng cha Ennio Morricone."
+  },
+  {
+    "level": 15,
+    "question": "Singin' in the Rain năm 1952 do cặp đạo diễn nào thực hiện?",
+    "answers": [
+      "Joel Coen và Ethan Coen",
+      "Jean-Pierre Dardenne và Luc Dardenne",
+      "Gene Kelly và Stanley Donen",
+      "Michael Powell và Emeric Pressburger"
+    ],
+    "correct": 2,
+    "category": "Điện ảnh",
+    "explanation": "Gene Kelly và Stanley Donen cùng đạo diễn Singin' in the Rain."
+  },
+  {
+    "level": 14,
+    "question": "Ca khúc Can You Feel the Love Tonight trong The Lion King được viết nhạc và lời bởi cặp nào?",
+    "answers": [
+      "Alan Menken và Howard Ashman",
+      "Richard Rodgers và Oscar Hammerstein II",
+      "Andrew Lloyd Webber và Don Black",
+      "Elton John và Tim Rice"
+    ],
+    "correct": 3,
+    "category": "Âm nhạc",
+    "explanation": "Elton John viết nhạc và Tim Rice viết lời cho ca khúc này."
+  },
+  {
+    "level": 11,
+    "question": "Davis Cup là giải đồng đội quốc tế nổi tiếng dành cho môn nào?",
+    "answers": [
+      "Quần vợt nam",
+      "Cầu lông nữ",
+      "Bóng bàn nam",
+      "Bóng chuyền nữ"
+    ],
+    "correct": 0,
+    "category": "Thể thao",
+    "explanation": "Davis Cup là giải quần vợt đồng đội nam quốc tế."
+  },
+  {
+    "level": 12,
+    "question": "Ai thắng Boris Spassky để trở thành nhà vô địch cờ vua thế giới năm 1972?",
+    "answers": [
+      "Mikhail Tal",
+      "Bobby Fischer",
+      "Anatoly Karpov",
+      "Garry Kasparov"
+    ],
+    "correct": 1,
+    "category": "Thể thao",
+    "explanation": "Bobby Fischer giành chức vô địch thế giới khi đánh bại Boris Spassky năm 1972."
+  },
+  {
+    "level": 12,
+    "question": "Trong curling, khu vực mục tiêu gồm các vòng tròn đồng tâm trên băng gọi là gì?",
+    "answers": [
+      "Crease",
+      "Piste",
+      "House",
+      "Pitch"
+    ],
+    "correct": 2,
+    "category": "Thể thao",
+    "explanation": "House là khu vực mục tiêu gồm các vòng tròn đồng tâm trong curling."
+  }
+]

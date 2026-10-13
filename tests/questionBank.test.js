@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { parseSheetRows, createRound, validateQuestions } from '../src/data/questionBank.js';
+import { parseSheetRows, createRound, validateQuestions, validateQuestionBank, questionStages } from '../src/data/questionBank.js';
 import { selectMaleVietnameseVoice } from '../src/hooks/speechVoice.js';
 import questionHandler from '../api/questions.js';
 import speechHandler from '../api/speech.js';
@@ -41,7 +41,7 @@ const thousandQuestions = level => Array.from({ length: 1000 }, (_, index) => ({
   question: `Câu hỏi trong kho số ${index + 1}`,
 }));
 
-test('rounds sample 15 unique questions from the entire 1000-question bank without changing it', () => {
+test('rounds sample five unique questions per stage from a 1000-question bank without changing it', () => {
   const bank = thousandQuestions();
   const original = structuredClone(bank);
   Object.freeze(bank);
@@ -51,34 +51,73 @@ test('rounds sample 15 unique questions from the entire 1000-question bank witho
   assert.ok(round.some(q => Number(q.id.slice(5)) > 900), 'The far end of the bank must be eligible');
   assert.deepEqual(bank, original);
   assert.ok(round.every(q => q.level === bank.find(originalQuestion => originalQuestion.id === q.id).level));
-  assert.notDeepEqual(round.map(q => q.level), Array.from({ length: 15 }, (_, i) => i + 1));
+  for (const [index, stage] of questionStages.entries()) {
+    const block = round.slice(index * 5, index * 5 + 5);
+    assert.ok(block.every(q => q.level >= stage.min && q.level <= stage.max));
+    assert.deepEqual(block.map(q => q.level), block.map(q => q.level).sort((a, b) => a - b));
+  }
   assert.deepEqual(createRound(bank, seededRandom(42)), round, 'A supplied RNG should reproduce a round');
   assert.notDeepEqual(createRound(bank, seededRandom(43)).map(q => q.id), round.map(q => q.id));
 });
 
-test('a whole bank can use one level and its last question can be chosen first', () => {
+test('unclassified and single-stage banks are rejected before starting a round', () => {
   const bank = thousandQuestions(15);
   validateQuestions(bank);
-  const round = createRound(bank, () => 0.99999);
-  assert.equal(round[0].id, 'pool-1000');
-  assert.equal(new Set(round.map(q => q.id)).size, 15);
-  assert.ok(round.every(q => q.level === 15));
-  const saved = structuredClone(round);
-  bank[999] = { ...bank[999], question: 'Đã sửa trong Sheet' };
-  assert.equal(saved[0].question, 'Câu hỏi trong kho số 1000');
+  assert.throws(() => createRound(bank), /5 câu dễ/);
+  assert.throws(() => validateQuestionBank(bank.map(q => ({ ...q, level: null }))), /level/);
+  assert.throws(() => validateQuestionBank(demo.map(q => ({ ...q, level: q.level === 5 ? 6 : q.level }))), /5 câu dễ/);
+  assert.throws(() => validateQuestionBank(demo.map(q => ({ ...q, level: q.level === 10 ? 11 : q.level }))), /5 câu trung bình/);
+  assert.throws(() => validateQuestionBank(demo.map(q => ({ ...q, level: q.level === 15 ? 10 : q.level }))), /5 câu khó/);
 });
 
-test('the bank needs at least 15 active questions, and level is optional metadata', () => {
+test('old saved rounds accept optional level metadata but new banks require classification', () => {
   assert.throws(() => validateQuestions([]));
   assert.throws(() => validateQuestions(demo.slice(0, 14)), /15/);
   validateQuestions(demo.map(({ level, ...q }) => q));
   validateQuestions(demo.map(q => ({ ...q, level: null })));
   const blankLevels = rows();
   for (const row of blankLevels.slice(1)) row[1] = '';
-  assert.ok(parseSheetRows(blankLevels).every(q => q.level === null));
+  assert.throws(() => parseSheetRows(blankLevels), /level/);
   const noLevelColumn = rows().map(row => row.filter((_, index) => index !== 1));
-  assert.ok(parseSheetRows(noLevelColumn).every(q => q.level === null));
+  assert.throws(() => parseSheetRows(noLevelColumn), /level/);
   assert.deepEqual(createRound(demo, () => 0), demo);
+});
+
+test('disabled rows do not fill a missing stage and repeated answer choices are invalid', () => {
+  const input = rows();
+  input[5][10] = 'FALSE';
+  input.push(['replacement', 6, 'Câu thay thế', 'A', 'B', 'C', 'D', 'A', 'Kiểm tra', 'Giải thích', 'TRUE']);
+  assert.throws(() => parseSheetRows(input), /5 câu dễ/);
+  assert.throws(() => validateQuestions(demo.map((q, i) => i === 0 ? { ...q, answers: ['Bao', ' bao ', 'Kéo', 'Búa'] } : q)));
+});
+
+test('every stage is sampled across seeded rounds and saved snapshots retain their content', () => {
+  const bank = thousandQuestions();
+  const selected = new Set();
+  for (let seed = 1; seed <= 200; seed++) {
+    const round = createRound(bank, seededRandom(seed));
+    assert.equal(new Set(round.map(q => q.id)).size, 15);
+    questionStages.forEach((stage, index) => {
+      assert.ok(round.slice(index * 5, index * 5 + 5).every(q => q.level >= stage.min && q.level <= stage.max));
+    });
+    round.forEach(q => selected.add(q.id));
+  }
+  assert.ok([...selected].some(id => Number(id.slice(5)) > 990));
+  const saved = structuredClone(createRound(bank, seededRandom(42)));
+  const first = saved[0];
+  const index = bank.findIndex(q => q.id === first.id);
+  bank[index] = { ...bank[index], question: 'Đã sửa trong Sheet' };
+  assert.notEqual(saved[0].question, bank[index].question);
+});
+
+test('the bundled bank contains 1000 complete, distinct, classified questions', async () => {
+  const bank = JSON.parse(await readFile(new URL('../src/data/questions-bank.json', import.meta.url), 'utf8'));
+  validateQuestionBank(bank);
+  assert.equal(bank.length, 1000);
+  assert.deepEqual(bank.map(q => q.id), Array.from({ length: 1000 }, (_, i) => i + 1));
+  assert.equal(new Set(bank.map(q => q.question.normalize('NFC').trim().toLocaleLowerCase('vi'))).size, 1000);
+  assert.ok(bank.every(q => !q.question.includes('\uFFFD') && q.answers.every(a => !a.includes('\uFFFD'))));
+  assert.equal(new Set(bank.map(q => q.level)).size, 15);
 });
 
 test('voice selection ignores female and unknown Vietnamese voices', () => {
@@ -95,7 +134,7 @@ function response() {
     status(code) { this.statusCode = code; return this; }, json(body) { this.body = body; return this; }, send(body) { this.body = body; return this; } };
 }
 
-test('API serves valid demo without credentials and rejects writes', async () => {
+test('API serves the 1000-question bundled bank without credentials and rejects writes', async () => {
   const previous = process.env.GOOGLE_SHEET_ID;
   delete process.env.GOOGLE_SHEET_ID;
   try {
@@ -103,6 +142,7 @@ test('API serves valid demo without credentials and rejects writes', async () =>
     await questionHandler({ method: 'GET' }, res);
     assert.equal(res.statusCode, 200);
     assert.equal(res.body.source, 'demo');
+    assert.equal(res.body.questions.length, 1000);
     validateQuestions(res.body.questions);
     assert.equal(res.body.questions[0].speechVersion.length, 64);
     const write = response();

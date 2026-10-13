@@ -9,7 +9,7 @@ from playwright.sync_api import sync_playwright, expect
 ROOT = Path(__file__).resolve().parents[1]
 URL = 'http://127.0.0.1:5173'
 DEMO = json.loads((ROOT / 'src/data/questions.json').read_text(encoding='utf-8'))
-BANK = [{**DEMO[index % len(DEMO)], 'id': f'pool-{index + 1}', 'level': 15,
+BANK = [{**DEMO[index % len(DEMO)], 'id': f'pool-{index + 1}', 'level': index % 15 + 1,
          'question': f'Câu hỏi ngẫu nhiên trong kho số {index + 1}', 'speechVersion': 'fixture-version'}
         for index in range(1000)]
 ERRORS = []
@@ -65,13 +65,16 @@ with sync_playwright() as p:
     round_questions = first['questions']
     ids = [question['id'] for question in round_questions]
     assert len(ids) == 15 and len(set(ids)) == 15, 'A round must contain 15 unique questions'
-    assert all(question['level'] == 15 for question in round_questions), 'Metadata should not be rewritten to the round position'
+    for index, (low, high) in enumerate([(1, 5), (6, 10), (11, 15)]):
+        block = round_questions[index * 5:index * 5 + 5]
+        assert all(low <= question['level'] <= high for question in block), 'Each milestone must have five questions at its difficulty'
+        assert [question['level'] for question in block] == sorted(question['level'] for question in block)
     assert any(int(question_id.removeprefix('pool-')) > 900 for question_id in ids), 'The full bank must be sampled'
     first_speech = parse_qs(urlparse(page.evaluate('window.__speechRequests[0]')).query)
-    assert first_speech['position'] == ['1'], 'MC must announce question 1 even when its original level is 15'
+    assert first_speech['position'] == ['1'], 'MC must announce the round position, independently of stored level'
     assert first_speech['questionId'] == [ids[0]]
     expect(page.locator('#current-question')).to_have_text(round_questions[0]['question'])
-    print('PASS: 1000-question bank yields 15 unique samples, far-tail choices and correct MC round position')
+    print('PASS: 1000-question bank yields five unique questions per difficulty stage and correct MC round position')
 
     page.locator('.answer').nth(round_questions[0]['correct']).click()
     page.get_by_role('button', name='CHỐT ĐÁP ÁN').click()

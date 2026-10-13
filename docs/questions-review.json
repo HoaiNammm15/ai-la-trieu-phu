@@ -1,0 +1,1065 @@
+{
+  "original_count": 170,
+  "added_count": 830,
+  "total_count": 1000,
+  "level_counts": {
+    "1": 33,
+    "2": 62,
+    "3": 73,
+    "4": 91,
+    "5": 65,
+    "6": 70,
+    "7": 99,
+    "8": 97,
+    "9": 53,
+    "10": 31,
+    "11": 57,
+    "12": 85,
+    "13": 88,
+    "14": 75,
+    "15": 21
+  },
+  "stage_counts": {
+    "easy": 324,
+    "medium": 350,
+    "hard": 326
+  },
+  "original_review": [
+    {
+      "id": 1,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 2,
+      "old_level": 2,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 3,
+      "old_level": 3,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 4,
+      "old_level": 4,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 5,
+      "old_level": 5,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 6,
+      "old_level": 6,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 7,
+      "old_level": 7,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 8,
+      "old_level": 8,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 9,
+      "old_level": 9,
+      "level": 9,
+      "reason": "Nêu rõ hệ âm nhạc để tránh phụ thuộc cách chia quãng trong hệ khác."
+    },
+    {
+      "id": 10,
+      "old_level": 10,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 11,
+      "old_level": 11,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 12,
+      "old_level": 12,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 13,
+      "old_level": 13,
+      "level": 11,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 14,
+      "old_level": 14,
+      "level": 8,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 15,
+      "old_level": 15,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 16,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 17,
+      "old_level": 2,
+      "level": 2,
+      "reason": "Nêu rõ nước tinh khiết và áp suất quyết định nhiệt độ sôi."
+    },
+    {
+      "id": 18,
+      "old_level": 3,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 19,
+      "old_level": 4,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 20,
+      "old_level": 5,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 21,
+      "old_level": 6,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 22,
+      "old_level": 7,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 23,
+      "old_level": 8,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 24,
+      "old_level": 9,
+      "level": 5,
+      "reason": "Sửa giải thích sai: Fansipan không phải đỉnh cao nhất toàn Đông Nam Á."
+    },
+    {
+      "id": 25,
+      "old_level": 10,
+      "level": 5,
+      "reason": "Dùng công bố thay cho phát hiện để xác định đóng góp cụ thể."
+    },
+    {
+      "id": 26,
+      "old_level": 11,
+      "level": 9,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 27,
+      "old_level": 12,
+      "level": 9,
+      "reason": "Có nhiều tượng David nổi tiếng với chất liệu khác nhau; xác định Michelangelo."
+    },
+    {
+      "id": 28,
+      "old_level": 13,
+      "level": 11,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 29,
+      "old_level": 14,
+      "level": 9,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 30,
+      "old_level": 15,
+      "level": 10,
+      "reason": "Giới hạn đúng ở kim loại để tránh suy rộng sang mọi nguyên tố."
+    },
+    {
+      "id": 31,
+      "old_level": 1,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 32,
+      "old_level": 2,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 33,
+      "old_level": 3,
+      "level": 8,
+      "reason": "Nêu rõ mốc lịch sử năm 2024 để giữ đáp án28; số lượng thay đổi sau đợt sắp xếp năm2025."
+    },
+    {
+      "id": 34,
+      "old_level": 4,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 35,
+      "old_level": 5,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 36,
+      "old_level": 6,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 37,
+      "old_level": 7,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 38,
+      "old_level": 8,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 39,
+      "old_level": 9,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 40,
+      "old_level": 10,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 41,
+      "old_level": 11,
+      "level": 10,
+      "reason": "Phân biệt sự kiện tuyên bố năm 2003 với ghi danh Danh sách đại diện năm 2008."
+    },
+    {
+      "id": 42,
+      "old_level": 12,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 43,
+      "old_level": 13,
+      "level": 14,
+      "reason": "Chỉ rõ heap nhị phân và cách biểu diễn đồ thị để xác định độ phức tạp."
+    },
+    {
+      "id": 44,
+      "old_level": 14,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 45,
+      "old_level": 15,
+      "level": 11,
+      "reason": "Dùng số hiệu nguyên tử để tránh khái niệm khối lượng nguyên tử tiêu chuẩn đối với radon phóng xạ."
+    },
+    {
+      "id": 46,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 47,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 48,
+      "old_level": 1,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 49,
+      "old_level": 1,
+      "level": 3,
+      "reason": "Loại đáp án trăn tinh và mãng xà có thể là cách kể khác của chằn tinh."
+    },
+    {
+      "id": 50,
+      "old_level": 2,
+      "level": 2,
+      "reason": "Nhật Bản thường coi cả hoa anh đào và hoa cúc là biểu tượng quốc gia; tránh câu quốc hoa chỉ có một đáp án."
+    },
+    {
+      "id": 51,
+      "old_level": 2,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 52,
+      "old_level": 2,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 53,
+      "old_level": 2,
+      "level": 5,
+      "reason": "Thay nhiệt độ phòng bằng nhiệt độ cụ thể, tránh nhầm với gallium hoặc cesium khi phòng ấm."
+    },
+    {
+      "id": 54,
+      "old_level": 3,
+      "level": 1,
+      "reason": "Chuẩn hóa đáp án ngày tháng, bỏ năm không cần thiết."
+    },
+    {
+      "id": 55,
+      "old_level": 3,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 56,
+      "old_level": 3,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 57,
+      "old_level": 3,
+      "level": 2,
+      "reason": "Hệ thần kinh còn gồm tủy sống và các dây thần kinh; tránh khẳng định não điều khiển mọi hoạt động."
+    },
+    {
+      "id": 58,
+      "old_level": 4,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 59,
+      "old_level": 4,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 60,
+      "old_level": 4,
+      "level": 4,
+      "reason": "Bỏ con số 120 km/h vì tốc độ tối đa phụ thuộc phép đo và tài liệu."
+    },
+    {
+      "id": 61,
+      "old_level": 4,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 62,
+      "old_level": 5,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 63,
+      "old_level": 5,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 64,
+      "old_level": 5,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 65,
+      "old_level": 5,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 66,
+      "old_level": 6,
+      "level": 7,
+      "reason": "Thay thứ hạng chiều dài gây tranh luận bằng đại lượng có đáp án rõ ràng."
+    },
+    {
+      "id": 67,
+      "old_level": 6,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 68,
+      "old_level": 6,
+      "level": 6,
+      "reason": "Bỏ khẳng định không có căn cứ rằng loại 16 dây phổ biến nhất hiện nay."
+    },
+    {
+      "id": 69,
+      "old_level": 6,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 70,
+      "old_level": 7,
+      "level": 8,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 71,
+      "old_level": 7,
+      "level": 8,
+      "reason": "Bán đảo không chỉ bao gồm hai quốc gia; thêm điều kiện phần lớn diện tích."
+    },
+    {
+      "id": 72,
+      "old_level": 7,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 73,
+      "old_level": 7,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 74,
+      "old_level": 8,
+      "level": 6,
+      "reason": "75% nói về vật chất thông thường, không phải tổng khối lượng vũ trụ gồm vật chất tối."
+    },
+    {
+      "id": 75,
+      "old_level": 8,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 76,
+      "old_level": 8,
+      "level": 6,
+      "reason": "Số đỏ là tiểu thuyết, không phải truyện ngắn."
+    },
+    {
+      "id": 77,
+      "old_level": 8,
+      "level": 6,
+      "reason": "Chỉ rõ bằng sáng chế để tránh tranh luận về người duy nhất phát minh điện thoại."
+    },
+    {
+      "id": 78,
+      "old_level": 9,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 79,
+      "old_level": 9,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 80,
+      "old_level": 9,
+      "level": 7,
+      "reason": "Gắn mốc năm 2024 để không dùng thứ hạng đã thay đổi sau sáp nhập 2025."
+    },
+    {
+      "id": 81,
+      "old_level": 9,
+      "level": 9,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 82,
+      "old_level": 10,
+      "level": 10,
+      "reason": "Làm rõ cách tính và phạm vi so sánh; không xem thời gian tồn tại là liên tục."
+    },
+    {
+      "id": 83,
+      "old_level": 10,
+      "level": 4,
+      "reason": "ADN có thể là mạch đơn ở một số virus; bỏ cách gán phát hiện cho riêng hai người."
+    },
+    {
+      "id": 84,
+      "old_level": 10,
+      "level": 7,
+      "reason": "Tránh áp quốc tịch Áo hiện đại trực tiếp cho Salzburg năm 1756."
+    },
+    {
+      "id": 85,
+      "old_level": 10,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 86,
+      "old_level": 11,
+      "level": 6,
+      "reason": "Sửa lỗi chính tả trong phần giải thích."
+    },
+    {
+      "id": 87,
+      "old_level": 11,
+      "level": 8,
+      "reason": "Phân biệt nhân Linux với hệ điều hành đầy đủ có các thành phần khác."
+    },
+    {
+      "id": 88,
+      "old_level": 11,
+      "level": 4,
+      "reason": "Đưa tính đều vào mô tả cho khớp câu hỏi."
+    },
+    {
+      "id": 89,
+      "old_level": 11,
+      "level": 10,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 90,
+      "old_level": 12,
+      "level": 12,
+      "reason": "Entropy hệ cô lập không bắt buộc luôn tăng."
+    },
+    {
+      "id": 91,
+      "old_level": 12,
+      "level": 11,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 92,
+      "old_level": 12,
+      "level": 10,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 93,
+      "old_level": 12,
+      "level": 4,
+      "reason": "Dùng đơn vị thay phần tử để đúng thuật ngữ."
+    },
+    {
+      "id": 94,
+      "old_level": 13,
+      "level": 11,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 95,
+      "old_level": 13,
+      "level": 12,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 96,
+      "old_level": 13,
+      "level": 10,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 97,
+      "old_level": 13,
+      "level": 8,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 98,
+      "old_level": 14,
+      "level": 8,
+      "reason": "Nêu kết thúc thời kỳ cầm quyền, không hàm ý nhân vật chết tại trận."
+    },
+    {
+      "id": 99,
+      "old_level": 14,
+      "level": 5,
+      "reason": "Sửa lặp từ bắt bắt; dùng cách diễn đạt chính xác hơn."
+    },
+    {
+      "id": 100,
+      "old_level": 14,
+      "level": 11,
+      "reason": "Không trộn hai định dạng JSON/BSON trong cùng lựa chọn."
+    },
+    {
+      "id": 101,
+      "old_level": 14,
+      "level": 7,
+      "reason": "Bỏ khẳng định Sai Kim là hành tinh duy nhất quay nghịch."
+    },
+    {
+      "id": 102,
+      "old_level": 15,
+      "level": 12,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 103,
+      "old_level": 15,
+      "level": 8,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 104,
+      "old_level": 15,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 105,
+      "old_level": 15,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 106,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 107,
+      "old_level": 1,
+      "level": 2,
+      "reason": "Không giới hạn kimono chỉ cho phụ nữ."
+    },
+    {
+      "id": 108,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 109,
+      "old_level": 1,
+      "level": 6,
+      "reason": "Phân biệt chữ cái nguyên âm và âm vị; i/y có thể cùng ghi một âm."
+    },
+    {
+      "id": 110,
+      "old_level": 2,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 111,
+      "old_level": 2,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 112,
+      "old_level": 2,
+      "level": 4,
+      "reason": "Bỏ danh giá nhất mang tính đánh giá và tránh hiểu toàn bộ giải luôn diễn ra ở Pháp."
+    },
+    {
+      "id": 113,
+      "old_level": 2,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 114,
+      "old_level": 3,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 115,
+      "old_level": 3,
+      "level": 2,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 116,
+      "old_level": 3,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 117,
+      "old_level": 3,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 118,
+      "old_level": 4,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 119,
+      "old_level": 4,
+      "level": 2,
+      "reason": "Bỏ nhận định phổ biến nhất không có phạm vi và thời điểm."
+    },
+    {
+      "id": 120,
+      "old_level": 4,
+      "level": 5,
+      "reason": "Phân biệt châu Úc với vùng châu Đại Dương và xác định mô hình châu lục."
+    },
+    {
+      "id": 121,
+      "old_level": 4,
+      "level": 3,
+      "reason": "Thay chi tiết truyền thuyết trồng lúa thiếu căn cứ rõ bằng chi tiết truyện thống nhất."
+    },
+    {
+      "id": 122,
+      "old_level": 5,
+      "level": 6,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 123,
+      "old_level": 5,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 124,
+      "old_level": 5,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 125,
+      "old_level": 5,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 126,
+      "old_level": 6,
+      "level": 4,
+      "reason": "Dùng đúng thuật ngữ tổ chức chuyên môn."
+    },
+    {
+      "id": 127,
+      "old_level": 6,
+      "level": 6,
+      "reason": "Tránh gọi Anh là quốc gia có thủ đô riêng biệt với Vương quốc Anh."
+    },
+    {
+      "id": 128,
+      "old_level": 6,
+      "level": 7,
+      "reason": "Không khẳng định bảng đầu tiên tuyệt đối, vì nhiều nhà khoa học có đóng góp trước đó."
+    },
+    {
+      "id": 129,
+      "old_level": 6,
+      "level": 9,
+      "reason": "Tránh đồng nhất tên của toàn bộ chùa với riêng Liên Hoa Đài."
+    },
+    {
+      "id": 130,
+      "old_level": 7,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 131,
+      "old_level": 7,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 132,
+      "old_level": 7,
+      "level": 7,
+      "reason": "Bỏ chữ duy nhất vì Địa Trung Hải còn liên thông qua các eo biển và kênh đào khác."
+    },
+    {
+      "id": 133,
+      "old_level": 7,
+      "level": 5,
+      "reason": "Bỏ kỷ lục hiện tại có thể thay đổi."
+    },
+    {
+      "id": 134,
+      "old_level": 8,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 135,
+      "old_level": 8,
+      "level": 6,
+      "reason": "Cố định nhiệt độ thay cho nhiệt độ phòng không chính xác."
+    },
+    {
+      "id": 136,
+      "old_level": 8,
+      "level": 3,
+      "reason": "Mô tả cấu trúc QR cụ thể thay vì mọi mã 2D hình vuông."
+    },
+    {
+      "id": 137,
+      "old_level": 8,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 138,
+      "old_level": 9,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 139,
+      "old_level": 9,
+      "level": 8,
+      "reason": "Sửa GB/MB sang GiB/MiB để đúng đơn vị nhị phân."
+    },
+    {
+      "id": 140,
+      "old_level": 9,
+      "level": 10,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 141,
+      "old_level": 9,
+      "level": 8,
+      "reason": "Thay thống kê số mặt trăng thay đổi theo phát hiện mới bằng quan hệ thiên thể ổn định."
+    },
+    {
+      "id": 142,
+      "old_level": 10,
+      "level": 7,
+      "reason": "Phân biệt thai kỳ với riêng giai đoạn phôi và nêu cách tính rõ ràng."
+    },
+    {
+      "id": 143,
+      "old_level": 10,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 144,
+      "old_level": 10,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 145,
+      "old_level": 10,
+      "level": 9,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 146,
+      "old_level": 11,
+      "level": 6,
+      "reason": "Chiến dịch không lập tức chấm dứt hoàn toàn sự hiện diện quân Pháp ở Việt Nam."
+    },
+    {
+      "id": 147,
+      "old_level": 11,
+      "level": 8,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 148,
+      "old_level": 11,
+      "level": 5,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 149,
+      "old_level": 11,
+      "level": 9,
+      "reason": "Chỉ rõ ngôn ngữ có cấu trúc do...while."
+    },
+    {
+      "id": 150,
+      "old_level": 12,
+      "level": 7,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 151,
+      "old_level": 12,
+      "level": 4,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 152,
+      "old_level": 12,
+      "level": 6,
+      "reason": "Gọi đúng thể loại bài thơ và không khẳng định tác giả còn tranh luận."
+    },
+    {
+      "id": 153,
+      "old_level": 12,
+      "level": 12,
+      "reason": "Bỏ xếp hạng thường dùng nhiều nhất cần thống kê cập nhật."
+    },
+    {
+      "id": 154,
+      "old_level": 13,
+      "level": 12,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 155,
+      "old_level": 13,
+      "level": 12,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 156,
+      "old_level": 13,
+      "level": 13,
+      "reason": "Hỏi mốc trao giải được xác nhận, tránh khẳng định người đầu tiên khi chưa có hồ sơ giải chính thức."
+    },
+    {
+      "id": 157,
+      "old_level": 13,
+      "level": 9,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 158,
+      "old_level": 14,
+      "level": 9,
+      "reason": "Các đoạn tường đã có trước nhà Tần, nên câu bắt đầu xây dựng không đúng."
+    },
+    {
+      "id": 159,
+      "old_level": 14,
+      "level": 10,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 160,
+      "old_level": 14,
+      "level": 6,
+      "reason": "Câu cũ khiến cả huyết tương và tiểu cầu đều có thể là đáp án vì đều tham gia đông máu."
+    },
+    {
+      "id": 161,
+      "old_level": 14,
+      "level": 13,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 162,
+      "old_level": 15,
+      "level": 12,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 163,
+      "old_level": 15,
+      "level": 14,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 164,
+      "old_level": 15,
+      "level": 14,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    },
+    {
+      "id": 165,
+      "old_level": 15,
+      "level": 7,
+      "reason": "Nêu hệ màu và hạ mức vì đây là kiến thức công nghệ cơ bản."
+    },
+    {
+      "id": 166,
+      "old_level": 15,
+      "level": 10,
+      "reason": "Bỏ đánh giá danh giá nhất không cần thiết."
+    },
+    {
+      "id": 167,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Thay mô tả chủ quan nổi tiếng/quốc hồn quốc túy bằng đặc trưng nhận diện."
+    },
+    {
+      "id": 168,
+      "old_level": 1,
+      "level": 1,
+      "reason": "Loại đáp án Giấy đồng nghĩa Bao gây hai đáp án đúng."
+    },
+    {
+      "id": 169,
+      "old_level": 2,
+      "level": 2,
+      "reason": "Thay câu biển số xe phụ thuộc quy định hành chính và gọi Hà Nội là tỉnh."
+    },
+    {
+      "id": 170,
+      "old_level": 2,
+      "level": 3,
+      "reason": "Rà lại nội dung và xếp level theo độ khó thực tế."
+    }
+  ],
+  "sources": [
+    {
+      "ids": [
+        24
+      ],
+      "title": "Vietnam National Authority of Tourism: Fansipan thuộc Hoàng Liên Sơn, được gọi là Nóc nhà Đông Dương",
+      "url": "https://vietnamtourism.gov.vn/en/post/15818"
+    },
+    {
+      "ids": [
+        41
+      ],
+      "title": "UNESCO: Nhã nhạc tuyên bố năm 2003, đưa vào Danh sách đại diện năm 2008",
+      "url": "https://ich.unesco.org/en/RL/nha-nhac-vietnamese-court-music-00074"
+    }
+  ]
+}

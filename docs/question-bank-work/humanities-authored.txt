@@ -1,0 +1,275 @@
+1|Văn hóa|Bánh trung thu gắn với ngày lễ nào ở Việt Nam?|Tết Trung thu|Tết Đoan Ngọ|Tết Thanh minh|Lễ Vu Lan|Bánh trung thu thường được làm và biếu tặng vào dịp Tết Trung thu.
+2|Văn hóa|Theo phong tục Việt Nam, lễ cúng ông Công ông Táo thường vào ngày nào âm lịch?|23 tháng Chạp|15 tháng Giêng|5 tháng Năm|10 tháng Ba|Lễ cúng ông Công ông Táo thường diễn ra ngày 23 tháng Chạp.
+1|Văn hóa|Tiền mừng tuổi dịp Tết thường được đặt trong vật nào?|Phong bao lì xì|Hộp bút|Bình hoa|Túi trà|Phong bao lì xì dùng để đựng tiền mừng tuổi.
+2|Cổ tích|Nhân vật Sọ Dừa trong truyện cổ tích Việt Nam được gọi như vậy vì ban đầu có hình dáng giống vật gì?|Sọ quả dừa|Chiếc chum|Quả bí|Bó rơm|Nhân vật lúc mới sinh có hình dáng tròn giống sọ quả dừa.
+2|Cổ tích|Trong truyền thuyết Sơn Tinh, Thủy Tinh, ai có khả năng dâng nước?|Thủy Tinh|Sơn Tinh|Lang Liêu|Thánh Gióng|Thủy Tinh là nhân vật có phép dâng nước, còn Sơn Tinh nâng núi.
+2|Ngôn ngữ|Tục ngữ Ăn quả nhớ kẻ trồng cây khuyên điều gì?|Biết ơn người tạo ra thành quả|Chỉ ăn trái cây tự trồng|Tránh trồng cây vào mùa mưa|Luôn hái quả vào sáng sớm|Câu tục ngữ khuyên biết ơn người đã giúp mình có thành quả.
+1|Ngôn ngữ|Từ nào trái nghĩa với nóng trong cụm nước nóng?|Lạnh|Ấm|Nồng|Nóng bỏng|Lạnh là từ trái nghĩa với nóng trong ngữ cảnh nhiệt độ.
+2|Ngôn ngữ|Dấu nào thường đặt cuối câu hỏi trong tiếng Việt?|Dấu hỏi chấm|Dấu phẩy|Dấu hai chấm|Dấu chấm phẩy|Dấu hỏi chấm dùng để kết thúc câu nghi vấn trực tiếp.
+1|Tiếng Anh|Từ dog trong tiếng Anh chỉ con vật nào?|Con chó|Con mèo|Con ngựa|Con vịt|Dog có nghĩa là con chó.
+4|Tiếng Anh|Dạng số nhiều của child trong tiếng Anh là gì?|Children|Childs|Childes|Childrens|Children là dạng số nhiều bất quy tắc của child.
+4|Nghệ thuật|Leonardo da Vinci là tác giả của bức họa nào sau đây?|Mona Lisa|Guernica|Tiếng thét|Hoa hướng dương|Mona Lisa là tác phẩm của Leonardo da Vinci.
+3|Âm nhạc|Đàn guitar thông thường có bao nhiêu dây?|6|4|5|8|Đàn guitar tiêu chuẩn thông thường có sáu dây.
+1|Âm nhạc|Trong chuỗi tên nốt Đô, Rê, Mi, Fa, Sol, La, Si, nốt nào ngay sau Đô?|Rê|Mi|Fa|Sol|Tên nốt ngay sau Đô trong chuỗi này là Rê.
+2|Âm nhạc|Người chơi violin thường dùng vật nào để kéo trên dây đàn?|Vĩ đàn|Dùi trống|Phím gõ|Ống thổi|Vĩ đàn có lông căng để cọ lên dây violin.
+3|Âm nhạc|Kèn trumpet thuộc nhóm nhạc cụ nào trong dàn nhạc phương Tây?|Bộ đồng|Bộ dây|Bộ gõ|Bộ phím|Trumpet là nhạc cụ hơi thuộc bộ đồng.
+2|Nghệ thuật|Loại hình múa nào gắn với giày mũi cứng và động tác đứng trên đầu ngón chân?|Ballet|Múa rối|Múa lân|Tap dance|Giày mũi cứng hỗ trợ kỹ thuật đứng trên mũi chân trong ballet.
+1|Âm nhạc|Hát ru thường nhằm giúp ai dễ ngủ?|Trẻ nhỏ|Trọng tài|Người dẫn chương trình|Khán giả sân vận động|Hát ru thường dùng lời ca nhẹ nhàng để ru trẻ ngủ.
+4|Nghệ thuật|Loại hình sân khấu truyền thống nào gắn với các nhân vật Thị Mầu, Thị Kính?|Chèo|Kịch câm|Ballet|Opera|Quan Âm Thị Kính là vở chèo nổi tiếng có Thị Kính và Thị Mầu.
+3|Nghệ thuật|Trong múa rối nước Việt Nam, sân khấu biểu diễn chủ yếu là gì?|Mặt nước|Sân băng|Mái nhà|Đỉnh cây|Con rối được điều khiển để biểu diễn trên mặt nước.
+2|Thể thao|Môn thể thao nào dùng một quả cầu có lông và vợt để đánh qua lưới?|Cầu lông|Bóng bàn|Bóng ném|Bóng rổ|Cầu lông dùng vợt và quả cầu có lông hoặc vật liệu tổng hợp.
+1|Thể thao|Trong bóng rổ, người chơi ghi điểm bằng cách đưa bóng vào đâu?|Rổ|Cầu môn|Hố cát|Ô giao cầu|Bóng rổ tính điểm khi bóng đi vào rổ theo luật.
+2|Thể thao|Môn nào dưới đây sử dụng vợt và bóng nỉ trên sân có lưới?|Quần vợt|Bóng chuyền|Bóng chày|Bóng đá|Quần vợt dùng vợt và bóng nỉ để đánh qua lưới.
+3|Thể thao|Kiểu bơi nào có động tác tay và chân thường được mô tả giống ếch?|Bơi ếch|Bơi bướm|Bơi ngửa|Bơi sải|Bơi ếch có động tác tay chân gợi hình ảnh ếch bơi.
+2|Thể thao|Mỗi bên bắt đầu một ván cờ vua thông thường với bao nhiêu quân vua?|1|2|3|4|Mỗi bên có một quân vua trong vị trí xuất phát.
+4|Thể thao|Quân nào trong cờ tướng mang tên một loại vũ khí bắn đạn?|Pháo|Tượng|Mã|Sĩ|Quân pháo mang tên loại vũ khí bắn đạn.
+4|Đời sống|Bộ bài Tây 52 lá thông thường có bao nhiêu chất?|4|3|5|6|Bốn chất là cơ, rô, chuồn và bích.
+3|Thể thao|Biểu tượng Olympic gồm bao nhiêu vòng tròn đan vào nhau?|5|4|6|7|Biểu tượng Olympic có năm vòng tròn.
+3|Thể thao|Bàn cờ vua tiêu chuẩn có bao nhiêu ô vuông?|64|49|81|100|Bàn cờ vua có tám hàng và tám cột, tổng cộng 64 ô.
+2|Điện ảnh|Woody trong loạt phim Toy Story là đồ chơi mang hình tượng gì?|Cao bồi|Phi hành gia|Khủng long|Robot|Woody là búp bê cao bồi, còn Buzz Lightyear là đồ chơi phi hành gia.
+3|Văn học|Vết sẹo trên trán Harry Potter có hình gì?|Tia chớp|Ngôi sao|Trái tim|Mặt trăng|Harry Potter có vết sẹo hình tia chớp.
+1|Truyện tranh|Doraemon là nhân vật có hình dáng giống loài vật nào?|Mèo|Chó|Thỏ|Gấu|Doraemon là một chú mèo máy đến từ tương lai.
+1|Điện ảnh|Jerry trong hoạt hình Tom and Jerry là con vật nào?|Chuột|Mèo|Vịt|Chó|Jerry là chú chuột thường đối đầu với mèo Tom.
+2|Cổ tích|Trong truyện Cô bé quàng khăn đỏ, con vật nào giả làm bà ngoại?|Sói|Gấu|Hươu|Cáo|Sói giả làm bà ngoại để lừa cô bé.
+1|Cổ tích|Trong truyện Nàng Bạch Tuyết, cô sống cùng bao nhiêu chú lùn?|7|5|6|8|Bạch Tuyết sống trong ngôi nhà của bảy chú lùn.
+2|Cổ tích|Mũi của nhân vật Pinocchio thường dài ra khi cậu làm gì?|Nói dối|Ngủ|Ăn bánh|Hát|Chiếc mũi dài ra là dấu hiệu nổi tiếng gắn với việc Pinocchio nói dối.
+3|Cổ tích|Trong truyện Sự tích cây vú sữa, cái cây gắn với tình cảm của ai dành cho con?|Người mẹ|Người thầy|Người hàng xóm|Người em|Cây vú sữa tượng trưng cho tình mẹ trong câu chuyện.
+3|Cổ tích|Trong truyện Cây khế, chim dặn người em may túi mấy gang để đựng vàng?|3 gang|1 gang|5 gang|7 gang|Chim dặn may túi ba gang để mang đi lấy vàng.
+2|Văn hóa|Hoa đào thường gắn với dịp lễ nào trong văn hóa miền Bắc Việt Nam?|Tết Nguyên đán|Tết Trung thu|Lễ Giáng sinh|Lễ Halloween|Hoa đào là loài hoa trang trí quen thuộc vào Tết Nguyên đán ở miền Bắc.
+1|Văn hóa|Ông già Noel thường xuất hiện trong lễ nào?|Giáng sinh|Tết Đoan Ngọ|Lễ Phật đản|Tết Thanh minh|Ông già Noel là hình tượng quen thuộc của lễ Giáng sinh.
+2|Văn hóa|Hanbok là trang phục truyền thống gắn với nền văn hóa nào?|Hàn Quốc|Ấn Độ|Scotland|Mexico|Hanbok là trang phục truyền thống của người Hàn Quốc.
+3|Văn hóa|Món kimchi thường được chế biến bằng cách nào?|Muối và lên men rau|Nướng nguyên củ trên than|Chiên bột thành bánh|Phơi khô thịt bò|Kimchi được làm từ rau ướp gia vị rồi lên men.
+2|Ẩm thực|Thành phần làm nên phần vỏ bánh cuốn truyền thống là gì?|Bột gạo|Bột ca cao|Bột hạnh nhân|Bột cà phê|Bánh cuốn có lớp vỏ mỏng làm chủ yếu từ bột gạo.
+1|Đời sống|Vật dụng nào thường dùng để mở nút bần của chai rượu vang?|Đồ khui nút bần|Dao gọt|Muôi canh|Kẹp giấy|Đồ khui nút bần có phần xoắn để kéo nút ra khỏi chai.
+1|Đời sống|Khi khâu bằng tay, sợi chỉ thường được luồn qua bộ phận nào của kim?|Lỗ kim|Mũi kim|Nắp kim|Cán kéo|Lỗ kim giữ sợi chỉ để kéo chỉ xuyên qua vải.
+2|Đời sống|Khi xem sách, phần mục lục giúp người đọc tìm điều gì?|Vị trí các phần và chương|Giá bìa của sách|Độ dày giấy|Mã màu mực|Mục lục liệt kê các phần hoặc chương và vị trí của chúng.
+2|Đời sống|Dụng cụ nào dùng để đo chiều dài cơ thể khi may quần áo?|Thước dây|Thìa đong|Rây bột|Nhiệt kế|Thước dây mềm thuận tiện để đo các vòng và chiều dài trên cơ thể.
+2|Ngôn ngữ|Cụm từ nào là lời chào buổi sáng trong tiếng Anh?|Good morning|Good night|Thank you|Excuse me|Good morning dùng để chào vào buổi sáng.
+1|Tiếng Anh|Từ red trong tiếng Anh chỉ màu nào?|Đỏ|Xanh lá|Trắng|Đen|Red có nghĩa là màu đỏ.
+2|Tiếng Anh|Từ library trong tiếng Anh có nghĩa là gì?|Thư viện|Hiệu thuốc|Nhà bếp|Sân bay|Library là nơi lưu giữ và cho đọc hoặc mượn sách.
+3|Tiếng Anh|Từ nào là đại từ ngôi thứ nhất số ít trong tiếng Anh?|I|He|They|You|I là đại từ chủ ngữ ngôi thứ nhất số ít.
+3|Ngôn ngữ|Trong câu Bé đang đọc sách, từ đọc biểu thị điều gì?|Hoạt động|Màu sắc|Số lượng|Tên người|Đọc là động từ chỉ hoạt động trong câu.
+3|Ngôn ngữ|Từ nào gần nghĩa nhất với chăm chỉ?|Siêng năng|Lười biếng|Hấp tấp|Kiêu ngạo|Chăm chỉ và siêng năng đều chỉ sự cần mẫn trong công việc.
+2|Ngôn ngữ|Từ nào trái nghĩa với rộng trong cụm căn phòng rộng?|Hẹp|Dài|Cao|Sáng|Hẹp trái nghĩa với rộng khi nói về không gian.
+3|Ngôn ngữ|Dấu ngoặc kép thường dùng để đánh dấu nội dung nào?|Lời trích dẫn trực tiếp|Kết quả phép chia|Âm cuối của từ|Số thứ tự trang|Ngoặc kép thường bao quanh lời được trích dẫn trực tiếp.
+4|Văn học|Bài thơ Hạt gạo làng ta do ai sáng tác?|Trần Đăng Khoa|Xuân Diệu|Huy Cận|Tố Hữu|Hạt gạo làng ta là bài thơ của Trần Đăng Khoa.
+4|Văn học|Tác giả bài thơ Bánh trôi nước là ai?|Hồ Xuân Hương|Bà Huyện Thanh Quan|Đoàn Thị Điểm|Xuân Quỳnh|Bánh trôi nước là bài thơ nổi tiếng của Hồ Xuân Hương.
+5|Văn học|Nhà văn nào sáng tác truyện ngắn Vợ nhặt?|Kim Lân|Nam Cao|Nguyễn Tuân|Thạch Lam|Vợ nhặt là truyện ngắn của Kim Lân.
+4|Văn học|Nhân vật chị Dậu thuộc tác phẩm nào?|Tắt đèn|Lão Hạc|Số đỏ|Vợ chồng A Phủ|Chị Dậu là nhân vật trung tâm của tiểu thuyết Tắt đèn.
+3|Văn học|Trong truyện Lão Hạc, lão gọi con chó của mình bằng tên nào?|Cậu Vàng|Cậu Đen|Cậu Đốm|Cậu Mực|Lão Hạc gọi con chó là cậu Vàng.
+4|Văn học|Truyện Kiều chủ yếu được viết theo thể thơ nào?|Lục bát|Thất ngôn bát cú|Ngũ ngôn|Haiku|Truyện Kiều dùng thể lục bát, kết hợp dòng sáu tiếng và tám tiếng.
+4|Văn học|Ai sáng tác bài thơ Sóng được học phổ biến trong chương trình Ngữ văn?|Xuân Quỳnh|Hồ Xuân Hương|Anh Thơ|Hàn Mặc Tử|Sóng là bài thơ tình của Xuân Quỳnh.
+4|Văn học|Nhân vật Thị Nở xuất hiện trong truyện nào của Nam Cao?|Chí Phèo|Đời thừa|Lão Hạc|Trăng sáng|Thị Nở là nhân vật trong truyện Chí Phèo.
+5|Văn học|Bài thơ Qua Đèo Ngang thường được ghi là tác phẩm của ai?|Bà Huyện Thanh Quan|Nguyễn Khuyến|Tú Xương|Nguyễn Bính|Qua Đèo Ngang là bài thơ nổi tiếng của Bà Huyện Thanh Quan.
+5|Văn học|Hoàng tử bé là tác phẩm của nhà văn nào?|Antoine de Saint-Exupéry|Jules Verne|Victor Hugo|Alexandre Dumas|Antoine de Saint-Exupéry viết Hoàng tử bé.
+5|Văn học|Thám tử Sherlock Holmes sống cùng bác sĩ nào trong truyện của Arthur Conan Doyle?|John Watson|Victor Frankenstein|Ebenezer Scrooge|Hercule Poirot|Bác sĩ John Watson là bạn và người kể nhiều câu chuyện về Holmes.
+3|Điện ảnh|Hai chị em Elsa và Anna là nhân vật trong phim hoạt hình nào?|Frozen|Shrek|Cars|Ratatouille|Elsa và Anna là hai chị em trong Frozen của Disney.
+4|Điện ảnh|Chú cá Nemo thuộc loài cá nào trong phim Finding Nemo?|Cá hề|Cá ngừ|Cá kiếm|Cá mập|Nemo được xây dựng theo hình dáng cá hề.
+3|Điện ảnh|Trong phim Kung Fu Panda, nhân vật Po là con vật gì?|Gấu trúc|Hổ|Khỉ|Sếu|Po là chú gấu trúc học kung fu.
+4|Điện ảnh|Chú chuột Remy mơ trở thành đầu bếp xuất hiện trong phim Pixar nào?|Ratatouille|WALL-E|Brave|Up|Remy là nhân vật chính trong Ratatouille.
+4|Truyện tranh|Nhân vật Monkey D. Luffy là nhân vật chính của bộ truyện nào?|One Piece|Naruto|Bleach|Doraemon|Luffy là nhân vật chính trong One Piece của Eiichiro Oda.
+4|Âm nhạc|Một bài hát không có phần nhạc cụ đệm, chỉ dùng giọng người, thường gọi là gì?|A cappella|Remix|Overture|Concerto|A cappella là cách hát không có nhạc cụ đệm.
+4|Âm nhạc|Nhạc cụ nào có các phím đen và trắng để người chơi bấm bằng tay?|Piano|Sáo trúc|Trống cơm|Kèn harmonica|Piano có bàn phím gồm các phím trắng và đen.
+3|Âm nhạc|Sáo trúc tạo âm thanh chủ yếu khi người chơi làm gì?|Thổi hơi|Kéo vĩ|Gõ dùi|Gảy dây|Người chơi thổi hơi qua lỗ thổi để tạo âm thanh trên sáo trúc.
+3|Nghệ thuật|Nghệ thuật gấp giấy của Nhật Bản thường gọi là gì?|Origami|Ikebana|Kabuki|Haiku|Origami là nghệ thuật gấp giấy.
+3|Nghệ thuật|Loại hình biểu diễn nào kể chuyện chủ yếu bằng cử chỉ, không dùng lời nói?|Kịch câm|Ca trù|Chèo|Opera|Kịch câm sử dụng nét mặt, động tác và cử chỉ để thể hiện nội dung.
+4|Nghệ thuật|Trong mỹ thuật, chân dung thường tập trung khắc họa đối tượng nào?|Con người|Bản đồ|Công thức|Sơ đồ điện|Tranh chân dung khắc họa diện mạo và thường cả thần thái của con người.
+5|Văn hóa|Trò chơi dân gian ô ăn quan thường dùng vật gì làm quân chơi?|Sỏi hoặc hạt|Bóng cao su|Thanh kiếm gỗ|Vợt lông|Sỏi hay hạt thường được dùng làm quân trong trò ô ăn quan.
+3|Văn hóa|Mâm ngũ quả dịp Tết có tên gọi gợi đến bao nhiêu loại quả?|5|3|7|9|Ngũ có nghĩa là năm; cách chọn và bày quả có thể khác nhau giữa các vùng.
+4|Văn hóa|Trong 12 con giáp Việt Nam, năm Mão gắn với con vật nào?|Mèo|Thỏ|Hươu|Chó|Trong hệ 12 con giáp Việt Nam, Mão là mèo.
+5|Văn hóa|Người Scotland thường gọi chiếc váy truyền thống xếp nếp của nam giới là gì?|Kilt|Sari|Kimono|Hanbok|Kilt là trang phục xếp nếp truyền thống nổi tiếng của Scotland.
+4|Ẩm thực|Gạo nếp thường được dùng để nấu món nào sau đây?|Xôi|Bún tươi|Bánh mì baguette|Mì spaghetti|Xôi được nấu bằng gạo nếp.
+3|Ẩm thực|Loại bánh nào có tên gợi hình chiếc sừng, thường gặp trong ẩm thực Pháp?|Croissant|Mochi|Tortilla|Pretzel|Croissant có hình lưỡi liềm hay sừng cong.
+5|Thể thao|Môn thể thao nào gắn với các dụng cụ như xà đơn, xà kép và ngựa vòng?|Thể dục dụng cụ|Bóng bầu dục|Bóng ném|Đua thuyền|Xà đơn, xà kép và ngựa vòng là các nội dung của thể dục dụng cụ.
+4|Thể thao|Trong bóng bàn, hai người chơi thường ngăn cách nhau bằng vật gì trên bàn?|Lưới|Tường kính|Vạch cát|Dây thừng trên cao|Lưới chia mặt bàn bóng bàn thành hai phần.
+4|Đời sống|Tên gọi bìa mềm của sách chỉ đặc điểm nào?|Bìa có thể uốn cong|Nội dung ngắn|Không có mục lục|Chỉ in một màu|Bìa mềm thường làm từ giấy hoặc bìa mỏng có thể uốn cong.
+7|Văn học|Tùy bút Người lái đò Sông Đà do ai sáng tác?|Nguyễn Tuân|Nguyễn Công Hoan|Nguyễn Huy Thiệp|Nguyễn Khải|Người lái đò Sông Đà là tùy bút của Nguyễn Tuân.
+6|Văn học|Truyện Vợ chồng A Phủ nằm trong sáng tác của nhà văn nào?|Tô Hoài|Kim Lân|Ngô Tất Tố|Vũ Trọng Phụng|Tô Hoài viết Vợ chồng A Phủ trong tập Truyện Tây Bắc.
+7|Văn học|Ai là tác giả truyện ngắn Hai đứa trẻ?|Thạch Lam|Nguyên Hồng|Nam Cao|Nguyễn Minh Châu|Hai đứa trẻ là truyện ngắn của Thạch Lam.
+6|Văn học|Bài thơ Tràng giang thuộc sáng tác của ai?|Huy Cận|Xuân Diệu|Hàn Mặc Tử|Chế Lan Viên|Huy Cận sáng tác Tràng giang, in trong tập Lửa thiêng.
+6|Văn học|Ai là tác giả bài thơ Tây Tiến?|Quang Dũng|Chính Hữu|Phạm Tiến Duật|Nguyễn Duy|Quang Dũng là tác giả Tây Tiến.
+6|Văn học|Truyện ngắn Chiếc lược ngà do nhà văn nào sáng tác?|Nguyễn Quang Sáng|Nguyễn Thành Long|Nguyễn Minh Châu|Nguyễn Thi|Chiếc lược ngà là truyện ngắn của Nguyễn Quang Sáng.
+7|Văn học|Truyện ngắn Tôi đi học do ai sáng tác?|Thanh Tịnh|Tô Hoài|Nguyễn Tuân|Nguyễn Công Hoan|Thanh Tịnh là tác giả Tôi đi học.
+7|Văn học|Tập thơ Nhật ký trong tù được viết chủ yếu bằng ngôn ngữ nào?|Tiếng Hán|Tiếng Pháp|Tiếng Anh|Tiếng Nga|Hồ Chí Minh viết Nhật ký trong tù chủ yếu bằng chữ Hán.
+6|Văn học|Tiểu thuyết Những người khốn khổ là tác phẩm của ai?|Victor Hugo|Honoré de Balzac|Émile Zola|Gustave Flaubert|Victor Hugo là tác giả Les Misérables, thường dịch là Những người khốn khổ.
+8|Văn học|Ai viết tiểu thuyết Tội ác và hình phạt?|Fyodor Dostoevsky|Leo Tolstoy|Anton Chekhov|Ivan Turgenev|Tội ác và hình phạt là tiểu thuyết của Fyodor Dostoevsky.
+7|Văn học|Nhà văn nào sáng tác tiểu thuyết Chiến tranh và hòa bình?|Leo Tolstoy|Maxim Gorky|Nikolai Gogol|Mikhail Bulgakov|Chiến tranh và hòa bình là tiểu thuyết của Leo Tolstoy.
+7|Văn học|Ông già và biển cả là tác phẩm của nhà văn nào?|Ernest Hemingway|William Faulkner|John Steinbeck|F. Scott Fitzgerald|Ernest Hemingway viết The Old Man and the Sea.
+7|Văn học|Don Quixote là tiểu thuyết của tác giả nào?|Miguel de Cervantes|Federico García Lorca|Gabriel García Márquez|Jorge Luis Borges|Miguel de Cervantes là tác giả Don Quixote.
+8|Văn học|Tiểu thuyết Kiêu hãnh và định kiến do ai viết?|Jane Austen|Charlotte Brontë|Emily Brontë|George Eliot|Pride and Prejudice là tiểu thuyết của Jane Austen.
+7|Văn học|Alice ở xứ sở thần tiên là tác phẩm của ai?|Lewis Carroll|J. M. Barrie|A. A. Milne|Beatrix Potter|Lewis Carroll sáng tác Alice's Adventures in Wonderland.
+9|Văn học|Nhân vật Peter Pan được sáng tạo bởi nhà văn nào?|J. M. Barrie|Charles Dickens|Oscar Wilde|Roald Dahl|J. M. Barrie tạo ra Peter Pan, cậu bé không muốn lớn lên.
+8|Văn học|Tiểu thuyết Robinson Crusoe do ai viết?|Daniel Defoe|Jonathan Swift|Thomas Hardy|Walter Scott|Daniel Defoe là tác giả Robinson Crusoe.
+9|Văn học|Gulliver du ký là tác phẩm của ai?|Jonathan Swift|Daniel Defoe|Robert Louis Stevenson|Charles Dickens|Jonathan Swift viết Gulliver's Travels.
+8|Văn học|Nhân vật hobbit chính trong tiểu thuyết The Hobbit tên là gì?|Bilbo Baggins|Frodo Baggins|Samwise Gamgee|Peregrin Took|Bilbo Baggins là nhân vật trung tâm của The Hobbit.
+8|Văn học|Ai là tác giả tiểu thuyết Trại súc vật?|George Orwell|Aldous Huxley|Ray Bradbury|H. G. Wells|George Orwell viết Animal Farm, thường dịch là Trại súc vật.
+8|Văn học|Sử thi Odyssey theo truyền thống được gán cho tác giả nào?|Homer|Virgil|Sophocles|Ovid|Odyssey và Iliad theo truyền thống được gán cho Homer.
+9|Văn học|Vở kịch Tartuffe là tác phẩm của nhà viết kịch nào?|Molière|Pierre Corneille|Jean Racine|Henrik Ibsen|Molière là tác giả vở hài kịch Tartuffe.
+8|Văn học|Truyện Hóa thân, kể về Gregor Samsa, do ai sáng tác?|Franz Kafka|Thomas Mann|Hermann Hesse|Albert Camus|Franz Kafka viết Die Verwandlung, thường dịch là Hóa thân.
+6|Văn học|Thể thơ haiku gắn với truyền thống văn học của quốc gia nào?|Nhật Bản|Hy Lạp|Ba Tư|Thụy Điển|Haiku là thể thơ ngắn trong truyền thống Nhật Bản.
+9|Văn học|Một bài limerick theo dạng thơ tiếng Anh thông thường có bao nhiêu dòng?|5|4|6|8|Limerick là bài thơ năm dòng, thường dùng sơ đồ vần AABBA.
+6|Ngôn ngữ|Trong câu Tán cây như một chiếc ô xanh, biện pháp tu từ chính là gì?|So sánh|Nói giảm|Đảo ngữ|Điệp âm|Từ như tạo phép so sánh giữa tán cây và chiếc ô.
+6|Ngôn ngữ|Trong câu Hàng cây thì thầm với gió, biện pháp tu từ chính là gì?|Nhân hóa|Nói giảm|Liệt kê|Đối lập|Thì thầm là hành động của người được gán cho hàng cây.
+6|Ngôn ngữ|Thành ngữ Nước đến chân mới nhảy thường chỉ thói quen nào?|Đợi sát hạn mới hành động|Chuẩn bị từ rất sớm|Luôn tuân thủ kế hoạch|Giúp người gặp nạn|Thành ngữ chỉ việc trì hoãn đến khi tình thế cấp bách mới làm.
+7|Ngôn ngữ|Hai từ đường trong đường đi và đường ăn thuộc quan hệ nào?|Đồng âm|Trái nghĩa|Đồng nghĩa|Từ láy|Hai từ có âm giống nhau nhưng chỉ hai khái niệm khác nhau.
+6|Tiếng Anh|Quá khứ đơn của động từ go là gì?|Went|Goed|Gone|Going|Went là dạng quá khứ đơn của go; gone là quá khứ phân từ.
+6|Tiếng Anh|Dạng so sánh hơn của tính từ good là gì?|Better|Gooder|Best|More best|Good có dạng so sánh hơn bất quy tắc là better.
+7|Tiếng Anh|Từ nào thông thường là danh từ không đếm được trong tiếng Anh?|Information|Chair|Apple|Student|Information thường không dùng trực tiếp với a hoặc số nhiều -s.
+8|Tiếng Anh|Điền từ phù hợp: She has lived here ___ 2020.|Since|For|During|Until|Since dùng với mốc bắt đầu như năm 2020 trong câu hiện tại hoàn thành này.
+7|Tiếng Anh|Trong câu The book was written by Mary, câu được viết ở thể nào?|Bị động|Mệnh lệnh|Điều kiện|Câu hỏi|Was written là cấu trúc bị động ở quá khứ đơn.
+9|Tiếng Anh|Thành ngữ break the ice thường mang nghĩa gì trong giao tiếp?|Phá tan sự ngượng ngùng ban đầu|Kết thúc mọi cuộc trò chuyện|Giữ bí mật tuyệt đối|Đổi chủ đề vì tức giận|Break the ice chỉ việc giúp mọi người bắt đầu trò chuyện thoải mái hơn.
+7|Âm nhạc|Bộ hòa tấu Bốn mùa là sáng tác của ai?|Antonio Vivaldi|Johann Sebastian Bach|Joseph Haydn|Franz Schubert|Vivaldi sáng tác bốn concerto violin trong bộ Bốn mùa.
+7|Âm nhạc|Giao hưởng số 9 của Beethoven nổi tiếng với phần hợp xướng ở chương nào?|Chương cuối|Chương đầu|Chương hai|Chương ba|Phần hợp xướng dựa trên Ode to Joy xuất hiện ở chương cuối.
+8|Âm nhạc|Ballet Kẹp hạt dẻ được soạn nhạc bởi ai?|Pyotr Ilyich Tchaikovsky|Igor Stravinsky|Sergei Prokofiev|Nikolai Rimsky-Korsakov|Tchaikovsky soạn nhạc cho ballet The Nutcracker.
+9|Âm nhạc|Bản nhạc piano Clair de lune trong Suite bergamasque do ai sáng tác?|Claude Debussy|Maurice Ravel|Erik Satie|Camille Saint-Saëns|Clair de lune là phần nổi tiếng trong Suite bergamasque của Debussy.
+8|Âm nhạc|Khóa Sol thông thường xác định nốt Sol trên dòng kẻ thứ mấy của khuông nhạc, tính từ dưới lên?|Thứ hai|Thứ nhất|Thứ ba|Thứ năm|Tâm vòng cuộn của khóa Sol đặt trên dòng thứ hai.
+8|Âm nhạc|Khóa Fa thông thường đặt nốt Fa trên dòng kẻ thứ mấy, tính từ dưới lên?|Thứ tư|Thứ nhất|Thứ hai|Thứ năm|Hai chấm của khóa Fa nằm hai bên dòng thứ tư, dòng mang nốt Fa.
+7|Âm nhạc|Chỉ dẫn forte trong bản nhạc yêu cầu chơi với sắc thái nào?|Mạnh|Nhẹ|Chậm dần|Ngừng hoàn toàn|Forte thường được viết tắt là f và chỉ sắc thái mạnh.
+7|Âm nhạc|Chỉ dẫn allegro chủ yếu liên quan đến yếu tố nào?|Tốc độ nhanh|Cao độ thấp|Dùng bàn đạp|Đổi nhạc cụ|Allegro chỉ nhịp độ nhanh, thường có tính chất sống động.
+8|Âm nhạc|Chỉ dẫn diminuendo yêu cầu thay đổi âm lượng ra sao?|Nhỏ dần|Lớn dần|Giữ nguyên|Ngắt đột ngột|Diminuendo chỉ việc giảm dần cường độ âm thanh.
+9|Âm nhạc|Coda trong cấu trúc một tác phẩm âm nhạc thường là phần nào?|Phần kết|Phần lên dây|Phần đặt tên|Phần ghi nhạc cụ|Coda là đoạn kết bổ sung hoặc hoàn tất tác phẩm.
+8|Âm nhạc|Aria trong opera thường là gì?|Khúc hát dành cho giọng độc xướng|Phần mở đầu chỉ có bộ gõ|Đoạn chỉ dành cho khán giả|Lời hướng dẫn lên dây đàn|Aria là khúc hát độc xướng thể hiện cảm xúc hoặc nội dung của nhân vật.
+8|Âm nhạc|Tứ tấu đàn dây tiêu chuẩn gồm tổ hợp nào?|Hai violin, một viola, một cello|Bốn contrabass|Hai guitar, hai harp|Một violin, ba piano|Tứ tấu dây tiêu chuẩn gồm hai violin, viola và cello.
+7|Âm nhạc|Trong phân loại giọng hát nữ cổ điển, giọng nào thường cao nhất?|Soprano|Mezzo-soprano|Contralto|Bass|Soprano là nhóm giọng nữ cao, trên mezzo-soprano và contralto.
+8|Âm nhạc|Concerto thường làm nổi bật mối quan hệ giữa thành phần nào?|Nhạc cụ độc tấu và dàn nhạc|Hai đội hợp xướng không nhạc cụ|Người kể chuyện và khán giả|Vũ công và người làm xiếc|Concerto thường dành cho một hay nhiều nhạc cụ độc tấu đối thoại với dàn nhạc.
+9|Âm nhạc|Timpani là nhạc cụ thuộc nhóm nào?|Bộ gõ|Bộ dây kéo|Bộ phím điện tử|Bộ hơi gỗ|Timpani là trống định âm thuộc bộ gõ của dàn nhạc.
+7|Nghệ thuật|Bức họa Guernica là tác phẩm của ai?|Pablo Picasso|Henri Matisse|Paul Cézanne|Paul Gauguin|Guernica là bức tranh nổi tiếng của Pablo Picasso.
+8|Nghệ thuật|Bức tranh Sự dai dẳng của ký ức với những chiếc đồng hồ mềm do ai vẽ?|Salvador Dalí|René Magritte|Joan Miró|Jackson Pollock|Salvador Dalí vẽ The Persistence of Memory.
+8|Nghệ thuật|Trào lưu Impressionism thường được dịch sang tiếng Việt là gì?|Ấn tượng|Siêu thực|Lập thể|Vị lai|Impressionism là tên tiếng Anh của trường phái Ấn tượng.
+9|Nghệ thuật|Kỹ thuật collage trong mỹ thuật chủ yếu sử dụng thao tác nào?|Cắt và dán các vật liệu|Tạc trực tiếp trên đá|Đổ kim loại vào khuôn|Khắc toàn bộ hình bằng laser|Collage là kỹ thuật kết hợp các mảnh giấy hay vật liệu bằng cách dán.
+8|Nghệ thuật|Tranh tĩnh vật chủ yếu khắc họa đối tượng nào?|Đồ vật như hoa, quả và bình|Chỉ cảnh chiến đấu|Chỉ người đang chạy|Chỉ bản đồ quốc gia|Tĩnh vật thường miêu tả các đồ vật được sắp đặt như hoa, quả và bình.
+6|Văn hóa|Trong hát quan họ, liền anh thường đối đáp với ai?|Liền chị|Nhạc trưởng giao hưởng|Người dẫn ballet|Trọng tài|Liền anh và liền chị là cách gọi người hát nam và nữ trong quan họ.
+6|Văn hóa|Lễ Vu Lan trong văn hóa Phật giáo thường gắn với ý nghĩa nào?|Báo hiếu cha mẹ|Chúc mừng vụ săn|Đón mùa bóng đá|Kỷ niệm khai giảng|Vu Lan gắn với tinh thần báo hiếu và tưởng nhớ công ơn cha mẹ.
+8|Văn hóa|Nghệ thuật bài chòi kết hợp hát diễn với loại hoạt động nào?|Chơi bài trong các chòi|Thi nấu ăn|Đấu vật|Đua ngựa|Bài chòi kết hợp âm nhạc, diễn xướng và trò chơi bài tại các chòi.
+7|Văn hóa|Áo bà ba thường gắn với sinh hoạt truyền thống của vùng văn hóa nào ở Việt Nam?|Nam Bộ|Tây Bắc|Đông Bắc|Đồng bằng Bắc Bộ|Áo bà ba là trang phục quen thuộc trong sinh hoạt văn hóa Nam Bộ.
+8|Văn hóa|Nón bài thơ là sản phẩm thủ công nổi tiếng gắn với truyền thống văn hóa nào?|Huế|Sa Pa|Mộc Châu|Buôn Ma Thuột|Nón bài thơ là một biểu tượng thủ công của văn hóa Huế.
+7|Văn hóa|Đờn ca tài tử là loại hình âm nhạc truyền thống gắn với vùng nào?|Nam Bộ|Tây Bắc|Đông Bắc|Tây Nguyên|Đờn ca tài tử phát triển và được thực hành rộng rãi trong văn hóa Nam Bộ.
+6|Ẩm thực|Đậu phụ thông thường được làm chủ yếu từ nguyên liệu nào?|Đậu nành|Đậu phộng|Hạt vừng|Gạo nếp|Đậu phụ được làm bằng cách kết tụ sữa đậu nành.
+8|Ẩm thực|Paella là món cơm nổi tiếng của nền ẩm thực nào?|Tây Ban Nha|Na Uy|Hàn Quốc|Ethiopia|Paella là món cơm của Tây Ban Nha, đặc biệt gắn với Valencia.
+9|Ẩm thực|Thành phần chính thường được nghiền trong món hummus là gì?|Đậu gà|Khoai tây|Bí đỏ|Hạt dẻ|Hummus truyền thống dùng đậu gà nghiền cùng tahini và các gia vị.
+8|Ẩm thực|Sashimi trong ẩm thực Nhật Bản thường chỉ món gì?|Nguyên liệu tươi sống thái lát|Cơm cuộn luôn có rong biển|Mì xào giòn|Bánh hấp nhân ngọt|Sashimi thường là cá hoặc hải sản tươi sống thái lát, không bắt buộc có cơm.
+8|Ẩm thực|Sake truyền thống của Nhật Bản được lên men từ nguyên liệu chính nào?|Gạo|Nho|Mía|Lúa mạch đen|Sake là đồ uống lên men từ gạo với sự hỗ trợ của koji.
+9|Văn hóa|Lễ hội Holi của Ấn Độ nổi tiếng với hoạt động nào?|Tung bột màu|Đua tuần lộc|Thả thuyền băng|Thi đấu kiếm|Holi thường được biết đến với việc mọi người tung bột màu lên nhau.
+9|Văn hóa|Día de los Muertos là truyền thống tưởng nhớ người đã khuất nổi tiếng của nước nào?|Mexico|Thụy Điển|Thái Lan|New Zealand|Día de los Muertos, Ngày của người chết, là truyền thống nổi tiếng của Mexico.
+8|Nghệ thuật|Flamenco gắn đặc biệt với truyền thống nghệ thuật của quốc gia nào?|Tây Ban Nha|Phần Lan|Canada|Indonesia|Flamenco kết hợp hát, múa và nhạc, đặc biệt gắn với vùng Andalusia của Tây Ban Nha.
+10|Nghệ thuật|Theo hồ sơ UNESCO, tango là truyền thống được Argentina cùng quốc gia nào đề cử?|Uruguay|Chile|Peru|Bolivia|UNESCO ghi danh tango theo hồ sơ chung của Argentina và Uruguay.
+6|Điện ảnh|Ai đạo diễn phim Titanic ra mắt năm 1997?|James Cameron|Steven Spielberg|Christopher Nolan|Ridley Scott|James Cameron là đạo diễn Titanic năm 1997.
+7|Điện ảnh|Trong The Lion King, cha của Simba tên là gì?|Mufasa|Scar|Timon|Rafiki|Mufasa là cha của Simba; Scar là em trai Mufasa.
+8|Điện ảnh|Phim Spirited Away được đạo diễn bởi ai?|Hayao Miyazaki|Isao Takahata|Makoto Shinkai|Mamoru Hosoda|Hayao Miyazaki đạo diễn Spirited Away của Studio Ghibli.
+8|Điện ảnh|Nghệ sĩ Charlie Chaplin nổi tiếng với nhân vật nào?|The Tramp|James Bond|Indiana Jones|Zorro|The Tramp, thường gọi là gã lang thang, là nhân vật biểu tượng của Chaplin.
+8|Điện ảnh|Phần lớn diễn biến phim 12 Angry Men năm 1957 xoay quanh hoạt động nào?|Bồi thẩm đoàn thảo luận|Đội bóng tập luyện|Ban nhạc lưu diễn|Phi hành đoàn hạ cánh|12 Angry Men theo chân một bồi thẩm đoàn trong quá trình nghị án.
+7|Điện ảnh|Trong loạt phim Star Wars, vũ khí ánh sáng đặc trưng của Jedi được gọi là gì?|Lightsaber|Boomerang|Trident|Crossbow|Lightsaber là kiếm ánh sáng đặc trưng của Jedi và Sith.
+8|Điện ảnh|Nhân vật Jack Sparrow trong loạt phim Pirates of the Caribbean do diễn viên nào thủ vai?|Johnny Depp|Orlando Bloom|Geoffrey Rush|Hugh Jackman|Johnny Depp thủ vai thuyền trưởng Jack Sparrow.
+9|Điện ảnh|Bộ phim nào của Bong Joon-ho đoạt Oscar Phim hay nhất tại lễ trao giải năm 2020?|Parasite|Oldboy|Burning|Train to Busan|Parasite thắng hạng mục Phim hay nhất tại Oscar 2020.
+6|Thể thao|Đội tuyển nào vô địch World Cup bóng đá nam năm 2022?|Argentina|Pháp|Brazil|Croatia|Argentina thắng Pháp trong trận chung kết World Cup 2022.
+6|Thể thao|Đội tuyển nào vô địch World Cup bóng đá nam năm 2018?|Pháp|Croatia|Bỉ|Anh|Pháp đánh bại Croatia trong trận chung kết năm 2018.
+7|Thể thao|World Cup bóng đá nam đầu tiên năm 1930 do quốc gia nào đăng cai?|Uruguay|Brazil|Ý|Argentina|Uruguay tổ chức World Cup bóng đá nam đầu tiên vào năm 1930.
+7|Thể thao|Vận động viên Michael Phelps nổi tiếng trong môn thể thao nào?|Bơi lội|Điền kinh|Xe đạp|Thể dục dụng cụ|Michael Phelps là vận động viên bơi lội người Mỹ.
+7|Thể thao|Giải Roland-Garros thi đấu trên loại mặt sân nào?|Sân đất nện|Sân cỏ|Sân gỗ|Sân băng|Roland-Garros là giải Grand Slam quần vợt trên sân đất nện.
+8|Thể thao|Áo vàng tại Tour de France dành cho người dẫn đầu bảng xếp hạng nào?|Tổng thời gian|Điểm leo núi|Điểm nước rút|Vận động viên trẻ nhất đăng ký|Áo vàng dành cho người đứng đầu phân loại cá nhân theo tổng thời gian.
+8|Thể thao|Dohyo là tên khu vực thi đấu của môn nào?|Sumo|Judo|Karate|Taekwondo|Dohyo là võ đài có vòng thi đấu của sumo.
+8|Thể thao|Một eagle trong golf nghĩa là hoàn thành hố với số gậy thế nào so với par?|Ít hơn 2 gậy|Ít hơn 1 gậy|Nhiều hơn 1 gậy|Nhiều hơn 2 gậy|Eagle là kết quả hai gậy dưới par của hố.
+7|Thể thao|Cự ly marathon tiêu chuẩn là bao nhiêu?|42,195 km|40 km|21,0975 km|50 km|Marathon tiêu chuẩn có cự ly 42,195 km.
+9|Thể thao|Trong cờ vua, bên tới lượt không bị chiếu nhưng không có nước đi hợp lệ rơi vào tình huống nào?|Hết nước đi, ván hòa|Chiếu hết, bị thua|Tự động thắng|Phải mất một quân|Đây là stalemate, thường gọi là hết nước đi, và ván cờ hòa.
+7|Thể thao|Trong bowling 10 chai, strike là kết quả nào?|Đổ cả 10 chai ở lần ném đầu của lượt|Đổ cả 10 chai bằng hai lần ném|Không đổ chai nào|Bóng rơi xuống rãnh|Strike là làm đổ cả mười chai ngay lần ném đầu của lượt.
+6|Thể thao|Trong bóng đá, hat-trick thường chỉ một cầu thủ làm được gì trong một trận?|Ghi 3 bàn|Nhận 3 thẻ đỏ|Thay người 3 lần|Đá bóng ra biên 3 lần|Hat-trick trong bóng đá thường là ba bàn thắng của một cầu thủ trong cùng trận.
+9|Văn học|Tập Vang bóng một thời của Nguyễn Tuân thuộc thể loại nào?|Tập truyện ngắn|Trường ca|Tiểu thuyết chương hồi|Tập kịch|Vang bóng một thời là tập truyện ngắn của Nguyễn Tuân.
+10|Văn học|Nhân vật chính bị bệnh nặng trong truyện Bến quê của Nguyễn Minh Châu tên là gì?|Nhĩ|Phùng|Đẩu|Tràng|Nhĩ là nhân vật trung tâm trong Bến quê.
+11|Văn học|Tràng trong truyện Vợ nhặt kiếm sống trước hết bằng công việc nào?|Kéo xe bò thuê|Dạy học|Đánh cá biển|Viết báo|Tràng là người lao động nghèo làm nghề kéo xe bò thuê.
+10|Văn học|Trong Những đứa con trong gia đình của Nguyễn Thi, chị của Việt tên là gì?|Chiến|Mị|Dít|Liên|Việt và Chiến là hai chị em trong truyện.
+9|Văn học|Trong Rừng xà nu, ai kể lại cuộc đời Tnú cho dân làng?|Cụ Mết|A Phủ|Ông Hai|Lão Hạc|Cụ Mết kể lại câu chuyện đời Tnú trước dân làng Xô Man.
+12|Văn học|Đoạn Đất Nước của Nguyễn Khoa Điềm được trích từ trường ca nào?|Mặt đường khát vọng|Những người đi tới biển|Đường tới thành phố|Bài ca chim Chơ Rao|Đất Nước là phần của trường ca Mặt đường khát vọng.
+8|Văn học|Tác phẩm thơ Nôm Lục Vân Tiên do ai sáng tác?|Nguyễn Đình Chiểu|Nguyễn Du|Nguyễn Bỉnh Khiêm|Nguyễn Công Trứ|Nguyễn Đình Chiểu là tác giả truyện thơ Lục Vân Tiên.
+12|Văn học|Ai là tác giả bản Chinh phụ ngâm nguyên tác bằng chữ Hán?|Đặng Trần Côn|Đoàn Thị Điểm|Nguyễn Gia Thiều|Phạm Thái|Đặng Trần Côn viết nguyên tác chữ Hán; bản diễn Nôm là công việc khác.
+12|Văn học|Cung oán ngâm khúc là tác phẩm của ai?|Nguyễn Gia Thiều|Nguyễn Hữu Hào|Nguyễn Đình Chiểu|Nguyễn Bỉnh Khiêm|Nguyễn Gia Thiều sáng tác Cung oán ngâm khúc.
+12|Văn học|Hoàng Lê nhất thống chí được viết bởi nhóm tác giả nào?|Ngô gia văn phái|Tự lực văn đoàn|Nam Cao và Kim Lân|Tao đàn Chiêu Anh Các|Hoàng Lê nhất thống chí là tác phẩm của Ngô gia văn phái.
+13|Văn học|Vũ trung tùy bút do tác giả nào viết?|Phạm Đình Hổ|Lê Hữu Trác|Phan Huy Chú|Lê Quý Đôn|Phạm Đình Hổ là tác giả Vũ trung tùy bút.
+12|Văn học|Thượng kinh ký sự là tác phẩm của ai?|Lê Hữu Trác|Ngô Thì Nhậm|Nguyễn Trãi|Phạm Đình Hổ|Thượng kinh ký sự do Lê Hữu Trác viết về chuyến đi lên kinh.
+14|Văn học|Ai biên soạn bộ Lịch triều hiến chương loại chí?|Phan Huy Chú|Phan Huy Ích|Lê Quý Đôn|Ngô Sĩ Liên|Phan Huy Chú biên soạn bộ sách Lịch triều hiến chương loại chí.
+9|Văn học|Truyền kỳ mạn lục là tác phẩm của tác giả nào?|Nguyễn Dữ|Nguyễn Du|Nguyễn Trãi|Nguyễn Bỉnh Khiêm|Nguyễn Dữ là tác giả Truyền kỳ mạn lục.
+12|Văn học|Trong bi kịch Othello của Shakespeare, ai chủ yếu gieo nghi ngờ khiến Othello ghen tuông?|Iago|Cassio|Roderigo|Lodovico|Iago thao túng Othello bằng những lời vu cáo và gợi ý về Desdemona.
+11|Văn học|Hamlet trong vở kịch cùng tên là hoàng tử của vương quốc nào?|Đan Mạch|Scotland|Na Uy|Anh|Shakespeare đặt Hamlet trong hoàng gia Đan Mạch.
+12|Văn học|Trong Macbeth, nhóm tiên tri mà Macbeth gặp lúc đầu gồm bao nhiêu phù thủy?|3|2|4|5|Ba phù thủy đưa ra những lời tiên tri thúc đẩy hành động của Macbeth.
+12|Văn học|Trong King Lear của Shakespeare, người con gái út của Lear tên là gì?|Cordelia|Goneril|Regan|Ophelia|Cordelia là con gái út, bên cạnh hai chị Goneril và Regan.
+14|Văn học|Trước khi bị lưu đày trong The Tempest, Prospero giữ địa vị nào?|Công tước Milan|Vua Scotland|Hoàng tử Đan Mạch|Thị trưởng Venice|Prospero là công tước Milan bị em trai chiếm quyền.
+12|Văn học|Trong tiểu thuyết Jane Eyre, Jane làm gia sư tại dinh thự nào?|Thornfield Hall|Wuthering Heights|Pemberley|Mansfield Park|Jane đến Thornfield Hall để làm gia sư cho Adèle.
+13|Văn học|Trong Đồi gió hú, người hầu thường được gọi là Nelly Dean có tên đầy đủ là gì?|Ellen Dean|Catherine Dean|Isabella Dean|Frances Dean|Nelly là cách gọi thân mật của Ellen Dean, một người kể chuyện trong tiểu thuyết.
+12|Văn học|Ai là người kể chuyện chính trong Gatsby vĩ đại?|Nick Carraway|Jay Gatsby|Tom Buchanan|George Wilson|Nick Carraway kể câu chuyện về Gatsby từ trải nghiệm của mình.
+13|Văn học|Con tàu do thuyền trưởng Ahab chỉ huy trong Moby-Dick có tên gì?|Pequod|Nautilus|Hispaniola|Beagle|Pequod là tàu săn cá voi của Ahab trong Moby-Dick.
+10|Văn học|Trong tiểu thuyết Frankenstein, ai tạo ra sinh vật thường bị gọi nhầm là Frankenstein?|Victor Frankenstein|Henry Clerval|Robert Walton|Alphonse Frankenstein|Victor Frankenstein là người tạo ra sinh vật; sinh vật không được đặt tên riêng trong truyện.
+12|Văn học|Trong Bà Bovary của Gustave Flaubert, bà Bovary có tên riêng là gì?|Emma|Anna|Édith|Élise|Nhân vật chính là Emma Bovary, vợ của Charles Bovary.
+12|Văn học|Nhân vật trung tâm trong Tội ác và hình phạt có họ nào?|Raskolnikov|Karamazov|Oblomov|Bazarov|Rodion Raskolnikov là nhân vật trung tâm trong tiểu thuyết.
+11|Văn học|Ông lão đánh cá trong Ông già và biển cả tên là gì?|Santiago|Manolin|Pedro|Pablo|Santiago là ông lão đánh cá; Manolin là cậu bé gắn bó với ông.
+12|Văn học|Trong Odyssey, người vợ chờ Odysseus trở về tên là gì?|Penelope|Helen|Circe|Calypso|Penelope là vợ của Odysseus và mẹ của Telemachus.
+13|Văn học|Trong phần Địa ngục của Thần khúc, ai dẫn đường cho nhân vật Dante?|Virgil|Homer|Ovid|Horace|Nhà thơ Virgil dẫn Dante qua Địa ngục và phần lớn Luyện ngục.
+14|Văn học|Nhóm người kể chuyện trong Decameron của Boccaccio gồm bao nhiêu người?|10|7|9|12|Decameron có mười người kể chuyện, bảy phụ nữ và ba nam giới.
+12|Văn học|Thị trấn hư cấu trung tâm của Trăm năm cô đơn tên là gì?|Macondo|Comala|Yoknapatawpha|Middlemarch|Macondo là thị trấn hư cấu trong Trăm năm cô đơn của García Márquez.
+13|Văn học|Tập truyện Ficciones là tác phẩm của nhà văn nào?|Jorge Luis Borges|Julio Cortázar|Mario Vargas Llosa|Juan Rulfo|Jorge Luis Borges viết tập truyện Ficciones.
+12|Văn học|Tiểu thuyết Tên của đóa hồng do ai viết?|Umberto Eco|Italo Calvino|Alberto Moravia|Dino Buzzati|Umberto Eco là tác giả The Name of the Rose.
+12|Văn học|Vở kịch Chờ Godot do ai sáng tác?|Samuel Beckett|Eugène Ionesco|Harold Pinter|Bertolt Brecht|Samuel Beckett viết Waiting for Godot, ban đầu bằng tiếng Pháp.
+9|Tiếng Anh|Dạng số nhiều chuẩn của mother-in-law trong tiếng Anh là gì?|Mothers-in-law|Mother-in-laws|Mothers-in-laws|Mother-ins-law|Danh từ chính mother nhận dấu số nhiều, tạo thành mothers-in-law.
+11|Nghệ thuật|Bức họa Sự ra đời của thần Vệ Nữ là tác phẩm của ai?|Sandro Botticelli|Raphael|Titian|Caravaggio|Botticelli vẽ The Birth of Venus, hiện thuộc bộ sưu tập Uffizi.
+12|Nghệ thuật|Bức bích họa Trường học Athens là tác phẩm của ai?|Raphael|Giotto|Andrea Mantegna|Fra Angelico|Raphael vẽ The School of Athens tại Vatican.
+12|Nghệ thuật|Las Meninas là kiệt tác của họa sĩ nào?|Diego Velázquez|Francisco Goya|El Greco|Bartolomé Esteban Murillo|Diego Velázquez vẽ Las Meninas.
+13|Nghệ thuật|Bức họa The Third of May 1808 được vẽ bởi ai?|Francisco Goya|Diego Velázquez|J. M. W. Turner|Théodore Géricault|Francisco Goya vẽ The Third of May 1808 vào năm 1814.
+11|Nghệ thuật|Bức tranh thường gọi là Tuần đêm, The Night Watch, do ai vẽ?|Rembrandt|Johannes Vermeer|Frans Hals|Jan Steen|The Night Watch là tác phẩm nổi tiếng của Rembrandt.
+14|Nghệ thuật|Rain, Steam and Speed là tác phẩm của họa sĩ nào?|J. M. W. Turner|John Constable|William Blake|Thomas Gainsborough|Turner vẽ Rain, Steam and Speed với hình ảnh đoàn tàu đi qua cầu.
+13|Nghệ thuật|Kỹ thuật đặc trưng của Seurat trong A Sunday on La Grande Jatte thường gọi là gì?|Điểm họa|Tranh khắc gỗ|Tranh kính ghép|Vẽ tranh cát|Seurat sử dụng các chấm màu nhỏ, kỹ thuật thường gọi là pointillism hay điểm họa.
+12|Nghệ thuật|Sóng lừng ngoài khơi Kanagawa của Hokusai được tạo bằng kỹ thuật nào?|In khắc gỗ|Sơn dầu trên toan|Bích họa trên tường|Khảm đá|The Great Wave là bản in khắc gỗ nhiều màu của Hokusai.
+15|Nghệ thuật|Bộ tranh Năm mươi ba trạm trên đường Tōkaidō nổi tiếng gắn với họa sĩ nào?|Utagawa Hiroshige|Katsushika Hokusai|Kitagawa Utamaro|Tōshūsai Sharaku|Utagawa Hiroshige tạo ra bộ bản in nổi tiếng về 53 trạm trên đường Tōkaidō.
+11|Nghệ thuật|Tượng Người suy tưởng, The Thinker, gắn với nhà điêu khắc nào?|Auguste Rodin|Constantin Brâncuși|Alberto Giacometti|Henry Moore|Auguste Rodin là tác giả The Thinker.
+14|Nghệ thuật|Nhà điêu khắc nào sáng tạo loạt tác phẩm Bird in Space?|Constantin Brâncuși|Auguste Rodin|Alexander Calder|Jean Arp|Brâncuși thể hiện ý niệm về chim bay trong loạt Bird in Space.
+13|Nghệ thuật|Trong mỹ thuật hiện đại, readymade thường chỉ loại tác phẩm nào?|Đồ vật có sẵn được chọn làm tác phẩm|Tranh phải vẽ ngoài trời|Tượng chỉ tạc bằng đá quý|Ảnh luôn chụp dưới nước|Readymade sử dụng đồ vật chế tạo sẵn do nghệ sĩ lựa chọn và trình bày như tác phẩm.
+13|Nghệ thuật|Họa sĩ nào nổi tiếng với các mảng màu hình chữ nhật lớn trong hội họa Color Field?|Mark Rothko|Jackson Pollock|Roy Lichtenstein|Andy Warhol|Các bức tranh của Rothko thường có những mảng màu hình chữ nhật lớn.
+12|Nghệ thuật|Piet Mondrian gắn đặc biệt với phong trào nghệ thuật nào?|De Stijl|Dã thú|Barbizon|Chủ nghĩa hiện thực xã hội|Mondrian là nhân vật quan trọng của De Stijl.
+14|Nghệ thuật|Bức tranh The Treachery of Images của René Magritte khắc họa đồ vật nào?|Tẩu thuốc|Chiếc ô|Đôi giày|Bàn là|Magritte vẽ một chiếc tẩu để đặt vấn đề về hình ảnh và đồ vật thực.
+14|Nghệ thuật|Nghệ sĩ nào vẽ loạt chân dung Giáo hoàng lấy cảm hứng từ Velázquez?|Francis Bacon|Lucian Freud|David Hockney|Edward Hopper|Francis Bacon tạo nhiều biến thể chân dung Giáo hoàng dựa trên tranh Velázquez.
+12|Nghệ thuật|Henri Matisse nổi tiếng với kỹ thuật cut-outs ở cuối sự nghiệp, sử dụng chủ yếu vật liệu nào?|Giấy tô màu được cắt|Tấm đồng chạm nổi|Đá cẩm thạch|Kính thổi|Matisse cắt giấy đã tô màu rồi sắp đặt thành tác phẩm.
+14|Nghệ thuật|Tác phẩm điêu khắc L'Homme qui marche I thuộc sáng tác của ai?|Alberto Giacometti|Auguste Rodin|Henry Moore|Barbara Hepworth|Giacometti tạo hình người bước đi thon dài trong L'Homme qui marche I.
+12|Nghệ thuật|Bức họa The Kiss, Nụ hôn, thuộc giai đoạn dùng nhiều vàng lá của họa sĩ nào?|Gustav Klimt|Egon Schiele|Oskar Kokoschka|Alphonse Mucha|The Kiss là tác phẩm tiêu biểu trong giai đoạn vàng của Gustav Klimt.
+13|Nghệ thuật|Bức họa Olympia trưng bày tại Salon năm 1865 là tác phẩm của ai?|Édouard Manet|Claude Monet|Edgar Degas|Pierre-Auguste Renoir|Édouard Manet vẽ Olympia, một tác phẩm gây nhiều tranh luận tại Salon.
+13|Âm nhạc|Nhân vật Nữ hoàng Đêm xuất hiện trong opera nào của Mozart?|Cây sáo thần|Đám cưới Figaro|Don Giovanni|Così fan tutte|Nữ hoàng Đêm là nhân vật trong Die Zauberflöte, Cây sáo thần.
+12|Âm nhạc|Libretto của opera Don Giovanni được viết bằng ngôn ngữ nào?|Tiếng Ý|Tiếng Đức|Tiếng Pháp|Tiếng Anh|Lorenzo Da Ponte viết libretto tiếng Ý cho Don Giovanni của Mozart.
+14|Âm nhạc|Nhân vật nữ chính Violetta Valéry thuộc opera nào của Verdi?|La traviata|Aida|Rigoletto|Nabucco|Violetta Valéry là nhân vật nữ chính của La traviata.
+12|Âm nhạc|Opera Carmen của Georges Bizet có libretto nguyên bản bằng ngôn ngữ nào?|Tiếng Pháp|Tiếng Tây Ban Nha|Tiếng Ý|Tiếng Đức|Dù bối cảnh đặt tại Tây Ban Nha, Carmen có libretto tiếng Pháp.
+13|Âm nhạc|Opera Il barbiere di Siviglia, Người thợ cạo thành Seville, nổi tiếng năm 1816 do ai soạn?|Gioachino Rossini|Gaetano Donizetti|Vincenzo Bellini|Giacomo Puccini|Rossini soạn phiên bản Người thợ cạo thành Seville ra mắt năm 1816.
+14|Âm nhạc|Chu kỳ opera Der Ring des Nibelungen của Wagner gồm bao nhiêu opera?|4|3|5|6|Chu kỳ gồm Das Rheingold, Die Walküre, Siegfried và Götterdämmerung.
+14|Âm nhạc|Goldberg Variations của Bach được xuất bản ban đầu cho nhạc cụ bàn phím nào?|Harpsichord hai tầng phím|Piano điện|Organ nhà thờ|Accordion|Goldberg Variations được xuất bản cho harpsichord hai tầng bàn phím.
+13|Âm nhạc|Bộ Hungarian Rhapsodies cho piano gắn với nhà soạn nhạc nào?|Franz Liszt|Frédéric Chopin|Robert Schumann|Felix Mendelssohn|Franz Liszt sáng tác bộ Hungarian Rhapsodies.
+14|Âm nhạc|Pictures at an Exhibition của Mussorgsky được sáng tác ban đầu cho hình thức nào?|Piano độc tấu|Dàn nhạc giao hưởng|Tứ tấu dây|Hợp xướng không đệm|Mussorgsky viết bản gốc cho piano; các bản phối dàn nhạc xuất hiện sau đó.
+13|Âm nhạc|Boléro với mô hình nhịp lặp và âm lượng tăng dần là sáng tác của ai?|Maurice Ravel|Claude Debussy|Gabriel Fauré|Francis Poulenc|Maurice Ravel sáng tác Boléro, nổi tiếng với mô hình lặp và sự tăng dần cường độ.
+14|Âm nhạc|Ballet The Rite of Spring được soạn nhạc bởi ai?|Igor Stravinsky|Sergei Rachmaninoff|Dmitri Shostakovich|Alexander Scriabin|Igor Stravinsky soạn nhạc cho The Rite of Spring.
+15|Âm nhạc|Trong Peter and the Wolf của Prokofiev, nhạc cụ nào đại diện cho ông của Peter?|Bassoon|Oboe|Clarinet|Flute|Bassoon có âm trầm được dùng để thể hiện nhân vật người ông.
+15|Âm nhạc|Quintet Cá hồi của Schubert khác ngũ tấu piano thông thường ở việc dùng nhạc cụ nào thay violin thứ hai?|Contrabass|Harp|Oboe|Trumpet|Ngũ tấu Cá hồi gồm piano, violin, viola, cello và contrabass.
+15|Âm nhạc|Bản Heiligenstadt Testament năm 1802 của Beethoven được viết để gửi chủ yếu cho ai?|Các em trai của ông|Hoàng đế Napoleon|Nhà soạn nhạc Mozart|Người xuất bản Diabelli|Beethoven viết bản văn cho hai em trai, bộc lộ nỗi đau vì suy giảm thính lực.
+14|Âm nhạc|Bộ 24 Preludes Op. 28 của Chopin bao phủ những giọng nào?|12 giọng trưởng và 12 giọng thứ|Chỉ các giọng trưởng|Chỉ các giọng thứ|24 giọng đều có dấu thăng|Bộ Op. 28 gồm một prelude ở mỗi giọng trưởng và mỗi giọng thứ.
+13|Văn hóa|Ca trù được UNESCO ghi danh năm 2009 vào danh sách nào?|Di sản cần được bảo vệ khẩn cấp|Di sản thiên nhiên thế giới|Ký ức thế giới|Công viên địa chất toàn cầu|Năm 2009, UNESCO đưa ca trù vào Danh sách Di sản văn hóa phi vật thể cần được bảo vệ khẩn cấp.
+14|Văn hóa|Năm nào UNESCO chuyển hát xoan Phú Thọ từ danh sách cần bảo vệ khẩn cấp sang danh sách đại diện?|2017|2009|2011|2021|Hát xoan được chuyển sang Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại năm 2017.
+13|Văn hóa|Nghệ thuật xòe Thái được UNESCO ghi danh vào danh sách đại diện của nhân loại năm nào?|2021|2013|2017|2019|UNESCO ghi danh nghệ thuật xòe Thái vào danh sách đại diện năm 2021.
+11|Nghệ thuật|Lớp bột vỏ sò tạo vẻ óng trên giấy in tranh Đông Hồ truyền thống được gọi là gì?|Điệp|Phèn|Than|Sáp|Giấy điệp được phủ lớp làm từ bột vỏ sò điệp cùng hồ.
+12|Nghệ thuật|Sau khi in nét đen bằng ván khắc, tranh Hàng Trống truyền thống thường được hoàn thiện màu bằng cách nào?|Tô màu bằng tay|In mỗi màu từ một ván riêng|Dán toàn bộ màu từ vải|Chỉ giữ đen trắng|Tranh Hàng Trống kết hợp in nét với tô màu thủ công.
+7|Âm nhạc|Đàn đá truyền thống tạo âm từ các thanh làm bằng vật liệu gì?|Đá|Tre|Đồng|Da|Người chơi gõ vào các thanh đá để tạo âm thanh.
+11|Âm nhạc|Đàn đáy dùng trong ca trù truyền thống có bao nhiêu dây?|3|2|4|6|Đàn đáy là đàn ba dây, có cần dài, dùng trong ca trù.
+10|Âm nhạc|Đàn nguyệt truyền thống của Việt Nam thường có bao nhiêu dây?|2|3|4|6|Đàn nguyệt hay đàn kìm là nhạc cụ thường có hai dây.
+12|Nghệ thuật|Trích đoạn chèo Súy Vân giả dại thuộc vở nào?|Kim Nham|Quan Âm Thị Kính|Lưu Bình Dương Lễ|Trương Viên|Súy Vân giả dại là trích đoạn nổi tiếng của chèo Kim Nham.
+14|Nghệ thuật|Trong sân khấu kabuki, onnagata là cách gọi diễn viên chuyên đảm nhiệm loại vai nào?|Vai nữ|Vai trẻ em|Vai hề|Vai kể chuyện|Onnagata là diễn viên nam chuyên thể hiện các vai nữ trong kabuki.
+12|Nghệ thuật|Loại mặt nạ nōmen gắn với loại hình sân khấu truyền thống nào của Nhật Bản?|Noh|Kabuki|Bunraku|Rakugo|Nōmen là mặt nạ dùng trong sân khấu Noh.
+11|Văn hóa|Chanoyu trong văn hóa Nhật Bản là nghi thức gắn với đồ uống nào?|Trà|Rượu sake|Cà phê|Nước dừa|Chanoyu là tên gọi nghi thức trà truyền thống của Nhật Bản.
+13|Nghệ thuật|Trong kỹ thuật batik truyền thống, vật liệu nào được dùng để ngăn thuốc nhuộm thấm vào một số phần của vải?|Sáp|Muối|Bột mì|Mùn cưa|Sáp được vẽ lên vải để tạo vùng cản màu trong batik.
+12|Nghệ thuật|Bunraku của Nhật Bản là loại hình sân khấu sử dụng chủ yếu yếu tố nào?|Rối|Bóng chiếu|Xiếc trên dây|Trượt băng|Bunraku kết hợp rối, lời kể và nhạc shamisen.
+14|Văn hóa|Bữa ăn nghi lễ Seder gắn với lễ nào trong Do Thái giáo?|Passover|Hanukkah|Yom Kippur|Rosh Hashanah|Seder là bữa ăn nghi lễ của Passover, lễ Vượt qua.
+12|Điện ảnh|Phim Rashomon năm 1950 được đạo diễn bởi ai?|Akira Kurosawa|Yasujirō Ozu|Kenji Mizoguchi|Masaki Kobayashi|Akira Kurosawa đạo diễn Rashomon.
+13|Điện ảnh|Phim Bicycle Thieves, Kẻ cắp xe đạp, năm 1948 do ai đạo diễn?|Vittorio De Sica|Federico Fellini|Roberto Rossellini|Luchino Visconti|Vittorio De Sica đạo diễn Bicycle Thieves, tác phẩm tiêu biểu của tân hiện thực Ý.
+12|Điện ảnh|Trong Seven Samurai của Kurosawa, các samurai được thuê chủ yếu để bảo vệ ai?|Dân làng khỏi bọn cướp|Hoàng đế khỏi sát thủ|Thương nhân khỏi bão|Ngư dân khỏi cá mập|Những samurai giúp dân làng chống lại bọn cướp.
+14|Điện ảnh|Trong Citizen Kane, Rosebud cuối cùng được tiết lộ là tên trên vật nào?|Chiếc xe trượt tuyết|Chiếc tàu biển|Máy đánh chữ|Chiếc đồng hồ|Rosebud là tên trên chiếc xe trượt tuyết thời thơ ấu của Kane.
+11|Điện ảnh|Máy tính điều khiển con tàu trong 2001: A Space Odyssey có tên gì?|HAL 9000|R2-D2|C-3PO|T-800|HAL 9000 là máy tính trên tàu Discovery One.
+12|Điện ảnh|Trong The Matrix năm 1999, Morpheus do diễn viên nào thủ vai?|Laurence Fishburne|Keanu Reeves|Hugo Weaving|Joe Pantoliano|Laurence Fishburne đóng Morpheus trong The Matrix.
+12|Văn học|Tiểu thuyết The Godfather, được chuyển thể thành loạt phim Bố già, do ai viết?|Mario Puzo|John Grisham|James Ellroy|Raymond Chandler|Mario Puzo là tác giả tiểu thuyết The Godfather.
+11|Điện ảnh|Ai đạo diễn Pulp Fiction năm 1994?|Quentin Tarantino|Martin Scorsese|David Fincher|Guy Ritchie|Quentin Tarantino đạo diễn Pulp Fiction.
+13|Điện ảnh|Diễn viên nào thủ vai Rick Blaine trong Casablanca năm 1942?|Humphrey Bogart|Cary Grant|James Stewart|Clark Gable|Humphrey Bogart thủ vai Rick Blaine, chủ quán Rick's Café.
+15|Âm nhạc|Nhạc phim Cinema Paradiso được Ennio Morricone sáng tác với sự đóng góp của người con nào?|Andrea Morricone|Ludovico Einaudi|Nino Rota|Nicola Piovani|Andrea Morricone đóng góp nhạc cho Cinema Paradiso cùng cha Ennio Morricone.
+15|Điện ảnh|Singin' in the Rain năm 1952 do cặp đạo diễn nào thực hiện?|Gene Kelly và Stanley Donen|Michael Powell và Emeric Pressburger|Joel Coen và Ethan Coen|Jean-Pierre Dardenne và Luc Dardenne|Gene Kelly và Stanley Donen cùng đạo diễn Singin' in the Rain.
+14|Âm nhạc|Ca khúc Can You Feel the Love Tonight trong The Lion King được viết nhạc và lời bởi cặp nào?|Elton John và Tim Rice|Alan Menken và Howard Ashman|Richard Rodgers và Oscar Hammerstein II|Andrew Lloyd Webber và Don Black|Elton John viết nhạc và Tim Rice viết lời cho ca khúc này.
+11|Thể thao|Davis Cup là giải đồng đội quốc tế nổi tiếng dành cho môn nào?|Quần vợt nam|Cầu lông nữ|Bóng bàn nam|Bóng chuyền nữ|Davis Cup là giải quần vợt đồng đội nam quốc tế.
+12|Thể thao|Ai thắng Boris Spassky để trở thành nhà vô địch cờ vua thế giới năm 1972?|Bobby Fischer|Anatoly Karpov|Garry Kasparov|Mikhail Tal|Bobby Fischer giành chức vô địch thế giới khi đánh bại Boris Spassky năm 1972.
+12|Thể thao|Trong curling, khu vực mục tiêu gồm các vòng tròn đồng tâm trên băng gọi là gì?|House|Pitch|Crease|Piste|House là khu vực mục tiêu gồm các vòng tròn đồng tâm trong curling.

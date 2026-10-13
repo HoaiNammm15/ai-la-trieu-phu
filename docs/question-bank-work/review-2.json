@@ -1,0 +1,293 @@
+[
+  {
+    "id": 61,
+    "level": 5
+  },
+  {
+    "id": 62,
+    "level": 4
+  },
+  {
+    "id": 63,
+    "level": 2
+  },
+  {
+    "id": 64,
+    "level": 4
+  },
+  {
+    "id": 65,
+    "level": 7
+  },
+  {
+    "id": 66,
+    "level": 7,
+    "question": "Sông nào có lưu lượng nước trung bình đổ ra biển lớn nhất thế giới?",
+    "answers": [
+      "Sông Nile",
+      "Sông Amazon",
+      "Sông Dương Tử",
+      "Sông Mississippi"
+    ],
+    "correct": 1,
+    "explanation": "Amazon đứng đầu thế giới về lưu lượng nước trung bình; thứ hạng chiều dài Amazon và Nile còn phụ thuộc cách đo.",
+    "reason": "Thay thứ hạng chiều dài gây tranh luận bằng đại lượng có đáp án rõ ràng."
+  },
+  {
+    "id": 67,
+    "level": 4
+  },
+  {
+    "id": 68,
+    "level": 6,
+    "question": "Đàn tranh Việt Nam loại thập lục có bao nhiêu dây?",
+    "explanation": "Thập lục nghĩa là mười sáu; loại đàn tranh này có 16 dây. Đàn tranh còn có những phiên bản khác về số dây.",
+    "reason": "Bỏ khẳng định không có căn cứ rằng loại 16 dây phổ biến nhất hiện nay."
+  },
+  {
+    "id": 69,
+    "level": 3
+  },
+  {
+    "id": 70,
+    "level": 8
+  },
+  {
+    "id": 71,
+    "level": 8,
+    "question": "Hai quốc gia nào chiếm phần lớn diện tích bán đảo Iberia?",
+    "reason": "Bán đảo không chỉ bao gồm hai quốc gia; thêm điều kiện phần lớn diện tích."
+  },
+  {
+    "id": 72,
+    "level": 6
+  },
+  {
+    "id": 73,
+    "level": 5
+  },
+  {
+    "id": 74,
+    "level": 6,
+    "explanation": "Hydro là nguyên tố phổ biến nhất trong vũ trụ, chiếm khoảng ba phần tư khối lượng vật chất thông thường.",
+    "reason": "75% nói về vật chất thông thường, không phải tổng khối lượng vũ trụ gồm vật chất tối."
+  },
+  {
+    "id": 75,
+    "level": 7
+  },
+  {
+    "id": 76,
+    "level": 6,
+    "question": "Tiểu thuyết Số đỏ là tác phẩm châm biếm của nhà văn nào?",
+    "reason": "Số đỏ là tiểu thuyết, không phải truyện ngắn."
+  },
+  {
+    "id": 77,
+    "level": 6,
+    "question": "Ai được cấp bằng sáng chế điện thoại số 174.465 tại Hoa Kỳ năm 1876?",
+    "explanation": "Alexander Graham Bell được cấp bằng sáng chế Hoa Kỳ số 174.465 ngày 7/3/1876.",
+    "reason": "Chỉ rõ bằng sáng chế để tránh tranh luận về người duy nhất phát minh điện thoại."
+  },
+  {
+    "id": 78,
+    "level": 4
+  },
+  {
+    "id": 79,
+    "level": 5
+  },
+  {
+    "id": 80,
+    "level": 7,
+    "question": "Theo địa giới hành chính năm 2024, tỉnh nào có diện tích tự nhiên lớn nhất Việt Nam?",
+    "explanation": "Theo địa giới năm 2024, Nghệ An là tỉnh có diện tích tự nhiên lớn nhất Việt Nam. Câu hỏi dùng mốc trước đợt sắp xếp năm 2025.",
+    "reason": "Gắn mốc năm 2024 để không dùng thứ hạng đã thay đổi sau sáp nhập 2025."
+  },
+  {
+    "id": 81,
+    "level": 9
+  },
+  {
+    "id": 82,
+    "level": 10,
+    "question": "Tính cả giai đoạn Lê sơ và Lê Trung hưng, triều đại nào có thời gian tồn tại dài nhất trong các triều đại dưới đây?",
+    "explanation": "Nhà Hậu Lê gồm Lê sơ và Lê Trung hưng, trải từ 1428 đến 1789 với một giai đoạn gián đoạn; dài nhất trong bốn lựa chọn.",
+    "reason": "Làm rõ cách tính và phạm vi so sánh; không xem thời gian tồn tại là liên tục."
+  },
+  {
+    "id": 83,
+    "level": 4,
+    "question": "ADN gồm hai mạch trong mô hình Watson–Crick có cấu trúc đặc trưng nào?",
+    "explanation": "Mô hình Watson–Crick mô tả hai mạch ADN tạo thành xoắn kép.",
+    "reason": "ADN có thể là mạch đơn ở một số virus; bỏ cách gán phát hiện cho riêng hai người."
+  },
+  {
+    "id": 84,
+    "level": 7,
+    "question": "Salzburg, nơi nhà soạn nhạc Mozart chào đời, hiện thuộc quốc gia nào?",
+    "explanation": "Mozart sinh tại Salzburg năm 1756; thành phố này hiện thuộc nước Áo.",
+    "reason": "Tránh áp quốc tịch Áo hiện đại trực tiếp cho Salzburg năm 1756."
+  },
+  {
+    "id": 85,
+    "level": 4
+  },
+  {
+    "id": 86,
+    "level": 6,
+    "explanation": "Chiến tranh thế giới thứ nhất bùng nổ vào năm 1914.",
+    "reason": "Sửa lỗi chính tả trong phần giải thích."
+  },
+  {
+    "id": 87,
+    "level": 8,
+    "question": "Nhân Linux ban đầu được tạo ra bởi ai?",
+    "explanation": "Linus Torvalds khởi đầu việc phát triển nhân Linux vào năm 1991.",
+    "reason": "Phân biệt nhân Linux với hệ điều hành đầy đủ có các thành phần khác."
+  },
+  {
+    "id": 88,
+    "level": 4,
+    "explanation": "Tứ diện đều có bốn mặt, mỗi mặt là một tam giác đều.",
+    "reason": "Đưa tính đều vào mô tả cho khớp câu hỏi."
+  },
+  {
+    "id": 89,
+    "level": 10
+  },
+  {
+    "id": 90,
+    "level": 12,
+    "explanation": "Theo nguyên lý thứ hai, entropy của một hệ cô lập không giảm: có thể tăng hoặc giữ nguyên trong quá trình lý tưởng thuận nghịch.",
+    "reason": "Entropy hệ cô lập không bắt buộc luôn tăng."
+  },
+  {
+    "id": 91,
+    "level": 11
+  },
+  {
+    "id": 92,
+    "level": 10
+  },
+  {
+    "id": 93,
+    "level": 4,
+    "question": "Đơn vị cấu trúc và chức năng cơ bản của cơ thể sống là gì?",
+    "reason": "Dùng đơn vị thay phần tử để đúng thuật ngữ."
+  },
+  {
+    "id": 94,
+    "level": 11
+  },
+  {
+    "id": 95,
+    "level": 12
+  },
+  {
+    "id": 96,
+    "level": 10
+  },
+  {
+    "id": 97,
+    "level": 8
+  },
+  {
+    "id": 98,
+    "level": 8,
+    "question": "Thất bại tại Waterloo năm 1815 chấm dứt thời kỳ cầm quyền của ai?",
+    "reason": "Nêu kết thúc thời kỳ cầm quyền, không hàm ý nhân vật chết tại trận."
+  },
+  {
+    "id": 99,
+    "level": 5,
+    "question": "Chữ Quốc ngữ của Việt Nam được xây dựng dựa trên hệ chữ cái nào?",
+    "reason": "Sửa lặp từ bắt bắt; dùng cách diễn đạt chính xác hơn."
+  },
+  {
+    "id": 100,
+    "level": 11,
+    "question": "MongoDB lưu trữ tài liệu bằng BSON, là dạng nhị phân liên quan đến định dạng nào?",
+    "answers": [
+      "CSV",
+      "XML",
+      "JSON",
+      "YAML"
+    ],
+    "correct": 2,
+    "explanation": "BSON là định dạng tuần tự hóa nhị phân hỗ trợ mô hình tài liệu giống JSON.",
+    "reason": "Không trộn hai định dạng JSON/BSON trong cùng lựa chọn."
+  },
+  {
+    "id": 101,
+    "level": 7,
+    "question": "Trong bốn hành tinh sau, hành tinh nào tự quay quanh trục ngược chiều Trái Đất?",
+    "explanation": "Sao Kim có chuyển động tự quay ngược chiều Trái Đất. Sao Thiên Vương cũng có chuyển động quay nghịch nên Sao Kim không phải hành tinh duy nhất.",
+    "reason": "Bỏ khẳng định Sai Kim là hành tinh duy nhất quay nghịch."
+  },
+  {
+    "id": 102,
+    "level": 12
+  },
+  {
+    "id": 103,
+    "level": 8
+  },
+  {
+    "id": 104,
+    "level": 5
+  },
+  {
+    "id": 105,
+    "level": 5
+  },
+  {
+    "id": 106,
+    "level": 1
+  },
+  {
+    "id": 107,
+    "level": 2,
+    "question": "Trang phục truyền thống của Nhật Bản, được cả nam và nữ mặc, gọi là gì?",
+    "explanation": "Kimono là trang phục truyền thống của Nhật Bản, có kiểu dành cho nam và nữ.",
+    "reason": "Không giới hạn kimono chỉ cho phụ nữ."
+  },
+  {
+    "id": 108,
+    "level": 1
+  },
+  {
+    "id": 109,
+    "level": 6,
+    "question": "Trong bảng chữ cái tiếng Việt, có bao nhiêu chữ cái dùng để ghi nguyên âm, tính cả i và y?",
+    "explanation": "Có 12 chữ cái ghi nguyên âm: a, ă, â, e, ê, i, o, ô, ơ, u, ư, y. Số chữ cái không đồng nhất với số âm vị nguyên âm.",
+    "reason": "Phân biệt chữ cái nguyên âm và âm vị; i/y có thể cùng ghi một âm."
+  },
+  {
+    "id": 110,
+    "level": 2
+  },
+  {
+    "id": 111,
+    "level": 2
+  },
+  {
+    "id": 112,
+    "level": 4,
+    "question": "Tour de France là giải đua xe đạp gắn với quốc gia nào?",
+    "explanation": "Tour de France là giải đua vòng quanh nước Pháp; một số chặng hoặc nơi xuất phát có thể nằm ở nước khác.",
+    "reason": "Bỏ danh giá nhất mang tính đánh giá và tránh hiểu toàn bộ giải luôn diễn ra ở Pháp."
+  },
+  {
+    "id": 113,
+    "level": 6
+  },
+  {
+    "id": 114,
+    "level": 2
+  },
+  {
+    "id": 115,
+    "level": 2
+  }
+]

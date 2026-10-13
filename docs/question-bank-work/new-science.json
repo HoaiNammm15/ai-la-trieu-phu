@@ -1,0 +1,3642 @@
+[
+  {
+    "level": 1,
+    "question": "Dụng cụ nào dùng để đo nhiệt độ?",
+    "answers": [
+      "Nhiệt kế",
+      "Áp kế",
+      "Lực kế",
+      "Ampe kế"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Nhiệt kế cho biết nhiệt độ của vật hoặc môi trường."
+  },
+  {
+    "level": 2,
+    "question": "Hiện tượng ánh sáng bật trở lại khi gặp mặt gương gọi là gì?",
+    "answers": [
+      "Bay hơi",
+      "Phản xạ",
+      "Dẫn nhiệt",
+      "Nóng chảy"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Phản xạ là sự đổi hướng của ánh sáng trở lại môi trường ban đầu."
+  },
+  {
+    "level": 4,
+    "question": "Chiếc đũa nhúng trong nước trông như bị gãy chủ yếu do hiện tượng nào?",
+    "answers": [
+      "Nhiễm điện",
+      "Cộng hưởng âm",
+      "Khúc xạ ánh sáng",
+      "Phóng xạ"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Ánh sáng đổi hướng khi đi qua mặt phân cách nước và không khí."
+  },
+  {
+    "level": 3,
+    "question": "Pin đang cấp điện chủ yếu chuyển dạng năng lượng nào thành điện năng?",
+    "answers": [
+      "Quang năng",
+      "Động năng",
+      "Năng lượng âm",
+      "Hóa năng"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Phản ứng hóa học trong pin cung cấp năng lượng cho dòng điện."
+  },
+  {
+    "level": 3,
+    "question": "Âm thanh không truyền được trong môi trường nào?",
+    "answers": [
+      "Chân không",
+      "Nước",
+      "Không khí",
+      "Thép"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Âm thanh là sóng cơ và cần môi trường vật chất để truyền."
+  },
+  {
+    "level": 2,
+    "question": "Lực nào giúp má phanh làm bánh xe chậm lại?",
+    "answers": [
+      "Lực nổi",
+      "Lực ma sát",
+      "Lực đàn hồi của không khí",
+      "Lực từ của Mặt Trăng"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Ma sát giữa má phanh và bộ phận quay cản trở chuyển động."
+  },
+  {
+    "level": 4,
+    "question": "Lực của nước đẩy vật ngâm trong nước lên trên gọi là gì?",
+    "answers": [
+      "Lực hướng tâm",
+      "Lực căng dây",
+      "Lực đẩy Archimedes",
+      "Lực điện"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Áp suất chất lỏng tạo hợp lực hướng lên đối với vật chìm trong nó."
+  },
+  {
+    "level": 3,
+    "question": "Nước đá nổi trong nước lỏng vì có đặc điểm nào?",
+    "answers": [
+      "Không chịu trọng lực",
+      "Khối lượng riêng lớn hơn nước lỏng",
+      "Không có khối lượng",
+      "Khối lượng riêng nhỏ hơn nước lỏng"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Nước đá có khối lượng riêng nhỏ hơn nước lỏng gần điểm đóng băng."
+  },
+  {
+    "level": 2,
+    "question": "Nam châm thông thường hút mạnh vật làm bằng chất nào sau đây?",
+    "answers": [
+      "Sắt",
+      "Gỗ",
+      "Thủy tinh",
+      "Nhựa"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Sắt là vật liệu có tính sắt từ nên bị nam châm hút mạnh."
+  },
+  {
+    "level": 4,
+    "question": "Thấu kính của kính lúp thông thường là loại nào?",
+    "answers": [
+      "Thấu kính phân kỳ",
+      "Thấu kính hội tụ",
+      "Gương phẳng",
+      "Gương cầu lồi"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Kính lúp dùng thấu kính hội tụ để tạo ảnh ảo phóng đại khi vật ở đủ gần."
+  },
+  {
+    "level": 3,
+    "question": "Hai điện tích cùng dấu tác dụng lên nhau như thế nào?",
+    "answers": [
+      "Hút nhau",
+      "Không tác dụng",
+      "Đẩy nhau",
+      "Luôn nhập thành một"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Theo tương tác tĩnh điện, các điện tích cùng dấu đẩy nhau."
+  },
+  {
+    "level": 2,
+    "question": "Đơn vị cơ bản của khối lượng trong hệ SI là gì?",
+    "answers": [
+      "Mét",
+      "Giây",
+      "Kelvin",
+      "Kilôgam"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Kilôgam là đơn vị cơ bản SI dùng cho khối lượng."
+  },
+  {
+    "level": 5,
+    "question": "Đơn vị của lực trong hệ SI là gì?",
+    "answers": [
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Watt"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Newton là đơn vị lực, tương ứng kg·m/s²."
+  },
+  {
+    "level": 3,
+    "question": "Vật liệu nào sau đây dẫn điện tốt trong điều kiện thường?",
+    "answers": [
+      "Cao su",
+      "Đồng",
+      "Nhựa PVC",
+      "Thủy tinh"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Đồng có các electron dẫn điện và được dùng phổ biến làm dây điện."
+  },
+  {
+    "level": 2,
+    "question": "Sự luân phiên ngày và đêm trên Trái Đất chủ yếu do chuyển động nào?",
+    "answers": [
+      "Mặt Trăng tự quay",
+      "Mặt Trời quay quanh Trái Đất mỗi ngày",
+      "Trái Đất tự quay quanh trục",
+      "Trái Đất chuyển động quanh Mặt Trăng"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Trái Đất tự quay làm từng khu vực lần lượt hướng về hoặc khuất Mặt Trời."
+  },
+  {
+    "level": 2,
+    "question": "Quá trình nước lỏng chuyển thành hơi nước ở mặt thoáng gọi là gì?",
+    "answers": [
+      "Đông đặc",
+      "Ngưng tụ",
+      "Nóng chảy",
+      "Bay hơi"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Bay hơi là sự chuyển từ thể lỏng sang thể khí ở bề mặt chất lỏng."
+  },
+  {
+    "level": 3,
+    "question": "Hơi nước chuyển thành các giọt nước trên nắp nồi lạnh là quá trình nào?",
+    "answers": [
+      "Ngưng tụ",
+      "Thăng hoa",
+      "Đông đặc",
+      "Nóng chảy"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Ngưng tụ là sự chuyển từ thể khí sang thể lỏng."
+  },
+  {
+    "level": 1,
+    "question": "Lực nào khiến quả táo thả từ tay rơi xuống mặt đất?",
+    "answers": [
+      "Lực từ của quả táo",
+      "Lực hấp dẫn của Trái Đất",
+      "Lực nổi của không khí",
+      "Lực điện của ánh sáng"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Trái Đất hút các vật bằng lực hấp dẫn."
+  },
+  {
+    "level": 4,
+    "question": "Bộ phận cố định mà đòn bẩy quay quanh gọi là gì?",
+    "answers": [
+      "Tiêu điểm",
+      "Cực từ",
+      "Điểm tựa",
+      "Tâm áp suất"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Điểm tựa là điểm hoặc trục quay của đòn bẩy."
+  },
+  {
+    "level": 4,
+    "question": "Vì sao tay cầm xoong thường được làm bằng vật liệu cách nhiệt?",
+    "answers": [
+      "Để làm thức ăn chín nhanh hơn",
+      "Để tăng nhiệt độ sôi của nước",
+      "Để tăng trọng lượng xoong",
+      "Để giảm nhiệt truyền đến tay"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Vật liệu cách nhiệt hạn chế dẫn nhiệt từ thân xoong đến tay người cầm."
+  },
+  {
+    "level": 2,
+    "question": "Công thức hóa học H₂O biểu diễn chất nào?",
+    "answers": [
+      "Nước",
+      "Khí oxy",
+      "Muối ăn",
+      "Khí nitơ"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Một phân tử nước gồm hai nguyên tử hydro và một nguyên tử oxy."
+  },
+  {
+    "level": 2,
+    "question": "Khí nào trong không khí được cơ thể người sử dụng cho hô hấp hiếu khí?",
+    "answers": [
+      "Heli",
+      "Oxy",
+      "Argon",
+      "Hydro"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Oxy tham gia các phản ứng tạo năng lượng trong hô hấp hiếu khí."
+  },
+  {
+    "level": 4,
+    "question": "Thành phần hóa học chính của muối ăn là chất nào?",
+    "answers": [
+      "Calcium carbonate",
+      "Natri bicarbonate",
+      "Natri chloride",
+      "Magnesium oxide"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Muối ăn chủ yếu là natri chloride, có công thức NaCl."
+  },
+  {
+    "level": 4,
+    "question": "Ký hiệu hóa học Fe thuộc nguyên tố nào?",
+    "answers": [
+      "Fluor",
+      "Francium",
+      "Fermium",
+      "Sắt"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Fe là ký hiệu của sắt, bắt nguồn từ tên Latin ferrum."
+  },
+  {
+    "level": 3,
+    "question": "Công thức của khí carbon dioxide là gì?",
+    "answers": [
+      "CO₂",
+      "CO",
+      "O₂",
+      "CH₄"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Carbon dioxide chứa một nguyên tử carbon và hai nguyên tử oxy."
+  },
+  {
+    "level": 5,
+    "question": "Kim cương và than chì đều được cấu tạo từ nguyên tố nào?",
+    "answers": [
+      "Silic",
+      "Carbon",
+      "Lưu huỳnh",
+      "Phospho"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Kim cương và than chì là hai dạng thù hình của carbon."
+  },
+  {
+    "level": 3,
+    "question": "Sắt để lâu trong không khí ẩm thường xảy ra hiện tượng nào?",
+    "answers": [
+      "Thăng hoa",
+      "Trùng hợp",
+      "Gỉ sắt",
+      "Kết tinh thành muối ăn"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Sắt phản ứng với oxy và nước tạo các sản phẩm ăn mòn gọi là gỉ."
+  },
+  {
+    "level": 5,
+    "question": "Dung dịch acid thường làm giấy quỳ tím chuyển sang màu gì?",
+    "answers": [
+      "Xanh",
+      "Vàng",
+      "Trắng",
+      "Đỏ"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Quỳ tím chuyển đỏ trong môi trường acid."
+  },
+  {
+    "level": 3,
+    "question": "Khí nào sau đây duy trì sự cháy của nhiều nhiên liệu thông thường?",
+    "answers": [
+      "Oxy",
+      "Nitơ",
+      "Heli",
+      "Carbon dioxide"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Oxy là chất oxy hóa tham gia phản ứng cháy thông thường."
+  },
+  {
+    "level": 4,
+    "question": "Khí trơ nhẹ nào thường được bơm vào bóng bay để bóng bay lên?",
+    "answers": [
+      "Argon",
+      "Heli",
+      "Xenon",
+      "Krypton"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Heli có khối lượng riêng thấp hơn không khí và ít phản ứng hóa học."
+  },
+  {
+    "level": 5,
+    "question": "Ở 20°C và áp suất 1 atm, phi kim nào sau đây ở thể lỏng?",
+    "answers": [
+      "Lưu huỳnh",
+      "Carbon",
+      "Brom",
+      "Phospho đỏ"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Brom có nhiệt độ nóng chảy thấp hơn 20°C và nhiệt độ sôi cao hơn 20°C."
+  },
+  {
+    "level": 3,
+    "question": "Khi đường tan hoàn toàn trong nước, hỗn hợp thu được được gọi là gì?",
+    "answers": [
+      "Huyền phù",
+      "Nhũ tương",
+      "Chất đơn nhất",
+      "Dung dịch"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Đường phân bố ở mức phân tử trong nước tạo dung dịch đồng nhất."
+  },
+  {
+    "level": 5,
+    "question": "Acid tạo vị chua đặc trưng của giấm ăn là acid nào?",
+    "answers": [
+      "Acid acetic",
+      "Acid sulfuric",
+      "Acid hydrochloric",
+      "Acid nitric"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Giấm ăn chứa acid acetic hòa tan trong nước."
+  },
+  {
+    "level": 5,
+    "question": "Chất NaHCO₃ thường có trong baking soda được gọi là gì?",
+    "answers": [
+      "Natri chloride",
+      "Natri bicarbonate",
+      "Calcium sulfate",
+      "Potassium nitrate"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Baking soda là tên thông dụng của natri bicarbonate."
+  },
+  {
+    "level": 4,
+    "question": "Phần trung tâm của nguyên tử chứa proton được gọi là gì?",
+    "answers": [
+      "Lớp electron",
+      "Liên kết hóa học",
+      "Hạt nhân",
+      "Phân tử"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Proton nằm trong hạt nhân nguyên tử."
+  },
+  {
+    "level": 1,
+    "question": "Cơ quan nào bơm máu đi khắp cơ thể người?",
+    "answers": [
+      "Phổi",
+      "Dạ dày",
+      "Bàng quang",
+      "Tim"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Sự co bóp của tim tạo lực đẩy máu qua hệ tuần hoàn."
+  },
+  {
+    "level": 2,
+    "question": "Cơ quan nào là nơi trao đổi khí chính trong hệ hô hấp người?",
+    "answers": [
+      "Phổi",
+      "Gan",
+      "Dạ dày",
+      "Lách"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Trao đổi oxy và carbon dioxide diễn ra chủ yếu ở các phế nang trong phổi."
+  },
+  {
+    "level": 2,
+    "question": "Cơ quan nào tiếp nhận thức ăn từ thực quản và tiết dịch vị?",
+    "answers": [
+      "Ruột già",
+      "Dạ dày",
+      "Túi mật",
+      "Bàng quang"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Dạ dày nhận thức ăn từ thực quản và tiết dịch vị hỗ trợ tiêu hóa."
+  },
+  {
+    "level": 5,
+    "question": "Cơ quan nào sản xuất dịch mật ở người?",
+    "answers": [
+      "Túi mật",
+      "Tụy",
+      "Gan",
+      "Dạ dày"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Gan sản xuất mật còn túi mật chủ yếu dự trữ và cô đặc mật."
+  },
+  {
+    "level": 4,
+    "question": "Ở người, phần lớn chất dinh dưỡng được hấp thụ tại đâu?",
+    "answers": [
+      "Thực quản",
+      "Ruột thừa",
+      "Khoang miệng",
+      "Ruột non"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Ruột non có diện tích hấp thụ lớn nhờ các nếp gấp, nhung mao và vi nhung mao."
+  },
+  {
+    "level": 2,
+    "question": "Cá chép hô hấp chủ yếu bằng cơ quan nào?",
+    "answers": [
+      "Mang",
+      "Phổi",
+      "Khí quản",
+      "Lỗ thở trên đỉnh đầu"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Mang lấy oxy hòa tan trong nước."
+  },
+  {
+    "level": 2,
+    "question": "Đặc điểm nào gắn với tên gọi động vật có vú?",
+    "answers": [
+      "Luôn sống trên cạn",
+      "Nuôi con bằng sữa",
+      "Luôn đẻ trứng",
+      "Có sáu chân"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Con cái của động vật có vú có tuyến sữa nuôi con."
+  },
+  {
+    "level": 2,
+    "question": "Lớp phủ đặc trưng của cơ thể chim là gì?",
+    "answers": [
+      "Vảy sừng như rắn",
+      "Lông mao như mèo",
+      "Lông vũ",
+      "Vỏ đá vôi như ốc"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Lông vũ là đặc điểm đặc trưng của chim."
+  },
+  {
+    "level": 3,
+    "question": "Một côn trùng trưởng thành điển hình có bao nhiêu chân?",
+    "answers": [
+      "Bốn",
+      "Tám",
+      "Mười",
+      "Sáu"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Côn trùng có ba đôi chân gắn với phần ngực."
+  },
+  {
+    "level": 3,
+    "question": "Một con nhện điển hình có bao nhiêu chân?",
+    "answers": [
+      "Tám",
+      "Sáu",
+      "Bốn",
+      "Mười"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Nhện có bốn đôi chân và không thuộc lớp côn trùng."
+  },
+  {
+    "level": 3,
+    "question": "Bạch tuộc thường có bao nhiêu tay?",
+    "answers": [
+      "Sáu",
+      "Tám",
+      "Mười",
+      "Mười hai"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Bạch tuộc có tám tay mang các giác hút."
+  },
+  {
+    "level": 1,
+    "question": "Loài côn trùng nào tạo mật ong?",
+    "answers": [
+      "Chuồn chuồn",
+      "Bọ rùa",
+      "Ong mật",
+      "Ve sầu"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Ong mật thu thập mật hoa và chế biến thành mật ong."
+  },
+  {
+    "level": 2,
+    "question": "Ấu trùng của bướm thường được gọi là gì?",
+    "answers": [
+      "Nòng nọc",
+      "Giòi ruồi",
+      "Nhộng ong",
+      "Sâu bướm"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Sâu bướm là giai đoạn ấu trùng trước khi hóa nhộng."
+  },
+  {
+    "level": 2,
+    "question": "Con non sống dưới nước của ếch thường được gọi là gì?",
+    "answers": [
+      "Nòng nọc",
+      "Sâu non",
+      "Nhộng",
+      "Cá bột"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Ếch thường trải qua giai đoạn nòng nọc trước khi biến thái."
+  },
+  {
+    "level": 2,
+    "question": "Chim cánh cụt thuộc nhóm động vật nào?",
+    "answers": [
+      "Cá",
+      "Chim",
+      "Bò sát",
+      "Động vật có vú"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Chim cánh cụt có lông vũ và các đặc điểm của lớp chim dù không bay được."
+  },
+  {
+    "level": 3,
+    "question": "Cá heo thuộc nhóm động vật nào?",
+    "answers": [
+      "Cá sụn",
+      "Cá xương",
+      "Động vật có vú",
+      "Lưỡng cư"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Cá heo thở bằng phổi và nuôi con bằng sữa."
+  },
+  {
+    "level": 3,
+    "question": "Trong các động vật có vú sau, loài nào có khả năng bay chủ động?",
+    "answers": [
+      "Sóc bay",
+      "Mèo",
+      "Thỏ",
+      "Dơi"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Dơi đập cánh để bay; sóc bay chỉ lượn nhờ màng da."
+  },
+  {
+    "level": 5,
+    "question": "Nấm thường không tự quang hợp vì không có chất nào?",
+    "answers": [
+      "Diệp lục",
+      "Protein",
+      "Nước",
+      "Chất khoáng"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Nấm không có diệp lục và lấy chất hữu cơ từ môi trường."
+  },
+  {
+    "level": 3,
+    "question": "Sắc tố nào làm phần lớn lá cây có màu xanh?",
+    "answers": [
+      "Hemoglobin",
+      "Diệp lục",
+      "Melanin",
+      "Keratin"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Diệp lục hấp thụ ánh sáng phục vụ quang hợp và tạo màu xanh của lá."
+  },
+  {
+    "level": 2,
+    "question": "Bộ phận nào của cây trên cạn thường hút nước và muối khoáng từ đất?",
+    "answers": [
+      "Hoa",
+      "Quả",
+      "Rễ",
+      "Hạt phấn"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Rễ, đặc biệt vùng lông hút, hấp thụ nước và ion khoáng từ đất."
+  },
+  {
+    "level": 4,
+    "question": "Ở thực vật có hoa, cơ quan nào chuyên thực hiện sinh sản hữu tính?",
+    "answers": [
+      "Rễ",
+      "Lông hút",
+      "Vỏ thân",
+      "Hoa"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Hoa mang các cấu trúc tạo giao tử và thực hiện thụ phấn, thụ tinh."
+  },
+  {
+    "level": 3,
+    "question": "Hạt khô cần hấp thụ chất nào trước khi bắt đầu nảy mầm trong điều kiện thích hợp?",
+    "answers": [
+      "Nước",
+      "Dầu ăn",
+      "Cồn",
+      "Thủy ngân"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Hấp thụ nước giúp các quá trình trao đổi chất trong hạt hoạt động trở lại."
+  },
+  {
+    "level": 2,
+    "question": "Loài nào sau đây chủ yếu ăn thực vật?",
+    "answers": [
+      "Sư tử",
+      "Bò",
+      "Hổ",
+      "Báo săn"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Bò là động vật ăn cỏ, có hệ tiêu hóa thích nghi với thức ăn thực vật."
+  },
+  {
+    "level": 2,
+    "question": "Loài nào sau đây là động vật ăn thịt điển hình?",
+    "answers": [
+      "Bò",
+      "Dê",
+      "Sư tử",
+      "Ngựa"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Sư tử chủ yếu săn và ăn các động vật khác."
+  },
+  {
+    "level": 3,
+    "question": "Loài nào sau đây là động vật ăn tạp điển hình?",
+    "answers": [
+      "Bò",
+      "Hươu cao cổ",
+      "Koala",
+      "Lợn"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Lợn có thể ăn cả thức ăn thực vật và động vật."
+  },
+  {
+    "level": 2,
+    "question": "Gà sinh sản bằng hình thức nào?",
+    "answers": [
+      "Đẻ trứng",
+      "Đẻ con có nhau thai",
+      "Nảy chồi",
+      "Phân đôi"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Gà là chim và sinh sản bằng trứng."
+  },
+  {
+    "level": 3,
+    "question": "Hạt táo có thể phát triển thành cây mới là ví dụ của quá trình nào?",
+    "answers": [
+      "Sinh sản bằng giâm cành",
+      "Sinh sản bằng hạt",
+      "Sinh sản bằng củ",
+      "Sinh sản bằng chiết cành"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Hạt chứa phôi có thể phát triển thành cây mới."
+  },
+  {
+    "level": 3,
+    "question": "Hệ cơ quan nào tạo khung nâng đỡ và bảo vệ nhiều cơ quan ở người?",
+    "answers": [
+      "Hệ bài tiết",
+      "Hệ nội tiết",
+      "Hệ xương",
+      "Hệ tiêu hóa"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Bộ xương nâng đỡ cơ thể và bảo vệ các cơ quan như não và tim."
+  },
+  {
+    "level": 4,
+    "question": "Lỗ nằm ở giữa mống mắt, cho ánh sáng đi vào mắt, gọi là gì?",
+    "answers": [
+      "Giác mạc",
+      "Võng mạc",
+      "Thủy tinh thể",
+      "Đồng tử"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Đồng tử là lỗ ở giữa mống mắt, kích thước thay đổi để điều chỉnh lượng ánh sáng."
+  },
+  {
+    "level": 1,
+    "question": "Cơ quan giác quan nào giúp con người nghe âm thanh?",
+    "answers": [
+      "Tai",
+      "Mắt",
+      "Mũi",
+      "Lưỡi"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Tai tiếp nhận dao động âm và chuyển thành tín hiệu thần kinh."
+  },
+  {
+    "level": 1,
+    "question": "Mặt Trời được phân loại là loại thiên thể nào?",
+    "answers": [
+      "Hành tinh",
+      "Ngôi sao",
+      "Sao chổi",
+      "Tiểu hành tinh"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Mặt Trời phát sáng nhờ năng lượng từ phản ứng hạt nhân trong lõi."
+  },
+  {
+    "level": 2,
+    "question": "Mặt Trăng là vệ tinh tự nhiên của thiên thể nào?",
+    "answers": [
+      "Sao Kim",
+      "Sao Hỏa",
+      "Trái Đất",
+      "Sao Thủy"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Mặt Trăng chuyển động quanh Trái Đất."
+  },
+  {
+    "level": 3,
+    "question": "Hành tinh nào ở gần Mặt Trời nhất?",
+    "answers": [
+      "Sao Kim",
+      "Trái Đất",
+      "Sao Hỏa",
+      "Sao Thủy"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Quỹ đạo Sao Thủy nằm gần Mặt Trời nhất trong các hành tinh."
+  },
+  {
+    "level": 4,
+    "question": "Hành tinh nào lớn nhất trong Hệ Mặt Trời?",
+    "answers": [
+      "Sao Mộc",
+      "Sao Thổ",
+      "Sao Hải Vương",
+      "Trái Đất"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Sao Mộc có đường kính và khối lượng lớn nhất trong các hành tinh của Hệ Mặt Trời."
+  },
+  {
+    "level": 3,
+    "question": "Ánh sáng nhìn thấy từ Mặt Trăng chủ yếu có nguồn gốc nào?",
+    "answers": [
+      "Phản ứng cháy trên Mặt Trăng",
+      "Ánh sáng Mặt Trời được phản xạ",
+      "Đèn do con người lắp toàn bề mặt",
+      "Mặt Trăng tự phát sáng như sao"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Bề mặt Mặt Trăng phản xạ một phần ánh sáng Mặt Trời."
+  },
+  {
+    "level": 4,
+    "question": "Ngân Hà là loại cấu trúc thiên văn nào?",
+    "answers": [
+      "Hành tinh",
+      "Vệ tinh",
+      "Thiên hà",
+      "Sao chổi"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Ngân Hà là thiên hà chứa Hệ Mặt Trời và rất nhiều ngôi sao."
+  },
+  {
+    "level": 4,
+    "question": "Thiên thể nhỏ có thể tạo đuôi khí và bụi khi đến gần Mặt Trời gọi là gì?",
+    "answers": [
+      "Sao neutron",
+      "Hành tinh khí",
+      "Sao lùn trắng",
+      "Sao chổi"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Băng trên sao chổi thăng hoa khi nóng lên, giải phóng khí và bụi tạo đuôi."
+  },
+  {
+    "level": 3,
+    "question": "Trong nhật thực, thiên thể nào nằm giữa Mặt Trời và Trái Đất?",
+    "answers": [
+      "Mặt Trăng",
+      "Sao Hỏa",
+      "Sao Kim",
+      "Sao Mộc"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Nhật thực xảy ra khi Mặt Trăng che khuất Mặt Trời đối với người quan sát trên Trái Đất."
+  },
+  {
+    "level": 4,
+    "question": "Trong nguyệt thực, thiên thể nào chắn ánh sáng Mặt Trời chiếu tới Mặt Trăng?",
+    "answers": [
+      "Sao Thủy",
+      "Trái Đất",
+      "Sao Thổ",
+      "Sao Hải Vương"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Nguyệt thực xảy ra khi Mặt Trăng đi vào vùng bóng của Trái Đất."
+  },
+  {
+    "level": 5,
+    "question": "Tên gọi Trăng tròn mô tả trạng thái nào của Mặt Trăng nhìn từ Trái Đất?",
+    "answers": [
+      "Mặt Trăng hoàn toàn không được chiếu sáng",
+      "Mặt Trăng chỉ còn một nửa khối lượng",
+      "Gần như toàn bộ đĩa Mặt Trăng được chiếu sáng",
+      "Mặt Trăng không chuyển động"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Trăng tròn là pha mà phía hướng về Trái Đất gần như được chiếu sáng toàn bộ."
+  },
+  {
+    "level": 2,
+    "question": "Nguồn năng lượng nào sau đây được xem là năng lượng tái tạo?",
+    "answers": [
+      "Than đá",
+      "Dầu mỏ",
+      "Khí tự nhiên",
+      "Năng lượng gió"
+    ],
+    "correct": 3,
+    "category": "Môi trường",
+    "explanation": "Gió được bổ sung liên tục nhờ các quá trình khí quyển."
+  },
+  {
+    "level": 3,
+    "question": "Hoạt động trồng cây giúp giảm trực tiếp khí nào trong không khí thông qua quang hợp?",
+    "answers": [
+      "Carbon dioxide",
+      "Heli",
+      "Argon",
+      "Neon"
+    ],
+    "correct": 0,
+    "category": "Môi trường",
+    "explanation": "Cây cố định carbon từ carbon dioxide vào chất hữu cơ trong quá trình quang hợp."
+  },
+  {
+    "level": 2,
+    "question": "Hành động nào góp phần tiết kiệm điện trong sinh hoạt?",
+    "answers": [
+      "Bật điều hòa khi phòng trống",
+      "Tắt đèn khi không cần dùng",
+      "Để tủ lạnh mở lâu",
+      "Bật mọi thiết bị suốt ngày"
+    ],
+    "correct": 1,
+    "category": "Môi trường",
+    "explanation": "Tắt thiết bị không cần thiết làm giảm điện năng tiêu thụ."
+  },
+  {
+    "level": 3,
+    "question": "Rác nào sau đây có nguồn gốc hữu cơ và thường phù hợp để ủ phân?",
+    "answers": [
+      "Mảnh kính",
+      "Pin đã dùng",
+      "Vỏ rau quả",
+      "Túi nylon"
+    ],
+    "correct": 2,
+    "category": "Môi trường",
+    "explanation": "Vỏ rau quả có thể được vi sinh vật phân hủy thành vật liệu làm phân hữu cơ."
+  },
+  {
+    "level": 4,
+    "question": "Đa dạng sinh học là sự đa dạng của yếu tố nào?",
+    "answers": [
+      "Chỉ nhiệt độ không khí",
+      "Chỉ màu sắc của đất",
+      "Chỉ lượng mưa mỗi ngày",
+      "Sinh vật, nguồn gen và hệ sinh thái"
+    ],
+    "correct": 3,
+    "category": "Môi trường",
+    "explanation": "Đa dạng sinh học thường được xét ở các cấp độ gen, loài và hệ sinh thái."
+  },
+  {
+    "level": 6,
+    "question": "Đơn vị đo năng lượng trong hệ SI là gì?",
+    "answers": [
+      "Joule",
+      "Watt",
+      "Tesla",
+      "Hertz"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Joule là đơn vị của năng lượng và công."
+  },
+  {
+    "level": 6,
+    "question": "Đơn vị đo công suất trong hệ SI là gì?",
+    "answers": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Coulomb"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Một watt tương ứng tốc độ trao đổi năng lượng một joule mỗi giây."
+  },
+  {
+    "level": 7,
+    "question": "Đơn vị đo áp suất trong hệ SI là gì?",
+    "answers": [
+      "Tesla",
+      "Volt",
+      "Pascal",
+      "Ohm"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Pascal bằng một newton trên một mét vuông."
+  },
+  {
+    "level": 6,
+    "question": "Đơn vị hertz dùng để đo đại lượng nào?",
+    "answers": [
+      "Biên độ",
+      "Khối lượng",
+      "Nhiệt lượng",
+      "Tần số"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Hertz biểu thị số chu kỳ lặp lại trong một giây."
+  },
+  {
+    "level": 6,
+    "question": "Đơn vị cơ bản SI của nhiệt độ nhiệt động lực học là gì?",
+    "answers": [
+      "Kelvin",
+      "Độ Celsius",
+      "Độ Fahrenheit",
+      "Joule"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Kelvin là đơn vị nhiệt độ nhiệt động lực học trong hệ SI."
+  },
+  {
+    "level": 8,
+    "question": "Máy biến áp thông thường làm thay đổi đại lượng nào của dòng điện xoay chiều?",
+    "answers": [
+      "Tần số nguồn điện",
+      "Điện áp",
+      "Điện tích của electron",
+      "Tốc độ ánh sáng"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Máy biến áp dùng cảm ứng điện từ để tăng hoặc giảm điện áp xoay chiều."
+  },
+  {
+    "level": 6,
+    "question": "Đặc điểm xác định dòng điện một chiều là gì?",
+    "answers": [
+      "Chiều dòng điện đảo sau mỗi chu kỳ",
+      "Không mang điện tích",
+      "Chiều dòng điện không đổi",
+      "Chỉ tồn tại trong chân không"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Dòng điện một chiều duy trì cùng một chiều, dù độ lớn có thể thay đổi."
+  },
+  {
+    "level": 7,
+    "question": "Trong mạch điện nối tiếp lý tưởng, đại lượng nào giống nhau qua mọi phần tử?",
+    "answers": [
+      "Điện trở",
+      "Hiệu điện thế",
+      "Công suất tiêu thụ",
+      "Cường độ dòng điện"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Trong mạch nối tiếp không có nhánh rẽ, dòng điện qua các phần tử có cùng cường độ."
+  },
+  {
+    "level": 7,
+    "question": "Các điện trở mắc song song giữa cùng hai nút có đại lượng nào bằng nhau?",
+    "answers": [
+      "Hiệu điện thế hai đầu",
+      "Điện trở",
+      "Cường độ dòng điện",
+      "Nhiệt lượng tỏa ra"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Mọi nhánh nối giữa cùng hai nút có cùng hiệu điện thế."
+  },
+  {
+    "level": 6,
+    "question": "Nhiệt truyền dọc theo chiếc thìa kim loại đặt trong nước nóng chủ yếu bằng cách nào?",
+    "answers": [
+      "Đối lưu",
+      "Dẫn nhiệt",
+      "Bay hơi",
+      "Thăng hoa"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Dẫn nhiệt truyền năng lượng trong vật liệu mà không cần chuyển dời khối vật chất."
+  },
+  {
+    "level": 7,
+    "question": "Hình thức truyền nhiệt gắn với sự chuyển động thành dòng của chất lỏng hoặc chất khí là gì?",
+    "answers": [
+      "Dẫn nhiệt",
+      "Tán sắc",
+      "Đối lưu",
+      "Nhiễu xạ"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Đối lưu vận chuyển nhiệt nhờ các dòng chuyển động của chất lưu."
+  },
+  {
+    "level": 7,
+    "question": "Năng lượng Mặt Trời truyền đến Trái Đất qua khoảng không chủ yếu bằng cách nào?",
+    "answers": [
+      "Đối lưu",
+      "Dẫn nhiệt",
+      "Truyền sóng cơ",
+      "Bức xạ điện từ"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Bức xạ điện từ truyền được qua chân không giữa Mặt Trời và Trái Đất."
+  },
+  {
+    "level": 7,
+    "question": "Ánh sáng trắng đi qua lăng kính tách thành các màu chủ yếu do hiện tượng nào?",
+    "answers": [
+      "Tán sắc",
+      "Giao thoa",
+      "Nhiễu xạ",
+      "Phản xạ toàn phần"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Chiết suất phụ thuộc bước sóng khiến các màu bị lệch theo các góc khác nhau."
+  },
+  {
+    "level": 6,
+    "question": "Đoản mạch thường làm dòng điện tăng mạnh vì điều gì?",
+    "answers": [
+      "Điện trở của đường dẫn quá lớn",
+      "Điện trở của đường dẫn quá nhỏ",
+      "Điện áp nguồn nhất thiết giảm về không",
+      "Điện dung dây dẫn tăng đến vô hạn"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Khi điện trở tổng rất nhỏ, nguồn có thể tạo dòng điện lớn."
+  },
+  {
+    "level": 7,
+    "question": "Với cùng lực ép vuông góc, giảm diện tích tiếp xúc làm áp suất thay đổi thế nào?",
+    "answers": [
+      "Giảm xuống",
+      "Luôn về không",
+      "Tăng lên",
+      "Không đổi"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Áp suất bằng lực ép chia cho diện tích chịu lực."
+  },
+  {
+    "level": 8,
+    "question": "Với dao động nhỏ ở cùng nơi, tăng chiều dài con lắc đơn làm chu kỳ thay đổi thế nào?",
+    "answers": [
+      "Giảm xuống",
+      "Không đổi",
+      "Luôn bằng một giây",
+      "Tăng lên"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Chu kỳ con lắc đơn tỉ lệ với căn bậc hai của chiều dài."
+  },
+  {
+    "level": 6,
+    "question": "Độ cao của âm phụ thuộc chủ yếu vào đại lượng nào?",
+    "answers": [
+      "Tần số",
+      "Biên độ",
+      "Khoảng cách đến nguồn",
+      "Khối lượng không khí cả phòng"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Âm có tần số cao hơn được cảm nhận là cao hơn."
+  },
+  {
+    "level": 7,
+    "question": "Trong cùng điều kiện truyền âm, tăng biên độ dao động của nguồn thường làm âm thế nào?",
+    "answers": [
+      "Cao hơn nhưng không to hơn",
+      "To hơn",
+      "Truyền nhanh hơn trong không khí",
+      "Mất khả năng truyền trong nước"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Biên độ lớn hơn thường tương ứng cường độ âm lớn hơn và âm nghe to hơn."
+  },
+  {
+    "level": 8,
+    "question": "Động lượng của một vật bằng tích của hai đại lượng nào?",
+    "answers": [
+      "Khối lượng và gia tốc",
+      "Lực và quãng đường",
+      "Khối lượng và vận tốc",
+      "Áp suất và thể tích"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Trong cơ học cổ điển, động lượng được xác định bởi p = mv."
+  },
+  {
+    "level": 7,
+    "question": "Xu hướng giữ nguyên trạng thái đứng yên hoặc chuyển động thẳng đều gọi là gì?",
+    "answers": [
+      "Đối lưu",
+      "Cộng hưởng",
+      "Tán sắc",
+      "Quán tính"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Quán tính là tính chất chống lại sự thay đổi vận tốc của vật."
+  },
+  {
+    "level": 8,
+    "question": "Theo định luật III Newton, lực và phản lực tác dụng lên đâu?",
+    "answers": [
+      "Hai vật khác nhau",
+      "Cùng một vật",
+      "Chỉ vật có khối lượng nhỏ hơn",
+      "Chỉ vật đang chuyển động"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Hai vật tương tác tác dụng lên nhau các lực cùng độ lớn và ngược chiều."
+  },
+  {
+    "level": 6,
+    "question": "Trong chân không, hai vật thả cùng lúc từ cùng độ cao gần mặt đất sẽ thế nào nếu bỏ qua mọi tác động khác?",
+    "answers": [
+      "Vật nặng luôn chạm trước",
+      "Chạm đất đồng thời",
+      "Vật nhẹ luôn chạm trước",
+      "Cả hai không rơi"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Khi không có lực cản, các vật cùng chịu gia tốc rơi tự do tại một vị trí."
+  },
+  {
+    "level": 7,
+    "question": "Trong chân không, ánh sáng màu nào có bước sóng dài hơn trong hai màu đỏ và tím?",
+    "answers": [
+      "Tím",
+      "Hai màu có bước sóng bằng nhau",
+      "Đỏ",
+      "Mỗi màu không có bước sóng"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Ánh sáng đỏ có bước sóng dài hơn ánh sáng tím trong phổ nhìn thấy."
+  },
+  {
+    "level": 7,
+    "question": "Gương cầu lồi thường được dùng ở góc đường vì ưu điểm nào?",
+    "answers": [
+      "Luôn tạo ảnh thật",
+      "Luôn phóng đại ảnh",
+      "Hội tụ toàn bộ ánh sáng tại một điểm",
+      "Cho trường nhìn rộng"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Gương cầu lồi tạo ảnh ảo nhỏ hơn vật và giúp quan sát vùng rộng."
+  },
+  {
+    "level": 8,
+    "question": "Khối lượng riêng của một chất được tính bằng phép nào?",
+    "answers": [
+      "Khối lượng chia cho thể tích",
+      "Khối lượng nhân thể tích",
+      "Thể tích chia cho thời gian",
+      "Lực chia cho diện tích"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Khối lượng riêng biểu thị khối lượng trên một đơn vị thể tích."
+  },
+  {
+    "level": 6,
+    "question": "Số hiệu nguyên tử của nguyên tố bằng số hạt nào trong hạt nhân?",
+    "answers": [
+      "Neutron",
+      "Proton",
+      "Electron tự do",
+      "Photon"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Số proton quyết định nguyên tố hóa học."
+  },
+  {
+    "level": 8,
+    "question": "Các đồng vị của cùng một nguyên tố khác nhau về số hạt nào?",
+    "answers": [
+      "Proton",
+      "Proton và electron luôn cùng tăng",
+      "Neutron",
+      "Tất cả đều không có hạt nhân"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Đồng vị có cùng số proton nhưng khác số neutron."
+  },
+  {
+    "level": 7,
+    "question": "Liên kết cộng hóa trị hình thành chủ yếu bằng cách nào?",
+    "answers": [
+      "Dùng chung proton giữa hạt nhân",
+      "Trao đổi neutron liên tục",
+      "Loại bỏ mọi electron",
+      "Dùng chung các cặp electron"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Các nguyên tử dùng chung một hoặc nhiều cặp electron trong liên kết cộng hóa trị."
+  },
+  {
+    "level": 8,
+    "question": "Lực giữ các ion trong tinh thể NaCl chủ yếu là lực nào?",
+    "answers": [
+      "Hút tĩnh điện giữa các ion trái dấu",
+      "Hấp dẫn giữa các hành tinh",
+      "Lực từ giữa hai nam châm",
+      "Lực nổi trong không khí"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Ion Na⁺ và Cl⁻ hút nhau bằng tương tác tĩnh điện."
+  },
+  {
+    "level": 8,
+    "question": "Chlorine, brom và iodine thuộc nhóm nguyên tố có tên gì?",
+    "answers": [
+      "Khí hiếm",
+      "Halogen",
+      "Kim loại kiềm",
+      "Kim loại kiềm thổ"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Các nguyên tố này thuộc nhóm 17 của bảng tuần hoàn."
+  },
+  {
+    "level": 7,
+    "question": "Nguyên tố nào sau đây thuộc nhóm khí hiếm?",
+    "answers": [
+      "Nitơ",
+      "Oxy",
+      "Neon",
+      "Chlorine"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Neon thuộc nhóm 18, có lớp electron ngoài cùng bão hòa."
+  },
+  {
+    "level": 8,
+    "question": "Nguyên tố nào sau đây thuộc nhóm kim loại kiềm?",
+    "answers": [
+      "Calcium",
+      "Nhôm",
+      "Kẽm",
+      "Natri"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Natri thuộc nhóm 1 của bảng tuần hoàn, tức nhóm kim loại kiềm."
+  },
+  {
+    "level": 7,
+    "question": "Phản ứng giữa acid hydrochloric và natri hydroxide tạo các sản phẩm chính nào?",
+    "answers": [
+      "Natri chloride và nước",
+      "Natri và oxy",
+      "Hydro và chlorine",
+      "Carbon dioxide và nước"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Đây là phản ứng trung hòa: HCl + NaOH tạo NaCl và H₂O."
+  },
+  {
+    "level": 7,
+    "question": "Ở25°C, dung dịch có pH nhỏ hơn7 có tính gì?",
+    "answers": [
+      "Base",
+      "Acid",
+      "Trung tính",
+      "Luôn là kim loại"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Ở25°C, pH nhỏ hơn7 đặc trưng cho môi trường acid."
+  },
+  {
+    "level": 8,
+    "question": "Chất xúc tác thường có tác dụng gì đối với một phản ứng hóa học?",
+    "answers": [
+      "Tăng hằng số cân bằng ở cùng nhiệt độ",
+      "Tăng năng lượng hoạt hóa",
+      "Tăng tốc độ phản ứng",
+      "Luôn làm phản ứng tỏa nhiệt hơn"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Chất xúc tác cung cấp con đường phản ứng có năng lượng hoạt hóa thấp hơn."
+  },
+  {
+    "level": 8,
+    "question": "Điện phân sử dụng nguồn năng lượng nào để thúc đẩy phản ứng hóa học?",
+    "answers": [
+      "Nhiệt năng của môi trường",
+      "Quang năng",
+      "Cơ năng",
+      "Điện năng"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Điện phân dùng dòng điện để thúc đẩy phản ứng oxy hóa khử không tự diễn ra theo chiều đó."
+  },
+  {
+    "level": 6,
+    "question": "Trong một phản ứng hóa học diễn ra trong hệ kín, đại lượng nào được bảo toàn?",
+    "answers": [
+      "Tổng khối lượng",
+      "Số phân tử",
+      "Tổng thể tích khí trong mọi trường hợp",
+      "Màu sắc"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Nguyên tử được sắp xếp lại nên tổng khối lượng của hệ kín được bảo toàn."
+  },
+  {
+    "level": 8,
+    "question": "Dung dịch NaCl dẫn điện chủ yếu nhờ các hạt nào chuyển động?",
+    "answers": [
+      "Chỉ các phân tử nước trung hòa",
+      "Ion Na⁺ và Cl⁻",
+      "Hạt bụi không tích điện",
+      "Các hạt nhân nguyên tử tự do"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Các ion hòa tan mang điện và vận chuyển điện tích trong dung dịch."
+  },
+  {
+    "level": 8,
+    "question": "Đồng thau là hợp kim chủ yếu của đồng với kim loại nào?",
+    "answers": [
+      "Thiếc",
+      "Chì",
+      "Kẽm",
+      "Thủy ngân"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Đồng thau chủ yếu gồm đồng và kẽm; đồng thiếc được gọi là đồng thanh."
+  },
+  {
+    "level": 9,
+    "question": "Nguyên tố nào giúp thép không gỉ tạo lớp bảo vệ chống ăn mòn?",
+    "answers": [
+      "Natri",
+      "Heli",
+      "Brom",
+      "Chromium"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Chromium tạo lớp oxide thụ động mỏng bảo vệ bề mặt thép."
+  },
+  {
+    "level": 7,
+    "question": "Thành phần chính của đá vôi là hợp chất nào?",
+    "answers": [
+      "Calcium carbonate",
+      "Natri chloride",
+      "Silicon carbide",
+      "Potassium hydroxide"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Đá vôi chủ yếu chứa CaCO₃, tức calcium carbonate."
+  },
+  {
+    "level": 7,
+    "question": "Công thức hóa học của ammonia là gì?",
+    "answers": [
+      "NO₂",
+      "NH₃",
+      "N₂O",
+      "HNO₃"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Ammonia gồm một nguyên tử nitơ liên kết với ba nguyên tử hydro."
+  },
+  {
+    "level": 7,
+    "question": "Thành phần khí chủ yếu của khí tự nhiên thông thường là gì?",
+    "answers": [
+      "Oxy",
+      "Sulfur dioxide",
+      "Methane",
+      "Argon"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Methane, CH₄, thường là thành phần chính của khí tự nhiên."
+  },
+  {
+    "level": 8,
+    "question": "Công thức phân tử của ethanol là gì?",
+    "answers": [
+      "CH₄O",
+      "C₃H₈O",
+      "C₂H₄O₂",
+      "C₂H₆O"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Ethanol có thể viết dưới dạng C₂H₅OH, tương ứng công thức phân tử C₂H₆O."
+  },
+  {
+    "level": 9,
+    "question": "Trong phản ứng oxy hóa khử, quá trình oxy hóa là quá trình nào?",
+    "answers": [
+      "Nhường electron",
+      "Nhận electron",
+      "Nhận neutron",
+      "Không đổi số oxy hóa"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Sự oxy hóa gắn với nhường electron và tăng số oxy hóa."
+  },
+  {
+    "level": 8,
+    "question": "Bào quan nào là nơi tạo phần lớn ATP trong hô hấp hiếu khí của tế bào người?",
+    "answers": [
+      "Lysosome",
+      "Ti thể",
+      "Bộ máy Golgi",
+      "Trung thể"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Ti thể thực hiện chu trình citric và phosphoryl hóa oxy hóa tạo nhiều ATP."
+  },
+  {
+    "level": 8,
+    "question": "Bào quan nào trực tiếp tổng hợp protein từ thông tin trên mRNA?",
+    "answers": [
+      "Lysosome",
+      "Không bào",
+      "Ribosome",
+      "Trung thể"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Ribosome thực hiện dịch mã để nối các amino acid thành chuỗi polypeptide."
+  },
+  {
+    "level": 7,
+    "question": "Quang hợp ở tế bào lá thực vật diễn ra trong bào quan nào?",
+    "answers": [
+      "Lysosome",
+      "Trung thể",
+      "Bộ máy Golgi",
+      "Lục lạp"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Lục lạp chứa diệp lục và các hệ thống phản ứng quang hợp."
+  },
+  {
+    "level": 7,
+    "question": "Ở tế bào nhân thực, phần lớn ADN nằm trong cấu trúc nào?",
+    "answers": [
+      "Nhân tế bào",
+      "Thành tế bào",
+      "Không bào trung tâm",
+      "Lysosome"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Nhân tế bào chứa các nhiễm sắc thể mang phần lớn ADN của tế bào nhân thực."
+  },
+  {
+    "level": 7,
+    "question": "Cấu trúc nào bao quanh tế bào và kiểm soát có chọn lọc sự trao đổi chất?",
+    "answers": [
+      "Ribosome",
+      "Màng sinh chất",
+      "Nhiễm sắc thể",
+      "Hạch nhân"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Màng sinh chất là ranh giới có tính thấm chọn lọc của tế bào."
+  },
+  {
+    "level": 7,
+    "question": "Protein nào trong hồng cầu có vai trò vận chuyển oxy?",
+    "answers": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Insulin"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Hemoglobin gắn oxy ở phổi và giải phóng oxy tại các mô."
+  },
+  {
+    "level": 6,
+    "question": "Nhóm tế bào máu nào có vai trò chính trong bảo vệ cơ thể trước tác nhân gây bệnh?",
+    "answers": [
+      "Hồng cầu",
+      "Tiểu cầu",
+      "Tế bào cơ",
+      "Bạch cầu"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Các loại bạch cầu thực hiện nhiều chức năng của hệ miễn dịch."
+  },
+  {
+    "level": 7,
+    "question": "Tế bào chuyên tiếp nhận và truyền tín hiệu trong hệ thần kinh gọi là gì?",
+    "answers": [
+      "Neuron",
+      "Hồng cầu",
+      "Tế bào biểu bì",
+      "Tế bào xương"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Neuron truyền thông tin bằng tín hiệu điện và hóa học."
+  },
+  {
+    "level": 9,
+    "question": "Hormone insulin được tuyến tụy tiết ra có tác dụng chính nào?",
+    "answers": [
+      "Tăng giải phóng glucose từ glycogen gan",
+      "Hỗ trợ làm giảm glucose máu",
+      "Tăng tái hấp thu nước ở ống góp thận",
+      "Tăng hấp thụ calcium ở ruột"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Insulin thúc đẩy nhiều mô thu nhận hoặc dự trữ glucose."
+  },
+  {
+    "level": 7,
+    "question": "Cơ nào ngăn cách lồng ngực với ổ bụng và giữ vai trò quan trọng trong hít thở?",
+    "answers": [
+      "Cơ nhị đầu cánh tay",
+      "Cơ tứ đầu đùi",
+      "Cơ hoành",
+      "Cơ vòng miệng"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Cơ hoành co và hạ xuống khi hít vào, góp phần làm tăng thể tích lồng ngực."
+  },
+  {
+    "level": 9,
+    "question": "Động mạch chủ nhận máu trực tiếp từ buồng tim nào?",
+    "answers": [
+      "Tâm thất phải",
+      "Tâm nhĩ trái",
+      "Tâm nhĩ phải",
+      "Tâm thất trái"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Tâm thất trái bơm máu vào động mạch chủ để đi đến tuần hoàn hệ thống."
+  },
+  {
+    "level": 9,
+    "question": "Mạch nào đưa máu giàu oxy từ phổi trở về tim?",
+    "answers": [
+      "Tĩnh mạch phổi",
+      "Động mạch phổi",
+      "Tĩnh mạch chủ trên",
+      "Tĩnh mạch chủ dưới"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Tĩnh mạch phổi đưa máu đã được trao đổi khí về tâm nhĩ trái."
+  },
+  {
+    "level": 8,
+    "question": "Mô dẫn nào của cây chủ yếu vận chuyển nước và ion khoáng từ rễ?",
+    "answers": [
+      "Mạch rây",
+      "Mạch gỗ",
+      "Biểu bì",
+      "Mô phân sinh"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Mạch gỗ vận chuyển nước và khoáng, thường theo hướng từ rễ lên thân và lá."
+  },
+  {
+    "level": 9,
+    "question": "Mô dẫn nào của cây vận chuyển phần lớn đường từ cơ quan nguồn đến cơ quan nhận?",
+    "answers": [
+      "Mạch gỗ",
+      "Bần",
+      "Mạch rây",
+      "Mô cứng"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Mạch rây vận chuyển các chất hữu cơ hòa tan như sucrose."
+  },
+  {
+    "level": 8,
+    "question": "Các lỗ nhỏ trên biểu bì lá tham gia trao đổi khí và thoát hơi nước gọi là gì?",
+    "answers": [
+      "Lông hút",
+      "Mạch rây",
+      "Nốt sần",
+      "Khí khổng"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Khí khổng có tế bào bảo vệ điều chỉnh việc đóng mở."
+  },
+  {
+    "level": 8,
+    "question": "Polysaccharide chính cấu tạo thành tế bào thực vật là gì?",
+    "answers": [
+      "Cellulose",
+      "Glycogen",
+      "Chitin",
+      "Tinh bột"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Cellulose là thành phần cấu trúc chủ yếu của thành tế bào thực vật."
+  },
+  {
+    "level": 9,
+    "question": "Thành tế bào của nhiều loài nấm chứa chất cấu trúc nào?",
+    "answers": [
+      "Hemoglobin",
+      "Chitin",
+      "Keratin",
+      "Elastin"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Chitin là polysaccharide quan trọng trong thành tế bào nấm."
+  },
+  {
+    "level": 8,
+    "question": "Vi khuẩn điển hình thuộc nhóm tế bào nào?",
+    "answers": [
+      "Tế bào nhân thực thực vật",
+      "Tế bào nhân thực động vật",
+      "Tế bào nhân sơ",
+      "Tế bào nhân thực nấm"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Vi khuẩn không có nhân được bao bọc bằng màng như tế bào nhân thực."
+  },
+  {
+    "level": 8,
+    "question": "Virus chỉ nhân lên được khi có điều kiện nào?",
+    "answers": [
+      "Trong môi trường dinh dưỡng vô bào thông thường",
+      "Trên bề mặt khô không có tế bào",
+      "Trong nước tinh khiết vô trùng",
+      "Ở trong tế bào chủ thích hợp"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Virus cần sử dụng bộ máy của tế bào chủ để tạo virus mới."
+  },
+  {
+    "level": 6,
+    "question": "Trong hệ sinh thái, thực vật xanh thường thuộc nhóm nào?",
+    "answers": [
+      "Sinh vật sản xuất",
+      "Sinh vật tiêu thụ bậc một",
+      "Sinh vật tiêu thụ bậc hai",
+      "Sinh vật phân giải"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Thực vật xanh tổng hợp chất hữu cơ từ các chất vô cơ nhờ quang hợp."
+  },
+  {
+    "level": 7,
+    "question": "Nấm và nhiều vi khuẩn phân hủy xác sinh vật thuộc nhóm sinh thái nào?",
+    "answers": [
+      "Sinh vật sản xuất",
+      "Sinh vật phân giải",
+      "Sinh vật tiêu thụ bậc một chỉ ăn cỏ",
+      "Sinh vật tiêu thụ bậc cao chỉ săn mồi"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Sinh vật phân giải chuyển chất hữu cơ thành các chất đơn giản hơn."
+  },
+  {
+    "level": 8,
+    "question": "Gregor Mendel chủ yếu dùng loài cây nào trong các thí nghiệm di truyền nổi tiếng?",
+    "answers": [
+      "Ngô",
+      "Lúa nước",
+      "Đậu Hà Lan",
+      "Khoai tây"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Mendel nghiên cứu các tính trạng tương phản trên cây đậu Hà Lan."
+  },
+  {
+    "level": 8,
+    "question": "Trong ADN mạch kép thông thường, adenine bắt cặp với base nào?",
+    "answers": [
+      "Uracil",
+      "Cytosine",
+      "Guanine",
+      "Thymine"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Quy tắc bổ sung của ADN là A–T và G–C."
+  },
+  {
+    "level": 8,
+    "question": "Quá trình phân bào nào thường tạo hai tế bào con giữ nguyên số nhiễm sắc thể so với tế bào mẹ?",
+    "answers": [
+      "Nguyên phân",
+      "Giảm phân",
+      "Thụ tinh",
+      "Tiếp hợp"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Nguyên phân phân chia vật chất di truyền đã nhân đôi cho hai tế bào con."
+  },
+  {
+    "level": 9,
+    "question": "Quá trình nào làm giảm số bộ nhiễm sắc thể từ lưỡng bội xuống đơn bội?",
+    "answers": [
+      "Nguyên phân",
+      "Giảm phân",
+      "Nhân đôi ADN",
+      "Thụ tinh"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Giảm phân gồm hai lần phân bào sau một lần nhân đôi ADN."
+  },
+  {
+    "level": 6,
+    "question": "Hành tinh nào có nhiệt độ bề mặt trung bình cao nhất trong Hệ Mặt Trời?",
+    "answers": [
+      "Sao Thủy",
+      "Sao Hỏa",
+      "Sao Kim",
+      "Sao Hải Vương"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Khí quyển dày giàu CO₂ gây hiệu ứng nhà kính mạnh trên Sao Kim."
+  },
+  {
+    "level": 6,
+    "question": "Hành tinh nào nổi tiếng với hệ vành đai sáng dễ quan sát qua kính thiên văn nhỏ?",
+    "answers": [
+      "Sao Thủy",
+      "Trái Đất",
+      "Sao Hỏa",
+      "Sao Thổ"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Sao Thổ có hệ vành đai rộng và sáng, chủ yếu gồm các hạt băng."
+  },
+  {
+    "level": 9,
+    "question": "Hành tinh nào có trục quay nghiêng khoảng 98° nên thường được mô tả là quay nghiêng trên một bên?",
+    "answers": [
+      "Sao Thiên Vương",
+      "Sao Mộc",
+      "Trái Đất",
+      "Sao Thủy"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Độ nghiêng lớn khiến Sao Thiên Vương có tư thế quay rất khác phần lớn hành tinh."
+  },
+  {
+    "level": 7,
+    "question": "Trong tám hành tinh, hành tinh nào có quỹ đạo xa Mặt Trời nhất?",
+    "answers": [
+      "Sao Thiên Vương",
+      "Sao Hải Vương",
+      "Sao Thổ",
+      "Sao Mộc"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Quỹ đạo Sao Hải Vương nằm ngoài quỹ đạo của bảy hành tinh còn lại."
+  },
+  {
+    "level": 7,
+    "question": "Theo định luật Kepler thứ nhất, quỹ đạo hành tinh quanh Mặt Trời có dạng gì?",
+    "answers": [
+      "Parabol với Mặt Trời ở đỉnh",
+      "Đường thẳng qua Mặt Trời",
+      "Elip với Mặt Trời ở một tiêu điểm",
+      "Hình vuông tâm Mặt Trời"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Các quỹ đạo hành tinh được mô tả gần đúng bằng elip với Mặt Trời ở một tiêu điểm."
+  },
+  {
+    "level": 6,
+    "question": "Một năm trên một hành tinh thường được xác định bằng khoảng thời gian nào?",
+    "answers": [
+      "Một vòng tự quay quanh trục",
+      "Một lần nhật thực",
+      "Một lần va chạm thiên thạch",
+      "Một vòng chuyển động quanh ngôi sao chủ"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Năm là chu kỳ quỹ đạo của hành tinh quanh ngôi sao chủ."
+  },
+  {
+    "level": 8,
+    "question": "Khoảng thời gian trung bình từ một lần Trăng mới đến lần Trăng mới kế tiếp gần bằng bao nhiêu?",
+    "answers": [
+      "29,5 ngày",
+      "24 giờ",
+      "7 ngày",
+      "365 ngày"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Chu kỳ giao hội của Mặt Trăng dài khoảng29,53 ngày."
+  },
+  {
+    "level": 8,
+    "question": "Vì sao Mặt Trăng luôn hướng gần như cùng một mặt về Trái Đất?",
+    "answers": [
+      "Mặt Trăng hoàn toàn không tự quay",
+      "Chu kỳ tự quay gần bằng chu kỳ quay quanh Trái Đất",
+      "Trái Đất không tự quay",
+      "Mặt Trăng phát sáng ở đúng một mặt"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Sự khóa thủy triều khiến chu kỳ tự quay và chu kỳ quỹ đạo của Mặt Trăng gần bằng nhau."
+  },
+  {
+    "level": 7,
+    "question": "Vành đai tiểu hành tinh chính nằm giữa quỹ đạo hai hành tinh nào?",
+    "answers": [
+      "Trái Đất và Sao Hỏa",
+      "Sao Kim và Trái Đất",
+      "Sao Hỏa và Sao Mộc",
+      "Sao Thổ và Sao Thiên Vương"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Phần lớn các tiểu hành tinh của vành đai chính nằm giữa Sao Hỏa và Sao Mộc."
+  },
+  {
+    "level": 9,
+    "question": "Vành đai Kuiper nằm chủ yếu ở phía ngoài quỹ đạo hành tinh nào?",
+    "answers": [
+      "Sao Thủy",
+      "Trái Đất",
+      "Sao Hỏa",
+      "Sao Hải Vương"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Vành đai Kuiper là vùng nhiều thiên thể băng ngoài quỹ đạo Sao Hải Vương."
+  },
+  {
+    "level": 6,
+    "question": "Theo phân loại thiên văn từ năm 2006, Pluto được xếp vào nhóm nào?",
+    "answers": [
+      "Hành tinh lùn",
+      "Ngôi sao",
+      "Vệ tinh của Sao Hải Vương",
+      "Thiên hà"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Pluto đáp ứng tiêu chí hành tinh lùn và chưa dọn sạch vùng lân cận quỹ đạo."
+  },
+  {
+    "level": 7,
+    "question": "Trong quan sát bầu trời, chòm sao là gì?",
+    "answers": [
+      "Một hành tinh có nhiều vệ tinh",
+      "Vùng trời gắn với một mẫu hình sao quy ước",
+      "Một nhóm sao bắt buộc cách nhau cùng khoảng cách",
+      "Một đám mây trong khí quyển"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Chòm sao xác định các vùng trên thiên cầu; các sao nhìn gần nhau có thể ở rất xa nhau trong không gian."
+  },
+  {
+    "level": 9,
+    "question": "Sao Bắc Cực Polaris thuộc chòm sao nào?",
+    "answers": [
+      "Đại Hùng",
+      "Lạp Hộ",
+      "Tiểu Hùng",
+      "Thiên Nga"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Polaris nằm gần cực Bắc thiên cầu và thuộc chòm Tiểu Hùng."
+  },
+  {
+    "level": 8,
+    "question": "Mảnh thiên thể rơi tới mặt đất còn lại sau khi đi qua khí quyển được gọi là gì?",
+    "answers": [
+      "Sao băng",
+      "Sao lùn",
+      "Tinh vân",
+      "Thiên thạch"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Sao băng là vệt sáng trong khí quyển, còn vật rơi xuống đất được gọi là thiên thạch."
+  },
+  {
+    "level": 8,
+    "question": "Nguồn năng lượng chủ yếu trong lõi Mặt Trời là phản ứng nào?",
+    "answers": [
+      "Nhiệt hạch tổng hợp hydro thành heli",
+      "Phân hạch uranium",
+      "Nhiệt hạch tổng hợp sắt thành nguyên tố nặng hơn",
+      "Phản ứng oxy hóa hydrogen với oxy"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Trong lõi Mặt Trời, phản ứng nhiệt hạch biến hydro thành heli và giải phóng năng lượng."
+  },
+  {
+    "level": 7,
+    "question": "Tầng ozone trong tầng bình lưu giúp hấp thụ loại bức xạ nào?",
+    "answers": [
+      "Sóng âm",
+      "Tia cực tím",
+      "Sóng nước",
+      "Sóng địa chấn"
+    ],
+    "correct": 1,
+    "category": "Môi trường",
+    "explanation": "Ozone ở tầng bình lưu hấp thụ phần lớn UV-B và UV-C từ Mặt Trời."
+  },
+  {
+    "level": 9,
+    "question": "Khí nhà kính gây ấm lên chủ yếu nhờ tương tác với bức xạ nào do Trái Đất phát ra?",
+    "answers": [
+      "Tia gamma",
+      "Tia X",
+      "Bức xạ hồng ngoại",
+      "Tia cực tím bước sóng ngắn"
+    ],
+    "correct": 2,
+    "category": "Môi trường",
+    "explanation": "Khí nhà kính hấp thụ và phát lại bức xạ hồng ngoại, ảnh hưởng cân bằng năng lượng."
+  },
+  {
+    "level": 6,
+    "question": "Than đá và dầu mỏ thuộc nhóm tài nguyên nào?",
+    "answers": [
+      "Tái tạo theo từng mùa",
+      "Không chứa carbon",
+      "Chỉ hình thành trong một ngày",
+      "Không tái tạo trong thang thời gian đời người"
+    ],
+    "correct": 3,
+    "category": "Môi trường",
+    "explanation": "Nhiên liệu hóa thạch hình thành qua thời gian địa chất rất dài."
+  },
+  {
+    "level": 7,
+    "question": "Đặc điểm nào khiến nhiều loại nhựa thông thường tích tụ lâu trong môi trường?",
+    "answers": [
+      "Phân hủy sinh học rất chậm",
+      "Vi sinh vật phân hủy chúng rất nhanh",
+      "Chúng đều tan hết trong nước",
+      "Chúng không thể bị vỡ thành mảnh nhỏ"
+    ],
+    "correct": 0,
+    "category": "Môi trường",
+    "explanation": "Nhiều loại nhựa phân hủy sinh học chậm và có thể vỡ thành các mảnh nhỏ."
+  },
+  {
+    "level": 9,
+    "question": "Hồ bị dư thừa nitơ và phospho, dẫn đến tảo phát triển mạnh, là biểu hiện của hiện tượng nào?",
+    "answers": [
+      "Acid hóa do mưa acid",
+      "Phú dưỡng",
+      "Nhiễm mặn",
+      "Sa mạc hóa"
+    ],
+    "correct": 1,
+    "category": "Môi trường",
+    "explanation": "Dư thừa chất dinh dưỡng kích thích tảo và có thể làm nước thiếu oxy khi sinh khối bị phân hủy."
+  },
+  {
+    "level": 8,
+    "question": "Hai nhóm khí góp phần quan trọng tạo mưa acid là gì?",
+    "answers": [
+      "Heli và neon",
+      "Oxy và argon",
+      "SO₂ và các oxide nitơ",
+      "Hydro và krypton"
+    ],
+    "correct": 2,
+    "category": "Môi trường",
+    "explanation": "SO₂ và các oxide nitơ có thể tạo các acid trong khí quyển."
+  },
+  {
+    "level": 8,
+    "question": "Quá trình ủ phân hữu cơ hiếu khí cần được cung cấp khí nào?",
+    "answers": [
+      "Hydro",
+      "Methane",
+      "Carbon monoxide",
+      "Oxy"
+    ],
+    "correct": 3,
+    "category": "Môi trường",
+    "explanation": "Vi sinh vật hiếu khí cần oxy để phân hủy chất hữu cơ."
+  },
+  {
+    "level": 9,
+    "question": "Sự hấp thụ khí nào góp phần gây acid hóa đại dương?",
+    "answers": [
+      "Carbon dioxide",
+      "Heli",
+      "Neon",
+      "Argon"
+    ],
+    "correct": 0,
+    "category": "Môi trường",
+    "explanation": "CO₂ hòa tan làm thay đổi cân bằng carbon vô cơ và tăng nồng độ ion H⁺."
+  },
+  {
+    "level": 7,
+    "question": "Trong chuỗi cỏ→châu chấu→ếch, châu chấu là sinh vật thuộc bậc nào?",
+    "answers": [
+      "Sản xuất",
+      "Tiêu thụ bậc một",
+      "Tiêu thụ bậc ba",
+      "Phân giải duy nhất"
+    ],
+    "correct": 1,
+    "category": "Môi trường",
+    "explanation": "Châu chấu ăn sinh vật sản xuất là cỏ nên thuộc bậc tiêu thụ một."
+  },
+  {
+    "level": 6,
+    "question": "Việc phá rừng có thể làm suy giảm đa dạng sinh học trực tiếp vì điều gì?",
+    "answers": [
+      "Làm tăng ổn định mọi nguồn thức ăn",
+      "Tăng nơi trú ẩn cho mọi loài sống trong rừng",
+      "Làm mất và chia cắt sinh cảnh",
+      "Loại bỏ cạnh tranh giữa mọi quần thể"
+    ],
+    "correct": 2,
+    "category": "Môi trường",
+    "explanation": "Mất sinh cảnh làm giảm nơi sống và nguồn thức ăn của nhiều loài."
+  },
+  {
+    "level": 10,
+    "question": "Tổng động lượng của một hệ được bảo toàn khi điều kiện nào được thỏa mãn?",
+    "answers": [
+      "Mọi vật trong hệ có cùng khối lượng",
+      "Động năng của từng vật luôn bằng nhau",
+      "Mọi vật trong hệ đều đứng yên ban đầu",
+      "Tổng ngoại lực tác dụng lên hệ bằng không"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Tổng ngoại lực bằng không thì tổng động lượng của hệ không đổi theo thời gian."
+  },
+  {
+    "level": 8,
+    "question": "Một vật giữ nguyên khối lượng nhưng tăng tốc độ gấp đôi thì động năng cổ điển thay đổi thế nào?",
+    "answers": [
+      "Tăng gấp bốn",
+      "Tăng gấp hai",
+      "Giảm một nửa",
+      "Không đổi"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Động năng bằng một nửa khối lượng nhân bình phương tốc độ."
+  },
+  {
+    "level": 8,
+    "question": "Gần mặt đất, thế năng trọng trường của một vật tăng khi đại lượng nào tăng, với mốc và khối lượng không đổi?",
+    "answers": [
+      "Tốc độ ngang của vật",
+      "Độ cao của vật",
+      "Nhiệt độ của vật",
+      "Diện tích bề mặt vật"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Trong trọng trường gần đều, thế năng so với mốc đã chọn bằng mgh."
+  },
+  {
+    "level": 9,
+    "question": "Công của một lực không đổi bằng bao nhiêu nếu lực luôn vuông góc với độ dời?",
+    "answers": [
+      "Bằng tích lực và độ dời",
+      "Bằng hai lần tích lực và độ dời",
+      "Bằng không",
+      "Bằng độ lớn của lực"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Công bằng F·s·cosθ; khi θ bằng 90° thì cosθ bằng không."
+  },
+  {
+    "level": 9,
+    "question": "Trong chuyển động tròn đều, gia tốc hướng tâm có hướng thế nào so với vận tốc tức thời?",
+    "answers": [
+      "Cùng chiều vận tốc",
+      "Ngược chiều vận tốc",
+      "Luôn hướng thẳng đứng lên",
+      "Vuông góc với vận tốc"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Vận tốc tiếp tuyến với quỹ đạo còn gia tốc hướng về tâm đường tròn."
+  },
+  {
+    "level": 13,
+    "question": "Mômen động lượng của hệ quanh một điểm được bảo toàn nếu đại lượng nào bằng không?",
+    "answers": [
+      "Tổng mômen ngoại lực quanh điểm đó",
+      "Tổng khối lượng của hệ",
+      "Tổng động năng của hệ",
+      "Tổng điện tích của hệ"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Mômen ngoại lực là tốc độ biến đổi mômen động lượng."
+  },
+  {
+    "level": 8,
+    "question": "Hiệu điện thế giữa hai điểm biểu thị công trên mỗi đơn vị đại lượng nào?",
+    "answers": [
+      "Thể tích",
+      "Điện tích",
+      "Khối lượng",
+      "Thời gian"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Hiệu điện thế liên hệ với công của lực điện trên một đơn vị điện tích."
+  },
+  {
+    "level": 8,
+    "question": "Một dây dẫn đồng chất giữ nguyên tiết diện và nhiệt độ; tăng chiều dài làm điện trở thay đổi thế nào?",
+    "answers": [
+      "Giảm xuống",
+      "Không đổi",
+      "Tăng lên",
+      "Luôn về không"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Điện trở dây dẫn tỉ lệ với chiều dài khi điện trở suất và tiết diện không đổi."
+  },
+  {
+    "level": 13,
+    "question": "Đặc điểm điện trở của vật liệu ở trạng thái siêu dẫn là gì?",
+    "answers": [
+      "Điện trở luôn tăng vô hạn",
+      "Điện trở phụ thuộc tuyến tính vào chiều cao",
+      "Điện trở bằng của không khí khô",
+      "Điện trở một chiều bằng không"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Trong trạng thái siêu dẫn, vật liệu có điện trở một chiều bằng không dưới các điều kiện tới hạn."
+  },
+  {
+    "level": 12,
+    "question": "Theo định luật Faraday, độ lớn suất điện động cảm ứng phụ thuộc vào tốc độ biến thiên của đại lượng nào?",
+    "answers": [
+      "Từ thông qua mạch",
+      "Khối lượng dây dẫn",
+      "Nhiệt dung riêng của dây",
+      "Thể tích không khí quanh dây"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Suất điện động cảm ứng tỉ lệ với tốc độ biến thiên từ thông liên kết với mạch."
+  },
+  {
+    "level": 13,
+    "question": "Định luật Lenz xác định chiều dòng điện cảm ứng theo nguyên tắc nào?",
+    "answers": [
+      "Luôn cùng chiều kim đồng hồ",
+      "Chống lại sự biến đổi từ thông gây ra nó",
+      "Luôn làm từ thông tăng",
+      "Luôn vuông góc với dây dẫn"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Từ trường do dòng cảm ứng tạo ra chống lại sự biến đổi từ thông ban đầu."
+  },
+  {
+    "level": 10,
+    "question": "Tụ điện lý tưởng chủ yếu lưu trữ năng lượng dưới dạng nào?",
+    "answers": [
+      "Năng lượng từ trường",
+      "Năng lượng phản ứng hóa học",
+      "Năng lượng điện trường",
+      "Động năng của bản kim loại"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Hai bản tụ tích điện trái dấu và tạo điện trường chứa năng lượng."
+  },
+  {
+    "level": 13,
+    "question": "Trong sóng điện từ phẳng truyền trong chân không, điện trường và từ trường có quan hệ hướng nào?",
+    "answers": [
+      "Song song nhau và cùng phương truyền",
+      "Song song nhau và vuông góc phương truyền",
+      "Vuông góc nhau nhưng điện trường cùng phương truyền",
+      "Vuông góc nhau và cùng vuông góc phương truyền"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Sóng điện từ trong chân không là sóng ngang với E, B và phương truyền đôi một vuông góc."
+  },
+  {
+    "level": 10,
+    "question": "Sóng điện từ trong chân không có tần số f thì bước sóng λ thỏa mãn hệ thức nào?",
+    "answers": [
+      "λ=c/f",
+      "λ=c×f",
+      "λ=f/c",
+      "λ=c+f"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Vận tốc truyền sóng bằng tích bước sóng và tần số."
+  },
+  {
+    "level": 12,
+    "question": "Một nguồn âm chuyển động ra xa người nghe đứng yên thì tần số nghe được thường thế nào so với khi nguồn đứng yên?",
+    "answers": [
+      "Cao hơn",
+      "Thấp hơn",
+      "Luôn bằng không",
+      "Bằng hai lần"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Hiệu ứng Doppler làm các mặt sóng giãn ra khi nguồn đi xa người nghe."
+  },
+  {
+    "level": 13,
+    "question": "Hai nguồn sóng kết hợp cần có cùng tần số và đặc điểm nào?",
+    "answers": [
+      "Biên độ bắt buộc bằng nhau",
+      "Vị trí bắt buộc trùng nhau",
+      "Hiệu số pha không đổi theo thời gian",
+      "Công suất luôn bằng không"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Hiệu số pha ổn định giúp hình giao thoa được duy trì."
+  },
+  {
+    "level": 12,
+    "question": "Hiện tượng sóng lan vào vùng bóng hình học khi đi qua khe hẹp được gọi là gì?",
+    "answers": [
+      "Phản xạ toàn phần",
+      "Đối lưu",
+      "Phóng xạ",
+      "Nhiễu xạ"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Nhiễu xạ thể hiện rõ khi kích thước khe hoặc vật cản tương đương bước sóng."
+  },
+  {
+    "level": 13,
+    "question": "Phản xạ toàn phần có thể xảy ra khi ánh sáng truyền theo chiều nào?",
+    "answers": [
+      "Từ môi trường chiết suất cao sang thấp với góc tới đủ lớn",
+      "Từ môi trường chiết suất thấp sang cao với mọi góc tới",
+      "Chỉ từ chân không vào thủy tinh",
+      "Chỉ khi góc tới bằng không"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Ánh sáng phải đi từ chiết suất lớn sang nhỏ và góc tới vượt góc giới hạn."
+  },
+  {
+    "level": 13,
+    "question": "Việc phân cực được ánh sáng chứng tỏ ánh sáng có tính chất sóng nào?",
+    "answers": [
+      "Sóng dọc thuần túy",
+      "Sóng ngang",
+      "Sóng cơ chỉ truyền trong chất rắn",
+      "Sóng âm trong không khí"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Phân cực lựa chọn phương dao động ngang của điện trường."
+  },
+  {
+    "level": 14,
+    "question": "Theo định luật dịch chuyển Wien, khi nhiệt độ tuyệt đối của vật đen tăng, bước sóng tại cực đại phổ thay đổi thế nào?",
+    "answers": [
+      "Tăng lên",
+      "Không đổi",
+      "Giảm xuống",
+      "Luôn bằng tốc độ ánh sáng"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Tích bước sóng cực đại và nhiệt độ tuyệt đối của vật đen là một hằng số."
+  },
+  {
+    "level": 14,
+    "question": "Theo định luật Stefan–Boltzmann, công suất bức xạ trên một đơn vị diện tích của vật đen tỉ lệ với gì?",
+    "answers": [
+      "Nhiệt độ Celsius",
+      "Căn bậc hai của nhiệt độ tuyệt đối",
+      "Nghịch đảo nhiệt độ tuyệt đối",
+      "Lũy thừa bậc bốn của nhiệt độ tuyệt đối"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Đối với vật đen, suất phát xạ toàn phần bằng σT⁴."
+  },
+  {
+    "level": 15,
+    "question": "Hiệu suất cực đại của động cơ nhiệt hoạt động giữa hai nguồn nhiệt cố định được mô tả bởi chu trình nào?",
+    "answers": [
+      "Carnot",
+      "Brayton thực tế bất kỳ",
+      "Diesel thực tế bất kỳ",
+      "Otto thực tế bất kỳ"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Động cơ Carnot thuận nghịch đạt hiệu suất giới hạn giữa hai nguồn nhiệt cho trước."
+  },
+  {
+    "level": 13,
+    "question": "Nếu Q là nhiệt hệ nhận và W là công hệ thực hiện, định luật I nhiệt động lực học có dạng nào?",
+    "answers": [
+      "ΔU=Q+W",
+      "ΔU=Q−W",
+      "ΔU=W−Q",
+      "ΔU=Q×W"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Nội năng tăng bằng nhiệt nhận vào trừ công hệ sinh ra theo quy ước đã nêu."
+  },
+  {
+    "level": 13,
+    "question": "Nội năng của một lượng khí lý tưởng thay đổi thế nào trong quá trình đẳng nhiệt?",
+    "answers": [
+      "Luôn tăng",
+      "Luôn giảm",
+      "Không đổi",
+      "Tăng bằng áp suất"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Nội năng khí lý tưởng chỉ phụ thuộc nhiệt độ nên không đổi trong quá trình đẳng nhiệt."
+  },
+  {
+    "level": 10,
+    "question": "Hạt alpha là hạt nhân của nguyên tử nào?",
+    "answers": [
+      "Hydro-1",
+      "Carbon-12",
+      "Oxy-16",
+      "Heli-4"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Hạt alpha gồm hai proton và hai neutron, tương ứng hạt nhân heli-4."
+  },
+  {
+    "level": 13,
+    "question": "Trong phân rã beta trừ, hạt mang điện được phát ra là hạt nào?",
+    "answers": [
+      "Electron",
+      "Positron",
+      "Proton",
+      "Hạt alpha"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Phân rã beta trừ biến neutron thành proton và phát electron cùng phản neutrino."
+  },
+  {
+    "level": 9,
+    "question": "Chu kỳ bán rã của đồng vị phóng xạ mô tả khoảng thời gian nào?",
+    "answers": [
+      "Toàn bộ hạt nhân phân rã hết",
+      "Số hạt nhân chưa phân rã giảm còn một nửa",
+      "Khối lượng mỗi proton giảm một nửa",
+      "Nhiệt độ mẫu giảm một nửa"
+    ],
+    "correct": 1,
+    "category": "Vật lý",
+    "explanation": "Sau một chu kỳ bán rã, số hạt nhân phóng xạ chưa phân rã trung bình còn một nửa."
+  },
+  {
+    "level": 14,
+    "question": "Chiếu ánh sáng có tần số dưới ngưỡng quang điện lên kim loại thì tăng cường độ ánh sáng sẽ gây điều gì theo mô hình quang điện một photon?",
+    "answers": [
+      "Luôn bật electron có động năng lớn",
+      "Làm giảm công thoát về không",
+      "Vẫn không bật electron quang điện",
+      "Làm mọi electron trở thành proton"
+    ],
+    "correct": 2,
+    "category": "Vật lý",
+    "explanation": "Năng lượng mỗi photon hf phải đạt công thoát; tăng số photon không tăng năng lượng mỗi photon."
+  },
+  {
+    "level": 15,
+    "question": "Trong tán xạ Compton trên electron gần như tự do đứng yên, photon tán xạ ở góc khác không có bước sóng thế nào?",
+    "answers": [
+      "Nhỏ hơn bước sóng ban đầu",
+      "Luôn bằng bước sóng ban đầu",
+      "Luôn bằng không",
+      "Lớn hơn bước sóng ban đầu"
+    ],
+    "correct": 3,
+    "category": "Vật lý",
+    "explanation": "Photon truyền một phần năng lượng cho electron nên năng lượng giảm và bước sóng tăng."
+  },
+  {
+    "level": 14,
+    "question": "Theo de Broglie, bước sóng liên kết với một hạt có động lượng p bằng gì?",
+    "answers": [
+      "h/p",
+      "h×p",
+      "p/h",
+      "h+p"
+    ],
+    "correct": 0,
+    "category": "Vật lý",
+    "explanation": "Hệ thức de Broglie liên hệ bước sóng vật chất với động lượng qua λ=h/p."
+  },
+  {
+    "level": 10,
+    "question": "Năng lượng ion hóa thứ nhất là năng lượng cần để thực hiện quá trình nào?",
+    "answers": [
+      "Thêm một neutron vào hạt nhân",
+      "Tách một electron khỏi nguyên tử trung hòa ở trạng thái khí",
+      "Tách một proton khỏi phân tử nước",
+      "Làm tan một tinh thể trong nước"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Ion hóa thứ nhất biến nguyên tử khí trung hòa thành ion dương đơn điện tích."
+  },
+  {
+    "level": 9,
+    "question": "Trên thang Pauling, nguyên tố nào có độ âm điện lớn nhất?",
+    "answers": [
+      "Oxy",
+      "Chlorine",
+      "Fluor",
+      "Nitơ"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Fluor có độ âm điện lớn nhất trên thang Pauling."
+  },
+  {
+    "level": 12,
+    "question": "Chất nào sau đây tạo liên kết hydrogen đáng kể giữa các phân tử của chất tinh khiết?",
+    "answers": [
+      "Methane",
+      "Carbon tetrachloride",
+      "Hydro",
+      "Nước"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Các phân tử nước có H liên kết với O và các cặp electron tự do trên O."
+  },
+  {
+    "level": 12,
+    "question": "Theo mô hình VSEPR, hình dạng phân tử nước là gì?",
+    "answers": [
+      "Gấp khúc",
+      "Thẳng",
+      "Tam giác phẳng",
+      "Tứ diện của ba nguyên tử"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Hai cặp electron tự do trên O làm hai liên kết O–H tạo dạng gấp khúc."
+  },
+  {
+    "level": 12,
+    "question": "Bốn liên kết C–H trong phân tử methane hướng theo hình học nào?",
+    "answers": [
+      "Vuông phẳng",
+      "Tứ diện",
+      "Thẳng",
+      "Lưỡng tháp tam giác"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Bốn miền liên kết quanh carbon của methane sắp xếp gần hình tứ diện."
+  },
+  {
+    "level": 14,
+    "question": "Carbon trong phân tử ethene C₂H₄ thường được mô tả có kiểu lai hóa nào?",
+    "answers": [
+      "sp³",
+      "sp",
+      "sp²",
+      "sp³d²"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Mỗi carbon của ethene tạo ba liên kết sigma trong mặt phẳng và một liên kết pi."
+  },
+  {
+    "level": 14,
+    "question": "Một nguyên tử carbon bất đối điển hình liên kết với bốn nhóm như thế nào?",
+    "answers": [
+      "Bốn nhóm giống nhau",
+      "Chỉ hai nguyên tử hydrogen",
+      "Bốn nguyên tử carbon bắt buộc",
+      "Bốn nhóm khác nhau"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Carbon tứ diện gắn bốn nhóm khác nhau có thể là tâm bất đối."
+  },
+  {
+    "level": 13,
+    "question": "Trong mô hình hiện đại của benzene, sáu electron pi có đặc điểm nào?",
+    "answers": [
+      "Phi định xứ trên vòng sáu carbon",
+      "Chỉ tập trung ở một carbon",
+      "Mỗi electron nằm trong một proton",
+      "Không tương tác với hệ vòng"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Sự phi định xứ electron pi góp phần vào tính thơm và độ bền của benzene."
+  },
+  {
+    "level": 7,
+    "question": "Một mol chứa số thực thể gần bằng giá trị nào?",
+    "answers": [
+      "6,022×10²⁰",
+      "6,022×10²³",
+      "3,011×10²³",
+      "1,000×10²⁴"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Hằng số Avogadro xác định số thực thể trong một mol."
+  },
+  {
+    "level": 9,
+    "question": "Nồng độ mol của dung dịch là số mol chất tan trên một đơn vị nào?",
+    "answers": [
+      "Kilôgam dung môi",
+      "Lít dung môi trước khi pha",
+      "Lít dung dịch",
+      "Mét vuông bề mặt dung dịch"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Nồng độ mol thường có đơn vị mol/L và tính trên thể tích dung dịch cuối cùng."
+  },
+  {
+    "level": 12,
+    "question": "Một mol khí lý tưởng ở 0°C và 1 atm chiếm thể tích xấp xỉ bao nhiêu?",
+    "answers": [
+      "24,8 lít",
+      "11,2 lít",
+      "44,8 lít",
+      "22,4 lít"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Thay T=273,15 K và áp suất 1 atm vào phương trình khí lý tưởng cho khoảng 22,4 L/mol."
+  },
+  {
+    "level": 10,
+    "question": "Phương trình trạng thái của khí lý tưởng cho n mol khí là gì?",
+    "answers": [
+      "PV=nRT",
+      "P+V=nRT",
+      "P/V=nRT",
+      "PV=nR/T"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Phương trình khí lý tưởng liên hệ áp suất, thể tích, lượng chất và nhiệt độ tuyệt đối."
+  },
+  {
+    "level": 14,
+    "question": "Với phản ứng thuận tỏa nhiệt đang cân bằng, tăng nhiệt độ thường làm cân bằng chuyển theo chiều nào?",
+    "answers": [
+      "Chiều thuận",
+      "Chiều nghịch",
+      "Không bao giờ chuyển dịch",
+      "Chỉ phụ thuộc màu dung dịch"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Theo Le Châtelier, tăng nhiệt độ ưu tiên chiều thu nhiệt, tức chiều nghịch trong trường hợp này."
+  },
+  {
+    "level": 13,
+    "question": "Thêm chất xúc tác vào hệ phản ứng đang cân bằng ở cùng nhiệt độ làm hằng số cân bằng thay đổi thế nào?",
+    "answers": [
+      "Luôn tăng gấp đôi",
+      "Luôn giảm một nửa",
+      "Không đổi",
+      "Trở thành không"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Chất xúc tác tăng tốc cả hai chiều và không làm đổi hằng số cân bằng ở cùng nhiệt độ."
+  },
+  {
+    "level": 13,
+    "question": "Cặp chất nào phù hợp để tạo dung dịch đệm acid?",
+    "answers": [
+      "HCl và NaCl",
+      "NaOH và KCl",
+      "HNO₃ và nước tinh khiết",
+      "Acid acetic và natri acetate"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Acid yếu và base liên hợp của nó có thể chống lại biến đổi pH khi thêm ít acid hoặc base."
+  },
+  {
+    "level": 15,
+    "question": "Theo Henderson–Hasselbalch, nếu nồng độ acid yếu và base liên hợp bằng nhau thì pH gần bằng gì?",
+    "answers": [
+      "pKa của acid",
+      "Ka của acid",
+      "Hai lần pKa",
+      "Không trong mọi trường hợp"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Tỉ số base liên hợp trên acid bằng1 khiến số hạng logarit bằng không."
+  },
+  {
+    "level": 15,
+    "question": "Với một muối ít tan, nếu tích số ion Q vượt tích số tan Ksp thì xu hướng nào xảy ra?",
+    "answers": [
+      "Kết tủa chắc chắn tan hết",
+      "Kết tủa hình thành",
+      "Không thể có thay đổi",
+      "Mọi ion biến thành khí"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Khi Q lớn hơn Ksp, hệ quá bão hòa và có xu hướng tạo kết tủa."
+  },
+  {
+    "level": 14,
+    "question": "Thế điện cực chuẩn của điện cực hydrogen chuẩn được quy ước bằng bao nhiêu?",
+    "answers": [
+      "1 V",
+      "−1 V",
+      "0 V",
+      "0,5 V"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Điện cực hydrogen chuẩn là mốc quy ước 0 V để xác định các thế điện cực khác."
+  },
+  {
+    "level": 13,
+    "question": "Trong hydrogen peroxide H₂O₂, số oxy hóa của oxy là bao nhiêu?",
+    "answers": [
+      "−2",
+      "0",
+      "+2",
+      "−1"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Trong peroxide, mỗi nguyên tử oxy có số oxy hóa−1."
+  },
+  {
+    "level": 15,
+    "question": "Màu của nhiều phức chất kim loại chuyển tiếp thường liên quan đến sự chuyển electron giữa các mức nào?",
+    "answers": [
+      "Các mức orbital d bị tách năng lượng",
+      "Các mức proton trong hạt nhân",
+      "Các trạng thái neutron tự do",
+      "Các mức dao động của khối lượng toàn dung dịch"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Trường phối tử tách các mức d; hấp thụ ánh sáng có thể gây chuyển mức electron."
+  },
+  {
+    "level": 13,
+    "question": "Ở cathode của pin điện hóa đang phát điện xảy ra loại quá trình nào?",
+    "answers": [
+      "Oxy hóa",
+      "Khử",
+      "Phân rã alpha",
+      "Trùng hợp bắt buộc"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Cathode là điện cực nơi diễn ra sự nhận electron, tức quá trình khử."
+  },
+  {
+    "level": 14,
+    "question": "Theo định luật Faraday, khối lượng chất tạo ở điện cực tỉ lệ với đại lượng nào khi phản ứng điện cực cố định?",
+    "answers": [
+      "Điện trở bình điện phân",
+      "Áp suất khí quyển",
+      "Điện lượng đi qua",
+      "Diện tích đáy bình trong mọi trường hợp"
+    ],
+    "correct": 2,
+    "category": "Hóa học",
+    "explanation": "Với phản ứng cố định, lượng chất tạo ra tỉ lệ với số mol electron, tức điện lượng."
+  },
+  {
+    "level": 10,
+    "question": "Công thức chung của alkane mạch hở là gì?",
+    "answers": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙHₙ",
+      "CₙH₂ₙ₊₂"
+    ],
+    "correct": 3,
+    "category": "Hóa học",
+    "explanation": "Alkane mạch hở là hydrocarbon no chỉ có liên kết đơn và công thức CₙH₂ₙ₊₂."
+  },
+  {
+    "level": 12,
+    "question": "Monomer dùng để tạo polyethylene bằng phản ứng trùng hợp là chất nào?",
+    "answers": [
+      "Ethene",
+      "Ethanol",
+      "Ethanoic acid",
+      "Ethane"
+    ],
+    "correct": 0,
+    "category": "Hóa học",
+    "explanation": "Liên kết đôi của ethene mở ra để nối nhiều đơn vị thành polyethylene."
+  },
+  {
+    "level": 10,
+    "question": "Các amino acid trong chuỗi protein nối với nhau chủ yếu bằng liên kết nào?",
+    "answers": [
+      "Glycosidic",
+      "Peptide",
+      "Phosphodiester",
+      "Liên kết kim loại"
+    ],
+    "correct": 1,
+    "category": "Hóa học",
+    "explanation": "Liên kết peptide hình thành giữa nhóm carboxyl và nhóm amino của các amino acid."
+  },
+  {
+    "level": 9,
+    "question": "Phân tử nào thường được gọi là đồng tiền năng lượng trực tiếp của tế bào?",
+    "answers": [
+      "ADN",
+      "Cellulose",
+      "ATP",
+      "Cholesterol"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Thủy phân ATP có thể ghép với các quá trình cần năng lượng trong tế bào."
+  },
+  {
+    "level": 10,
+    "question": "Ở tế bào nhân thực, đường phân diễn ra chủ yếu ở đâu?",
+    "answers": [
+      "Chất nền ti thể",
+      "Màng trong ti thể",
+      "Trong hạch nhân",
+      "Bào tương"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Đường phân chuyển glucose thành pyruvate trong bào tương."
+  },
+  {
+    "level": 12,
+    "question": "Ở tế bào nhân thực, phần lớn phản ứng của chu trình citric diễn ra ở đâu?",
+    "answers": [
+      "Chất nền ti thể",
+      "Màng sinh chất",
+      "Lòng lysosome",
+      "Màng ngoài nhân"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Chu trình citric diễn ra chủ yếu trong chất nền ti thể."
+  },
+  {
+    "level": 12,
+    "question": "Chất nhận electron cuối cùng của chuỗi vận chuyển electron trong hô hấp hiếu khí là gì?",
+    "answers": [
+      "Carbon dioxide",
+      "Oxy",
+      "Glucose",
+      "ATP"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Oxy nhận electron và proton để hình thành nước ở cuối chuỗi hô hấp."
+  },
+  {
+    "level": 13,
+    "question": "Oxy giải phóng trong quang hợp của thực vật có nguồn trực tiếp từ chất nào?",
+    "answers": [
+      "Carbon dioxide",
+      "Glucose",
+      "Nước",
+      "Nitơ"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Phản ứng tách nước trong pha sáng cung cấp electron và giải phóng oxy."
+  },
+  {
+    "level": 13,
+    "question": "Chu trình Calvin của lục lạp diễn ra ở đâu?",
+    "answers": [
+      "Lòng thylakoid",
+      "Màng ngoài ti thể",
+      "Bào tương của tế bào",
+      "Chất nền lục lạp"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Các phản ứng cố định carbon của chu trình Calvin diễn ra ở chất nền lục lạp."
+  },
+  {
+    "level": 14,
+    "question": "Trong quang hợp C4, sản phẩm ổn định đầu tiên của quá trình cố định CO₂ có bao nhiêu nguyên tử carbon?",
+    "answers": [
+      "Bốn",
+      "Hai",
+      "Ba",
+      "Sáu"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "CO₂ được cố định ban đầu vào hợp chất bốn carbon như oxaloacetate."
+  },
+  {
+    "level": 14,
+    "question": "Nhiều thực vật CAM mở khí khổng chủ yếu vào thời điểm nào?",
+    "answers": [
+      "Chỉ giữa trưa",
+      "Ban đêm",
+      "Chỉ lúc quang hợp ngừng hoàn toàn cả năm",
+      "Suốt ngày nhưng luôn đóng ban đêm"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Mở khí khổng ban đêm giúp thực vật CAM giảm mất nước trong môi trường khô."
+  },
+  {
+    "level": 12,
+    "question": "Nhân đôi ADN theo nguyên tắc bán bảo tồn nghĩa là mỗi ADN con gồm những mạch nào?",
+    "answers": [
+      "Hai mạch đều cũ",
+      "Hai mạch đều mới",
+      "Một mạch cũ và một mạch mới",
+      "Mỗi mạch có đúng một nửa là protein"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Mỗi mạch ADN ban đầu làm khuôn tổng hợp một mạch bổ sung mới."
+  },
+  {
+    "level": 14,
+    "question": "ADN polymerase tổng hợp mạch ADN mới theo chiều nào?",
+    "answers": [
+      "3′→5′",
+      "Từ giữa ra hai đầu cùng lúc trên một mạch",
+      "Theo chiều bất kỳ không cần khuôn",
+      "5′→3′"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "ADN polymerase gắn nucleotide mới vào nhóm3′-OH của mạch đang kéo dài."
+  },
+  {
+    "level": 9,
+    "question": "Base nào có trong ARN thông thường nhưng thay cho thymine của ADN?",
+    "answers": [
+      "Uracil",
+      "Adenine",
+      "Cytosine",
+      "Guanine"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "ARN thường dùng uracil trong khi ADN dùng thymine."
+  },
+  {
+    "level": 10,
+    "question": "Một codon trên mRNA gồm bao nhiêu nucleotide?",
+    "answers": [
+      "Hai",
+      "Ba",
+      "Bốn",
+      "Sáu"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Mã di truyền được đọc theo các bộ ba nucleotide gọi là codon."
+  },
+  {
+    "level": 13,
+    "question": "Codon khởi đầu AUG thường mã hóa amino acid nào trong chuỗi protein?",
+    "answers": [
+      "Tryptophan",
+      "Glycine",
+      "Methionine",
+      "Alanine"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "AUG thường là codon khởi đầu và mã hóa methionine trong mã di truyền chuẩn."
+  },
+  {
+    "level": 13,
+    "question": "Bộ ba trên tRNA bắt cặp bổ sung với codon của mRNA gọi là gì?",
+    "answers": [
+      "Promoter",
+      "Intron",
+      "Telomere",
+      "Anticodon"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Anticodon giúp tRNA nhận đúng codon khi ribosome dịch mã."
+  },
+  {
+    "level": 15,
+    "question": "Thay đổi điều hòa hoạt động gen mà không đổi trình tự nucleotide thường thuộc lĩnh vực nào?",
+    "answers": [
+      "Biểu sinh",
+      "Đột biến thay thế base",
+      "Đột biến mất đoạn",
+      "Đột biến đảo đoạn"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Biểu sinh nghiên cứu những thay đổi hoạt động gen, ví dụ do methyl hóa ADN, không cần đổi trình tự."
+  },
+  {
+    "level": 13,
+    "question": "Trong hệ nhóm máu ABO, sự biểu hiện đồng thời allele A và B ở người nhóm AB là ví dụ của hiện tượng nào?",
+    "answers": [
+      "Trội hoàn toàn của A",
+      "Đồng trội",
+      "Trội hoàn toàn của B",
+      "Di truyền ngoài nhân"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Hai allele A và B đều biểu hiện ở kiểu gen IᴬIᴮ."
+  },
+  {
+    "level": 13,
+    "question": "Nam giới có kiểu nhiễm sắc thể XY thường dễ biểu hiện allele lặn trên X hơn nữ XX vì điều gì?",
+    "answers": [
+      "Có hai nhiễm sắc thểX",
+      "Không có gen trên X",
+      "Chỉ có một bản sao của phần lớn gen trên X",
+      "Mọi allele trên Y đều trội hơnX"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Một allele lặn trên X có thể biểu hiện ở nam do không có allele tương ứng trên một X thứ hai."
+  },
+  {
+    "level": 14,
+    "question": "Trao đổi chéo giữa các nhiễm sắc thể tương đồng diễn ra chủ yếu ở giai đoạn nào?",
+    "answers": [
+      "Kỳ sau II của giảm phân",
+      "Kỳ cuối của nguyên phân",
+      "Ngay sau khi tế bào chết",
+      "Kỳ đầu I của giảm phân"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Nhiễm sắc thể tương đồng tiếp hợp và có thể trao đổi đoạn trong kỳ đầu I."
+  },
+  {
+    "level": 14,
+    "question": "Sự không phân ly nhiễm sắc thể trong giảm phân có thể trực tiếp tạo giao tử mang đặc điểm nào?",
+    "answers": [
+      "Thừa hoặc thiếu nhiễm sắc thể",
+      "Luôn có đúng bộ đơn bội bình thường",
+      "Không có bất kỳ protein nào",
+      "Có gấp đôi số proton trong mọi nguyên tử"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Nhiễm sắc thể không tách đúng làm chúng phân bố không đều giữa các tế bào con."
+  },
+  {
+    "level": 12,
+    "question": "Hai khả năng đặc trưng của tế bào gốc là gì?",
+    "answers": [
+      "Chỉ co cơ và dẫn điện",
+      "Tự đổi mới và biệt hóa",
+      "Chỉ quang hợp và thoát hơi nước",
+      "Chỉ tạo kháng thể và đông máu"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Tế bào gốc có thể tạo thêm tế bào gốc và phát triển thành một số loại tế bào chuyên hóa."
+  },
+  {
+    "level": 15,
+    "question": "Mỗi chu kỳ bơm Na⁺/K⁺-ATPase điển hình vận chuyển các ion theo tỉ lệ nào?",
+    "answers": [
+      "2 Na⁺ ra ngoài và 3 K⁺ vào trong",
+      "3 Na⁺ vào trong và 2 K⁺ ra ngoài",
+      "3 Na⁺ ra ngoài và 2 K⁺ vào trong",
+      "1 Na⁺ ra ngoài và 1 K⁺ vào trong"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Bơm tiêu thụ ATP để đưa ba ion natri ra ngoài và hai ion kali vào trong tế bào."
+  },
+  {
+    "level": 14,
+    "question": "Ở neuron điển hình, pha khử cực nhanh của điện thế hoạt động chủ yếu do ion nào đi vào tế bào?",
+    "answers": [
+      "K⁺",
+      "Cl⁻",
+      "Phosphate",
+      "Na⁺"
+    ],
+    "correct": 3,
+    "category": "Sinh học",
+    "explanation": "Kênh natri phụ thuộc điện thế mở làm Na⁺ đi vào, khiến điện thế màng tăng nhanh."
+  },
+  {
+    "level": 13,
+    "question": "Ở synapse hóa học, chất truyền tin được giải phóng chủ yếu từ cấu trúc nào?",
+    "answers": [
+      "Các túi ở đầu tận cùng trước synapse",
+      "Nhân của tế bào sau synapse",
+      "Các nhiễm sắc thể của neuron",
+      "Màng ngoài của hồng cầu"
+    ],
+    "correct": 0,
+    "category": "Sinh học",
+    "explanation": "Túi synapse hòa màng và giải phóng chất truyền tin vào khe synapse."
+  },
+  {
+    "level": 13,
+    "question": "Trong nephron của thận, sự lọc máu ban đầu diễn ra chủ yếu tại cấu trúc nào?",
+    "answers": [
+      "Ống góp",
+      "Cầu thận",
+      "Niệu quản",
+      "Bể thận"
+    ],
+    "correct": 1,
+    "category": "Sinh học",
+    "explanation": "Máu được lọc qua các mao mạch cầu thận vào bao Bowman."
+  },
+  {
+    "level": 9,
+    "question": "Nhóm enzyme nào xúc tác thủy phân chất béo trong tiêu hóa?",
+    "answers": [
+      "Amylase",
+      "Protease",
+      "Lipase",
+      "Nuclease"
+    ],
+    "correct": 2,
+    "category": "Sinh học",
+    "explanation": "Lipase thủy phân các liên kết ester của chất béo."
+  },
+  {
+    "level": 9,
+    "question": "Một đơn vị thiên văn AU gần bằng khoảng cách trung bình giữa hai thiên thể nào?",
+    "answers": [
+      "Trái Đất và Mặt Trăng",
+      "Mặt Trời và Sao Mộc",
+      "Mặt Trời và Polaris",
+      "Trái Đất và Mặt Trời"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "AU gần bằng149,6 triệu km, tương ứng khoảng cách trung bình Trái Đất–Mặt Trời."
+  },
+  {
+    "level": 14,
+    "question": "Một parsec được định nghĩa qua góc thị sai năm có giá trị nào?",
+    "answers": [
+      "Một giây cung",
+      "Một phút cung",
+      "Một độ",
+      "Một radian"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Một parsec là khoảng cách mà mộtAU chắn góc một giây cung."
+  },
+  {
+    "level": 13,
+    "question": "Biểu đồ Hertzsprung–Russell thường thể hiện quan hệ giữa hai đại lượng nào của các sao?",
+    "answers": [
+      "Khối lượng và khoảng cách đến Trái Đất",
+      "Độ sáng và nhiệt độ bề mặt",
+      "Tốc độ quay và tuổi của thiên hà",
+      "Bán kính và số vệ tinh"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Biểu đồ H–R phân loại sao theo độ sáng và nhiệt độ bề mặt hoặc loại quang phổ tương ứng."
+  },
+  {
+    "level": 14,
+    "question": "Trong các lớp quang phổO, B, A, F, G, K, M, lớp nào có nhiệt độ bề mặt cao nhất?",
+    "answers": [
+      "A",
+      "G",
+      "O",
+      "M"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Dãy quang phổ này được sắp từ nóng đến lạnh, với O nóng nhất."
+  },
+  {
+    "level": 12,
+    "question": "Trong một sao ổn định như Mặt Trời, trạng thái cân bằng thủy tĩnh là sự cân bằng giữa hai tác động nào?",
+    "answers": [
+      "Hấp dẫn hướng ra và áp suất hướng vào",
+      "Lực từ của Trái Đất và lực ly tâm của Sao Hỏa",
+      "Chỉ lực ma sát và lực nổi của nước",
+      "Hấp dẫn hướng vào và gradient áp suất hướng ra"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Hấp dẫn kéo vật chất vào tâm còn sự biến thiên áp suất cung cấp tác động nâng đỡ hướng ra."
+  },
+  {
+    "level": 12,
+    "question": "Khi sao có khối lượng gần Mặt Trời chuyển sang giai đoạn sao khổng lồ đỏ, các lớp ngoài thường thay đổi thế nào?",
+    "answers": [
+      "Nở rộng và có nhiệt độ bề mặt thấp hơn",
+      "Co về không và lạnh ngay lập tức",
+      "Biến thành vành đai tiểu hành tinh ngay",
+      "Giữ nguyên mọi kích thước và nhiệt độ"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Lớp ngoài sao khổng lồ đỏ giãn nở, khiến bề mặt nguội hơn dù độ sáng có thể tăng."
+  },
+  {
+    "level": 15,
+    "question": "Áp suất nào giữ một sao lùn trắng điển hình chống lại sự co sụp hấp dẫn?",
+    "answers": [
+      "Áp suất do gió trên bề mặt",
+      "Áp suất suy biến electron",
+      "Áp suất do nước lỏng",
+      "Áp suất suy biến của các phân tử khí"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Sao lùn trắng được nâng đỡ chủ yếu bởi áp suất suy biến của electron."
+  },
+  {
+    "level": 14,
+    "question": "Pulsar thường là loại thiên thể nào?",
+    "answers": [
+      "Sao chổi phát sáng do khí",
+      "Hành tinh có vành đai băng",
+      "Sao neutron quay nhanh phát chùm bức xạ",
+      "Tiểu hành tinh tự quay chậm"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Chùm bức xạ của sao neutron quét qua người quan sát tạo tín hiệu tuần hoàn."
+  },
+  {
+    "level": 13,
+    "question": "Ranh giới của lỗ đen mà từ phía trong ánh sáng không thể thoát ra ngoài được gọi là gì?",
+    "answers": [
+      "Vành đai Kuiper",
+      "Quang cầu",
+      "Mặt phân cách tầng ozone",
+      "Chân trời sự kiện"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Chân trời sự kiện là ranh giới nhân quả ngăn tín hiệu bên trong thoát tới bên ngoài."
+  },
+  {
+    "level": 14,
+    "question": "Nhiệt độ đặc trưng của bức xạ nền vi sóng vũ trụ hiện nay gần bằng bao nhiêu?",
+    "answers": [
+      "2,7 K",
+      "27 K",
+      "270 K",
+      "2700 K"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Phổ nền vi sóng gần phổ vật đen ở nhiệt độ 2,725 K."
+  },
+  {
+    "level": 13,
+    "question": "Dịch chuyển đỏ vũ trụ của ánh sáng từ nhiều thiên hà xa chủ yếu liên quan đến điều gì?",
+    "answers": [
+      "Khí oxy nhuộm đỏ mọi thiên hà",
+      "Sự giãn nở của không gian",
+      "Ánh sáng đỏ truyền nhanh hơn ánh sáng xanh",
+      "Thiên hà biến thành Sao Hỏa"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Sự giãn nở làm kéo dài bước sóng ánh sáng trên đường truyền."
+  },
+  {
+    "level": 14,
+    "question": "Hiện tượng thấu kính hấp dẫn xảy ra vì điều gì?",
+    "answers": [
+      "Từ trường làm mọi photon có điện tích",
+      "Ánh sáng bị ma sát với chân không",
+      "Khối lượng làm cong đường truyền ánh sáng trong không-thời gian",
+      "Thiên hà chứa một thấu kính thủy tinh khổng lồ"
+    ],
+    "correct": 2,
+    "category": "Thiên văn",
+    "explanation": "Sự cong không-thời gian quanh vật có khối lượng lớn làm lệch các tia sáng."
+  },
+  {
+    "level": 10,
+    "question": "Phương pháp quá cảnh tìm ngoại hành tinh dựa trên tín hiệu nào?",
+    "answers": [
+      "Sao tăng nhiệt độ đột ngột mỗi giây",
+      "Sao đổi thành màu xanh hoàn toàn",
+      "Đường kính sao bằng không",
+      "Độ sáng của sao giảm định kỳ khi hành tinh đi qua phía trước"
+    ],
+    "correct": 3,
+    "category": "Thiên văn",
+    "explanation": "Hành tinh che một phần ánh sáng của sao khi quá cảnh theo góc nhìn của người quan sát."
+  },
+  {
+    "level": 14,
+    "question": "Phương pháp vận tốc xuyên tâm tìm ngoại hành tinh thường đo biến đổi nào?",
+    "answers": [
+      "Dịch chuyển Doppler tuần hoàn trong phổ của sao",
+      "Số lượng núi trên hành tinh",
+      "Màu của lớp đất đá trên vệ tinh",
+      "Nồng độ ozone trong kính thiên văn"
+    ],
+    "correct": 0,
+    "category": "Thiên văn",
+    "explanation": "Hấp dẫn của hành tinh làm sao dao động, tạo sự dịch chuyển tuần hoàn các vạch phổ."
+  },
+  {
+    "level": 13,
+    "question": "Các hồ và biển trên bề mặt Titan chủ yếu chứa chất lỏng nào?",
+    "answers": [
+      "Nước ngọt",
+      "Methane và ethane",
+      "Dung nham sắt",
+      "Acid sulfuric"
+    ],
+    "correct": 1,
+    "category": "Thiên văn",
+    "explanation": "Nhiệt độ rất thấp trên Titan cho phép methane và ethane tồn tại ở dạng lỏng trên bề mặt."
+  },
+  {
+    "level": 12,
+    "question": "Nồng độ một số chất ô nhiễm tăng qua các bậc dinh dưỡng của chuỗi thức ăn được gọi là gì?",
+    "answers": [
+      "Diễn thế nguyên sinh",
+      "Quang hợp",
+      "Khuếch đại sinh học",
+      "Cố định đạm"
+    ],
+    "correct": 2,
+    "category": "Môi trường",
+    "explanation": "Một số chất bền tích tụ với nồng độ cao hơn ở sinh vật ăn sinh vật đã nhiễm chất đó."
+  },
+  {
+    "level": 12,
+    "question": "Sự tích lũy chất ô nhiễm trong mô của một sinh vật theo thời gian được gọi là gì?",
+    "answers": [
+      "Chọn lọc tự nhiên",
+      "Nảy chồi",
+      "Thụ phấn",
+      "Tích lũy sinh học"
+    ],
+    "correct": 3,
+    "category": "Môi trường",
+    "explanation": "Chất được hấp thu nhanh hơn tốc độ loại bỏ sẽ tích lũy trong cơ thể sinh vật."
+  },
+  {
+    "level": 13,
+    "question": "Diễn thế bắt đầu trên bề mặt đá mới hình thành, chưa có đất, thuộc loại nào?",
+    "answers": [
+      "Diễn thế nguyên sinh",
+      "Diễn thế thứ sinh",
+      "Diễn thế chỉ do mùa",
+      "Diễn thế không có sinh vật"
+    ],
+    "correct": 0,
+    "category": "Môi trường",
+    "explanation": "Diễn thế nguyên sinh bắt đầu ở nơi chưa có đất và quần xã trước đó."
+  },
+  {
+    "level": 9,
+    "question": "Một loài ngoại lai được xem là xâm hại khi có đặc điểm nào?",
+    "answers": [
+      "Chỉ cần có màu sắc lạ",
+      "Lan rộng và gây tác động bất lợi đến hệ sinh thái hoặc loài bản địa",
+      "Chỉ cần xuất hiện trong vườn thú",
+      "Luôn phải có kích thước lớn hơn loài bản địa"
+    ],
+    "correct": 1,
+    "category": "Môi trường",
+    "explanation": "Loài ngoại lai xâm hại có khả năng lan rộng và gây hại tại môi trường mới."
+  },
+  {
+    "level": 13,
+    "question": "Sức chứa của môi trường đối với một quần thể mô tả điều gì?",
+    "answers": [
+      "Số loài từng tồn tại trên Trái Đất",
+      "Tổng chiều dài mọi con sông",
+      "Số cá thể mà môi trường có thể duy trì lâu dài",
+      "Khối lượng của hành tinh"
+    ],
+    "correct": 2,
+    "category": "Môi trường",
+    "explanation": "Sức chứa phụ thuộc các nguồn lực và điều kiện giới hạn của môi trường."
+  },
+  {
+    "level": 10,
+    "question": "Trong chu trình nitơ, cố định nitơ là chuyểnN₂ thành dạng nào có thể tham gia dinh dưỡng sinh vật?",
+    "answers": [
+      "Oxy nguyên chất",
+      "Carbon dioxide",
+      "Muối calcium carbonate",
+      "Ammonia hoặc ammonium"
+    ],
+    "correct": 3,
+    "category": "Môi trường",
+    "explanation": "Các sinh vật cố định đạm biến nitơ khí quyển thành dạng khử như NH₃ hoặc NH₄⁺."
+  },
+  {
+    "level": 14,
+    "question": "Quá trình nitrate hóa trong chu trình nitơ biến đổi theo chiều nào?",
+    "answers": [
+      "Ammonium thành nitrite rồi nitrate",
+      "Nitrate trực tiếp thành protein động vật",
+      "N₂ thành oxy",
+      "Nitrite thành carbon dioxide"
+    ],
+    "correct": 0,
+    "category": "Môi trường",
+    "explanation": "Vi sinh vật nitrate hóa oxy hóa NH₄⁺ thành NO₂⁻ và sau đó NO₃⁻."
+  },
+  {
+    "level": 14,
+    "question": "Quá trình phản nitrate hóa thường đưa nitơ từ nitrate về dạng nào?",
+    "answers": [
+      "Cellulose",
+      "Khí N₂",
+      "Glucose",
+      "Đá vôi"
+    ],
+    "correct": 1,
+    "category": "Môi trường",
+    "explanation": "Vi sinh vật phản nitrate hóa khử nitrate qua các bước để tạo nitơ khí, thường trong điều kiện thiếu oxy."
+  },
+  {
+    "level": 13,
+    "question": "Chỉ số BOD của nước thể hiện điều gì?",
+    "answers": [
+      "Tổng lượng muối ăn hòa tan",
+      "Độ sâu lớn nhất của hồ",
+      "Lượng oxy vi sinh vật cần để phân hủy sinh học chất hữu cơ trong điều kiện đo",
+      "Khối lượng mọi loại kim loại trong nước"
+    ],
+    "correct": 2,
+    "category": "Môi trường",
+    "explanation": "BOD là nhu cầu oxy sinh hóa, dùng đánh giá mức chất hữu cơ có thể phân hủy sinh học."
+  },
+  {
+    "level": 10,
+    "question": "Ở cùng áp suất, nước ấm lên thường có khả năng hòa tan oxy thay đổi thế nào?",
+    "answers": [
+      "Tăng lên",
+      "Luôn giữ nguyên",
+      "Tăng đến vô hạn",
+      "Giảm xuống"
+    ],
+    "correct": 3,
+    "category": "Môi trường",
+    "explanation": "Độ hòa tan của oxy trong nước thường giảm khi nhiệt độ tăng."
+  }
+]

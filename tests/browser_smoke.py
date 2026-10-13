@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ARTIFACTS = ROOT / 'qa-artifacts'
 ARTIFACTS.mkdir(exist_ok=True)
 QUESTIONS = json.loads((ROOT / 'src/data/questions.json').read_text(encoding='utf-8'))
+BANK = [{**question, 'level': index + 1} for index, question in enumerate(QUESTIONS)]
 URL = 'http://127.0.0.1:5173'
 errors = []
 
@@ -40,6 +41,9 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     context = browser.new_context(viewport={'width': 1440, 'height': 1100}, reduced_motion='reduce')
     context.add_init_script('Math.random = () => 0;')
+    context.route('**/api/questions', lambda route: route.fulfill(json={
+        'source': 'demo', 'questions': BANK, 'speechEnabled': False,
+    }))
     page = context.new_page()
     page.on('pageerror', lambda error: errors.append(str(error)))
     page.goto(URL)
@@ -110,6 +114,9 @@ with sync_playwright() as p:
 
     mobile_context = browser.new_context(viewport={'width': 390, 'height': 844}, is_mobile=True, has_touch=True, reduced_motion='reduce')
     mobile_context.add_init_script('Math.random = () => 0;')
+    mobile_context.route('**/api/questions', lambda route: route.fulfill(json={
+        'source': 'demo', 'questions': BANK, 'speechEnabled': False,
+    }))
     mobile = mobile_context.new_page()
     mobile.on('pageerror', lambda error: errors.append(str(error)))
     mobile.goto(URL)

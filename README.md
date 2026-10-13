@@ -8,11 +8,11 @@ Website trò chơi tiếng Việt được xây dựng từ `prompt_ai_la_trieu_
 - Bấm chốt ngắt lời MC và hủy tác vụ tải giọng; sau xác nhận khóa đáp án, trợ giúp và nút đọc lại.
 - Chọn nhân vật nam hoặc nữ ở hậu trường, xem trước ngay trên sân khấu và giữ lựa chọn trong suốt lượt chơi, kể cả khi tải lại trang. Phiên cũ chỉ có màu áo được chuyển sang nhân vật nữ.
 - MC và người chơi được vẽ lại theo hướng biếm họa: gương mặt nổi bật, tóc bồng, nụ cười tinh nghịch và cử chỉ, biểu cảm rõ hơn theo diễn biến game.
-- Có cấu hình Vercel và API đọc Google Sheet riêng tư, hỗ trợ kho 1000 câu. Mỗi lượt lấy ngẫu nhiên 15 câu từ toàn bộ kho đang bật, không trùng trong lượt. `level` là độ khó tùy chọn; không chia câu theo cấp độ. Tải lại để tiếp tục giữ nguyên bộ câu hỏi, bắt đầu lượt mới sẽ bốc lại và có thể gặp câu đã chơi.
+- Kho tích hợp đủ 1.000 câu: rà lại 170 câu từ Excel và bổ sung 830 câu. Mỗi lượt bốc 5 câu dễ (level 1–5), 5 câu trung bình (6–10) và 5 câu khó (11–15), xếp level tăng dần trong mỗi nhóm và không trùng ID. Tải lại để tiếp tục giữ nguyên bộ câu hỏi; lượt mới bốc lại và có thể gặp câu đã chơi.
 
-Xem **[hướng dẫn Vercel + Google Sheets](docs/VERCEL_GOOGLE_SHEETS.md)** và **[file mẫu để import](docs/questions-template.csv)**. `.env.example` liệt kê các biến server cần thiết.
+Xem **[Excel đủ 1.000 câu](docs/1000-cau-hoi-ai-la-trieu-phu.xlsx)**, **[CSV để import](docs/questions-1000.csv)** và **[hướng dẫn Vercel + Google Sheets](docs/VERCEL_GOOGLE_SHEETS.md)**. `.env.example` liệt kê các biến server cần thiết.
 
-Sheet đã chọn: **[1000 Câu hỏi Ai Là Triệu Phú](https://docs.google.com/spreadsheets/d/1kprlF40w_97eJ4T9GBGw_2Vn0fqdG5bfXeybuD9Q5jA/edit)**, range `'Trang tính1'!A1:K5000`. Kho cần ít nhất 15 câu hợp lệ có `active=TRUE` và ID duy nhất. Còn cần cấu hình service account để ứng dụng đọc Sheet; quyền truy cập Sheets của cuộc trò chuyện không cấp quyền cho API trên Vercel.
+Sheet đã chọn: **[1000 Câu hỏi Ai Là Triệu Phú](https://docs.google.com/spreadsheets/d/1kprlF40w_97eJ4T9GBGw_2Vn0fqdG5bfXeybuD9Q5jA/edit)**, range `'Trang tính1'!A1:K5000`. Kho cần ID duy nhất, level 1–15 và ít nhất 5 câu `active=TRUE` trong mỗi nhóm. Nhập Excel/CSV mới vào Sheet để cập nhật nguồn trực tuyến. Khi chưa đặt `GOOGLE_SHEET_ID`, API dùng kho tích hợp 1.000 câu; khi đã đặt, API dùng Sheet và cần xác thực service account.
 
 ## Chạy trên máy
 
@@ -52,7 +52,7 @@ Bộ kiểm tra đi qua lượt thắng đủ 15 câu, lượt thua, quyền tr�
 - Nhân vật hoạt hình phẳng; chớp mắt, thở nhẹ và biểu cảm theo trạng thái game. Ba góc máy CSS.
 - Trường quay phủ toàn viewport ở cả 4 màn; chiều cao dùng `100dvh`, sân khấu tự co giãn để các nút chính luôn ở trong khung nhìn. Nút Toàn màn hình dùng Fullscreen API khi trình duyệt hỗ trợ.
 - Đổi tên và chọn nhân vật nam hoặc nữ, mặc định là nữ; điện thoại cao hiển thị đáp án một cột, điện thoại thấp chuyển hai cột để tránh cuộn trang. Khi xoay ngang màn hình thấp, sân khấu và câu hỏi nằm cạnh nhau. Thang thưởng mở bằng nút khi màn hình hẹp/thấp; hộp thoại nội dung dài có thể cuộn bên trong.
-- 15 câu mẫu JSON hoặc ngân hàng Google Sheets; chọn đáp án, xác nhận trước khi khóa, chờ kết quả, công bố đúng/sai, giải thích và chuyển câu.
+- Kho JSON 1.000 câu hoặc ngân hàng Google Sheets; mỗi lượt có 3 nhóm độ khó. Chọn đáp án, xác nhận trước khi khóa, chờ kết quả, công bố đúng/sai, giải thích và chuyển câu.
 - 50:50 ngẫu nhiên; bình chọn khán giả và cuộc gọi mô phỏng, mỗi quyền chỉ dùng một lần. Tư vấn gọi điện có thể sai.
 - Mốc an toàn 2 triệu ở câu 5, 22 triệu ở câu 10. Sai/hết giờ nhận mốc đã bảo toàn; chủ động dừng nhận số tiền câu vừa trả lời đúng. Trả lời đúng 15 câu nhận 150 triệu mô phỏng.
 - Phụ đề MC, nhắc lại câu hỏi, hiệu ứng âm thanh tổng hợp. Giọng nam qua API Google TTS hoặc giọng nam tiếng Việt nhận diện được trên thiết bị.
@@ -80,4 +80,4 @@ docs/                   Hướng dẫn deploy và mẫu Google Sheets
 
 ## Thiết kế sân khấu
 
-Sân khấu và nhân vật được dựng bằng SVG, đã chỉnh theo ảnh feedback ngày 10/10/2026 và yêu cầu chọn nam/nữ ngày 11/10/2026. MC và hai phiên bản người chơi có diện mạo riêng; biểu cảm, cử chỉ thay đổi khi suy nghĩ, nói, hồi hộp, trả lời đúng/sai. Trợ giúp vẫn được mô phỏng; câu hỏi lấy từ Sheet hoặc bộ mẫu. Chưa cấu hình xác thực Google cho API hoặc deploy công khai; xem hướng dẫn cấu hình trong `docs/`.
+Sân khấu và nhân vật được dựng bằng SVG, đã chỉnh theo ảnh feedback ngày 10/10/2026 và yêu cầu chọn nam/nữ ngày 11/10/2026. MC và hai phiên bản người chơi có diện mạo riêng; biểu cảm, cử chỉ thay đổi khi suy nghĩ, nói, hồi hộp, trả lời đúng/sai. Trợ giúp vẫn được mô phỏng; câu hỏi lấy từ Sheet hoặc kho tích hợp 1.000 câu. Chưa cấu hình xác thực Google cho API hoặc deploy công khai; xem hướng dẫn cấu hình trong `docs/`.
