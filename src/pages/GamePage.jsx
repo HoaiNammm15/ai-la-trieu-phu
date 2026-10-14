@@ -24,6 +24,11 @@ export default function GamePage({ state, question, dispatch, playCue, speak, sp
   const paused = globalModal || lifeline || ladderOpen;
   const closeLifeline = useCallback(() => { stopSpeaking(); setLifeline(null); }, [stopSpeaking]);
   useEffect(() => { if (state?.phase === 'finished') navigate('/result', { replace: true }); }, [state?.phase, navigate]);
+  useEffect(() => {
+    if (state?.phase !== 'reveal' || paused) return;
+    const timeout = window.setTimeout(() => dispatch({ type: 'NEXT' }), 3000);
+    return () => window.clearTimeout(timeout);
+  }, [state?.phase, state?.index, paused, dispatch]);
   useEffect(() => { setRemaining(60); setRepeat(false); }, [state?.index, timer]);
   useEffect(() => {
     if (!timer || !editable || paused) return;

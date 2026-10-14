@@ -18,7 +18,7 @@ export default function QuestionPanel({ state, question, dispatch, playCue, time
       </button>;
     })}</div>
     {revealed && <p className={`answer-explanation ${state.isCorrect ? 'success' : 'failure'}`} role="status">{state.isCorrect ? 'Chính xác! ' : 'Rất tiếc! '}{question.explanation}</p>}
-    <div className="question-actions"><span>{state.phase === 'suspense' ? <><span className="suspense-dots">● ● ●</span> Đang mở đáp án…</> : revealed ? state.isCorrect ? 'Một bước gần hơn đến 150 triệu!' : 'Cảm ơn bạn đã chơi hết mình.' : <><LockKeyhole size={13}/> Chọn đáp án, rồi chốt khi đã chắc chắn.</>}</span>
+    <div className="question-actions"><span>{state.phase === 'suspense' ? <><span className="suspense-dots">● ● ●</span> Đang mở đáp án…</> : revealed ? state.isCorrect && state.index < 14 ? 'Tự chuyển câu sau 3 giây.' : 'Tự mở kết quả sau 3 giây.' : <><LockKeyhole size={13}/> Chọn đáp án, rồi chốt khi đã chắc chắn.</>}</span>
       {revealed ? <button className="button button-gold" onClick={() => dispatch({type: 'NEXT'})}>{state.isCorrect && state.index < 14 ? 'Câu tiếp theo' : 'Xem kết quả'}<ArrowRight size={17}/></button> : <button className="button button-gold" disabled={state.phase !== 'selecting'} onClick={() => dispatch({type: 'CONFIRM'})}>CHỐT ĐÁP ÁN <LockKeyhole size={16}/></button>}
     </div>
   </section>;
