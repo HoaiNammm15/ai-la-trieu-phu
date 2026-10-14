@@ -1,5 +1,6 @@
 import { useId } from 'react';
 import Character2D from './Character2D.jsx';
+import { ShowSeal } from '../Brand/ShowLogo.jsx';
 import styles from './StageScene.module.css';
 
 export default function StageScene({ phase = 'asking', isCorrect = null, player = { name: 'nemnguynx', gender: 'female' }, camera = 'wide', home = false, speaking = false, immersive = false }) {
@@ -33,15 +34,7 @@ export default function StageScene({ phase = 'asking', isCorrect = null, player 
       <ellipse cx="450" cy="341" rx="404" ry="61" fill={`url(#${id}-floor)`} stroke="#3c65b2" strokeWidth="2"/>
       <g className={styles.floorRings} fill="none"><ellipse cx="450" cy="341" rx="361" ry="50" stroke="#5b9cff" strokeWidth="3"/><ellipse cx="450" cy="341" rx="318" ry="40" stroke="#6677df" strokeWidth="2"/><ellipse cx="450" cy="341" rx="265" ry="31" stroke="#62b7ef" strokeWidth="2" opacity=".6"/></g>
       <g transform="translate(450 123)">
-        <circle r="94" fill="#436af1" opacity=".2" filter={`url(#${id}-glow)`}/>
-        <circle r="90" fill="#101d43" stroke="#647ee4" strokeWidth="3"/>
-        <circle r="83" fill="#142752" stroke={`url(#${id}-gold)`} strokeWidth="2.5"/>
-        <circle r="75" fill="#122147" stroke="#345f9f" strokeWidth="1"/>
-        <g stroke="#e7c275" opacity=".6">{Array.from({length: 24}, (_, i) => <path key={i} d="M0-78v5" transform={`rotate(${i*15})`}/>)}</g>
-        <path d="m-16-44 9 8 7-14 7 14 9-8-3 22h-26Z" fill={`url(#${id}-gold)`}/>
-        <text y="3" textAnchor="middle" fill="#fff2c5" fontFamily="Bungee, sans-serif" fontSize="23">AI LÀ</text>
-        <text y="29" textAnchor="middle" fill="#f6cc73" fontFamily="Bungee, sans-serif" fontSize="22">TRIỆU PHÚ</text>
-        <path d="M-36 44h72" stroke="#e4bd6a"/><text y="63" textAnchor="middle" fill="#a9bfea" fontFamily="Be Vietnam Pro, sans-serif" fontSize="8" letterSpacing="3">TỎA SÁNG TRI THỨC</text>
+        <ShowSeal id={`${id}-show-seal`}/>
       </g>
       <g transform="translate(450 287)"><ellipse cy="39" rx="49" ry="10" fill="#07102a"/><path d="M-20-18h40l-8 58h-24Z" fill="#112a47" stroke="#3e7d9a" strokeWidth="2"/><path d="m-41-24 20-12h42l20 12-9 23h-64Z" fill="#1d3b5b" stroke="#63dbc7" strokeWidth="3"/><path d="M-28-19h56" stroke="#b0ffdf" strokeWidth="4"/><circle cy="16" r="5" fill="#89efd0"/></g>
       <g transform="translate(180 109) scale(.83)"><Character2D host expression={home ? 'idle' : hostExpression} id={`${id}-host`}/></g>

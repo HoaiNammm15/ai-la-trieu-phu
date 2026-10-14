@@ -1,0 +1,37 @@
+.mark {
+  width: 43px;
+  height: 43px;
+  flex-shrink: 0;
+  display: block;
+}
+.mark svg { display: block; width: 100%; height: 100%; }
+:global(.app-shell--studio) .mark { width: 38px; height: 38px; }
+.wordmark { display: block; }
+.wordmark .title {
+  display: block;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: .6px;
+  line-height: 1.4;
+  color: #f8edcf;
+}
+.wordmark .title strong { color: #edcf8b; font-weight: 800; }
+.wordmark .subtitle {
+  font-size: 6.5px;
+  letter-spacing: 2.4px;
+  color: #9daac1;
+  font-weight: 500;
+  margin-top: 4px;
+}
+@media (max-width: 900px) {
+  .mark { width: 36px; height: 36px; }
+}
+@media (max-width: 600px) {
+  .mark { width: 30px; height: 30px; }
+  :global(.app-shell--studio) .mark { display: none; }
+  .wordmark .title { font-size: 10px; letter-spacing: .3px; }
+  .wordmark .subtitle { font-size: 5px; letter-spacing: 1.3px; margin-top: 3px; }
+}
+@media (max-width: 390px) {
+  .mark { display: none; }
+}

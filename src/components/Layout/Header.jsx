@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Crown, Volume2, VolumeX, BookOpen, Settings2, LogOut, Maximize, Minimize } from 'lucide-react';
+import { Volume2, VolumeX, BookOpen, Settings2, LogOut, Maximize, Minimize } from 'lucide-react';
+import ShowLogo from '../Brand/ShowLogo.jsx';
 
 export default function Header({ sound, onSound, onRules, onSettings, onStop, questionNumber, canStop, studio }) {
   const location = useLocation();
@@ -18,7 +19,7 @@ export default function Header({ sound, onSound, onRules, onSettings, onStop, qu
     } catch { /* The viewport layout also works when fullscreen is unavailable. */ }
   };
   return <header className="site-header">
-    <Link className="brand" to="/" aria-label="Ai Là Triệu Phú, về trang chủ"><span className="brand-icon"><Crown size={22}/></span><span>AI LÀ <strong>TRIỆU PHÚ</strong><small>THE KNOWLEDGE SHOW</small></span></Link>
+    <Link className="brand" to="/" aria-label="Ai Là Triệu Phú, về trang chủ"><ShowLogo/></Link>
     <nav className="header-nav" aria-label="Điều hướng chính">
       {game ? <span className="question-indicator"><i/> CÂU <b>{String(questionNumber || 1).padStart(2, '0')}</b><span>/ 15</span></span> : <><Link className="nav-active" to="/setup">Vào ghế nóng</Link><button onClick={onRules}><BookOpen size={15}/> Luật chơi</button></>}
     </nav>

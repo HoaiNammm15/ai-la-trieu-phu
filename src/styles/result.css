@@ -1,0 +1,172 @@
+/* A gilded award ticket, framed like the show's illuminated set. */
+.studio-result .result-layout {
+  grid-template-columns: minmax(0, 1fr) clamp(340px, 27vw, 390px);
+  gap: 26px;
+}
+.studio-result .prize-board {
+  --prize-gold: #f5d38b;
+  --prize-line: #d5b5724d;
+  position: relative;
+  isolation: isolate;
+  align-items: stretch;
+  padding: 0 28px 22px;
+  border: 1px solid #d5b57291;
+  border-radius: 5px 24px 5px 24px;
+  background: radial-gradient(ellipse at 50% 20%, #c7a45b19, transparent 52%), linear-gradient(145deg, #17233bfa, #0b152cf7 68%);
+  box-shadow: 0 24px 64px #03081666, 0 0 32px #b8985308, inset 0 0 0 5px #080f2470;
+  text-align: center;
+  animation: prize-arrive .65s cubic-bezier(.2, .75, .3, 1) both;
+}
+.prize-board::before {
+  content: '';
+  position: absolute;
+  inset: 7px;
+  z-index: -1;
+  border: 1px solid #d5b57226;
+  border-radius: 2px 18px 2px 18px;
+  pointer-events: none;
+}
+.prize-board::after {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: 25%;
+  width: 50%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #ffeac0, transparent);
+  box-shadow: 0 0 15px #e6bf6d66;
+  pointer-events: none;
+}
+.prize-board-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 19px 0 15px;
+  border-bottom: 1px solid #c2a97020;
+  color: #a4afc3;
+  font-size: 8px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+}
+.prize-board-status {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #ceb780;
+  font-size: 7px;
+  letter-spacing: .8px;
+}
+.prize-board-status i { width: 4px; height: 4px; border-radius: 50%; background: #c8ad73; box-shadow: 0 0 8px #c8ad7333; }
+.prize-board[data-result-kind='won'] .prize-board-status { color: #a0e8c9; }
+.prize-board[data-result-kind='won'] .prize-board-status i { background: #a0e8c9; }
+.prize-board-award { padding: 20px 0 24px; }
+.prize-award { width: 148px; height: 86px; position: relative; display: grid; place-items: center; margin: 0 auto 15px; }
+.prize-laurels { position: absolute; inset: 0; height: 100%; width: 100%; color: #d8b46b; opacity: .7; }
+.prize-medallion {
+  width: 64px;
+  height: 64px;
+  display: grid;
+  place-items: center;
+  color: #f8dc9e;
+  border: 1px solid #cfaf694d;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 25%, #f6d79217, #17233b);
+  outline: 1px solid #d2af6026;
+  outline-offset: 4px;
+  box-shadow: 0 0 30px #ceaa5310, inset 0 0 18px #d6b26609;
+}
+.prize-label { color: #e6c787; font-size: 10px; font-weight: 500; letter-spacing: 2.1px; }
+.studio-result .prize-board .result-prize {
+  display: block;
+  margin: 12px -12px 11px;
+  font-size: clamp(33px, 2.8vw, 43px);
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.3;
+  letter-spacing: -1.8px;
+  white-space: nowrap;
+  color: #ffe4aa;
+  text-shadow: 0 2px 18px #e4b85b1a;
+}
+.result-prize > span { font-size: .52em; font-weight: 500; letter-spacing: 0; vertical-align: .1em; }
+.prize-caption { display: block; font-size: 10px; line-height: 1.7; color: #a6afc2; }
+.prize-ticket-divider { position: relative; height: 13px; margin: 0 -21px; display: flex; align-items: center; gap: 12px; color: #d0ae6b; font-size: 11px; }
+.prize-ticket-divider::before, .prize-ticket-divider::after { content: ''; flex: 1; border-top: 1px dashed #c8a96840; }
+.studio-result .prize-board .result-stats { border: 0; padding: 21px 0 19px; margin: 0; }
+.prize-progress-heading, .prize-journey { display: flex; align-items: center; justify-content: space-between; gap: 12px; text-align: left; font-size: 11px; color: #a8b4cc; line-height: 1.8; }
+.prize-board .result-stats b { font-weight: 600; color: #edf0f7; }
+.prize-progress-heading > b { font-size: 16px; line-height: 1.2; }
+.prize-progress-heading > b > span { color: #8593ae; font-size: 10px; font-weight: 400; }
+.prize-progress { display: flex; gap: 4px; margin: 11px 0 15px; }
+.prize-progress > span { height: 5px; min-width: 0; flex: 1; border: 1px solid #4757744d; border-radius: 1px; background: #233149; }
+.prize-progress > .is-milestone { border-color: #c4a4676b; }
+.prize-progress > .is-complete { background: #eaca83; border-color: #f4d99b; box-shadow: 0 0 7px #eaca8310; }
+.prize-journey > b { font-size: 11px; }
+.prize-board-actions { display: flex; flex-direction: column; gap: 5px; }
+.studio-result .prize-board .button { margin: 0; min-height: 46px; padding: 12px 16px; font-size: 12px; border-radius: 7px; }
+.prize-board .button-gold { justify-content: space-between; background: linear-gradient(105deg, #f6d38a, #edc271); border-color: #ffe2a0; box-shadow: 0 3px 0 #956d35, inset 0 1px 0 #fff0cb; }
+.prize-board .button-gold:hover { background: linear-gradient(105deg, #ffe4aa, #f6d38a); }
+.studio-result .prize-board .prize-home-link { min-height: 39px; font-size: 11px; font-weight: 500; color: #b4c0d5; background: transparent; }
+.prize-home-link:hover { color: #ffe2a0; background: #eacb8210; }
+.studio-result .prize-board .prize-footnote { display: block; font-size: 8px; line-height: 1.7; color: #8391ab; margin: 9px 0 0; }
+.prize-footnote > span { padding: 0 3px; color: #c5a871; }
+
+@keyframes prize-arrive { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+@media (min-width: 601px) and (max-height: 780px) {
+  .prize-board-award { padding: 14px 0 17px; }
+  .prize-award { height: 66px; width: 123px; margin-bottom: 12px; }
+  .prize-medallion { height: 49px; width: 49px; }
+  .prize-medallion > svg { width: 25px; height: 25px; }
+  .studio-result .prize-board .result-stats { padding-top: 16px; padding-bottom: 16px; }
+}
+@media (max-width: 600px) {
+  .studio-result .result-layout { grid-template-columns: minmax(0, 1fr); grid-template-rows: minmax(0, 1fr) auto; gap: 10px; }
+  .studio-result .prize-board { padding: 0 21px 15px; width: 100%; max-width: 390px; border-radius: 4px 20px 4px 20px; }
+  .prize-board-header { padding: 15px 0 12px; font-size: 6px; letter-spacing: 1.2px; }
+  .prize-board-status { font-size: 5px; }
+  .prize-board-award { padding: 14px 0 15px; }
+  .prize-award { height: 58px; width: 114px; margin-bottom: 10px; }
+  .prize-medallion { height: 42px; width: 42px; outline-offset: 3px; }
+  .prize-medallion > svg { height: 24px; width: 24px; }
+  .prize-label { font-size: 8px; letter-spacing: 1.6px; }
+  .studio-result .prize-board .result-prize { font-size: clamp(29px, 8.8vw, 35px); margin: 8px -10px 7px; letter-spacing: -1.5px; }
+  .prize-caption { font-size: 7px; }
+  .studio-result .prize-board .result-stats { padding: 15px 0; }
+  .prize-progress-heading, .prize-journey, .prize-journey > b { font-size: 9px; }
+  .prize-progress { margin-top: 9px; margin-bottom: 12px; }
+  .studio-result .prize-board .button { min-height: 42px; padding: 10px 14px; }
+  .studio-result .prize-board .prize-home-link { min-height: 33px; padding: 7px 12px; }
+  .studio-result .prize-board .prize-footnote { margin-top: 5px; font-size: 6px; }
+}
+@media (max-width: 600px) and (max-height: 740px) {
+  .studio-result { padding: 10px 16px 12px; }
+  .studio-result > .eyebrow { font-size: 6px; letter-spacing: 1.5px; }
+  .studio-result > h1 { font-size: 21px; line-height: 1.3; margin: 7px 0; }
+  .studio-result > p { font-size: 9px; line-height: 1.6; }
+  .studio-result .prize-board { padding-bottom: 12px; }
+  .prize-board-header { padding: 11px 0 10px; }
+  .prize-board-award { padding: 13px 0; }
+  .prize-award { display: none; }
+  .studio-result .prize-board .result-stats { padding: 12px 0; }
+  .studio-result .prize-board .button { min-height: 40px; }
+  .studio-result .prize-board .prize-home-link { min-height: 31px; }
+}
+@media (min-width: 601px) and (max-height: 450px) {
+  .studio-result .result-layout { grid-template-columns: minmax(0, 1fr) 300px; gap: 18px; }
+  .studio-result .prize-board { padding: 0 20px 10px; }
+  .prize-board-header { padding: 10px 0 9px; font-size: 6px; }
+  .prize-board-award { padding: 12px 0 10px; }
+  .prize-award, .prize-caption { display: none; }
+  .prize-label { font-size: 7px; letter-spacing: 1.5px; }
+  .studio-result .prize-board .result-prize { font-size: 29px; margin: 7px -10px 0; }
+  .studio-result .prize-board .result-stats { padding: 11px 0; }
+  .prize-progress-heading, .prize-journey, .prize-journey > b { font-size: 8px; }
+  .prize-progress-heading > b { font-size: 13px; }
+  .prize-progress { margin-top: 7px; margin-bottom: 8px; }
+  .studio-result .prize-board .button { min-height: 35px; padding: 8px 12px; font-size: 10px; }
+  .studio-result .prize-board .prize-home-link { min-height: 28px; padding: 5px 12px; font-size: 9px; }
+  .studio-result .prize-board .prize-footnote { font-size: 6px; margin-top: 3px; }
+}
+@media (prefers-reduced-motion: reduce) { .studio-result .prize-board { animation: none; } }
